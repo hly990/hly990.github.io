@@ -1,0 +1,918 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.290 --> 00:00:03.159 align:start position:0%
+ 
+welcome<00:00:01.189><c> to</c><00:00:01.370><c> the</c><00:00:01.490><c> fifth</c><00:00:01.730><c> section</c><c.colorE5E5E5><00:00:01.880><c> of</c><00:00:02.540><c> hands-on</c></c>
+
+00:00:03.159 --> 00:00:03.169 align:start position:0%
+welcome to the fifth section<c.colorE5E5E5> of hands-on
+ </c>
+
+00:00:03.169 --> 00:00:05.230 align:start position:0%
+welcome to the fifth section<c.colorE5E5E5> of hands-on
+continuous<00:00:03.740><c> integration</c><00:00:04.009><c> and</c><00:00:04.670><c> automation</c></c>
+
+00:00:05.230 --> 00:00:05.240 align:start position:0%
+continuous integration<c.colorE5E5E5> and automation
+ </c>
+
+00:00:05.240 --> 00:00:08.289 align:start position:0%
+continuous integration<c.colorE5E5E5> and automation</c>
+<c.colorE5E5E5>with<00:00:05.779><c> Jenkins</c></c><c.colorCCCCCC><00:00:06.080><c> in</c><00:00:06.859><c> this</c><00:00:07.220><c> section</c><00:00:07.790><c> we</c><00:00:08.269><c> are</c></c>
+
+00:00:08.289 --> 00:00:08.299 align:start position:0%
+<c.colorE5E5E5>with Jenkins</c><c.colorCCCCCC> in this section we are
+ </c>
+
+00:00:08.299 --> 00:00:11.020 align:start position:0%
+<c.colorE5E5E5>with Jenkins</c><c.colorCCCCCC> in this section we are
+going</c><c.colorE5E5E5><00:00:08.389><c> to</c><00:00:08.629><c> explore</c><00:00:09.079><c> blue</c><00:00:09.559><c> ocean</c><00:00:10.099><c> which</c><00:00:10.669><c> is</c><00:00:10.849><c> the</c></c>
+
+00:00:11.020 --> 00:00:11.030 align:start position:0%
+going<c.colorE5E5E5> to explore blue ocean which is the
+ </c>
+
+00:00:11.030 --> 00:00:14.949 align:start position:0%
+going<c.colorE5E5E5> to explore blue ocean which is the
+new<00:00:11.240><c> user</c><00:00:11.599><c> interface</c></c><c.colorCCCCCC><00:00:11.900><c> of</c><00:00:12.650><c> Jenkins</c><00:00:13.369><c> 2</c><00:00:13.809><c> we</c><00:00:14.809><c> will</c></c>
+
+00:00:14.949 --> 00:00:14.959 align:start position:0%
+new user interface<c.colorCCCCCC> of Jenkins 2 we will
+ </c>
+
+00:00:14.959 --> 00:00:18.310 align:start position:0%
+new user interface<c.colorCCCCCC> of Jenkins 2 we will
+see<00:00:15.199><c> what</c><00:00:15.559><c> is</c><00:00:15.739><c> blue</c><00:00:16.010><c> ocean</c><00:00:16.490><c> how</c><00:00:17.119><c> to</c><00:00:17.179><c> install</c><00:00:18.080><c> it</c></c>
+
+00:00:18.310 --> 00:00:18.320 align:start position:0%
+see what is blue ocean how to install<c.colorCCCCCC> it
+ </c>
+
+00:00:18.320 --> 00:00:21.400 align:start position:0%
+see what is blue ocean how to install<c.colorCCCCCC> it</c>
+<c.colorE5E5E5>and<00:00:18.589><c> how</c><00:00:18.650><c> to</c><00:00:19.369><c> use</c><00:00:19.699><c> it</c></c><c.colorCCCCCC><00:00:19.730><c> in</c><00:00:20.480><c> the</c><00:00:20.689><c> practical</c><00:00:21.080><c> part</c></c>
+
+00:00:21.400 --> 00:00:21.410 align:start position:0%
+<c.colorE5E5E5>and how to use it</c><c.colorCCCCCC> in the practical part
+ </c>
+
+00:00:21.410 --> 00:00:24.609 align:start position:0%
+<c.colorE5E5E5>and how to use it</c><c.colorCCCCCC> in the practical part</c>
+<c.colorE5E5E5>we<00:00:21.859><c> will</c><00:00:22.009><c> create</c><00:00:22.279><c> a</c><00:00:22.550><c> pipeline</c><00:00:22.880><c> job</c><00:00:23.390><c> using</c></c><c.colorCCCCCC><00:00:24.140><c> the</c></c>
+
+00:00:24.609 --> 00:00:24.619 align:start position:0%
+<c.colorE5E5E5>we will create a pipeline job using</c><c.colorCCCCCC> the
+ </c>
+
+00:00:24.619 --> 00:00:27.749 align:start position:0%
+<c.colorE5E5E5>we will create a pipeline job using</c><c.colorCCCCCC> the
+visual<00:00:25.220><c> editor</c></c><c.colorE5E5E5><00:00:25.449><c> provided</c><00:00:26.449><c> with</c><00:00:26.689><c> blue</c><00:00:27.109><c> ocean</c></c>
+
+00:00:27.749 --> 00:00:27.759 align:start position:0%
+visual editor<c.colorE5E5E5> provided with blue ocean
+ </c>
+
+00:00:27.759 --> 00:00:30.970 align:start position:0%
+visual editor<c.colorE5E5E5> provided with blue ocean
+let's<00:00:28.759><c> start</c><00:00:29.119><c> with</c><00:00:29.539><c> an</c><00:00:29.810><c> introduction</c><00:00:30.230><c> to</c><00:00:30.619><c> what</c></c>
+
+00:00:30.970 --> 00:00:30.980 align:start position:0%
+let's start with an introduction<c.colorE5E5E5> to what
+ </c>
+
+00:00:30.980 --> 00:00:34.240 align:start position:0%
+let's start with an introduction<c.colorE5E5E5> to what</c>
+<c.colorCCCCCC>is<00:00:31.189><c> blue</c><00:00:31.579><c> ocean</c></c><c.colorE5E5E5><00:00:32.090><c> in</c><00:00:32.289><c> this</c><00:00:33.289><c> video</c><00:00:33.710><c> we</c><00:00:34.129><c> will</c></c>
+
+00:00:34.240 --> 00:00:34.250 align:start position:0%
+<c.colorCCCCCC>is blue ocean</c><c.colorE5E5E5> in this video we will
+ </c>
+
+00:00:34.250 --> 00:00:36.160 align:start position:0%
+<c.colorCCCCCC>is blue ocean</c><c.colorE5E5E5> in this video we will
+learn</c><c.colorCCCCCC><00:00:34.460><c> what</c></c><c.colorE5E5E5><00:00:34.879><c> is</c><00:00:35.059><c> blue</c><00:00:35.300><c> ocean</c><00:00:35.719><c> and</c><00:00:35.899><c> which</c></c>
+
+00:00:36.160 --> 00:00:36.170 align:start position:0%
+learn<c.colorCCCCCC> what</c><c.colorE5E5E5> is blue ocean and which
+ </c>
+
+00:00:36.170 --> 00:00:39.310 align:start position:0%
+learn<c.colorCCCCCC> what</c><c.colorE5E5E5> is blue ocean and which
+advantages<00:00:37.039><c> it</c><00:00:37.250><c> brings</c><00:00:37.660><c> we</c><00:00:38.660><c> will</c><00:00:38.809><c> also</c><00:00:38.960><c> have</c><00:00:39.199><c> a</c></c>
+
+00:00:39.310 --> 00:00:39.320 align:start position:0%
+advantages it brings we will also<c.colorE5E5E5> have a
+ </c>
+
+00:00:39.320 --> 00:00:41.520 align:start position:0%
+advantages it brings we will also<c.colorE5E5E5> have a
+preview<00:00:39.859><c> of</c><00:00:39.920><c> what</c><00:00:40.250><c> blue</c><00:00:40.520><c> ocean</c><00:00:40.879><c> looks</c><00:00:41.149><c> like</c></c>
+
+00:00:41.520 --> 00:00:41.530 align:start position:0%
+preview of<c.colorE5E5E5> what blue ocean looks like
+ </c>
+
+00:00:41.530 --> 00:00:44.500 align:start position:0%
+preview of<c.colorE5E5E5> what blue ocean looks like
+there<00:00:42.530><c> is</c><00:00:42.649><c> no</c><00:00:42.890><c> practical</c><00:00:43.370><c> part</c><00:00:43.760><c> in</c><00:00:43.969><c> this</c><00:00:44.090><c> video</c></c>
+
+00:00:44.500 --> 00:00:44.510 align:start position:0%
+there<c.colorE5E5E5> is no practical part in this video
+ </c>
+
+00:00:44.510 --> 00:00:46.959 align:start position:0%
+there<c.colorE5E5E5> is no practical part in this video
+but<00:00:45.109><c> we</c><00:00:45.350><c> will</c><00:00:45.500><c> introduce</c><00:00:45.739><c> the</c><00:00:46.160><c> user</c><00:00:46.340><c> interface</c></c>
+
+00:00:46.959 --> 00:00:46.969 align:start position:0%
+but we will introduce the user interface
+ 
+
+00:00:46.969 --> 00:00:49.029 align:start position:0%
+but we will introduce the user interface
+that<c.colorE5E5E5><00:00:47.000><c> we</c><00:00:47.480><c> are</c><00:00:47.539><c> going</c><00:00:47.750><c> to</c><00:00:47.960><c> use</c><00:00:48.260><c> in</c><00:00:48.530><c> the</c></c><c.colorCCCCCC><00:00:48.739><c> next</c></c>
+
+00:00:49.029 --> 00:00:49.039 align:start position:0%
+that<c.colorE5E5E5> we are going to use in the</c><c.colorCCCCCC> next
+ </c>
+
+00:00:49.039 --> 00:00:52.029 align:start position:0%
+that<c.colorE5E5E5> we are going to use in the</c><c.colorCCCCCC> next
+videos<00:00:49.430><c> of</c><00:00:49.670><c> this</c><00:00:50.059><c> section</c><00:00:50.660><c> let's</c><00:00:51.559><c> start</c><00:00:51.829><c> by</c></c>
+
+00:00:52.029 --> 00:00:52.039 align:start position:0%
+videos of this section let's start by
+ 
+
+00:00:52.039 --> 00:00:54.819 align:start position:0%
+videos of this section let's start by
+defining<c.colorE5E5E5><00:00:52.219><c> what</c><00:00:52.670><c> is</c><00:00:53.000><c> blue</c><00:00:53.239><c> ocean</c><00:00:53.629><c> blue</c><00:00:54.440><c> ocean</c></c>
+
+00:00:54.819 --> 00:00:54.829 align:start position:0%
+defining<c.colorE5E5E5> what is blue ocean blue ocean
+ </c>
+
+00:00:54.829 --> 00:00:57.610 align:start position:0%
+defining<c.colorE5E5E5> what is blue ocean blue ocean
+is<00:00:54.980><c> the</c><00:00:55.280><c> new</c><00:00:55.489><c> user</c><00:00:55.760><c> interface</c></c><c.colorCCCCCC><00:00:56.350><c> coming</c><00:00:57.350><c> with</c></c>
+
+00:00:57.610 --> 00:00:57.620 align:start position:0%
+is the new user interface<c.colorCCCCCC> coming with
+ </c>
+
+00:00:57.620 --> 00:01:00.310 align:start position:0%
+is the new user interface<c.colorCCCCCC> coming with
+Jenkins<00:00:57.980><c> 2</c><00:00:58.489><c> it</c><00:00:58.699><c> is</c><00:00:59.269><c> designed</c><00:00:59.750><c> for</c><00:01:00.019><c> creating</c></c>
+
+00:01:00.310 --> 00:01:00.320 align:start position:0%
+Jenkins<c.colorCCCCCC> 2 it is designed for creating
+ </c>
+
+00:01:00.320 --> 00:01:03.520 align:start position:0%
+Jenkins<c.colorCCCCCC> 2 it is designed for creating</c>
+<c.colorCCCCCC>and<00:01:00.890><c> running</c><00:01:01.100><c> pipeline</c><00:01:01.820><c> jobs</c></c><c.colorE5E5E5><00:01:02.120><c> however</c><00:01:03.050><c> it</c></c>
+
+00:01:03.520 --> 00:01:03.530 align:start position:0%
+<c.colorCCCCCC>and running pipeline jobs</c><c.colorE5E5E5> however it
+ </c>
+
+00:01:03.530 --> 00:01:06.220 align:start position:0%
+<c.colorCCCCCC>and running pipeline jobs</c><c.colorE5E5E5> however it
+still<00:01:04.040><c> works</c><00:01:04.280><c> well</c><00:01:04.550><c> with</c><00:01:05.090><c> normal</c><00:01:05.570><c> freestyle</c></c>
+
+00:01:06.220 --> 00:01:06.230 align:start position:0%
+still works well with normal freestyle
+ 
+
+00:01:06.230 --> 00:01:09.850 align:start position:0%
+still works well with normal freestyle
+jobs<c.colorCCCCCC><00:01:06.650><c> it</c><00:01:06.970><c> is</c></c><c.colorE5E5E5><00:01:07.970><c> much</c><00:01:08.390><c> more</c><00:01:08.690><c> visual</c><00:01:09.230><c> than</c><00:01:09.470><c> the</c></c>
+
+00:01:09.850 --> 00:01:09.860 align:start position:0%
+jobs<c.colorCCCCCC> it is</c><c.colorE5E5E5> much more visual than the
+ </c>
+
+00:01:09.860 --> 00:01:13.090 align:start position:0%
+jobs<c.colorCCCCCC> it is</c><c.colorE5E5E5> much more visual than the
+classic<00:01:10.280><c> UI</c><00:01:10.550><c> and</c><00:01:11.000><c> has</c><00:01:11.840><c> a</c><00:01:11.870><c> visual</c><00:01:12.230><c> editor</c><00:01:12.590><c> for</c></c>
+
+00:01:13.090 --> 00:01:13.100 align:start position:0%
+classic UI and has a visual<c.colorE5E5E5> editor for
+ </c>
+
+00:01:13.100 --> 00:01:15.670 align:start position:0%
+classic UI and has a visual<c.colorE5E5E5> editor for
+creating</c><c.colorCCCCCC><00:01:13.210><c> pipelines</c></c><c.colorE5E5E5><00:01:14.210><c> without</c><00:01:14.750><c> writing</c></c><c.colorCCCCCC><00:01:15.170><c> code</c></c>
+
+00:01:15.670 --> 00:01:15.680 align:start position:0%
+creating<c.colorCCCCCC> pipelines</c><c.colorE5E5E5> without writing</c><c.colorCCCCCC> code
+ </c>
+
+00:01:15.680 --> 00:01:18.510 align:start position:0%
+creating<c.colorCCCCCC> pipelines</c><c.colorE5E5E5> without writing</c><c.colorCCCCCC> code</c>
+<c.colorE5E5E5>it<00:01:16.550><c> also</c><00:01:16.760><c> has</c><00:01:17.000><c> nice</c><00:01:17.330><c> visualizations</c></c>
+
+00:01:18.510 --> 00:01:18.520 align:start position:0%
+<c.colorE5E5E5>it also has nice visualizations
+ </c>
+
+00:01:18.520 --> 00:01:21.370 align:start position:0%
+<c.colorE5E5E5>it also has nice visualizations</c>
+<c.colorE5E5E5>particularly<00:01:19.520><c> suited</c><00:01:19.970><c> for</c><00:01:20.210><c> CI</c><00:01:20.510><c> and</c><00:01:20.960><c> CD</c></c>
+
+00:01:21.370 --> 00:01:21.380 align:start position:0%
+<c.colorE5E5E5>particularly suited for CI and CD
+ </c>
+
+00:01:21.380 --> 00:01:24.460 align:start position:0%
+<c.colorE5E5E5>particularly suited for CI and CD</c>
+<c.colorE5E5E5>pipelines<00:01:22.360><c> let's</c><00:01:23.360><c> see</c><00:01:23.540><c> which</c><00:01:23.750><c> advantages</c></c>
+
+00:01:24.460 --> 00:01:24.470 align:start position:0%
+<c.colorE5E5E5>pipelines let's see which advantages
+ </c>
+
+00:01:24.470 --> 00:01:28.030 align:start position:0%
+<c.colorE5E5E5>pipelines let's see which advantages
+blue<00:01:24.770><c> ocean</c><00:01:25.160><c> brings</c><00:01:25.960><c> first</c><00:01:26.960><c> it</c><00:01:27.260><c> is</c><00:01:27.680><c> a</c><00:01:27.710><c> much</c></c>
+
+00:01:28.030 --> 00:01:28.040 align:start position:0%
+<c.colorE5E5E5>blue ocean brings first it is a much
+ </c>
+
+00:01:28.040 --> 00:01:30.100 align:start position:0%
+<c.colorE5E5E5>blue ocean brings first it is a much</c>
+<c.colorCCCCCC>more<00:01:28.250><c> intuitive</c></c><c.colorE5E5E5><00:01:28.610><c> and</c><00:01:29.030><c> visual</c><00:01:29.240><c> tool</c><00:01:29.720><c> for</c></c>
+
+00:01:30.100 --> 00:01:30.110 align:start position:0%
+<c.colorCCCCCC>more intuitive</c><c.colorE5E5E5> and visual tool for
+ </c>
+
+00:01:30.110 --> 00:01:32.740 align:start position:0%
+<c.colorCCCCCC>more intuitive</c><c.colorE5E5E5> and visual tool for
+creating<00:01:30.430><c> managing</c><00:01:31.430><c> and</c><00:01:31.610><c> running</c><00:01:32.090><c> pipeline</c></c>
+
+00:01:32.740 --> 00:01:32.750 align:start position:0%
+creating<c.colorE5E5E5> managing and running pipeline
+ </c>
+
+00:01:32.750 --> 00:01:35.560 align:start position:0%
+creating<c.colorE5E5E5> managing and running pipeline
+jobs<00:01:33.020><c> in</c><00:01:33.290><c> Jenkins</c></c><c.colorCCCCCC><00:01:33.560><c> it</c><00:01:34.100><c> is</c><00:01:34.700><c> easy</c><00:01:35.030><c> to</c><00:01:35.270><c> use</c><00:01:35.300><c> for</c></c>
+
+00:01:35.560 --> 00:01:35.570 align:start position:0%
+jobs<c.colorE5E5E5> in Jenkins</c><c.colorCCCCCC> it is easy to use for
+ </c>
+
+00:01:35.570 --> 00:01:38.710 align:start position:0%
+jobs<c.colorE5E5E5> in Jenkins</c><c.colorCCCCCC> it is easy to use for
+anyone</c><c.colorE5E5E5><00:01:36.290><c> in</c><00:01:36.560><c> your</c><00:01:36.770><c> team</c><00:01:37.040><c> no</c><00:01:37.760><c> need</c><00:01:38.000><c> to</c><00:01:38.210><c> be</c><00:01:38.330><c> a</c><00:01:38.360><c> CI</c></c>
+
+00:01:38.710 --> 00:01:38.720 align:start position:0%
+<c.colorCCCCCC>anyone</c><c.colorE5E5E5> in your team no need to be a CI
+ </c>
+
+00:01:38.720 --> 00:01:41.580 align:start position:0%
+<c.colorCCCCCC>anyone</c><c.colorE5E5E5> in your team no need to be a CI</c>
+<c.colorE5E5E5>or<00:01:39.260><c> see</c><00:01:39.740><c> the</c><00:01:39.920><c> expert</c><00:01:40.460><c> to</c><00:01:40.700><c> create</c><00:01:41.030><c> pipelines</c></c>
+
+00:01:41.580 --> 00:01:41.590 align:start position:0%
+<c.colorE5E5E5>or see the expert to create pipelines
+ </c>
+
+00:01:41.590 --> 00:01:44.560 align:start position:0%
+<c.colorE5E5E5>or see the expert to create pipelines</c>
+<c.colorCCCCCC>the<00:01:42.590><c> visual</c><00:01:42.920><c> editor</c><00:01:43.070><c> makes</c><00:01:43.610><c> it</c><00:01:43.760><c> trivial</c><00:01:44.300><c> to</c></c>
+
+00:01:44.560 --> 00:01:44.570 align:start position:0%
+<c.colorCCCCCC>the visual editor makes it trivial to
+ </c>
+
+00:01:44.570 --> 00:01:47.290 align:start position:0%
+<c.colorCCCCCC>the visual editor makes it trivial to</c>
+<c.colorCCCCCC>setup</c><c.colorE5E5E5><00:01:44.870><c> pipeline</c><00:01:45.770><c> jobs</c><00:01:46.100><c> without</c><00:01:46.880><c> writing</c></c>
+
+00:01:47.290 --> 00:01:47.300 align:start position:0%
+<c.colorCCCCCC>setup</c><c.colorE5E5E5> pipeline jobs without writing
+ </c>
+
+00:01:47.300 --> 00:01:50.350 align:start position:0%
+<c.colorCCCCCC>setup</c><c.colorE5E5E5> pipeline jobs without writing
+source<00:01:47.840><c> code</c><00:01:48.260><c> the</c><00:01:49.130><c> user</c><00:01:49.340><c> interface</c><00:01:49.940><c> also</c></c>
+
+00:01:50.350 --> 00:01:50.360 align:start position:0%
+source code the<c.colorE5E5E5> user interface also
+ </c>
+
+00:01:50.360 --> 00:01:53.260 align:start position:0%
+source code the<c.colorE5E5E5> user interface also
+makes<00:01:50.570><c> it</c><00:01:50.720><c> easier</c></c><c.colorCCCCCC><00:01:51.260><c> to</c><00:01:51.530><c> debug</c><00:01:51.740><c> an</c><00:01:52.190><c> issue</c></c><c.colorE5E5E5><00:01:52.370><c> in</c><00:01:52.940><c> a</c></c>
+
+00:01:53.260 --> 00:01:53.270 align:start position:0%
+makes<c.colorE5E5E5> it easier</c><c.colorCCCCCC> to debug an issue</c><c.colorE5E5E5> in a
+ </c>
+
+00:01:53.270 --> 00:01:56.290 align:start position:0%
+makes<c.colorE5E5E5> it easier</c><c.colorCCCCCC> to debug an issue</c><c.colorE5E5E5> in a
+pipeline<00:01:53.510><c> job</c><00:01:54.050><c> as</c><00:01:54.320><c> it</c><00:01:54.950><c> pinpoints</c></c><c.colorCCCCCC><00:01:55.220><c> where</c><00:01:56.060><c> an</c></c>
+
+00:01:56.290 --> 00:01:56.300 align:start position:0%
+pipeline job as it pinpoints<c.colorCCCCCC> where an
+ </c>
+
+00:01:56.300 --> 00:01:59.650 align:start position:0%
+pipeline job as it pinpoints<c.colorCCCCCC> where an
+error<00:01:56.570><c> occurs</c><00:01:57.200><c> inside</c><00:01:57.740><c> the</c><00:01:57.950><c> pipeline</c><00:01:58.400><c> a</c><00:01:58.660><c> major</c></c>
+
+00:01:59.650 --> 00:01:59.660 align:start position:0%
+error occurs inside<c.colorCCCCCC> the pipeline a major
+ </c>
+
+00:01:59.660 --> 00:02:02.290 align:start position:0%
+error occurs inside<c.colorCCCCCC> the pipeline a major
+feature</c><c.colorE5E5E5><00:01:59.960><c> is</c><00:02:00.320><c> the</c><00:02:00.770><c> native</c><00:02:01.190><c> integration</c><00:02:01.640><c> with</c></c>
+
+00:02:02.290 --> 00:02:02.300 align:start position:0%
+feature<c.colorE5E5E5> is the native integration with
+ </c>
+
+00:02:02.300 --> 00:02:05.250 align:start position:0%
+feature<c.colorE5E5E5> is the native integration with
+tools<00:02:02.600><c> like</c><00:02:02.960><c> github</c></c><c.colorCCCCCC><00:02:03.380><c> and</c><00:02:03.920><c> bitbucket</c><00:02:04.730><c> in</c></c>
+
+00:02:05.250 --> 00:02:05.260 align:start position:0%
+tools<c.colorE5E5E5> like github</c><c.colorCCCCCC> and bitbucket in
+ </c>
+
+00:02:05.260 --> 00:02:08.080 align:start position:0%
+tools<c.colorE5E5E5> like github</c><c.colorCCCCCC> and bitbucket in
+particular<00:02:06.260><c> the</c><00:02:07.100><c> ability</c><00:02:07.640><c> to</c></c><c.colorE5E5E5><00:02:07.670><c> integrate</c></c>
+
+00:02:08.080 --> 00:02:08.090 align:start position:0%
+particular the<c.colorCCCCCC> ability to</c><c.colorE5E5E5> integrate
+ </c>
+
+00:02:08.090 --> 00:02:11.589 align:start position:0%
+particular the<c.colorCCCCCC> ability to</c><c.colorE5E5E5> integrate
+easily<00:02:08.950><c> branches</c><00:02:09.950><c> and</c><00:02:10.159><c> pull</c><00:02:10.489><c> requests</c><00:02:11.180><c> in</c><00:02:11.420><c> a</c></c>
+
+00:02:11.589 --> 00:02:11.599 align:start position:0%
+easily<c.colorE5E5E5> branches and pull requests in a
+ </c>
+
+00:02:11.599 --> 00:02:13.750 align:start position:0%
+easily<c.colorE5E5E5> branches and pull requests in a
+CI<00:02:11.840><c> CD</c><00:02:12.379><c> workflow</c><00:02:12.890><c> in</c></c>
+
+00:02:13.750 --> 00:02:13.760 align:start position:0%
+CI CD workflow in
+ 
+
+00:02:13.760 --> 00:02:16.570 align:start position:0%
+CI CD workflow in
+<c.colorCCCCCC>she'll</c><c.colorE5E5E5><00:02:14.150><c> blue</c></c><c.colorCCCCCC><00:02:14.780><c> ocean</c><00:02:15.110><c> is</c><00:02:15.319><c> a</c><00:02:15.379><c> more</c><00:02:15.860><c> modern</c><00:02:16.159><c> UI</c></c>
+
+00:02:16.570 --> 00:02:16.580 align:start position:0%
+<c.colorCCCCCC>she'll</c><c.colorE5E5E5> blue</c><c.colorCCCCCC> ocean is a more modern UI
+ </c>
+
+00:02:16.580 --> 00:02:19.809 align:start position:0%
+<c.colorCCCCCC>she'll</c><c.colorE5E5E5> blue</c><c.colorCCCCCC> ocean is a more modern UI</c>
+<c.colorE5E5E5>with<00:02:17.239><c> a</c><00:02:17.269><c> better</c><00:02:17.599><c> user</c><00:02:17.930><c> experience</c><00:02:18.819><c> however</c></c>
+
+00:02:19.809 --> 00:02:19.819 align:start position:0%
+<c.colorE5E5E5>with a better user experience however
+ </c>
+
+00:02:19.819 --> 00:02:22.839 align:start position:0%
+<c.colorE5E5E5>with a better user experience however
+you<00:02:20.510><c> can</c><00:02:20.689><c> easily</c><00:02:20.959><c> switch</c><00:02:21.409><c> between</c><00:02:21.829><c> blue</c><00:02:22.430><c> ocean</c></c>
+
+00:02:22.839 --> 00:02:22.849 align:start position:0%
+you can easily<c.colorE5E5E5> switch between blue ocean
+ </c>
+
+00:02:22.849 --> 00:02:25.300 align:start position:0%
+you can easily<c.colorE5E5E5> switch between blue ocean
+and<00:02:23.030><c> the</c><00:02:23.239><c> classic</c><00:02:23.689><c> UI</c><00:02:23.989><c> while</c><00:02:24.769><c> you</c><00:02:24.920><c> are</c></c><c.colorCCCCCC><00:02:24.980><c> getting</c></c>
+
+00:02:25.300 --> 00:02:25.310 align:start position:0%
+and the classic UI<c.colorE5E5E5> while you are</c><c.colorCCCCCC> getting
+ </c>
+
+00:02:25.310 --> 00:02:27.640 align:start position:0%
+and the classic UI<c.colorE5E5E5> while you are</c><c.colorCCCCCC> getting
+used</c><c.colorE5E5E5><00:02:25.519><c> to</c><00:02:25.640><c> blue</c><00:02:25.879><c> ocean</c><00:02:26.269><c> or</c><00:02:26.450><c> managing</c></c><c.colorCCCCCC><00:02:27.170><c> non</c></c>
+
+00:02:27.640 --> 00:02:27.650 align:start position:0%
+used<c.colorE5E5E5> to blue ocean or managing</c><c.colorCCCCCC> non
+ </c>
+
+00:02:27.650 --> 00:02:30.580 align:start position:0%
+used<c.colorE5E5E5> to blue ocean or managing</c><c.colorCCCCCC> non
+pipeline<00:02:27.950><c> jobs</c><00:02:28.579><c> just</c></c><c.colorE5E5E5><00:02:29.480><c> to</c><00:02:29.629><c> whet</c><00:02:29.840><c> your</c><00:02:29.870><c> appetite</c></c>
+
+00:02:30.580 --> 00:02:30.590 align:start position:0%
+<c.colorCCCCCC>pipeline jobs just</c><c.colorE5E5E5> to whet your appetite
+ </c>
+
+00:02:30.590 --> 00:02:33.550 align:start position:0%
+<c.colorCCCCCC>pipeline jobs just</c><c.colorE5E5E5> to whet your appetite</c>
+<c.colorCCCCCC>I<00:02:30.890><c> want</c><00:02:31.280><c> to</c><00:02:31.400><c> give</c><00:02:31.610><c> you</c><00:02:31.790><c> a</c><00:02:31.819><c> preview</c><00:02:32.239><c> of</c><00:02:32.540><c> how</c><00:02:33.110><c> blue</c></c>
+
+00:02:33.550 --> 00:02:33.560 align:start position:0%
+<c.colorCCCCCC>I want to give you a preview of how blue
+ </c>
+
+00:02:33.560 --> 00:02:36.009 align:start position:0%
+<c.colorCCCCCC>I want to give you a preview of how blue
+ocean<00:02:33.890><c> looks</c><00:02:34.129><c> like</c></c><c.colorE5E5E5><00:02:34.239><c> this</c><00:02:35.239><c> is</c><00:02:35.450><c> the</c><00:02:35.659><c> blue</c><00:02:35.840><c> ocean</c></c>
+
+00:02:36.009 --> 00:02:36.019 align:start position:0%
+ocean looks like<c.colorE5E5E5> this is the blue ocean
+ </c>
+
+00:02:36.019 --> 00:02:37.030 align:start position:0%
+ocean looks like<c.colorE5E5E5> this is the blue ocean
+dashboard</c>
+
+00:02:37.030 --> 00:02:37.040 align:start position:0%
+dashboard
+ 
+
+00:02:37.040 --> 00:02:40.210 align:start position:0%
+dashboard
+the<00:02:37.430><c> default</c><00:02:37.879><c> view</c><c.colorE5E5E5><00:02:38.090><c> showing</c><00:02:38.690><c> in</c><00:02:38.870><c> this</c><00:02:39.200><c> case</c><00:02:39.530><c> an</c></c>
+
+00:02:40.210 --> 00:02:40.220 align:start position:0%
+the default view<c.colorE5E5E5> showing in this case an
+ </c>
+
+00:02:40.220 --> 00:02:42.550 align:start position:0%
+the default view<c.colorE5E5E5> showing in this case an
+overview<00:02:40.700><c> of</c><00:02:40.760><c> all</c></c><c.colorCCCCCC><00:02:41.150><c> the</c></c><c.colorE5E5E5><00:02:41.209><c> pipeline</c><00:02:41.870><c> projects</c><00:02:42.409><c> in</c></c>
+
+00:02:42.550 --> 00:02:42.560 align:start position:0%
+overview of<c.colorE5E5E5> all</c><c.colorCCCCCC> the</c><c.colorE5E5E5> pipeline projects in
+ </c>
+
+00:02:42.560 --> 00:02:45.759 align:start position:0%
+overview of<c.colorE5E5E5> all</c><c.colorCCCCCC> the</c><c.colorE5E5E5> pipeline projects in</c>
+<c.colorCCCCCC>Jenkins</c><c.colorE5E5E5><00:02:43.269><c> you</c><00:02:44.269><c> can</c><00:02:44.450><c> notice</c><00:02:44.780><c> the</c><00:02:44.989><c> blue</c><00:02:45.230><c> colored</c></c>
+
+00:02:45.759 --> 00:02:45.769 align:start position:0%
+<c.colorCCCCCC>Jenkins</c><c.colorE5E5E5> you can notice the blue colored
+ </c>
+
+00:02:45.769 --> 00:02:48.430 align:start position:0%
+<c.colorCCCCCC>Jenkins</c><c.colorE5E5E5> you can notice the blue colored</c>
+<c.colorCCCCCC>navigation<00:02:46.519><c> bar</c></c><c.colorE5E5E5><00:02:46.819><c> where</c><00:02:47.569><c> you</c></c><c.colorCCCCCC><00:02:47.599><c> can</c></c><c.colorE5E5E5><00:02:47.659><c> search</c></c><c.colorCCCCCC><00:02:48.140><c> for</c></c>
+
+00:02:48.430 --> 00:02:48.440 align:start position:0%
+<c.colorCCCCCC>navigation bar</c><c.colorE5E5E5> where you</c><c.colorCCCCCC> can</c><c.colorE5E5E5> search</c><c.colorCCCCCC> for
+ </c>
+
+00:02:48.440 --> 00:02:50.860 align:start position:0%
+<c.colorCCCCCC>navigation bar</c><c.colorE5E5E5> where you</c><c.colorCCCCCC> can</c><c.colorE5E5E5> search</c><c.colorCCCCCC> for
+existing</c><c.colorE5E5E5><00:02:48.680><c> pipelines</c><00:02:49.569><c> useful</c><00:02:50.569><c> when</c><00:02:50.750><c> you</c><00:02:50.840><c> have</c></c>
+
+00:02:50.860 --> 00:02:50.870 align:start position:0%
+existing<c.colorE5E5E5> pipelines useful when you have
+ </c>
+
+00:02:50.870 --> 00:02:53.949 align:start position:0%
+existing<c.colorE5E5E5> pipelines useful when you have
+lots<00:02:51.200><c> of</c><00:02:51.379><c> pipeline</c><00:02:51.859><c> jobs</c><00:02:52.190><c> and</c><00:02:53.060><c> create</c></c><c.colorCCCCCC><00:02:53.480><c> a</c><00:02:53.720><c> new</c></c>
+
+00:02:53.949 --> 00:02:53.959 align:start position:0%
+<c.colorE5E5E5>lots of pipeline jobs and create</c><c.colorCCCCCC> a new
+ </c>
+
+00:02:53.959 --> 00:02:57.460 align:start position:0%
+<c.colorE5E5E5>lots of pipeline jobs and create</c><c.colorCCCCCC> a new</c>
+<c.colorCCCCCC>pipeline<00:02:55.060><c> the</c><00:02:56.060><c> pipeline</c></c><c.colorE5E5E5><00:02:56.109><c> favorite</c></c><c.colorCCCCCC><00:02:57.109><c> list</c></c>
+
+00:02:57.460 --> 00:02:57.470 align:start position:0%
+<c.colorCCCCCC>pipeline the pipeline</c><c.colorE5E5E5> favorite</c><c.colorCCCCCC> list
+ </c>
+
+00:02:57.470 --> 00:03:00.220 align:start position:0%
+<c.colorCCCCCC>pipeline the pipeline</c><c.colorE5E5E5> favorite</c><c.colorCCCCCC> list
+shows<00:02:58.400><c> a</c><00:02:58.430><c> list</c><00:02:58.790><c> of</c><00:02:58.970><c> pipeline</c></c><c.colorE5E5E5><00:02:59.450><c> projects</c><00:03:00.019><c> that</c></c>
+
+00:03:00.220 --> 00:03:00.230 align:start position:0%
+<c.colorCCCCCC>shows a list of pipeline</c><c.colorE5E5E5> projects that
+ </c>
+
+00:03:00.230 --> 00:03:03.399 align:start position:0%
+<c.colorCCCCCC>shows a list of pipeline</c><c.colorE5E5E5> projects that
+the<00:03:00.349><c> user</c></c><c.colorCCCCCC><00:03:00.590><c> defined</c><00:03:01.250><c> as</c></c><c.colorE5E5E5><00:03:01.489><c> favorite</c><00:03:02.480><c> this</c><00:03:03.079><c> list</c></c>
+
+00:03:03.399 --> 00:03:03.409 align:start position:0%
+the user<c.colorCCCCCC> defined as</c><c.colorE5E5E5> favorite this list
+ </c>
+
+00:03:03.409 --> 00:03:05.949 align:start position:0%
+the user<c.colorCCCCCC> defined as</c><c.colorE5E5E5> favorite this list
+provides<00:03:04.040><c> key</c><00:03:04.400><c> information</c><00:03:04.510><c> such</c><00:03:05.510><c> as</c><00:03:05.540><c> name</c></c>
+
+00:03:05.949 --> 00:03:05.959 align:start position:0%
+<c.colorE5E5E5>provides key information such as name
+ </c>
+
+00:03:05.959 --> 00:03:11.110 align:start position:0%
+<c.colorE5E5E5>provides key information such as name</c>
+<c.colorE5E5E5>run<00:03:06.950><c> status</c><00:03:07.510><c> branch</c><00:03:08.560><c> commit</c><00:03:09.560><c> hash</c><00:03:09.940><c> time</c><00:03:10.940><c> of</c></c>
+
+00:03:11.110 --> 00:03:11.120 align:start position:0%
+<c.colorE5E5E5>run status branch commit hash time of
+ </c>
+
+00:03:11.120 --> 00:03:15.339 align:start position:0%
+<c.colorE5E5E5>run status branch commit hash time of
+last<00:03:11.389><c> execution</c><00:03:12.129><c> etc</c><00:03:13.129><c> about</c><00:03:13.819><c> pipelines</c><00:03:14.750><c> you</c></c>
+
+00:03:15.339 --> 00:03:15.349 align:start position:0%
+last execution<c.colorE5E5E5> etc about pipelines you
+ </c>
+
+00:03:15.349 --> 00:03:18.059 align:start position:0%
+last execution<c.colorE5E5E5> etc about pipelines you
+need<00:03:15.530><c> to</c></c><c.colorCCCCCC><00:03:15.680><c> access</c><00:03:16.010><c> often</c></c><c.colorE5E5E5><00:03:16.519><c> or</c><00:03:16.730><c> keep</c><00:03:17.329><c> an</c><00:03:17.510><c> eye</c><00:03:17.629><c> on</c></c>
+
+00:03:18.059 --> 00:03:18.069 align:start position:0%
+need to<c.colorCCCCCC> access often</c><c.colorE5E5E5> or keep an eye on
+ </c>
+
+00:03:18.069 --> 00:03:21.460 align:start position:0%
+need to<c.colorCCCCCC> access often</c><c.colorE5E5E5> or keep an eye on
+the<00:03:19.069><c> pipeline</c><00:03:19.340><c> list</c><00:03:19.879><c> shows</c><00:03:20.720><c> the</c><00:03:20.959><c> state</c><00:03:21.260><c> of</c></c>
+
+00:03:21.460 --> 00:03:21.470 align:start position:0%
+the pipeline list shows<c.colorE5E5E5> the state of
+ </c>
+
+00:03:21.470 --> 00:03:25.000 align:start position:0%
+the pipeline list shows<c.colorE5E5E5> the state of
+each<00:03:21.590><c> project</c><00:03:21.980><c> in</c><00:03:22.400><c> Jenkins</c></c><c.colorCCCCCC><00:03:22.940><c> in</c><00:03:23.500><c> particular</c></c><c.colorE5E5E5><00:03:24.500><c> it</c></c>
+
+00:03:25.000 --> 00:03:25.010 align:start position:0%
+each project<c.colorE5E5E5> in Jenkins</c><c.colorCCCCCC> in particular</c><c.colorE5E5E5> it
+ </c>
+
+00:03:25.010 --> 00:03:28.240 align:start position:0%
+each project<c.colorE5E5E5> in Jenkins</c><c.colorCCCCCC> in particular</c><c.colorE5E5E5> it
+shows<00:03:25.489><c> the</c><00:03:25.699><c> name</c><00:03:25.970><c> the</c><00:03:26.720><c> health</c><00:03:26.989><c> icon</c><00:03:27.290><c> the</c></c>
+
+00:03:28.240 --> 00:03:28.250 align:start position:0%
+shows the name<c.colorE5E5E5> the health icon the
+ </c>
+
+00:03:28.250 --> 00:03:30.520 align:start position:0%
+shows the name<c.colorE5E5E5> the health icon the
+number<00:03:28.579><c> of</c><00:03:28.699><c> branches</c><00:03:29.060><c> and</c></c><c.colorCCCCCC><00:03:29.389><c> pull</c><00:03:29.840><c> requests</c></c>
+
+00:03:30.520 --> 00:03:30.530 align:start position:0%
+number of<c.colorE5E5E5> branches and</c><c.colorCCCCCC> pull requests
+ </c>
+
+00:03:30.530 --> 00:03:33.280 align:start position:0%
+number of<c.colorE5E5E5> branches and</c><c.colorCCCCCC> pull requests
+passing<00:03:31.220><c> or</c><00:03:31.400><c> failing</c><00:03:31.459><c> and</c><00:03:32.299><c> the</c><00:03:32.959><c> star</c></c>
+
+00:03:33.280 --> 00:03:33.290 align:start position:0%
+passing or failing and the star
+ 
+
+00:03:33.290 --> 00:03:35.949 align:start position:0%
+passing or failing and the star
+indicating<00:03:34.220><c> if</c><00:03:34.400><c> the</c><00:03:34.579><c> job</c><00:03:34.849><c> has</c><c.colorCCCCCC><00:03:34.879><c> been</c><00:03:35.269><c> added</c><00:03:35.780><c> to</c></c>
+
+00:03:35.949 --> 00:03:35.959 align:start position:0%
+indicating if the job has<c.colorCCCCCC> been added to
+ </c>
+
+00:03:35.959 --> 00:03:38.470 align:start position:0%
+indicating if the job has<c.colorCCCCCC> been added to
+the<00:03:36.169><c> favorite</c><00:03:36.650><c> list</c></c><c.colorE5E5E5><00:03:36.919><c> the</c><00:03:37.579><c> activity</c><00:03:38.180><c> view</c></c>
+
+00:03:38.470 --> 00:03:38.480 align:start position:0%
+the favorite list<c.colorE5E5E5> the activity view
+ </c>
+
+00:03:38.480 --> 00:03:41.439 align:start position:0%
+the favorite list<c.colorE5E5E5> the activity view
+shows<00:03:39.290><c> all</c><00:03:39.620><c> the</c><00:03:39.859><c> activities</c><00:03:40.579><c> related</c><00:03:41.299><c> to</c></c><c.colorCCCCCC><00:03:41.329><c> a</c></c>
+
+00:03:41.439 --> 00:03:41.449 align:start position:0%
+shows all the activities<c.colorE5E5E5> related to</c><c.colorCCCCCC> a
+ </c>
+
+00:03:41.449 --> 00:03:44.650 align:start position:0%
+shows all the activities<c.colorE5E5E5> related to</c><c.colorCCCCCC> a</c>
+<c.colorE5E5E5>part<00:03:41.750><c> line</c><00:03:41.989><c> in</c><00:03:42.230><c> particular</c></c><c.colorCCCCCC><00:03:43.040><c> the</c><00:03:44.000><c> navigation</c></c>
+
+00:03:44.650 --> 00:03:44.660 align:start position:0%
+<c.colorE5E5E5>part line in particular</c><c.colorCCCCCC> the navigation
+ </c>
+
+00:03:44.660 --> 00:03:47.979 align:start position:0%
+<c.colorE5E5E5>part line in particular</c><c.colorCCCCCC> the navigation
+bar<00:03:44.900><c> shows</c></c><c.colorE5E5E5><00:03:45.349><c> the</c><00:03:45.620><c> pipeline</c><00:03:46.099><c> names</c></c><c.colorCCCCCC><00:03:46.430><c> if</c><00:03:46.849><c> it</c><00:03:47.780><c> has</c></c>
+
+00:03:47.979 --> 00:03:47.989 align:start position:0%
+bar shows<c.colorE5E5E5> the pipeline names</c><c.colorCCCCCC> if it has
+ </c>
+
+00:03:47.989 --> 00:03:51.189 align:start position:0%
+bar shows<c.colorE5E5E5> the pipeline names</c><c.colorCCCCCC> if it has
+been<00:03:48.199><c> added</c><00:03:48.440><c> to</c><00:03:48.650><c> the</c><00:03:49.069><c> favorite</c></c><c.colorE5E5E5><00:03:49.609><c> list</c><00:03:49.940><c> and</c><00:03:50.299><c> tabs</c></c>
+
+00:03:51.189 --> 00:03:51.199 align:start position:0%
+been added<c.colorCCCCCC> to the favorite</c><c.colorE5E5E5> list and tabs
+ </c>
+
+00:03:51.199 --> 00:03:54.729 align:start position:0%
+been added<c.colorCCCCCC> to the favorite</c><c.colorE5E5E5> list and tabs
+for<00:03:51.560><c> showing</c><00:03:51.949><c> activity</c><00:03:52.870><c> branches</c><00:03:53.870><c> and</c><00:03:54.139><c> pull</c></c>
+
+00:03:54.729 --> 00:03:54.739 align:start position:0%
+for showing activity branches and pull
+ 
+
+00:03:54.739 --> 00:03:57.430 align:start position:0%
+for showing activity branches and pull
+requests<00:03:55.370><c> for</c><c.colorE5E5E5><00:03:55.609><c> a</c><00:03:55.669><c> given</c><00:03:56.060><c> pipeline</c><00:03:56.629><c> the</c></c>
+
+00:03:57.430 --> 00:03:57.440 align:start position:0%
+requests for<c.colorE5E5E5> a given pipeline the
+ </c>
+
+00:03:57.440 --> 00:04:00.640 align:start position:0%
+requests for<c.colorE5E5E5> a given pipeline the
+default<00:03:57.859><c> tab</c><00:03:58.370><c> of</c></c><c.colorCCCCCC><00:03:58.730><c> the</c><00:03:59.030><c> activity</c><00:03:59.629><c> view</c><00:03:59.989><c> is</c><00:04:00.230><c> the</c></c>
+
+00:04:00.640 --> 00:04:00.650 align:start position:0%
+default tab of<c.colorCCCCCC> the activity view is the
+ </c>
+
+00:04:00.650 --> 00:04:03.069 align:start position:0%
+default tab of<c.colorCCCCCC> the activity view is the
+activity</c><c.colorE5E5E5><00:04:00.919><c> tab</c><00:04:01.519><c> which</c><00:04:02.120><c> shows</c></c><c.colorCCCCCC><00:04:02.150><c> the</c><00:04:02.840><c> latest</c></c>
+
+00:04:03.069 --> 00:04:03.079 align:start position:0%
+activity<c.colorE5E5E5> tab which shows</c><c.colorCCCCCC> the latest
+ </c>
+
+00:04:03.079 --> 00:04:05.890 align:start position:0%
+activity<c.colorE5E5E5> tab which shows</c><c.colorCCCCCC> the latest
+completed<00:04:04.010><c> or</c><00:04:04.190><c> running</c><00:04:04.879><c> execution</c><00:04:05.690><c> of</c><00:04:05.810><c> a</c></c>
+
+00:04:05.890 --> 00:04:05.900 align:start position:0%
+completed or running execution of a
+ 
+
+00:04:05.900 --> 00:04:09.039 align:start position:0%
+completed or running execution of a
+<c.colorCCCCCC>pipeline<00:04:06.379><c> and</c><00:04:07.000><c> useful</c><00:04:08.000><c> information</c><00:04:08.720><c> such</c></c><c.colorE5E5E5><00:04:08.989><c> as</c></c>
+
+00:04:09.039 --> 00:04:09.049 align:start position:0%
+<c.colorCCCCCC>pipeline and useful information such</c><c.colorE5E5E5> as
+ </c>
+
+00:04:09.049 --> 00:04:13.469 align:start position:0%
+<c.colorCCCCCC>pipeline and useful information such</c><c.colorE5E5E5> as</c>
+<c.colorCCCCCC>billed</c><c.colorE5E5E5><00:04:09.530><c> status</c><00:04:10.220><c> number</c><00:04:11.030><c> of</c><00:04:11.359><c> runs</c><00:04:11.709><c> commit</c><00:04:12.709><c> hash</c></c>
+
+00:04:13.469 --> 00:04:13.479 align:start position:0%
+<c.colorCCCCCC>billed</c><c.colorE5E5E5> status number of runs commit hash
+ </c>
+
+00:04:13.479 --> 00:04:16.689 align:start position:0%
+<c.colorCCCCCC>billed</c><c.colorE5E5E5> status number of runs commit hash</c>
+<c.colorE5E5E5>branch<00:04:14.479><c> or</c><00:04:14.780><c> pull</c></c><c.colorCCCCCC><00:04:15.139><c> request</c></c><c.colorE5E5E5><00:04:15.680><c> that</c><00:04:16.099><c> initiated</c></c>
+
+00:04:16.689 --> 00:04:16.699 align:start position:0%
+<c.colorE5E5E5>branch or pull</c><c.colorCCCCCC> request</c><c.colorE5E5E5> that initiated
+ </c>
+
+00:04:16.699 --> 00:04:19.420 align:start position:0%
+<c.colorE5E5E5>branch or pull</c><c.colorCCCCCC> request</c><c.colorE5E5E5> that initiated</c>
+<c.colorCCCCCC>the<00:04:16.970><c> build</c><00:04:17.180><c> duration</c><00:04:18.169><c> of</c><00:04:18.289><c> the</c><00:04:18.470><c> build</c></c><c.colorE5E5E5><00:04:18.709><c> and</c><00:04:18.979><c> when</c></c>
+
+00:04:19.420 --> 00:04:19.430 align:start position:0%
+<c.colorCCCCCC>the build duration of the build</c><c.colorE5E5E5> and when
+ </c>
+
+00:04:19.430 --> 00:04:21.670 align:start position:0%
+<c.colorCCCCCC>the build duration of the build</c><c.colorE5E5E5> and when
+the<00:04:19.639><c> build</c><00:04:19.849><c> was</c><00:04:20.090><c> last</c><00:04:20.389><c> completed</c></c><c.colorCCCCCC><00:04:20.900><c> you</c><00:04:21.530><c> also</c></c>
+
+00:04:21.670 --> 00:04:21.680 align:start position:0%
+the build was last completed<c.colorCCCCCC> you also
+ </c>
+
+00:04:21.680 --> 00:04:24.760 align:start position:0%
+the build was last completed<c.colorCCCCCC> you also
+have<00:04:22.010><c> a</c><00:04:22.159><c> button</c></c><c.colorE5E5E5><00:04:22.400><c> to</c><00:04:22.820><c> rerun</c><00:04:23.479><c> a</c><00:04:23.750><c> specific</c><00:04:24.469><c> build</c></c>
+
+00:04:24.760 --> 00:04:24.770 align:start position:0%
+have a button<c.colorE5E5E5> to rerun a specific build
+ </c>
+
+00:04:24.770 --> 00:04:27.690 align:start position:0%
+have a button<c.colorE5E5E5> to rerun a specific build
+or<00:04:25.070><c> stop</c><00:04:25.760><c> it</c><00:04:26.000><c> while</c><00:04:26.510><c> it's</c><00:04:26.840><c> running</c></c>
+
+00:04:27.690 --> 00:04:27.700 align:start position:0%
+or stop it while it's running
+ 
+
+00:04:27.700 --> 00:04:29.820 align:start position:0%
+or stop it while it's running
+one<00:04:28.030><c> of</c><00:04:28.150><c> the</c><c.colorE5E5E5><00:04:28.270><c> advantages</c><00:04:28.930><c> of</c><00:04:28.990><c> the</c><00:04:29.500><c> blue</c><00:04:29.680><c> ocean</c></c>
+
+00:04:29.820 --> 00:04:29.830 align:start position:0%
+one of the<c.colorE5E5E5> advantages of the blue ocean
+ </c>
+
+00:04:29.830 --> 00:04:32.730 align:start position:0%
+one of the<c.colorE5E5E5> advantages of the blue ocean
+user<00:04:30.280><c> interface</c><00:04:30.970><c> is</c><00:04:31.270><c> to</c><00:04:31.750><c> pinpoint</c><00:04:32.020><c> an</c><00:04:32.560><c> issue</c></c>
+
+00:04:32.730 --> 00:04:32.740 align:start position:0%
+user interface<c.colorE5E5E5> is to pinpoint an issue
+ </c>
+
+00:04:32.740 --> 00:04:35.760 align:start position:0%
+user interface<c.colorE5E5E5> is to pinpoint an issue</c>
+<c.colorCCCCCC>within<00:04:33.490><c> a</c><00:04:33.670><c> pipeline</c><00:04:34.210><c> and</c><00:04:34.450><c> this</c><00:04:34.840><c> makes</c><00:04:35.200><c> easier</c></c>
+
+00:04:35.760 --> 00:04:35.770 align:start position:0%
+<c.colorCCCCCC>within a pipeline and this makes easier
+ </c>
+
+00:04:35.770 --> 00:04:38.880 align:start position:0%
+<c.colorCCCCCC>within a pipeline and this makes easier
+to<00:04:36.040><c> debug</c><00:04:36.430><c> an</c><00:04:36.640><c> error</c><00:04:36.870><c> here</c><00:04:37.870><c> is</c><00:04:37.990><c> an</c><00:04:38.170><c> example</c></c><c.colorE5E5E5><00:04:38.530><c> of</c></c>
+
+00:04:38.880 --> 00:04:38.890 align:start position:0%
+to<c.colorCCCCCC> debug an error here is an example</c><c.colorE5E5E5> of
+ </c>
+
+00:04:38.890 --> 00:04:41.730 align:start position:0%
+to<c.colorCCCCCC> debug an error here is an example</c><c.colorE5E5E5> of
+how<00:04:39.370><c> a</c><00:04:39.400><c> failed</c><00:04:39.940><c> pipeline</c><00:04:40.480><c> execution</c><00:04:40.750><c> is</c><00:04:41.350><c> shown</c></c>
+
+00:04:41.730 --> 00:04:41.740 align:start position:0%
+how a failed pipeline execution<c.colorE5E5E5> is shown
+ </c>
+
+00:04:41.740 --> 00:04:44.760 align:start position:0%
+how a failed pipeline execution<c.colorE5E5E5> is shown
+via<00:04:42.160><c> blue</c><00:04:42.490><c> ocean</c></c><c.colorCCCCCC><00:04:42.910><c> if</c><00:04:43.090><c> a</c><00:04:43.510><c> step</c><00:04:43.780><c> fails</c></c><c.colorE5E5E5><00:04:44.170><c> during</c></c>
+
+00:04:44.760 --> 00:04:44.770 align:start position:0%
+via blue ocean<c.colorCCCCCC> if a step fails</c><c.colorE5E5E5> during
+ </c>
+
+00:04:44.770 --> 00:04:47.430 align:start position:0%
+via blue ocean<c.colorCCCCCC> if a step fails</c><c.colorE5E5E5> during
+the<00:04:44.890><c> execution</c><00:04:45.580><c> it</c><00:04:45.760><c> is</c><00:04:46.420><c> highlighted</c><00:04:47.110><c> in</c><00:04:47.290><c> the</c></c>
+
+00:04:47.430 --> 00:04:47.440 align:start position:0%
+the<c.colorE5E5E5> execution it is highlighted in the
+ </c>
+
+00:04:47.440 --> 00:04:49.770 align:start position:0%
+the<c.colorE5E5E5> execution it is highlighted in the
+pipeline<00:04:47.680><c> visualization</c><00:04:48.640><c> and</c></c><c.colorCCCCCC><00:04:48.850><c> the</c><00:04:49.330><c> console</c></c>
+
+00:04:49.770 --> 00:04:49.780 align:start position:0%
+pipeline visualization and<c.colorCCCCCC> the console
+ </c>
+
+00:04:49.780 --> 00:04:53.750 align:start position:0%
+pipeline visualization and<c.colorCCCCCC> the console</c>
+<c.colorCCCCCC>log</c><c.colorE5E5E5><00:04:49.840><c> of</c><00:04:50.350><c> the</c><00:04:50.710><c> failed</c><00:04:50.980><c> step</c><00:04:51.460><c> is</c><00:04:51.730><c> displayed</c><00:04:52.480><c> the</c></c>
+
+00:04:53.750 --> 00:04:53.760 align:start position:0%
+<c.colorCCCCCC>log</c><c.colorE5E5E5> of the failed step is displayed the
+ </c>
+
+00:04:53.760 --> 00:04:56.760 align:start position:0%
+<c.colorCCCCCC>log</c><c.colorE5E5E5> of the failed step is displayed the</c>
+<c.colorCCCCCC>pipeline<00:04:54.760><c> visual</c><00:04:55.210><c> editor</c><00:04:55.750><c> is</c><00:04:55.990><c> another</c></c><c.colorE5E5E5><00:04:56.470><c> major</c></c>
+
+00:04:56.760 --> 00:04:56.770 align:start position:0%
+<c.colorCCCCCC>pipeline visual editor is another</c><c.colorE5E5E5> major
+ </c>
+
+00:04:56.770 --> 00:04:59.160 align:start position:0%
+<c.colorCCCCCC>pipeline visual editor is another</c><c.colorE5E5E5> major
+feature<00:04:57.130><c> in</c><00:04:57.520><c> blue</c><00:04:57.760><c> ocean</c><00:04:58.180><c> and</c><00:04:58.360><c> is</c><00:04:58.990><c> the</c></c>
+
+00:04:59.160 --> 00:04:59.170 align:start position:0%
+feature<c.colorE5E5E5> in blue ocean and is the
+ </c>
+
+00:04:59.170 --> 00:05:01.740 align:start position:0%
+feature<c.colorE5E5E5> in blue ocean and is the
+simplest<00:04:59.710><c> way</c><00:04:59.980><c> to</c><00:05:00.010><c> create</c><00:05:00.610><c> a</c><00:05:00.640><c> pipeline</c><00:05:00.970><c> job</c><00:05:01.480><c> in</c></c>
+
+00:05:01.740 --> 00:05:01.750 align:start position:0%
+simplest way to<c.colorE5E5E5> create a pipeline job in
+ </c>
+
+00:05:01.750 --> 00:05:05.160 align:start position:0%
+simplest way to<c.colorE5E5E5> create a pipeline job in
+Jenkins<00:05:02.550><c> the</c><00:05:03.550><c> visual</c><00:05:03.850><c> editor</c><00:05:04.030><c> allows</c><00:05:04.960><c> to</c></c>
+
+00:05:05.160 --> 00:05:05.170 align:start position:0%
+Jenkins<c.colorE5E5E5> the visual editor allows to
+ </c>
+
+00:05:05.170 --> 00:05:07.380 align:start position:0%
+Jenkins<c.colorE5E5E5> the visual editor allows to</c>
+<c.colorCCCCCC>create<00:05:05.470><c> a</c><00:05:05.650><c> declarative</c><00:05:06.250><c> pipeline</c><00:05:06.820><c> by</c><00:05:07.360><c> a</c></c>
+
+00:05:07.380 --> 00:05:07.390 align:start position:0%
+<c.colorCCCCCC>create a declarative pipeline by a
+ </c>
+
+00:05:07.390 --> 00:05:10.160 align:start position:0%
+<c.colorCCCCCC>create a declarative pipeline by a
+series<00:05:08.020><c> of</c><00:05:08.290><c> predefined</c><00:05:09.040><c> steps</c><00:05:09.490><c> and</c></c>
+
+00:05:10.160 --> 00:05:10.170 align:start position:0%
+series<c.colorCCCCCC> of predefined steps and
+ </c>
+
+00:05:10.170 --> 00:05:12.570 align:start position:0%
+series<c.colorCCCCCC> of predefined steps and
+automatically<00:05:11.170><c> generates</c></c><c.colorE5E5E5><00:05:11.620><c> the</c><00:05:11.890><c> source</c><00:05:12.220><c> code</c></c>
+
+00:05:12.570 --> 00:05:12.580 align:start position:0%
+automatically generates<c.colorE5E5E5> the source code
+ </c>
+
+00:05:12.580 --> 00:05:15.510 align:start position:0%
+automatically generates<c.colorE5E5E5> the source code
+for<00:05:12.850><c> you</c><00:05:13.030><c> it</c><00:05:13.240><c> is</c><00:05:14.200><c> a</c><00:05:14.230><c> great</c><00:05:14.590><c> way</c><00:05:14.830><c> to</c><00:05:14.860><c> get</c><00:05:15.190><c> started</c></c>
+
+00:05:15.510 --> 00:05:15.520 align:start position:0%
+for you it is a<c.colorE5E5E5> great way to get started
+ </c>
+
+00:05:15.520 --> 00:05:18.360 align:start position:0%
+for you it is a<c.colorE5E5E5> great way to get started
+with<00:05:15.820><c> pipelines</c><00:05:16.480><c> in</c><00:05:16.660><c> Jenkins</c><00:05:17.280><c> especially</c><00:05:18.280><c> if</c></c>
+
+00:05:18.360 --> 00:05:18.370 align:start position:0%
+with pipelines in Jenkins<c.colorE5E5E5> especially if
+ </c>
+
+00:05:18.370 --> 00:05:20.820 align:start position:0%
+with pipelines in Jenkins<c.colorE5E5E5> especially if
+you're<00:05:18.580><c> not</c><00:05:18.730><c> familiar</c><00:05:19.030><c> with</c><00:05:19.330><c> groovy</c><00:05:20.020><c> or</c><00:05:20.200><c> the</c></c>
+
+00:05:20.820 --> 00:05:20.830 align:start position:0%
+you're<c.colorE5E5E5> not familiar with groovy or the
+ </c>
+
+00:05:20.830 --> 00:05:24.540 align:start position:0%
+you're<c.colorE5E5E5> not familiar with groovy or the
+declarative<00:05:21.340><c> syntax</c><00:05:22.920><c> this</c><00:05:23.920><c> is</c><00:05:24.130><c> the</c><00:05:24.280><c> end</c><00:05:24.400><c> of</c></c>
+
+00:05:24.540 --> 00:05:24.550 align:start position:0%
+declarative<c.colorE5E5E5> syntax this is the end of
+ </c>
+
+00:05:24.550 --> 00:05:27.240 align:start position:0%
+declarative<c.colorE5E5E5> syntax this is the end of
+this<00:05:24.700><c> video</c><00:05:24.970><c> where</c><00:05:25.750><c> we</c><00:05:25.930><c> introduce</c><00:05:26.440><c> blue</c><00:05:26.830><c> ocean</c></c>
+
+00:05:27.240 --> 00:05:27.250 align:start position:0%
+this video<c.colorE5E5E5> where we introduce blue ocean
+ </c>
+
+00:05:27.250 --> 00:05:30.150 align:start position:0%
+this video<c.colorE5E5E5> where we introduce blue ocean
+watch<00:05:28.240><c> the</c><00:05:28.510><c> next</c><00:05:28.810><c> video</c><00:05:28.990><c> where</c><00:05:29.710><c> we'll</c><00:05:29.920><c> be</c></c>
+
+00:05:30.150 --> 00:05:30.160 align:start position:0%
+watch the<c.colorE5E5E5> next video where we'll be
+ </c>
+
+00:05:30.160 --> 00:05:33.960 align:start position:0%
+watch the<c.colorE5E5E5> next video where we'll be
+installing<00:05:30.430><c> blue</c><00:05:31.000><c> ocean</c><00:05:31.420><c> in</c><00:05:31.570><c> Jenkins</c></c>
+

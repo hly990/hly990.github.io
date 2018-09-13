@@ -1,0 +1,1726 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.280 --> 00:00:02.460 align:start position:0%
+ 
+in<00:00:00.669><c> this</c><00:00:01.150><c> video</c><00:00:01.540><c> we</c><00:00:01.900><c> are</c><00:00:01.960><c> going</c><00:00:02.110><c> to</c><c.colorCCCCCC><00:00:02.199><c> learn</c></c>
+
+00:00:02.460 --> 00:00:02.470 align:start position:0%
+in this video we are going to<c.colorCCCCCC> learn
+ </c>
+
+00:00:02.470 --> 00:00:05.730 align:start position:0%
+in this video we are going to<c.colorCCCCCC> learn
+about<00:00:02.649><c> jenkins</c><00:00:03.250><c> file</c><00:00:03.520><c> in</c><00:00:03.970><c> terms</c><00:00:04.720><c> of</c><00:00:04.899><c> theory</c><00:00:05.319><c> we</c></c>
+
+00:00:05.730 --> 00:00:05.740 align:start position:0%
+<c.colorCCCCCC>about jenkins file in terms of theory we
+ </c>
+
+00:00:05.740 --> 00:00:07.739 align:start position:0%
+<c.colorCCCCCC>about jenkins file in terms of theory we
+will<00:00:05.890><c> see</c><00:00:06.129><c> what</c></c><c.colorE5E5E5><00:00:06.339><c> the</c><00:00:06.430><c> Jenkins</c><00:00:06.849><c> file</c><00:00:07.149><c> is</c><00:00:07.450><c> and</c></c>
+
+00:00:07.739 --> 00:00:07.749 align:start position:0%
+will see what<c.colorE5E5E5> the Jenkins file is and
+ </c>
+
+00:00:07.749 --> 00:00:10.110 align:start position:0%
+will see what<c.colorE5E5E5> the Jenkins file is and</c>
+<c.colorCCCCCC>explore<00:00:08.650><c> declarative</c></c><c.colorE5E5E5><00:00:09.340><c> and</c><00:00:09.550><c> scripted</c></c>
+
+00:00:10.110 --> 00:00:10.120 align:start position:0%
+<c.colorCCCCCC>explore declarative</c><c.colorE5E5E5> and scripted
+ </c>
+
+00:00:10.120 --> 00:00:13.230 align:start position:0%
+<c.colorCCCCCC>explore declarative</c><c.colorE5E5E5> and scripted
+pipelines<00:00:10.660><c> their</c><00:00:11.440><c> main</c><00:00:11.680><c> syntax</c><00:00:12.310><c> as</c><00:00:12.640><c> well</c><00:00:13.090><c> as</c></c>
+
+00:00:13.230 --> 00:00:13.240 align:start position:0%
+pipelines<c.colorE5E5E5> their main syntax as well as
+ </c>
+
+00:00:13.240 --> 00:00:16.170 align:start position:0%
+pipelines<c.colorE5E5E5> their main syntax as well as
+their<00:00:13.450><c> differences</c><00:00:14.140><c> and</c><00:00:14.440><c> advantages</c><00:00:15.370><c> in</c><00:00:15.610><c> the</c></c>
+
+00:00:16.170 --> 00:00:16.180 align:start position:0%
+their differences and advantages in the
+ 
+
+00:00:16.180 --> 00:00:18.390 align:start position:0%
+their differences and advantages in the
+<c.colorE5E5E5>practical<00:00:16.689><c> part</c><00:00:16.929><c> we</c><00:00:17.439><c> will</c><00:00:17.589><c> create</c><00:00:17.859><c> and</c><00:00:18.160><c> run</c></c>
+
+00:00:18.390 --> 00:00:18.400 align:start position:0%
+<c.colorE5E5E5>practical part we will create and run
+ </c>
+
+00:00:18.400 --> 00:00:20.970 align:start position:0%
+<c.colorE5E5E5>practical part we will create and run
+simple<00:00:19.060><c> pipeline</c><00:00:19.329><c> jobs</c><00:00:19.900><c> using</c><00:00:20.740><c> both</c></c>
+
+00:00:20.970 --> 00:00:20.980 align:start position:0%
+<c.colorE5E5E5>simple pipeline jobs using both
+ </c>
+
+00:00:20.980 --> 00:00:24.060 align:start position:0%
+<c.colorE5E5E5>simple pipeline jobs using both
+declarative<00:00:21.849><c> and</c><00:00:22.119><c> scripted</c><00:00:22.720><c> pipelines</c><00:00:23.259><c> let's</c></c>
+
+00:00:24.060 --> 00:00:24.070 align:start position:0%
+declarative<c.colorE5E5E5> and scripted pipelines let's
+ </c>
+
+00:00:24.070 --> 00:00:26.519 align:start position:0%
+declarative<c.colorE5E5E5> and scripted pipelines let's
+start<00:00:24.369><c> by</c><00:00:24.579><c> defining</c><00:00:24.789><c> what</c></c><c.colorCCCCCC><00:00:25.150><c> a</c><00:00:25.359><c> Jenkins</c><00:00:25.929><c> file</c><00:00:26.169><c> is</c></c>
+
+00:00:26.519 --> 00:00:26.529 align:start position:0%
+start by defining what<c.colorCCCCCC> a Jenkins file is
+ </c>
+
+00:00:26.529 --> 00:00:29.880 align:start position:0%
+start by defining what<c.colorCCCCCC> a Jenkins file is
+a<00:00:26.880><c> Jenkins</c><00:00:27.880><c> file</c><00:00:28.150><c> is</c><00:00:28.390><c> a</c><00:00:28.449><c> script</c></c><c.colorE5E5E5><00:00:28.989><c> containing</c></c>
+
+00:00:29.880 --> 00:00:29.890 align:start position:0%
+a Jenkins file is a script<c.colorE5E5E5> containing
+ </c>
+
+00:00:29.890 --> 00:00:32.490 align:start position:0%
+a Jenkins file is a script<c.colorE5E5E5> containing
+the<00:00:30.039><c> definition</c><00:00:30.759><c> and</c><00:00:30.909><c> the</c><00:00:31.179><c> steps</c><00:00:31.539><c> to</c><00:00:32.020><c> execute</c></c>
+
+00:00:32.490 --> 00:00:32.500 align:start position:0%
+<c.colorE5E5E5>the definition and the steps to execute
+ </c>
+
+00:00:32.500 --> 00:00:35.490 align:start position:0%
+<c.colorE5E5E5>the definition and the steps to execute
+a<00:00:32.590><c> Jenkins</c><00:00:33.010><c> pipeline</c></c><c.colorCCCCCC><00:00:33.550><c> a</c><00:00:33.760><c> Jenkins</c><00:00:34.720><c> file</c><00:00:35.020><c> is</c></c>
+
+00:00:35.490 --> 00:00:35.500 align:start position:0%
+a Jenkins pipeline<c.colorCCCCCC> a Jenkins file is
+ </c>
+
+00:00:35.500 --> 00:00:37.500 align:start position:0%
+a Jenkins pipeline<c.colorCCCCCC> a Jenkins file is
+typically<00:00:36.100><c> stored</c><00:00:36.160><c> on</c><00:00:36.730><c> the</c><00:00:36.880><c> source</c><00:00:37.180><c> version</c></c>
+
+00:00:37.500 --> 00:00:37.510 align:start position:0%
+typically stored<c.colorCCCCCC> on the source version
+ </c>
+
+00:00:37.510 --> 00:00:39.600 align:start position:0%
+typically stored<c.colorCCCCCC> on the source version</c>
+<c.colorE5E5E5>control<00:00:38.200><c> at</c><00:00:38.530><c> the</c><00:00:38.650><c> root</c></c><c.colorCCCCCC><00:00:38.830><c> level</c><00:00:39.190><c> of</c><00:00:39.460><c> the</c></c>
+
+00:00:39.600 --> 00:00:39.610 align:start position:0%
+<c.colorE5E5E5>control at the root</c><c.colorCCCCCC> level of the
+ </c>
+
+00:00:39.610 --> 00:00:42.000 align:start position:0%
+<c.colorE5E5E5>control at the root</c><c.colorCCCCCC> level of the
+repository<00:00:39.930><c> it</c><00:00:40.930><c> is</c><00:00:41.140><c> written</c><00:00:41.410><c> using</c><00:00:41.770><c> a</c></c>
+
+00:00:42.000 --> 00:00:42.010 align:start position:0%
+repository<c.colorCCCCCC> it is written using a
+ </c>
+
+00:00:42.010 --> 00:00:44.400 align:start position:0%
+repository<c.colorCCCCCC> it is written using a
+domain-specific<00:00:42.450><c> language</c><00:00:43.450><c> based</c><00:00:43.750><c> on</c><00:00:43.960><c> groovy</c></c>
+
+00:00:44.400 --> 00:00:44.410 align:start position:0%
+domain-specific language based on groovy
+ 
+
+00:00:44.410 --> 00:00:46.500 align:start position:0%
+domain-specific language based on groovy
+<c.colorE5E5E5>which<00:00:44.920><c> is</c><00:00:45.100><c> a</c><00:00:45.130><c> scripting</c><00:00:45.610><c> language</c></c><c.colorCCCCCC><00:00:45.640><c> for</c></c><c.colorE5E5E5><00:00:46.270><c> the</c></c>
+
+00:00:46.500 --> 00:00:46.510 align:start position:0%
+<c.colorE5E5E5>which is a scripting language</c><c.colorCCCCCC> for</c><c.colorE5E5E5> the
+ </c>
+
+00:00:46.510 --> 00:00:49.650 align:start position:0%
+<c.colorE5E5E5>which is a scripting language</c><c.colorCCCCCC> for</c><c.colorE5E5E5> the</c>
+<c.colorCCCCCC>Java<00:00:46.750><c> Virtual</c><00:00:47.110><c> Machine</c><00:00:47.380><c> a</c><00:00:48.010><c> Jenkins</c><00:00:48.820><c> file</c></c><c.colorE5E5E5><00:00:49.090><c> can</c></c>
+
+00:00:49.650 --> 00:00:49.660 align:start position:0%
+<c.colorCCCCCC>Java Virtual Machine a Jenkins file</c><c.colorE5E5E5> can
+ </c>
+
+00:00:49.660 --> 00:00:51.510 align:start position:0%
+<c.colorCCCCCC>Java Virtual Machine a Jenkins file</c><c.colorE5E5E5> can
+use<00:00:49.840><c> the</c><00:00:49.990><c> declarative</c><00:00:50.590><c> or</c><00:00:50.800><c> the</c><00:00:51.040><c> scripted</c></c>
+
+00:00:51.510 --> 00:00:51.520 align:start position:0%
+use the declarative<c.colorE5E5E5> or the scripted
+ </c>
+
+00:00:51.520 --> 00:00:54.930 align:start position:0%
+use the declarative<c.colorE5E5E5> or the scripted
+syntax<00:00:52.060><c> both</c><00:00:52.990><c> support</c><00:00:53.800><c> building</c><00:00:54.370><c> continuous</c></c>
+
+00:00:54.930 --> 00:00:54.940 align:start position:0%
+syntax<c.colorE5E5E5> both support building continuous
+ </c>
+
+00:00:54.940 --> 00:00:57.510 align:start position:0%
+syntax<c.colorE5E5E5> both support building continuous
+delivery<00:00:55.210><c> pipelines</c></c><c.colorCCCCCC><00:00:56.140><c> the</c><00:00:57.070><c> best</c><00:00:57.250><c> way</c><00:00:57.460><c> to</c></c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+delivery pipelines<c.colorCCCCCC> the best way to
+ </c>
+
+00:00:57.520 --> 00:00:59.910 align:start position:0%
+delivery pipelines<c.colorCCCCCC> the best way to
+introduce<00:00:57.850><c> Jenkins</c><00:00:58.600><c> files</c></c><c.colorE5E5E5><00:00:58.870><c> is</c><00:00:59.290><c> to</c></c><c.colorCCCCCC><00:00:59.440><c> actually</c></c>
+
+00:00:59.910 --> 00:00:59.920 align:start position:0%
+introduce Jenkins files<c.colorE5E5E5> is to</c><c.colorCCCCCC> actually
+ </c>
+
+00:00:59.920 --> 00:01:02.970 align:start position:0%
+introduce Jenkins files<c.colorE5E5E5> is to</c><c.colorCCCCCC> actually
+show<00:01:00.220><c> a</c><00:01:00.460><c> simple</c></c><c.colorE5E5E5><00:01:00.820><c> one</c><00:01:01.180><c> so</c><00:01:01.840><c> let's</c><00:01:02.230><c> dive</c><00:01:02.500><c> into</c><00:01:02.740><c> it</c></c>
+
+00:01:02.970 --> 00:01:02.980 align:start position:0%
+<c.colorCCCCCC>show a simple</c><c.colorE5E5E5> one so let's dive into it
+ </c>
+
+00:01:02.980 --> 00:01:05.520 align:start position:0%
+<c.colorCCCCCC>show a simple</c><c.colorE5E5E5> one so let's dive into it</c>
+<c.colorE5E5E5>this<00:01:03.550><c> is</c><00:01:03.760><c> an</c><00:01:03.910><c> example</c><00:01:04.300><c> of</c><00:01:04.629><c> a</c><00:01:05.019><c> very</c><00:01:05.230><c> simple</c></c>
+
+00:01:05.520 --> 00:01:05.530 align:start position:0%
+<c.colorE5E5E5>this is an example of a very simple
+ </c>
+
+00:01:05.530 --> 00:01:07.860 align:start position:0%
+<c.colorE5E5E5>this is an example of a very simple</c>
+<c.colorCCCCCC>Jenkins<00:01:06.130><c> file</c></c><c.colorE5E5E5><00:01:06.400><c> written</c><00:01:07.000><c> with</c><00:01:07.210><c> the</c><00:01:07.390><c> scripted</c></c>
+
+00:01:07.860 --> 00:01:07.870 align:start position:0%
+<c.colorCCCCCC>Jenkins file</c><c.colorE5E5E5> written with the scripted
+ </c>
+
+00:01:07.870 --> 00:01:11.840 align:start position:0%
+<c.colorCCCCCC>Jenkins file</c><c.colorE5E5E5> written with the scripted
+syntax<00:01:08.640><c> let's</c><00:01:09.640><c> look</c><00:01:09.940><c> at</c><00:01:10.090><c> it</c><00:01:10.240><c> line</c><00:01:10.630><c> by</c><00:01:10.659><c> line</c></c><c.colorCCCCCC><00:01:10.960><c> I</c></c>
+
+00:01:11.840 --> 00:01:11.850 align:start position:0%
+syntax<c.colorE5E5E5> let's look at it line by line</c><c.colorCCCCCC> I
+ </c>
+
+00:01:11.850 --> 00:01:15.030 align:start position:0%
+syntax<c.colorE5E5E5> let's look at it line by line</c><c.colorCCCCCC> I</c>
+<c.colorE5E5E5>usually<00:01:12.850><c> put</c><00:01:13.060><c> the</c></c><c.colorCCCCCC><00:01:13.210><c> so-called</c><00:01:13.450><c> XI</c><00:01:14.110><c> Bank</c></c><c.colorE5E5E5><00:01:14.380><c> at</c><00:01:14.710><c> the</c></c>
+
+00:01:15.030 --> 00:01:15.040 align:start position:0%
+<c.colorE5E5E5>usually put the</c><c.colorCCCCCC> so-called XI Bank</c><c.colorE5E5E5> at the
+ </c>
+
+00:01:15.040 --> 00:01:17.969 align:start position:0%
+<c.colorE5E5E5>usually put the</c><c.colorCCCCCC> so-called XI Bank</c><c.colorE5E5E5> at the
+beginning<00:01:15.460><c> of</c><00:01:15.550><c> my</c><00:01:15.820><c> pipeline</c><00:01:16.210><c> files</c><00:01:16.840><c> to</c><00:01:17.800><c> give</c></c>
+
+00:01:17.969 --> 00:01:17.979 align:start position:0%
+beginning of my pipeline files<c.colorE5E5E5> to give
+ </c>
+
+00:01:17.979 --> 00:01:20.090 align:start position:0%
+beginning of my pipeline files<c.colorE5E5E5> to give
+the<00:01:18.190><c> location</c></c><c.colorCCCCCC><00:01:18.460><c> of</c><00:01:18.820><c> groovy</c></c><c.colorE5E5E5><00:01:19.240><c> on</c><00:01:19.420><c> my</c><00:01:19.630><c> machine</c></c>
+
+00:01:20.090 --> 00:01:20.100 align:start position:0%
+the location<c.colorCCCCCC> of groovy</c><c.colorE5E5E5> on my machine
+ </c>
+
+00:01:20.100 --> 00:01:23.520 align:start position:0%
+the location<c.colorCCCCCC> of groovy</c><c.colorE5E5E5> on my machine</c>
+<c.colorE5E5E5>this<00:01:21.100><c> is</c><00:01:21.280><c> optional</c></c><c.colorCCCCCC><00:01:21.790><c> but</c><00:01:22.390><c> it</c><00:01:22.600><c> is</c></c><c.colorE5E5E5><00:01:22.750><c> helpful</c><00:01:23.320><c> for</c></c>
+
+00:01:23.520 --> 00:01:23.530 align:start position:0%
+<c.colorE5E5E5>this is optional</c><c.colorCCCCCC> but it is</c><c.colorE5E5E5> helpful for
+ </c>
+
+00:01:23.530 --> 00:01:26.190 align:start position:0%
+<c.colorE5E5E5>this is optional</c><c.colorCCCCCC> but it is</c><c.colorE5E5E5> helpful for
+syntax<00:01:24.190><c> highlighting</c><00:01:24.940><c> in</c><00:01:25.120><c> your</c><00:01:25.810><c> favorite</c></c>
+
+00:01:26.190 --> 00:01:26.200 align:start position:0%
+syntax highlighting in your favorite
+ 
+
+00:01:26.200 --> 00:01:29.219 align:start position:0%
+syntax highlighting in your favorite
+<c.colorE5E5E5>editor<00:01:26.680><c> and</c><00:01:26.860><c> on</c><00:01:27.280><c> github</c></c><c.colorCCCCCC><00:01:27.760><c> a</c><00:01:28.030><c> scripted</c><00:01:28.750><c> pipeline</c></c>
+
+00:01:29.219 --> 00:01:29.229 align:start position:0%
+<c.colorE5E5E5>editor and on github</c><c.colorCCCCCC> a scripted pipeline
+ </c>
+
+00:01:29.229 --> 00:01:32.219 align:start position:0%
+<c.colorE5E5E5>editor and on github</c><c.colorCCCCCC> a scripted pipeline
+always<00:01:29.680><c> starts</c><00:01:30.159><c> with</c><00:01:30.340><c> a</c><00:01:30.370><c> node</c><00:01:30.700><c> this</c><00:01:31.630><c> allows</c><00:01:31.990><c> to</c></c>
+
+00:01:32.219 --> 00:01:32.229 align:start position:0%
+always starts<c.colorCCCCCC> with a node this allows to
+ </c>
+
+00:01:32.229 --> 00:01:34.800 align:start position:0%
+always starts<c.colorCCCCCC> with a node this allows to
+allocate<00:01:32.680><c> an</c><00:01:32.860><c> executor</c><00:01:33.490><c> and</c></c><c.colorE5E5E5><00:01:33.610><c> a</c><00:01:34.030><c> workspace</c><00:01:34.600><c> to</c></c>
+
+00:01:34.800 --> 00:01:34.810 align:start position:0%
+allocate an executor and<c.colorE5E5E5> a workspace to
+ </c>
+
+00:01:34.810 --> 00:01:37.800 align:start position:0%
+allocate an executor and<c.colorE5E5E5> a workspace to
+the<00:01:34.930><c> pipeline</c><00:01:35.409><c> within</c><00:01:36.340><c> a</c><00:01:36.430><c> node</c><00:01:36.700><c> there</c><00:01:37.360><c> are</c><00:01:37.479><c> one</c></c>
+
+00:01:37.800 --> 00:01:37.810 align:start position:0%
+the<c.colorE5E5E5> pipeline within a node there are one
+ </c>
+
+00:01:37.810 --> 00:01:41.760 align:start position:0%
+the<c.colorE5E5E5> pipeline within a node there are one
+or</c><c.colorCCCCCC><00:01:38.049><c> more</c><00:01:38.380><c> stages</c></c><c.colorE5E5E5><00:01:38.740><c> a</c><00:01:39.600><c> stage</c><00:01:40.600><c> is</c><00:01:40.870><c> usually</c><00:01:41.380><c> a</c><00:01:41.409><c> task</c></c>
+
+00:01:41.760 --> 00:01:41.770 align:start position:0%
+or<c.colorCCCCCC> more stages</c><c.colorE5E5E5> a stage is usually a task
+ </c>
+
+00:01:41.770 --> 00:01:45.090 align:start position:0%
+or<c.colorCCCCCC> more stages</c><c.colorE5E5E5> a stage is usually a task
+to<00:01:42.130><c> be</c><00:01:42.250><c> performed</c><00:01:43.110><c> we</c><00:01:44.110><c> give</c><00:01:44.290><c> a</c><00:01:44.320><c> stage</c><00:01:44.650><c> a</c><00:01:44.680><c> name</c></c>
+
+00:01:45.090 --> 00:01:45.100 align:start position:0%
+to<c.colorE5E5E5> be performed we give a stage a name
+ </c>
+
+00:01:45.100 --> 00:01:48.899 align:start position:0%
+to<c.colorE5E5E5> be performed we give a stage a name
+here<00:01:45.880><c> build</c><00:01:46.290><c> so</c><00:01:47.290><c> it</c><00:01:47.560><c> can</c><00:01:47.710><c> be</c><00:01:47.860><c> visualized</c><00:01:48.670><c> via</c></c>
+
+00:01:48.899 --> 00:01:48.909 align:start position:0%
+here build so it can be visualized via
+ 
+
+00:01:48.909 --> 00:01:52.800 align:start position:0%
+here build so it can be visualized via
+the<00:01:49.119><c> stage</c><00:01:49.420><c> view</c><00:01:50.460><c> inside</c><c.colorCCCCCC><00:01:51.460><c> the</c><00:01:51.610><c> stage</c><00:01:51.909><c> you</c><00:01:52.659><c> can</c></c>
+
+00:01:52.800 --> 00:01:52.810 align:start position:0%
+the stage view inside<c.colorCCCCCC> the stage you can
+ </c>
+
+00:01:52.810 --> 00:01:54.690 align:start position:0%
+the stage view inside<c.colorCCCCCC> the stage you can
+have<00:01:52.930><c> all</c><00:01:53.140><c> sorts</c><00:01:53.170><c> of</c><00:01:53.650><c> commands</c></c><c.colorE5E5E5><00:01:54.070><c> doing</c><00:01:54.549><c> the</c></c>
+
+00:01:54.690 --> 00:01:54.700 align:start position:0%
+have all sorts<c.colorCCCCCC> of commands</c><c.colorE5E5E5> doing the
+ </c>
+
+00:01:54.700 --> 00:01:57.870 align:start position:0%
+have all sorts<c.colorCCCCCC> of commands</c><c.colorE5E5E5> doing the
+bulk<00:01:54.940><c> of</c><00:01:55.180><c> the</c><00:01:55.390><c> task</c><00:01:55.630><c> you</c><00:01:55.869><c> want</c><00:01:56.080><c> to</c></c><c.colorCCCCCC><00:01:56.200><c> execute</c></c>
+
+00:01:57.870 --> 00:01:57.880 align:start position:0%
+bulk of the<c.colorE5E5E5> task you want to</c><c.colorCCCCCC> execute
+ </c>
+
+00:01:57.880 --> 00:02:00.300 align:start position:0%
+bulk of the<c.colorE5E5E5> task you want to</c><c.colorCCCCCC> execute
+just<00:01:58.149><c> to</c><00:01:58.270><c> keep</c></c><c.colorE5E5E5><00:01:58.420><c> things</c><00:01:58.750><c> simple</c></c><c.colorCCCCCC><00:01:58.930><c> here</c><00:01:59.590><c> I'm</c></c>
+
+00:02:00.300 --> 00:02:00.310 align:start position:0%
+just to keep<c.colorE5E5E5> things simple</c><c.colorCCCCCC> here I'm
+ </c>
+
+00:02:00.310 --> 00:02:02.340 align:start position:0%
+just to keep<c.colorE5E5E5> things simple</c><c.colorCCCCCC> here I'm</c>
+<c.colorE5E5E5>simply<00:02:00.789><c> running</c></c><c.colorCCCCCC><00:02:01.030><c> an</c><00:02:01.360><c> echo</c><00:02:01.630><c> command</c><00:02:02.110><c> to</c></c>
+
+00:02:02.340 --> 00:02:02.350 align:start position:0%
+<c.colorE5E5E5>simply running</c><c.colorCCCCCC> an echo command to
+ </c>
+
+00:02:02.350 --> 00:02:05.760 align:start position:0%
+<c.colorE5E5E5>simply running</c><c.colorCCCCCC> an echo command to
+display</c><c.colorE5E5E5><00:02:02.710><c> the</c><00:02:03.250><c> string</c><00:02:03.549><c> building</c><00:02:04.500><c> you</c><00:02:05.500><c> can</c><00:02:05.649><c> have</c></c>
+
+00:02:05.760 --> 00:02:05.770 align:start position:0%
+display<c.colorE5E5E5> the string building you can have
+ </c>
+
+00:02:05.770 --> 00:02:08.309 align:start position:0%
+display<c.colorE5E5E5> the string building you can have
+as<00:02:05.890><c> many</c><00:02:06.100><c> stages</c><00:02:06.610><c> as</c><00:02:07.000><c> you</c><00:02:07.180><c> want</c><00:02:07.450><c> I</c><00:02:07.689><c> usually</c></c>
+
+00:02:08.309 --> 00:02:08.319 align:start position:0%
+as many stages<c.colorE5E5E5> as you want I usually
+ </c>
+
+00:02:08.319 --> 00:02:10.949 align:start position:0%
+as many stages<c.colorE5E5E5> as you want I usually
+prefer<00:02:08.530><c> to</c><00:02:08.769><c> group</c><00:02:09.250><c> them</c><00:02:09.489><c> for</c><00:02:10.300><c> example</c><00:02:10.569><c> here</c></c>
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+prefer to<c.colorE5E5E5> group them for example here
+ </c>
+
+00:02:10.959 --> 00:02:15.110 align:start position:0%
+prefer to<c.colorE5E5E5> group them for example here
+I'm<00:02:11.140><c> using</c><00:02:11.319><c> test</c><00:02:11.830><c> and</c><00:02:12.510><c> deploy</c></c>
+
+00:02:15.110 --> 00:02:15.120 align:start position:0%
+I'm using test and deploy
+ 
+
+00:02:15.120 --> 00:02:18.110 align:start position:0%
+I'm using test and deploy
+now<00:02:15.900><c> let's</c><00:02:16.680><c> have</c><c.colorE5E5E5><00:02:16.800><c> a</c><00:02:16.920><c> look</c><00:02:17.069><c> at</c><00:02:17.250><c> the</c><00:02:17.370><c> same</c><00:02:17.640><c> script</c></c>
+
+00:02:18.110 --> 00:02:18.120 align:start position:0%
+now let's have<c.colorE5E5E5> a look at the same script
+ </c>
+
+00:02:18.120 --> 00:02:21.740 align:start position:0%
+now let's have<c.colorE5E5E5> a look at the same script</c>
+<c.colorE5E5E5>written</c><c.colorCCCCCC><00:02:18.930><c> with</c><00:02:19.349><c> the</c><00:02:19.530><c> declarative</c></c><c.colorE5E5E5><00:02:20.099><c> syntax</c><00:02:20.750><c> you</c></c>
+
+00:02:21.740 --> 00:02:21.750 align:start position:0%
+<c.colorE5E5E5>written</c><c.colorCCCCCC> with the declarative</c><c.colorE5E5E5> syntax you
+ </c>
+
+00:02:21.750 --> 00:02:23.600 align:start position:0%
+<c.colorE5E5E5>written</c><c.colorCCCCCC> with the declarative</c><c.colorE5E5E5> syntax you
+will<00:02:21.900><c> first</c><00:02:22.170><c> notice</c></c><c.colorCCCCCC><00:02:22.470><c> that</c></c><c.colorE5E5E5><00:02:22.680><c> the</c><00:02:22.950><c> declarative</c></c>
+
+00:02:23.600 --> 00:02:23.610 align:start position:0%
+will first notice<c.colorCCCCCC> that</c><c.colorE5E5E5> the declarative
+ </c>
+
+00:02:23.610 --> 00:02:26.420 align:start position:0%
+will first notice<c.colorCCCCCC> that</c><c.colorE5E5E5> the declarative
+syntax<00:02:23.910><c> is</c><00:02:24.390><c> more</c><00:02:24.629><c> verbose</c><00:02:25.080><c> for</c><00:02:25.769><c> such</c><00:02:25.950><c> a</c><00:02:25.980><c> small</c></c>
+
+00:02:26.420 --> 00:02:26.430 align:start position:0%
+syntax is more verbose for such a small
+ 
+
+00:02:26.430 --> 00:02:29.750 align:start position:0%
+syntax is more verbose for such a small
+Python<c.colorE5E5E5><00:02:26.849><c> script</c><00:02:27.709><c> however</c><00:02:28.709><c> it</c><00:02:29.190><c> becomes</c><00:02:29.430><c> more</c></c>
+
+00:02:29.750 --> 00:02:29.760 align:start position:0%
+Python<c.colorE5E5E5> script however it becomes more
+ </c>
+
+00:02:29.760 --> 00:02:31.699 align:start position:0%
+Python<c.colorE5E5E5> script however it becomes more
+readable<00:02:30.090><c> once</c><00:02:30.510><c> you</c><00:02:30.690><c> have</c><00:02:30.780><c> a</c><00:02:30.810><c> more</c><00:02:31.110><c> complex</c></c>
+
+00:02:31.699 --> 00:02:31.709 align:start position:0%
+readable once you have a more complex
+ 
+
+00:02:31.709 --> 00:02:34.820 align:start position:0%
+readable once you have a more complex
+<c.colorE5E5E5>and<00:02:32.129><c> longer</c><00:02:32.640><c> script</c></c><c.colorCCCCCC><00:02:32.970><c> a</c><00:02:33.260><c> declarative</c></c><c.colorE5E5E5><00:02:34.260><c> pipeline</c></c>
+
+00:02:34.820 --> 00:02:34.830 align:start position:0%
+<c.colorE5E5E5>and longer script</c><c.colorCCCCCC> a declarative</c><c.colorE5E5E5> pipeline
+ </c>
+
+00:02:34.830 --> 00:02:37.400 align:start position:0%
+<c.colorE5E5E5>and longer script</c><c.colorCCCCCC> a declarative</c><c.colorE5E5E5> pipeline
+always<00:02:35.310><c> starts</c><00:02:35.819><c> with</c></c><c.colorCCCCCC><00:02:36.000><c> a</c></c><c.colorE5E5E5><00:02:36.209><c> pipeline</c><00:02:36.780><c> directive</c></c>
+
+00:02:37.400 --> 00:02:37.410 align:start position:0%
+always starts with<c.colorCCCCCC> a</c><c.colorE5E5E5> pipeline directive
+ </c>
+
+00:02:37.410 --> 00:02:41.240 align:start position:0%
+always starts with<c.colorCCCCCC> a</c><c.colorE5E5E5> pipeline directive
+and<00:02:37.590><c> contains</c><00:02:38.489><c> an</c><00:02:38.760><c> agent</c><00:02:39.390><c> directive</c><00:02:40.250><c> agent</c></c>
+
+00:02:41.240 --> 00:02:41.250 align:start position:0%
+and contains an agent directive agent
+ 
+
+00:02:41.250 --> 00:02:43.430 align:start position:0%
+and contains an agent directive agent
+instructs<00:02:42.180><c> Jenkins</c><00:02:42.690><c> to</c><00:02:42.840><c> allocate</c><00:02:43.260><c> an</c>
+
+00:02:43.430 --> 00:02:43.440 align:start position:0%
+instructs Jenkins to allocate an
+ 
+
+00:02:43.440 --> 00:02:45.589 align:start position:0%
+instructs Jenkins to allocate an
+executor<c.colorE5E5E5><00:02:44.069><c> and</c></c><c.colorCCCCCC><00:02:44.220><c> a</c><00:02:44.519><c> workspace</c><00:02:44.970><c> for</c><00:02:45.150><c> the</c></c>
+
+00:02:45.589 --> 00:02:45.599 align:start position:0%
+executor<c.colorE5E5E5> and</c><c.colorCCCCCC> a workspace for the
+ </c>
+
+00:02:45.599 --> 00:02:49.759 align:start position:0%
+executor<c.colorE5E5E5> and</c><c.colorCCCCCC> a workspace for the</c>
+<c.colorE5E5E5>pipeline<00:02:46.110><c> to</c></c><c.colorCCCCCC><00:02:47.030><c> get</c><00:02:48.030><c> started</c></c><c.colorE5E5E5><00:02:48.630><c> you</c><00:02:49.170><c> can</c></c><c.colorCCCCCC><00:02:49.200><c> use</c><00:02:49.500><c> any</c></c>
+
+00:02:49.759 --> 00:02:49.769 align:start position:0%
+<c.colorE5E5E5>pipeline to</c><c.colorCCCCCC> get started</c><c.colorE5E5E5> you can</c><c.colorCCCCCC> use any
+ </c>
+
+00:02:49.769 --> 00:02:52.520 align:start position:0%
+<c.colorE5E5E5>pipeline to</c><c.colorCCCCCC> get started</c><c.colorE5E5E5> you can</c><c.colorCCCCCC> use any
+agent<00:02:50.340><c> so</c><00:02:50.670><c> that</c><00:02:50.700><c> Jenkins</c><00:02:51.329><c> will</c><00:02:51.630><c> allocate</c><00:02:51.989><c> the</c></c>
+
+00:02:52.520 --> 00:02:52.530 align:start position:0%
+agent so that Jenkins will allocate the
+ 
+
+00:02:52.530 --> 00:02:55.250 align:start position:0%
+agent so that Jenkins will allocate the
+pipeline<c.colorCCCCCC><00:02:53.040><c> to</c><00:02:53.250><c> any</c></c><c.colorE5E5E5><00:02:53.730><c> available</c><00:02:54.420><c> executors</c><00:02:55.079><c> on</c></c>
+
+00:02:55.250 --> 00:02:55.260 align:start position:0%
+pipeline<c.colorCCCCCC> to any</c><c.colorE5E5E5> available executors on
+ </c>
+
+00:02:55.260 --> 00:02:57.680 align:start position:0%
+pipeline<c.colorCCCCCC> to any</c><c.colorE5E5E5> available executors on
+the<00:02:55.470><c> Jenkins</c><00:02:55.890><c> master</c><00:02:56.420><c> agents</c><00:02:57.420><c> are</c><00:02:57.569><c> also</c></c>
+
+00:02:57.680 --> 00:02:57.690 align:start position:0%
+the<c.colorE5E5E5> Jenkins master agents are also
+ </c>
+
+00:02:57.690 --> 00:02:59.930 align:start position:0%
+the<c.colorE5E5E5> Jenkins master agents are also
+useful</c><c.colorCCCCCC><00:02:58.079><c> if</c><00:02:58.500><c> you</c><00:02:58.650><c> want</c></c><c.colorE5E5E5><00:02:58.860><c> to</c><00:02:59.040><c> run</c><00:02:59.220><c> the</c></c><c.colorCCCCCC><00:02:59.430><c> pipeline</c></c>
+
+00:02:59.930 --> 00:02:59.940 align:start position:0%
+useful<c.colorCCCCCC> if you want</c><c.colorE5E5E5> to run the</c><c.colorCCCCCC> pipeline
+ </c>
+
+00:02:59.940 --> 00:03:03.949 align:start position:0%
+useful<c.colorCCCCCC> if you want</c><c.colorE5E5E5> to run the</c><c.colorCCCCCC> pipeline
+or<00:03:00.120><c> a</c><00:03:00.870><c> slave</c><00:03:01.230><c> or</c><00:03:01.530><c> agent</c><00:03:02.099><c> Jenkins</c><00:03:02.340><c> node</c><00:03:02.959><c> another</c></c>
+
+00:03:03.949 --> 00:03:03.959 align:start position:0%
+or<c.colorCCCCCC> a slave or agent Jenkins node another
+ </c>
+
+00:03:03.959 --> 00:03:05.960 align:start position:0%
+or<c.colorCCCCCC> a slave or agent Jenkins node another
+required<00:03:04.440><c> directive</c><00:03:05.069><c> in</c><00:03:05.250><c> the</c><00:03:05.459><c> declarative</c></c>
+
+00:03:05.960 --> 00:03:05.970 align:start position:0%
+required directive in the declarative
+ 
+
+00:03:05.970 --> 00:03:09.680 align:start position:0%
+required directive in the declarative
+pipeline<c.colorE5E5E5><00:03:06.510><c> is</c><00:03:06.930><c> the</c></c><c.colorCCCCCC><00:03:06.959><c> stages</c><00:03:07.769><c> directive</c></c><c.colorE5E5E5><00:03:08.690><c> this</c></c>
+
+00:03:09.680 --> 00:03:09.690 align:start position:0%
+pipeline<c.colorE5E5E5> is the</c><c.colorCCCCCC> stages directive</c><c.colorE5E5E5> this
+ </c>
+
+00:03:09.690 --> 00:03:12.440 align:start position:0%
+pipeline<c.colorE5E5E5> is the</c><c.colorCCCCCC> stages directive</c><c.colorE5E5E5> this
+contains<00:03:10.230><c> a</c><00:03:10.440><c> sequence</c><00:03:10.739><c> of</c><00:03:11.129><c> one</c><00:03:11.549><c> or</c><00:03:11.819><c> more</c></c><c.colorCCCCCC><00:03:11.879><c> stage</c></c>
+
+00:03:12.440 --> 00:03:12.450 align:start position:0%
+contains a sequence<c.colorE5E5E5> of one or more</c><c.colorCCCCCC> stage
+ </c>
+
+00:03:12.450 --> 00:03:15.289 align:start position:0%
+contains a sequence<c.colorE5E5E5> of one or more</c><c.colorCCCCCC> stage
+directives<00:03:13.400><c> we</c><00:03:14.400><c> already</c><00:03:14.670><c> saw</c><00:03:14.910><c> the</c><00:03:14.970><c> stage</c></c>
+
+00:03:15.289 --> 00:03:15.299 align:start position:0%
+directives we already saw the stage
+ 
+
+00:03:15.299 --> 00:03:17.210 align:start position:0%
+directives we already saw the stage
+directive<00:03:15.900><c> in</c><00:03:16.019><c> the</c><00:03:16.140><c> scripted</c><00:03:16.560><c> pipeline</c><c.colorE5E5E5><00:03:17.010><c> and</c></c>
+
+00:03:17.210 --> 00:03:17.220 align:start position:0%
+directive in the scripted pipeline<c.colorE5E5E5> and
+ </c>
+
+00:03:17.220 --> 00:03:19.220 align:start position:0%
+directive in the scripted pipeline<c.colorE5E5E5> and
+it<00:03:17.670><c> works</c><00:03:17.879><c> in</c><00:03:18.120><c> the</c><00:03:18.269><c> same</c></c><c.colorCCCCCC><00:03:18.540><c> way</c><00:03:18.840><c> for</c></c><c.colorE5E5E5><00:03:18.900><c> the</c></c>
+
+00:03:19.220 --> 00:03:19.230 align:start position:0%
+it works in<c.colorE5E5E5> the same</c><c.colorCCCCCC> way for</c><c.colorE5E5E5> the
+ </c>
+
+00:03:19.230 --> 00:03:23.240 align:start position:0%
+it works in<c.colorE5E5E5> the same</c><c.colorCCCCCC> way for</c><c.colorE5E5E5> the
+declarative<00:03:19.859><c> pipeline</c><00:03:21.380><c> however</c><00:03:22.380><c> unlike</c><00:03:23.220><c> the</c></c>
+
+00:03:23.240 --> 00:03:23.250 align:start position:0%
+<c.colorE5E5E5>declarative pipeline however unlike the
+ </c>
+
+00:03:23.250 --> 00:03:25.940 align:start position:0%
+<c.colorE5E5E5>declarative pipeline however unlike the
+scripted<00:03:23.910><c> pipeline</c><00:03:24.420><c> the</c><00:03:24.989><c> stage</c><00:03:25.290><c> directive</c></c>
+
+00:03:25.940 --> 00:03:25.950 align:start position:0%
+scripted pipeline the stage directive
+ 
+
+00:03:25.950 --> 00:03:28.879 align:start position:0%
+scripted pipeline the stage directive
+requires<00:03:26.430><c> a</c><00:03:26.639><c> steps</c><00:03:27.090><c> directive</c><c.colorE5E5E5><00:03:27.840><c> in</c><00:03:28.350><c> order</c><00:03:28.739><c> to</c></c>
+
+00:03:28.879 --> 00:03:28.889 align:start position:0%
+requires a steps directive<c.colorE5E5E5> in order to
+ </c>
+
+00:03:28.889 --> 00:03:32.360 align:start position:0%
+requires a steps directive<c.colorE5E5E5> in order to
+be<00:03:29.010><c> a</c><00:03:29.040><c> valid</c><00:03:29.269><c> declarative</c><00:03:30.269><c> pipeline</c></c><c.colorCCCCCC><00:03:30.810><c> a</c><00:03:31.370><c> steps</c></c>
+
+00:03:32.360 --> 00:03:32.370 align:start position:0%
+be a valid<c.colorE5E5E5> declarative pipeline</c><c.colorCCCCCC> a steps
+ </c>
+
+00:03:32.370 --> 00:03:34.670 align:start position:0%
+be a valid<c.colorE5E5E5> declarative pipeline</c><c.colorCCCCCC> a steps
+directive<00:03:32.970><c> instruction</c><00:03:33.840><c> Keynes</c><00:03:34.079><c> on</c><00:03:34.290><c> the</c></c><c.colorE5E5E5><00:03:34.440><c> task</c></c>
+
+00:03:34.670 --> 00:03:34.680 align:start position:0%
+directive instruction<c.colorCCCCCC> Keynes on the</c><c.colorE5E5E5> task
+ </c>
+
+00:03:34.680 --> 00:03:38.030 align:start position:0%
+directive instruction<c.colorCCCCCC> Keynes on the</c><c.colorE5E5E5> task
+or<00:03:35.040><c> command</c><00:03:35.519><c> to</c><00:03:35.730><c> execute</c></c><c.colorCCCCCC><00:03:36.109><c> here</c></c><c.colorE5E5E5><00:03:37.109><c> we</c><00:03:37.650><c> have</c><00:03:37.799><c> our</c></c>
+
+00:03:38.030 --> 00:03:38.040 align:start position:0%
+or command to execute<c.colorCCCCCC> here</c><c.colorE5E5E5> we have our
+ </c>
+
+00:03:38.040 --> 00:03:40.580 align:start position:0%
+or command to execute<c.colorCCCCCC> here</c><c.colorE5E5E5> we have our
+usual</c><c.colorCCCCCC><00:03:38.340><c> echo</c><00:03:38.790><c> command</c><00:03:39.299><c> to</c><00:03:39.540><c> display</c><00:03:39.660><c> a</c><00:03:40.019><c> message</c></c>
+
+00:03:40.580 --> 00:03:40.590 align:start position:0%
+usual<c.colorCCCCCC> echo command to display a message
+ </c>
+
+00:03:40.590 --> 00:03:43.190 align:start position:0%
+usual<c.colorCCCCCC> echo command to display a message
+the<00:03:41.280><c> same</c><00:03:41.519><c> structure</c><00:03:42.150><c> is</c><00:03:42.299><c> repeated</c><00:03:42.959><c> for</c><00:03:43.170><c> the</c></c>
+
+00:03:43.190 --> 00:03:43.200 align:start position:0%
+the same structure is repeated for the
+ 
+
+00:03:43.200 --> 00:03:48.130 align:start position:0%
+the same structure is repeated for the
+stage<c.colorE5E5E5><00:03:43.650><c> test</c><00:03:44.340><c> and</c><00:03:45.349><c> deploy</c></c>
+
+00:03:48.130 --> 00:03:48.140 align:start position:0%
+stage<c.colorE5E5E5> test and deploy
+ </c>
+
+00:03:48.140 --> 00:03:51.160 align:start position:0%
+stage<c.colorE5E5E5> test and deploy
+now<00:03:48.920><c> let's</c><00:03:49.400><c> create</c><00:03:49.610><c> simple</c><00:03:50.420><c> pipeline</c><00:03:50.690><c> jobs</c></c>
+
+00:03:51.160 --> 00:03:51.170 align:start position:0%
+now let's create simple pipeline jobs
+ 
+
+00:03:51.170 --> 00:03:53.590 align:start position:0%
+now let's create simple pipeline jobs
+using<c.colorE5E5E5><00:03:51.440><c> both</c><00:03:51.830><c> the</c><00:03:52.100><c> scripted</c><00:03:52.670><c> and</c><00:03:52.910><c> declarative</c></c>
+
+00:03:53.590 --> 00:03:53.600 align:start position:0%
+using<c.colorE5E5E5> both the scripted and declarative
+ </c>
+
+00:03:53.600 --> 00:03:57.340 align:start position:0%
+using<c.colorE5E5E5> both the scripted and declarative
+syntax</c><c.colorCCCCCC><00:03:54.250><c> go</c><00:03:55.250><c> to</c><00:03:55.310><c> Jenkins</c><00:03:56.000><c> and</c><00:03:56.270><c> create</c><00:03:56.990><c> a</c><00:03:57.050><c> new</c></c>
+
+00:03:57.340 --> 00:03:57.350 align:start position:0%
+syntax<c.colorCCCCCC> go to Jenkins and create a new
+ </c>
+
+00:03:57.350 --> 00:04:01.450 align:start position:0%
+syntax<c.colorCCCCCC> go to Jenkins and create a new
+job<00:03:57.650><c> by</c></c><c.colorE5E5E5><00:03:58.100><c> clicking</c><00:03:58.640><c> on</c><00:03:58.820><c> new</c><00:03:59.570><c> item</c><00:04:00.220><c> give</c></c><c.colorCCCCCC><00:04:01.220><c> it</c><00:04:01.340><c> a</c></c>
+
+00:04:01.450 --> 00:04:01.460 align:start position:0%
+job<c.colorCCCCCC> by</c><c.colorE5E5E5> clicking on new item give</c><c.colorCCCCCC> it a
+ </c>
+
+00:04:01.460 --> 00:04:04.720 align:start position:0%
+job<c.colorCCCCCC> by</c><c.colorE5E5E5> clicking on new item give</c><c.colorCCCCCC> it a
+name<00:04:01.670><c> here</c><00:04:02.630><c> I'm</c></c><c.colorE5E5E5><00:04:02.780><c> using</c><00:04:03.140><c> my</c><00:04:03.830><c> under</c><00:04:04.430><c> school</c></c>
+
+00:04:04.720 --> 00:04:04.730 align:start position:0%
+name here I'm<c.colorE5E5E5> using my under school
+ </c>
+
+00:04:04.730 --> 00:04:07.780 align:start position:0%
+name here I'm<c.colorE5E5E5> using my under school
+first<00:04:05.090><c> underscore</c><00:04:05.840><c> pipeline</c></c>
+
+00:04:07.780 --> 00:04:07.790 align:start position:0%
+first underscore pipeline
+ 
+
+00:04:07.790 --> 00:04:11.770 align:start position:0%
+first underscore pipeline
+and<00:04:07.909><c> select</c><00:04:08.810><c> pipeline</c><00:04:09.379><c> as</c><00:04:09.560><c> job</c><00:04:10.069><c> type</c><00:04:10.780><c> then</c>
+
+00:04:11.770 --> 00:04:11.780 align:start position:0%
+and select pipeline as job type then
+ 
+
+00:04:11.780 --> 00:04:16.030 align:start position:0%
+and select pipeline as job type then
+<c.colorE5E5E5>click<00:04:12.230><c> on</c></c><c.colorCCCCCC><00:04:12.409><c> OK</c><00:04:13.659><c> as</c><00:04:14.659><c> usual</c><00:04:15.140><c> I</c><00:04:15.349><c> give</c></c><c.colorE5E5E5><00:04:15.860><c> it</c><00:04:15.950><c> a</c></c>
+
+00:04:16.030 --> 00:04:16.040 align:start position:0%
+<c.colorE5E5E5>click on</c><c.colorCCCCCC> OK as usual I give</c><c.colorE5E5E5> it a
+ </c>
+
+00:04:16.040 --> 00:04:18.430 align:start position:0%
+<c.colorE5E5E5>click on</c><c.colorCCCCCC> OK as usual I give</c><c.colorE5E5E5> it a
+friendly<00:04:16.459><c> name</c><00:04:16.850><c> by</c><00:04:17.359><c> going</c><00:04:17.750><c> to</c><00:04:17.959><c> advanced</c></c>
+
+00:04:18.430 --> 00:04:18.440 align:start position:0%
+friendly<c.colorE5E5E5> name by going to advanced
+ </c>
+
+00:04:18.440 --> 00:04:23.879 align:start position:0%
+friendly<c.colorE5E5E5> name by going to advanced
+project<00:04:19.070><c> options</c><00:04:20.650><c> clicking</c><00:04:21.650><c> on</c><00:04:21.799><c> advanced</c><00:04:22.610><c> and</c></c>
+
+00:04:23.879 --> 00:04:23.889 align:start position:0%
+project options clicking on advanced and
+ 
+
+00:04:23.889 --> 00:04:27.760 align:start position:0%
+project options clicking on advanced and
+<c.colorE5E5E5>typing<00:04:24.889><c> a</c></c><c.colorCCCCCC><00:04:25.039><c> friendly</c><00:04:25.669><c> name</c><00:04:25.970><c> with</c><00:04:26.720><c> spaces</c><00:04:27.530><c> and</c></c>
+
+00:04:27.760 --> 00:04:27.770 align:start position:0%
+<c.colorE5E5E5>typing a</c><c.colorCCCCCC> friendly name with spaces and
+ </c>
+
+00:04:27.770 --> 00:04:31.719 align:start position:0%
+<c.colorE5E5E5>typing a</c><c.colorCCCCCC> friendly name with spaces and
+the<00:04:28.130><c> display</c><00:04:28.580><c> name</c></c><c.colorE5E5E5><00:04:29.500><c> in</c><00:04:30.500><c> the</c><00:04:30.770><c> pipeline</c><00:04:30.979><c> section</c></c>
+
+00:04:31.719 --> 00:04:31.729 align:start position:0%
+the display name<c.colorE5E5E5> in the pipeline section
+ </c>
+
+00:04:31.729 --> 00:04:34.270 align:start position:0%
+the display name<c.colorE5E5E5> in the pipeline section
+we<00:04:32.210><c> can</c><00:04:32.330><c> choose</c><00:04:32.570><c> between</c><00:04:32.600><c> a</c><00:04:33.229><c> pipeline</c><00:04:33.830><c> script</c></c>
+
+00:04:34.270 --> 00:04:34.280 align:start position:0%
+we can<c.colorE5E5E5> choose between a pipeline script
+ </c>
+
+00:04:34.280 --> 00:04:38.740 align:start position:0%
+we can<c.colorE5E5E5> choose between a pipeline script
+and<00:04:34.460><c> the</c><00:04:35.060><c> pipeline</c><00:04:35.300><c> script</c><00:04:35.840><c> from</c><00:04:36.139><c> s</c></c><c.colorCCCCCC><00:04:36.560><c> cm</c></c><c.colorE5E5E5><00:04:37.400><c> I</c><00:04:37.750><c> told</c></c>
+
+00:04:38.740 --> 00:04:38.750 align:start position:0%
+and the pipeline<c.colorE5E5E5> script from s</c><c.colorCCCCCC> cm</c><c.colorE5E5E5> I told
+ </c>
+
+00:04:38.750 --> 00:04:41.230 align:start position:0%
+and the pipeline<c.colorE5E5E5> script from s</c><c.colorCCCCCC> cm</c><c.colorE5E5E5> I told
+you<00:04:38.960><c> that</c><00:04:39.139><c> it</c><00:04:39.350><c> is</c><00:04:39.650><c> best</c></c><c.colorCCCCCC><00:04:40.190><c> practice</c><00:04:40.789><c> to</c><00:04:41.030><c> use</c><00:04:41.090><c> a</c></c>
+
+00:04:41.230 --> 00:04:41.240 align:start position:0%
+you that<c.colorE5E5E5> it is best</c><c.colorCCCCCC> practice to use a
+ </c>
+
+00:04:41.240 --> 00:04:44.320 align:start position:0%
+you that<c.colorE5E5E5> it is best</c><c.colorCCCCCC> practice to use a</c>
+<c.colorCCCCCC>jenkins<00:04:41.780><c> file</c><00:04:42.080><c> to</c><00:04:42.740><c> store</c></c><c.colorE5E5E5><00:04:43.070><c> it</c><00:04:43.340><c> under</c><00:04:44.120><c> version</c></c>
+
+00:04:44.320 --> 00:04:44.330 align:start position:0%
+<c.colorCCCCCC>jenkins file to store</c><c.colorE5E5E5> it under version
+ </c>
+
+00:04:44.330 --> 00:04:47.860 align:start position:0%
+<c.colorCCCCCC>jenkins file to store</c><c.colorE5E5E5> it under version
+control<00:04:45.460><c> we</c><00:04:46.460><c> will</c><00:04:46.610><c> do</c><00:04:46.789><c> this</c><00:04:46.970><c> together</c><00:04:47.240><c> in</c><00:04:47.780><c> a</c></c>
+
+00:04:47.860 --> 00:04:47.870 align:start position:0%
+control<c.colorE5E5E5> we will do this together in a
+ </c>
+
+00:04:47.870 --> 00:04:50.650 align:start position:0%
+control<c.colorE5E5E5> we will do this together in a
+minute<00:04:48.550><c> here</c><00:04:49.550><c> I</c><00:04:49.699><c> want</c><00:04:49.970><c> to</c><00:04:50.060><c> show</c><00:04:50.330><c> you</c><00:04:50.389><c> the</c></c>
+
+00:04:50.650 --> 00:04:50.660 align:start position:0%
+minute here<c.colorE5E5E5> I want to show you the
+ </c>
+
+00:04:50.660 --> 00:04:53.790 align:start position:0%
+minute here<c.colorE5E5E5> I want to show you the
+quickest<00:04:51.020><c> way</c><00:04:51.289><c> to</c><00:04:51.320><c> try</c></c><c.colorCCCCCC><00:04:51.889><c> out</c><00:04:52.130><c> a</c><00:04:52.430><c> pipeline</c><00:04:52.970><c> job</c><00:04:53.300><c> I</c></c>
+
+00:04:53.790 --> 00:04:53.800 align:start position:0%
+quickest way to try<c.colorCCCCCC> out a pipeline job I
+ </c>
+
+00:04:53.800 --> 00:04:57.040 align:start position:0%
+quickest way to try<c.colorCCCCCC> out a pipeline job I
+select<00:04:54.800><c> pipeline</c><00:04:55.340><c> script</c></c><c.colorE5E5E5><00:04:55.789><c> and</c><00:04:56.030><c> can</c><00:04:56.780><c> start</c></c>
+
+00:04:57.040 --> 00:04:57.050 align:start position:0%
+select pipeline script<c.colorE5E5E5> and can start
+ </c>
+
+00:04:57.050 --> 00:05:00.040 align:start position:0%
+select pipeline script<c.colorE5E5E5> and can start</c>
+<c.colorCCCCCC>typing</c><c.colorE5E5E5><00:04:57.530><c> my</c><00:04:57.889><c> script</c></c><c.colorCCCCCC><00:04:58.280><c> in</c><00:04:58.520><c> the</c><00:04:58.699><c> box</c></c><c.colorE5E5E5><00:04:58.940><c> this</c><00:04:59.660><c> is</c><00:04:59.840><c> very</c></c>
+
+00:05:00.040 --> 00:05:00.050 align:start position:0%
+<c.colorCCCCCC>typing</c><c.colorE5E5E5> my script</c><c.colorCCCCCC> in the box</c><c.colorE5E5E5> this is very
+ </c>
+
+00:05:00.050 --> 00:05:02.800 align:start position:0%
+<c.colorCCCCCC>typing</c><c.colorE5E5E5> my script</c><c.colorCCCCCC> in the box</c><c.colorE5E5E5> this is very
+useful<00:05:00.590><c> if</c><00:05:00.800><c> you</c></c><c.colorCCCCCC><00:05:01.220><c> want</c><00:05:01.370><c> to</c><00:05:01.639><c> try</c><00:05:01.850><c> a</c><00:05:01.880><c> single</c><00:05:02.510><c> step</c></c>
+
+00:05:02.800 --> 00:05:02.810 align:start position:0%
+useful if<c.colorE5E5E5> you</c><c.colorCCCCCC> want to try a single step
+ </c>
+
+00:05:02.810 --> 00:05:04.170 align:start position:0%
+useful if<c.colorE5E5E5> you</c><c.colorCCCCCC> want to try a single step
+very<00:05:03.320><c> quickly</c></c>
+
+00:05:04.170 --> 00:05:04.180 align:start position:0%
+very quickly
+ 
+
+00:05:04.180 --> 00:05:06.360 align:start position:0%
+very quickly
+note<00:05:05.180><c> that</c><c.colorCCCCCC><00:05:05.510><c> there</c><00:05:05.870><c> are</c><00:05:05.960><c> also</c><00:05:06.139><c> some</c></c>
+
+00:05:06.360 --> 00:05:06.370 align:start position:0%
+note that<c.colorCCCCCC> there are also some
+ </c>
+
+00:05:06.370 --> 00:05:10.110 align:start position:0%
+note that<c.colorCCCCCC> there are also some
+pre-populated<00:05:07.370><c> example</c><00:05:08.000><c> to</c></c><c.colorE5E5E5><00:05:08.479><c> get</c><00:05:08.660><c> you</c><00:05:08.840><c> started</c></c>
+
+00:05:10.110 --> 00:05:10.120 align:start position:0%
+pre-populated example to<c.colorE5E5E5> get you started
+ </c>
+
+00:05:10.120 --> 00:05:13.060 align:start position:0%
+pre-populated example to<c.colorE5E5E5> get you started</c>
+<c.colorCCCCCC>let's<00:05:11.120><c> use</c><00:05:11.389><c> the</c><00:05:11.570><c> scripted</c><00:05:11.990><c> pipeline</c><00:05:12.470><c> I</c><00:05:12.650><c> showed</c></c>
+
+00:05:13.060 --> 00:05:13.070 align:start position:0%
+<c.colorCCCCCC>let's use the scripted pipeline I showed
+ </c>
+
+00:05:13.070 --> 00:05:15.670 align:start position:0%
+<c.colorCCCCCC>let's use the scripted pipeline I showed
+you<00:05:13.220><c> before</c><00:05:13.449><c> there</c><00:05:14.449><c> is</c><00:05:14.570><c> no</c><00:05:14.810><c> need</c><00:05:15.020><c> to</c></c><c.colorE5E5E5><00:05:15.050><c> type</c><00:05:15.440><c> it</c></c>
+
+00:05:15.670 --> 00:05:15.680 align:start position:0%
+you before<c.colorCCCCCC> there is no need to</c><c.colorE5E5E5> type it
+ </c>
+
+00:05:15.680 --> 00:05:17.950 align:start position:0%
+you before<c.colorCCCCCC> there is no need to</c><c.colorE5E5E5> type it
+because<00:05:16.010><c> you</c><00:05:16.310><c> can</c><00:05:16.460><c> find</c><00:05:16.699><c> it</c><00:05:16.820><c> on</c><00:05:16.940><c> github</c><00:05:17.150><c> on</c><00:05:17.630><c> the</c></c>
+
+00:05:17.950 --> 00:05:17.960 align:start position:0%
+because you can find it on github<c.colorE5E5E5> on the
+ </c>
+
+00:05:17.960 --> 00:05:19.900 align:start position:0%
+because you can find it on github<c.colorE5E5E5> on the
+companion<00:05:18.320><c> repository</c><00:05:19.099><c> for</c><00:05:19.340><c> this</c><00:05:19.550><c> video</c></c>
+
+00:05:19.900 --> 00:05:19.910 align:start position:0%
+companion<c.colorE5E5E5> repository for this video
+ </c>
+
+00:05:19.910 --> 00:05:23.110 align:start position:0%
+companion<c.colorE5E5E5> repository for this video
+course<00:05:20.169><c> just</c><00:05:21.169><c> go</c><00:05:21.320><c> to</c><00:05:21.380><c> the</c><00:05:21.560><c> usual</c><00:05:21.740><c> URL</c><00:05:22.490><c> hands</c><00:05:23.000><c> on</c></c>
+
+00:05:23.110 --> 00:05:23.120 align:start position:0%
+course<c.colorE5E5E5> just go to the usual URL hands on
+ </c>
+
+00:05:23.120 --> 00:05:27.159 align:start position:0%
+course<c.colorE5E5E5> just go to the usual URL hands on
+Jenkins</c><c.colorCCCCCC><00:05:23.449><c> in</c><00:05:23.930><c> my</c><00:05:24.229><c> github</c><00:05:24.620><c> account</c></c><c.colorE5E5E5><00:05:24.919><c> and</c><00:05:25.840><c> head</c><00:05:26.840><c> to</c></c>
+
+00:05:27.159 --> 00:05:27.169 align:start position:0%
+Jenkins<c.colorCCCCCC> in my github account</c><c.colorE5E5E5> and head to
+ </c>
+
+00:05:27.169 --> 00:05:30.400 align:start position:0%
+Jenkins<c.colorCCCCCC> in my github account</c><c.colorE5E5E5> and head to
+section<00:05:27.919><c> underscore</c><00:05:28.639><c> for</c></c>
+
+00:05:30.400 --> 00:05:30.410 align:start position:0%
+section<c.colorE5E5E5> underscore for
+ </c>
+
+00:05:30.410 --> 00:05:34.120 align:start position:0%
+section<c.colorE5E5E5> underscore for
+code<00:05:31.160><c> and</c><00:05:32.170><c> scripted</c><00:05:33.170><c> on</c><00:05:33.290><c> the</c><00:05:33.410><c> score</c><00:05:33.650><c> pipeline</c></c>
+
+00:05:34.120 --> 00:05:34.130 align:start position:0%
+code and scripted on the score pipeline
+ 
+
+00:05:34.130 --> 00:05:35.710 align:start position:0%
+code and scripted on the score pipeline
+groovy
+
+00:05:35.710 --> 00:05:35.720 align:start position:0%
+groovy
+ 
+
+00:05:35.720 --> 00:05:41.320 align:start position:0%
+groovy
+you<00:05:36.380><c> can</c><00:05:36.560><c> copy</c><c.colorE5E5E5><00:05:36.800><c> the</c><00:05:37.040><c> script</c><00:05:37.160><c> and</c><00:05:39.790><c> paste</c><00:05:40.790><c> it</c><00:05:41.060><c> in</c></c>
+
+00:05:41.320 --> 00:05:41.330 align:start position:0%
+you can copy<c.colorE5E5E5> the script and paste it in
+ </c>
+
+00:05:41.330 --> 00:05:46.900 align:start position:0%
+you can copy<c.colorE5E5E5> the script and paste it in
+the<00:05:41.450><c> script</c><00:05:41.780><c> box</c><00:05:43.180><c> finally</c></c><c.colorCCCCCC><00:05:44.180><c> click</c><00:05:44.840><c> on</c><00:05:44.990><c> save</c></c>
+
+00:05:46.900 --> 00:05:46.910 align:start position:0%
+the script box<c.colorE5E5E5> finally</c><c.colorCCCCCC> click on save
+ </c>
+
+00:05:46.910 --> 00:05:49.690 align:start position:0%
+the script box<c.colorE5E5E5> finally</c><c.colorCCCCCC> click on save
+let's<00:05:47.540><c> build</c><00:05:47.810><c> our</c><00:05:48.020><c> first</c><00:05:48.530><c> pipeline</c><00:05:48.860><c> job</c><00:05:49.340><c> by</c></c>
+
+00:05:49.690 --> 00:05:49.700 align:start position:0%
+let's build<c.colorCCCCCC> our first pipeline job by
+ </c>
+
+00:05:49.700 --> 00:05:52.460 align:start position:0%
+let's build<c.colorCCCCCC> our first pipeline job by</c>
+<c.colorE5E5E5>clicking<00:05:50.210><c> on</c><00:05:50.390><c> build</c><00:05:50.750><c> now</c></c>
+
+00:05:52.460 --> 00:05:52.470 align:start position:0%
+<c.colorE5E5E5>clicking on build now
+ </c>
+
+00:05:52.470 --> 00:05:54.440 align:start position:0%
+<c.colorE5E5E5>clicking on build now
+you<00:05:53.160><c> can</c><00:05:53.310><c> see</c><00:05:53.490><c> that</c><00:05:53.610><c> the</c><00:05:53.760><c> pipeline</c><00:05:54.030><c> is</c></c>
+
+00:05:54.440 --> 00:05:54.450 align:start position:0%
+you can see that<c.colorE5E5E5> the pipeline is
+ </c>
+
+00:05:54.450 --> 00:05:57.320 align:start position:0%
+you can see that<c.colorE5E5E5> the pipeline is
+visualized<00:05:55.200><c> in</c><00:05:55.530><c> real</c><00:05:55.740><c> time</c><00:05:56.130><c> via</c><00:05:56.790><c> the</c><00:05:56.910><c> stage</c></c>
+
+00:05:57.320 --> 00:05:57.330 align:start position:0%
+<c.colorE5E5E5>visualized in real time via the stage
+ </c>
+
+00:05:57.330 --> 00:06:00.410 align:start position:0%
+<c.colorE5E5E5>visualized in real time via the stage
+view<00:05:57.920><c> this</c><00:05:58.920><c> is</c><00:05:59.100><c> why</c><00:05:59.250><c> it</c><00:05:59.310><c> is</c><00:05:59.460><c> important</c></c><c.colorCCCCCC><00:06:00.120><c> to</c><00:06:00.240><c> use</c></c>
+
+00:06:00.410 --> 00:06:00.420 align:start position:0%
+view this<c.colorE5E5E5> is why it is important</c><c.colorCCCCCC> to use
+ </c>
+
+00:06:00.420 --> 00:06:02.510 align:start position:0%
+view this<c.colorE5E5E5> is why it is important</c><c.colorCCCCCC> to use</c>
+<c.colorE5E5E5>the<00:06:00.630><c> stage</c><00:06:00.930><c> directive</c><00:06:01.590><c> and</c><00:06:01.800><c> give</c><00:06:02.340><c> it</c><00:06:02.430><c> a</c></c>
+
+00:06:02.510 --> 00:06:02.520 align:start position:0%
+<c.colorE5E5E5>the stage directive and give it a
+ </c>
+
+00:06:02.520 --> 00:06:05.270 align:start position:0%
+<c.colorE5E5E5>the stage directive and give it a
+sensible<00:06:02.940><c> label</c><00:06:03.510><c> so</c><00:06:04.140><c> that</c><00:06:04.350><c> it</c><00:06:04.530><c> is</c><00:06:04.770><c> picked</c><00:06:05.100><c> up</c></c>
+
+00:06:05.270 --> 00:06:05.280 align:start position:0%
+sensible label so<c.colorE5E5E5> that it is picked up
+ </c>
+
+00:06:05.280 --> 00:06:09.140 align:start position:0%
+sensible label so<c.colorE5E5E5> that it is picked up
+by<00:06:05.460><c> the</c><00:06:05.670><c> stage</c><00:06:06.120><c> view</c><00:06:07.130><c> inside</c><00:06:08.130><c> each</c><00:06:08.460><c> stage</c></c><c.colorCCCCCC><00:06:08.880><c> you</c></c>
+
+00:06:09.140 --> 00:06:09.150 align:start position:0%
+by the stage view inside each stage<c.colorCCCCCC> you
+ </c>
+
+00:06:09.150 --> 00:06:12.710 align:start position:0%
+by the stage view inside each stage<c.colorCCCCCC> you
+can<00:06:09.330><c> expect</c><00:06:09.780><c> the</c><00:06:10.020><c> logs</c><00:06:10.370><c> as</c><00:06:11.370><c> well</c><00:06:11.610><c> as</c><00:06:12.120><c> the</c><00:06:12.450><c> time</c></c>
+
+00:06:12.710 --> 00:06:12.720 align:start position:0%
+can expect the logs as well<c.colorCCCCCC> as the time
+ </c>
+
+00:06:12.720 --> 00:06:17.180 align:start position:0%
+can expect the logs as well<c.colorCCCCCC> as the time
+it<00:06:13.140><c> took</c><00:06:13.560><c> to</c></c><c.colorE5E5E5><00:06:13.620><c> execute</c><00:06:13.920><c> each</c><00:06:14.610><c> single</c><00:06:15.360><c> stage</c><00:06:16.190><c> you</c></c>
+
+00:06:17.180 --> 00:06:17.190 align:start position:0%
+it took to<c.colorE5E5E5> execute each single stage you
+ </c>
+
+00:06:17.190 --> 00:06:19.430 align:start position:0%
+it took to<c.colorE5E5E5> execute each single stage you
+can<00:06:17.340><c> also</c><00:06:17.490><c> inspect</c><00:06:17.940><c> the</c><00:06:18.270><c> full</c><00:06:18.480><c> execution</c><00:06:19.170><c> by</c></c>
+
+00:06:19.430 --> 00:06:19.440 align:start position:0%
+can also inspect<c.colorE5E5E5> the full execution by
+ </c>
+
+00:06:19.440 --> 00:06:23.360 align:start position:0%
+can also inspect<c.colorE5E5E5> the full execution by
+accessing<00:06:19.950><c> the</c><00:06:20.130><c> console</c><00:06:20.670><c> output</c><00:06:21.710><c> now</c><00:06:22.710><c> let's</c></c>
+
+00:06:23.360 --> 00:06:23.370 align:start position:0%
+accessing the<c.colorE5E5E5> console output now let's
+ </c>
+
+00:06:23.370 --> 00:06:26.780 align:start position:0%
+accessing the<c.colorE5E5E5> console output now let's
+change<00:06:23.730><c> the</c><00:06:24.000><c> job</c><00:06:24.240><c> configuration</c><00:06:25.730><c> go</c><00:06:26.730><c> to</c></c>
+
+00:06:26.780 --> 00:06:26.790 align:start position:0%
+change<c.colorE5E5E5> the job configuration go to
+ </c>
+
+00:06:26.790 --> 00:06:28.610 align:start position:0%
+change<c.colorE5E5E5> the job configuration go to
+pipeline</c>
+
+00:06:28.610 --> 00:06:28.620 align:start position:0%
+pipeline
+ 
+
+00:06:28.620 --> 00:06:31.689 align:start position:0%
+pipeline
+and<00:06:28.710><c> use</c><00:06:29.550><c> the</c><00:06:29.760><c> option</c><00:06:30.120><c> pipeline</c><c.colorE5E5E5><00:06:30.750><c> scraped</c><00:06:31.199><c> from</c></c>
+
+00:06:31.689 --> 00:06:31.699 align:start position:0%
+and use the option pipeline<c.colorE5E5E5> scraped from
+ </c>
+
+00:06:31.699 --> 00:06:33.980 align:start position:0%
+and use the option pipeline<c.colorE5E5E5> scraped from
+SCM</c>
+
+00:06:33.980 --> 00:06:33.990 align:start position:0%
+SCM
+ 
+
+00:06:33.990 --> 00:06:35.870 align:start position:0%
+SCM
+we<00:06:34.350><c> are</c><00:06:34.410><c> going</c><00:06:34.620><c> to</c><c.colorCCCCCC><00:06:34.680><c> use</c><00:06:34.979><c> the</c></c><c.colorE5E5E5><00:06:35.220><c> Jenkins</c><00:06:35.639><c> file</c></c>
+
+00:06:35.870 --> 00:06:35.880 align:start position:0%
+we are going to<c.colorCCCCCC> use the</c><c.colorE5E5E5> Jenkins file
+ </c>
+
+00:06:35.880 --> 00:06:38.300 align:start position:0%
+we are going to<c.colorCCCCCC> use the</c><c.colorE5E5E5> Jenkins file
+stored<00:06:36.539><c> on</c><00:06:36.780><c> the</c><00:06:36.960><c> companion</c><00:06:37.289><c> repository</c><00:06:38.039><c> on</c></c>
+
+00:06:38.300 --> 00:06:38.310 align:start position:0%
+stored on the companion repository on
+ 
+
+00:06:38.310 --> 00:06:41.719 align:start position:0%
+stored on the companion repository on
+github<c.colorE5E5E5><00:06:38.610><c> and</c><00:06:39.210><c> the</c><00:06:39.870><c> section</c></c><c.colorCCCCCC><00:06:40.410><c> under</c></c><c.colorE5E5E5><00:06:40.560><c> school</c><00:06:41.160><c> for</c></c>
+
+00:06:41.719 --> 00:06:41.729 align:start position:0%
+github<c.colorE5E5E5> and the section</c><c.colorCCCCCC> under</c><c.colorE5E5E5> school for
+ </c>
+
+00:06:41.729 --> 00:06:45.100 align:start position:0%
+github<c.colorE5E5E5> and the section</c><c.colorCCCCCC> under</c><c.colorE5E5E5> school for
+slash<00:06:42.750><c> code</c></c>
+
+00:06:45.100 --> 00:06:45.110 align:start position:0%
+slash code
+ 
+
+00:06:45.110 --> 00:06:47.950 align:start position:0%
+slash code
+now<c.colorCCCCCC><00:06:45.830><c> I'd</c><00:06:46.370><c> like</c></c><c.colorE5E5E5><00:06:46.580><c> you</c><00:06:46.759><c> to</c><00:06:46.939><c> post</c><00:06:47.210><c> the</c><00:06:47.449><c> video</c><00:06:47.569><c> and</c></c>
+
+00:06:47.950 --> 00:06:47.960 align:start position:0%
+now<c.colorCCCCCC> I'd like</c><c.colorE5E5E5> you to post the video and
+ </c>
+
+00:06:47.960 --> 00:06:51.040 align:start position:0%
+now<c.colorCCCCCC> I'd like</c><c.colorE5E5E5> you to post the video and
+try</c><c.colorCCCCCC><00:06:48.409><c> it</c><00:06:48.500><c> on</c><00:06:48.680><c> your</c><00:06:48.889><c> own</c><00:06:49.069><c> first</c><00:06:49.509><c> if</c><00:06:50.509><c> you</c><00:06:50.810><c> follow</c></c>
+
+00:06:51.040 --> 00:06:51.050 align:start position:0%
+<c.colorE5E5E5>try</c><c.colorCCCCCC> it on your own first if you follow
+ </c>
+
+00:06:51.050 --> 00:06:52.960 align:start position:0%
+<c.colorE5E5E5>try</c><c.colorCCCCCC> it on your own first if you follow
+the<00:06:51.259><c> previous</c><00:06:51.620><c> videos</c><00:06:52.039><c> you</c><00:06:52.250><c> should</c><00:06:52.430><c> know</c><00:06:52.819><c> how</c></c>
+
+00:06:52.960 --> 00:06:52.970 align:start position:0%
+the<c.colorCCCCCC> previous videos you should know how
+ </c>
+
+00:06:52.970 --> 00:06:56.290 align:start position:0%
+the<c.colorCCCCCC> previous videos you should know how
+to<00:06:53.030><c> pull</c><00:06:53.419><c> code</c><00:06:53.750><c> from</c><00:06:54.050><c> github</c></c><c.colorE5E5E5><00:06:54.789><c> pay</c></c><c.colorCCCCCC><00:06:55.789><c> attention</c></c>
+
+00:06:56.290 --> 00:06:56.300 align:start position:0%
+to pull code from github<c.colorE5E5E5> pay</c><c.colorCCCCCC> attention
+ </c>
+
+00:06:56.300 --> 00:06:58.450 align:start position:0%
+to pull code from github<c.colorE5E5E5> pay</c><c.colorCCCCCC> attention</c>
+<c.colorE5E5E5>to<00:06:56.449><c> the</c><00:06:56.539><c> script</c><00:06:56.900><c> path</c><00:06:57.259><c> as</c><00:06:57.590><c> you</c><00:06:58.280><c> need</c><00:06:58.430><c> to</c></c>
+
+00:06:58.450 --> 00:06:58.460 align:start position:0%
+<c.colorE5E5E5>to the script path as you need to
+ </c>
+
+00:06:58.460 --> 00:07:01.839 align:start position:0%
+<c.colorE5E5E5>to the script path as you need to
+configure<00:06:59.090><c> this</c><00:06:59.270><c> as</c><00:06:59.539><c> well</c></c><c.colorCCCCCC><00:06:59.750><c> so</c><00:06:59.990><c> now</c><00:07:00.979><c> post</c><00:07:01.639><c> the</c></c>
+
+00:07:01.839 --> 00:07:01.849 align:start position:0%
+<c.colorE5E5E5>configure this as well</c><c.colorCCCCCC> so now post the
+ </c>
+
+00:07:01.849 --> 00:07:04.540 align:start position:0%
+<c.colorE5E5E5>configure this as well</c><c.colorCCCCCC> so now post the
+video</c><c.colorE5E5E5><00:07:02.000><c> change</c><00:07:02.990><c> the</c><00:07:03.169><c> configuration</c><00:07:03.860><c> and</c><00:07:04.069><c> run</c></c>
+
+00:07:04.540 --> 00:07:04.550 align:start position:0%
+video<c.colorE5E5E5> change the configuration and run
+ </c>
+
+00:07:04.550 --> 00:07:07.360 align:start position:0%
+video<c.colorE5E5E5> change the configuration and run
+the<00:07:04.699><c> job</c><00:07:04.969><c> welcome</c><00:07:05.960><c> back</c><00:07:06.139><c> I</c><00:07:06.439><c> hope</c></c><c.colorCCCCCC><00:07:06.650><c> you</c></c><c.colorE5E5E5><00:07:07.069><c> managed</c></c>
+
+00:07:07.360 --> 00:07:07.370 align:start position:0%
+the job<c.colorE5E5E5> welcome back I hope</c><c.colorCCCCCC> you</c><c.colorE5E5E5> managed
+ </c>
+
+00:07:07.370 --> 00:07:10.659 align:start position:0%
+the job<c.colorE5E5E5> welcome back I hope</c><c.colorCCCCCC> you</c><c.colorE5E5E5> managed
+to<00:07:07.400><c> crack</c><00:07:07.789><c> it</c><00:07:07.969><c> if</c><00:07:08.780><c> not</c><00:07:09.110><c> no</c><00:07:09.560><c> worries</c></c><c.colorCCCCCC><00:07:09.590><c> I'll</c><00:07:10.370><c> show</c></c>
+
+00:07:10.659 --> 00:07:10.669 align:start position:0%
+to<c.colorE5E5E5> crack it if not no worries</c><c.colorCCCCCC> I'll show
+ </c>
+
+00:07:10.669 --> 00:07:15.360 align:start position:0%
+to<c.colorE5E5E5> crack it if not no worries</c><c.colorCCCCCC> I'll show
+you<00:07:10.729><c> how</c></c><c.colorE5E5E5><00:07:10.939><c> to</c><00:07:11.000><c> do</c><00:07:11.300><c> it</c><00:07:11.419><c> under</c></c><c.colorCCCCCC><00:07:12.430><c> SEM</c><00:07:13.430><c> select</c><00:07:14.210><c> get</c></c>
+
+00:07:15.360 --> 00:07:15.370 align:start position:0%
+you how<c.colorE5E5E5> to do it under</c><c.colorCCCCCC> SEM select get
+ </c>
+
+00:07:15.370 --> 00:07:19.089 align:start position:0%
+you how<c.colorE5E5E5> to do it under</c><c.colorCCCCCC> SEM select get
+under<00:07:16.370><c> repository</c><00:07:17.000><c> URL</c></c><c.colorE5E5E5><00:07:17.210><c> go</c><00:07:18.199><c> to</c><00:07:18.259><c> the</c><00:07:18.560><c> root</c><00:07:18.800><c> of</c></c>
+
+00:07:19.089 --> 00:07:19.099 align:start position:0%
+<c.colorCCCCCC>under repository URL</c><c.colorE5E5E5> go to the root of
+ </c>
+
+00:07:19.099 --> 00:07:22.779 align:start position:0%
+<c.colorCCCCCC>under repository URL</c><c.colorE5E5E5> go to the root of
+the<00:07:19.430><c> companion</c><00:07:20.000><c> github</c><00:07:20.449><c> repository</c><00:07:21.580><c> copy</c><00:07:22.580><c> the</c></c>
+
+00:07:22.779 --> 00:07:22.789 align:start position:0%
+the companion github repository<c.colorE5E5E5> copy the
+ </c>
+
+00:07:22.789 --> 00:07:26.970 align:start position:0%
+the companion github repository<c.colorE5E5E5> copy the</c>
+<c.colorCCCCCC>URL<00:07:23.300><c> and</c></c><c.colorE5E5E5><00:07:23.569><c> paste</c><00:07:24.400><c> it</c><00:07:25.400><c> here</c></c>
+
+00:07:26.970 --> 00:07:26.980 align:start position:0%
+<c.colorCCCCCC>URL and</c><c.colorE5E5E5> paste it here
+ </c>
+
+00:07:26.980 --> 00:07:29.970 align:start position:0%
+<c.colorCCCCCC>URL and</c><c.colorE5E5E5> paste it here
+now<00:07:27.760><c> let's</c><00:07:28.300><c> configure</c><00:07:28.810><c> the</c><00:07:28.960><c> script</c><00:07:29.380><c> path</c></c><c.colorCCCCCC><00:07:29.680><c> I</c></c>
+
+00:07:29.970 --> 00:07:29.980 align:start position:0%
+now let's<c.colorE5E5E5> configure the script path</c><c.colorCCCCCC> I
+ </c>
+
+00:07:29.980 --> 00:07:32.160 align:start position:0%
+now let's<c.colorE5E5E5> configure the script path</c><c.colorCCCCCC> I
+told<00:07:30.700><c> you</c><00:07:30.820><c> that</c></c><c.colorE5E5E5><00:07:30.940><c> it</c><00:07:31.090><c> is</c></c><c.colorCCCCCC><00:07:31.120><c> a</c><00:07:31.240><c> good</c><00:07:31.510><c> practice</c></c><c.colorE5E5E5><00:07:31.750><c> to</c></c>
+
+00:07:32.160 --> 00:07:32.170 align:start position:0%
+told you that<c.colorE5E5E5> it is</c><c.colorCCCCCC> a good practice</c><c.colorE5E5E5> to
+ </c>
+
+00:07:32.170 --> 00:07:35.130 align:start position:0%
+told you that<c.colorE5E5E5> it is</c><c.colorCCCCCC> a good practice</c><c.colorE5E5E5> to
+store<00:07:32.860><c> the</c></c><c.colorCCCCCC><00:07:33.040><c> Jenkins</c><00:07:33.490><c> file</c><00:07:33.820><c> at</c><00:07:34.570><c> the</c><00:07:34.750><c> root</c><00:07:34.930><c> of</c></c>
+
+00:07:35.130 --> 00:07:35.140 align:start position:0%
+<c.colorE5E5E5>store the</c><c.colorCCCCCC> Jenkins file at the root of
+ </c>
+
+00:07:35.140 --> 00:07:37.680 align:start position:0%
+<c.colorE5E5E5>store the</c><c.colorCCCCCC> Jenkins file at the root of
+the<00:07:35.260><c> repository</c><00:07:35.860><c> I</c><00:07:36.120><c> couldn't</c><00:07:37.120><c> do</c></c><c.colorE5E5E5><00:07:37.240><c> it</c><00:07:37.360><c> in</c><00:07:37.510><c> my</c></c>
+
+00:07:37.680 --> 00:07:37.690 align:start position:0%
+the<c.colorCCCCCC> repository I couldn't do</c><c.colorE5E5E5> it in my
+ </c>
+
+00:07:37.690 --> 00:07:39.990 align:start position:0%
+the<c.colorCCCCCC> repository I couldn't do</c><c.colorE5E5E5> it in my</c>
+<c.colorCCCCCC>repository<00:07:38.410><c> because</c></c><c.colorE5E5E5><00:07:38.590><c> it</c><00:07:39.100><c> is</c><00:07:39.310><c> a</c><00:07:39.340><c> documentation</c></c>
+
+00:07:39.990 --> 00:07:40.000 align:start position:0%
+<c.colorCCCCCC>repository because</c><c.colorE5E5E5> it is a documentation
+ </c>
+
+00:07:40.000 --> 00:07:43.350 align:start position:0%
+<c.colorCCCCCC>repository because</c><c.colorE5E5E5> it is a documentation
+repository<00:07:40.870><c> with</c><00:07:41.530><c> several</c><00:07:41.980><c> pipeline</c><00:07:42.550><c> jobs</c></c><c.colorCCCCCC><00:07:42.880><c> so</c></c>
+
+00:07:43.350 --> 00:07:43.360 align:start position:0%
+repository with several pipeline jobs<c.colorCCCCCC> so
+ </c>
+
+00:07:43.360 --> 00:07:45.270 align:start position:0%
+repository with several pipeline jobs<c.colorCCCCCC> so
+we<00:07:43.840><c> need</c><00:07:44.020><c> to</c><00:07:44.140><c> navigate</c><00:07:44.680><c> to</c><00:07:44.950><c> the</c><00:07:45.130><c> directory</c></c>
+
+00:07:45.270 --> 00:07:45.280 align:start position:0%
+we need to<c.colorCCCCCC> navigate to the directory
+ </c>
+
+00:07:45.280 --> 00:07:49.140 align:start position:0%
+we need to<c.colorCCCCCC> navigate to the directory
+where<00:07:45.970><c> the</c><00:07:46.120><c> Jenkins</c><00:07:46.510><c> file</c><00:07:46.870><c> is</c><00:07:47.230><c> stored</c></c><c.colorE5E5E5><00:07:47.620><c> as</c><00:07:48.150><c> you</c></c>
+
+00:07:49.140 --> 00:07:49.150 align:start position:0%
+where<c.colorCCCCCC> the Jenkins file is stored</c><c.colorE5E5E5> as you
+ </c>
+
+00:07:49.150 --> 00:07:51.300 align:start position:0%
+where<c.colorCCCCCC> the Jenkins file is stored</c><c.colorE5E5E5> as you</c>
+<c.colorE5E5E5>can<00:07:49.330><c> see</c><00:07:49.480><c> on</c><00:07:49.600><c> github</c><00:07:50.080><c> the</c><00:07:50.380><c> Jenkins</c><00:07:50.740><c> file</c><00:07:51.040><c> is</c></c>
+
+00:07:51.300 --> 00:07:51.310 align:start position:0%
+<c.colorE5E5E5>can see on github the Jenkins file is
+ </c>
+
+00:07:51.310 --> 00:07:54.440 align:start position:0%
+<c.colorE5E5E5>can see on github the Jenkins file is
+stored<00:07:51.730><c> under</c><00:07:51.970><c> section</c><00:07:52.750><c> and</c><00:07:52.930><c> the</c><00:07:53.290><c> score</c><00:07:53.590><c> for</c></c>
+
+00:07:54.440 --> 00:07:54.450 align:start position:0%
+stored under section and the<c.colorE5E5E5> score for
+ </c>
+
+00:07:54.450 --> 00:07:59.220 align:start position:0%
+stored under section and the<c.colorE5E5E5> score for
+slash<00:07:55.450><c> code</c><00:07:56.670><c> so</c><00:07:57.670><c> we</c><00:07:58.210><c> need</c><00:07:58.390><c> to</c><00:07:58.510><c> type</c><00:07:58.750><c> the</c><00:07:59.020><c> path</c></c>
+
+00:07:59.220 --> 00:07:59.230 align:start position:0%
+slash<c.colorE5E5E5> code so we need to type the path
+ </c>
+
+00:07:59.230 --> 00:08:03.090 align:start position:0%
+slash<c.colorE5E5E5> code so we need to type the path
+before<00:07:59.800><c> Jenkins</c></c>
+
+00:08:03.090 --> 00:08:03.100 align:start position:0%
+ 
+ 
+
+00:08:03.100 --> 00:08:08.310 align:start position:0%
+ 
+finally<00:08:04.100><c> click</c><c.colorCCCCCC><00:08:04.640><c> on</c><00:08:04.700><c> save</c><00:08:05.120><c> and</c><00:08:05.980><c> build</c><00:08:06.980><c> the</c><00:08:07.400><c> job</c></c>
+
+00:08:08.310 --> 00:08:08.320 align:start position:0%
+finally click<c.colorCCCCCC> on save and build the job
+ </c>
+
+00:08:08.320 --> 00:08:11.800 align:start position:0%
+finally click<c.colorCCCCCC> on save and build the job
+the</c><c.colorE5E5E5><00:08:09.320><c> stage</c></c><c.colorCCCCCC><00:08:09.590><c> build</c><00:08:10.010><c> view</c><00:08:10.310><c> changes</c><00:08:11.180><c> because</c><00:08:11.660><c> we</c></c>
+
+00:08:11.800 --> 00:08:11.810 align:start position:0%
+the<c.colorE5E5E5> stage</c><c.colorCCCCCC> build view changes because we
+ </c>
+
+00:08:11.810 --> 00:08:14.140 align:start position:0%
+the<c.colorE5E5E5> stage</c><c.colorCCCCCC> build view changes because we
+are<00:08:11.900><c> now</c></c><c.colorE5E5E5><00:08:12.050><c> checking</c><00:08:12.710><c> out</c><00:08:12.890><c> a</c><00:08:13.160><c> declarative</c></c>
+
+00:08:14.140 --> 00:08:14.150 align:start position:0%
+are now<c.colorE5E5E5> checking out a declarative
+ </c>
+
+00:08:14.150 --> 00:08:16.840 align:start position:0%
+are now<c.colorE5E5E5> checking out a declarative
+pipeline<00:08:14.720><c> but</c><00:08:15.530><c> the</c><00:08:15.680><c> final</c><00:08:16.010><c> results</c><00:08:16.640><c> are</c></c>
+
+00:08:16.840 --> 00:08:16.850 align:start position:0%
+pipeline but the final results are
+ 
+
+00:08:16.850 --> 00:08:19.710 align:start position:0%
+pipeline but the final results are
+<c.colorE5E5E5>similar</c>
+
+00:08:19.710 --> 00:08:19.720 align:start position:0%
+ 
+ 
+
+00:08:19.720 --> 00:08:24.910 align:start position:0%
+ 
+as<00:08:19.920><c> usual</c><c.colorE5E5E5><00:08:20.920><c> you</c><00:08:21.310><c> can</c></c><c.colorCCCCCC><00:08:21.340><c> inspect</c></c><c.colorE5E5E5><00:08:21.880><c> each</c><00:08:22.060><c> stage</c></c>
+
+00:08:24.910 --> 00:08:24.920 align:start position:0%
+ 
+ 
+
+00:08:24.920 --> 00:08:27.820 align:start position:0%
+ 
+you<00:08:25.700><c> can</c><00:08:25.850><c> also</c><00:08:26.000><c> access</c><00:08:26.270><c> the</c><00:08:26.660><c> stage</c><00:08:26.930><c> view</c><00:08:27.350><c> by</c>
+
+00:08:27.820 --> 00:08:27.830 align:start position:0%
+you can also access the stage view by
+ 
+
+00:08:27.830 --> 00:08:30.310 align:start position:0%
+you can also access the stage view by
+clicking<00:08:27.860><c> on</c><00:08:28.400><c> full</c><c.colorE5E5E5><00:08:28.910><c> stage</c><00:08:29.360><c> view</c><00:08:29.750><c> on</c><00:08:29.960><c> the</c><00:08:30.110><c> side</c></c>
+
+00:08:30.310 --> 00:08:30.320 align:start position:0%
+clicking on full<c.colorE5E5E5> stage view on the side
+ </c>
+
+00:08:30.320 --> 00:08:33.970 align:start position:0%
+clicking on full<c.colorE5E5E5> stage view on the side
+menu</c><c.colorCCCCCC><00:08:30.790><c> this</c><00:08:31.790><c> is</c><00:08:31.850><c> useful</c></c><c.colorE5E5E5><00:08:32.270><c> if</c><00:08:32.720><c> you</c><00:08:33.380><c> want</c><00:08:33.530><c> to</c><00:08:33.650><c> show</c></c>
+
+00:08:33.970 --> 00:08:33.980 align:start position:0%
+menu<c.colorCCCCCC> this is useful</c><c.colorE5E5E5> if you want to show
+ </c>
+
+00:08:33.980 --> 00:08:36.760 align:start position:0%
+menu<c.colorCCCCCC> this is useful</c><c.colorE5E5E5> if you want to show
+the<00:08:34.340><c> pipeline</c><00:08:34.790><c> on</c><00:08:34.970><c> a</c><00:08:35.000><c> screen</c><00:08:35.420><c> for</c><00:08:36.080><c> example</c></c><c.colorCCCCCC><00:08:36.170><c> on</c></c>
+
+00:08:36.760 --> 00:08:36.770 align:start position:0%
+the pipeline<c.colorE5E5E5> on a screen for example</c><c.colorCCCCCC> on
+ </c>
+
+00:08:36.770 --> 00:08:39.250 align:start position:0%
+the pipeline<c.colorE5E5E5> on a screen for example</c><c.colorCCCCCC> on
+an<00:08:37.010><c> information</c><00:08:37.310><c> radiator</c></c><c.colorE5E5E5><00:08:38.120><c> to</c><00:08:39.080><c> give</c></c>
+
+00:08:39.250 --> 00:08:39.260 align:start position:0%
+an information radiator<c.colorE5E5E5> to give
+ </c>
+
+00:08:39.260 --> 00:08:41.860 align:start position:0%
+an information radiator<c.colorE5E5E5> to give
+visibility<00:08:39.740><c> to</c></c><c.colorCCCCCC><00:08:40.190><c> the</c><00:08:40.550><c> whole</c><00:08:40.760><c> team</c></c><c.colorE5E5E5><00:08:41.120><c> when</c><00:08:41.720><c> the</c></c>
+
+00:08:41.860 --> 00:08:41.870 align:start position:0%
+visibility to<c.colorCCCCCC> the whole team</c><c.colorE5E5E5> when the
+ </c>
+
+00:08:41.870 --> 00:08:45.160 align:start position:0%
+visibility to<c.colorCCCCCC> the whole team</c><c.colorE5E5E5> when the
+pipeline<00:08:42.110><c> is</c><00:08:42.440><c> running</c><00:08:43.390><c> finally</c><00:08:44.390><c> let's</c><00:08:44.900><c> wrap</c></c>
+
+00:08:45.160 --> 00:08:45.170 align:start position:0%
+pipeline<c.colorE5E5E5> is running finally let's wrap
+ </c>
+
+00:08:45.170 --> 00:08:47.560 align:start position:0%
+pipeline<c.colorE5E5E5> is running finally let's wrap
+up<00:08:45.200><c> with</c><00:08:45.770><c> a</c><00:08:45.800><c> comparison</c><00:08:46.430><c> between</c><00:08:46.700><c> scripted</c></c>
+
+00:08:47.560 --> 00:08:47.570 align:start position:0%
+up<c.colorE5E5E5> with a comparison between scripted
+ </c>
+
+00:08:47.570 --> 00:08:50.920 align:start position:0%
+up<c.colorE5E5E5> with a comparison between scripted
+and<00:08:47.830><c> declarative</c><00:08:48.830><c> part</c><00:08:49.160><c> lines</c></c><c.colorCCCCCC><00:08:49.430><c> a</c><00:08:49.930><c> scripted</c></c>
+
+00:08:50.920 --> 00:08:50.930 align:start position:0%
+and declarative part lines<c.colorCCCCCC> a scripted
+ </c>
+
+00:08:50.930 --> 00:08:52.990 align:start position:0%
+and declarative part lines<c.colorCCCCCC> a scripted
+pipeline<00:08:51.470><c> follows</c><00:08:52.280><c> the</c><00:08:52.460><c> imperative</c></c>
+
+00:08:52.990 --> 00:08:53.000 align:start position:0%
+pipeline follows the imperative
+ 
+
+00:08:53.000 --> 00:08:55.150 align:start position:0%
+pipeline follows the imperative
+programming<00:08:53.450><c> model</c><00:08:53.930><c> and</c><00:08:54.080><c> is</c><00:08:54.650><c> particularly</c>
+
+00:08:55.150 --> 00:08:55.160 align:start position:0%
+programming model and is particularly
+ 
+
+00:08:55.160 --> 00:08:57.160 align:start position:0%
+programming model and is particularly
+suited<00:08:55.880><c> for</c><c.colorE5E5E5><00:08:56.120><c> implementing</c><00:08:56.690><c> complex</c></c>
+
+00:08:57.160 --> 00:08:57.170 align:start position:0%
+suited for<c.colorE5E5E5> implementing complex
+ </c>
+
+00:08:57.170 --> 00:08:59.620 align:start position:0%
+suited for<c.colorE5E5E5> implementing complex
+requirements<00:08:57.790><c> this</c></c><c.colorCCCCCC><00:08:58.790><c> is</c></c><c.colorE5E5E5><00:08:58.850><c> because</c><00:08:59.330><c> of</c><00:08:59.480><c> its</c></c>
+
+00:08:59.620 --> 00:08:59.630 align:start position:0%
+requirements<c.colorE5E5E5> this</c><c.colorCCCCCC> is</c><c.colorE5E5E5> because of its
+ </c>
+
+00:08:59.630 --> 00:09:02.800 align:start position:0%
+requirements<c.colorE5E5E5> this</c><c.colorCCCCCC> is</c><c.colorE5E5E5> because of its
+flexibility<00:09:00.380><c> and</c><00:09:00.680><c> extensibility</c></c><c.colorCCCCCC><00:09:01.100><c> in</c><00:09:02.060><c> fact</c></c>
+
+00:09:02.800 --> 00:09:02.810 align:start position:0%
+flexibility and extensibility<c.colorCCCCCC> in fact
+ </c>
+
+00:09:02.810 --> 00:09:04.960 align:start position:0%
+flexibility and extensibility<c.colorCCCCCC> in fact</c>
+<c.colorE5E5E5>anything<00:09:03.470><c> that</c><00:09:03.650><c> can</c><00:09:03.800><c> be</c></c><c.colorCCCCCC><00:09:03.920><c> scripted</c><00:09:04.460><c> in</c><00:09:04.580><c> groovy</c></c>
+
+00:09:04.960 --> 00:09:04.970 align:start position:0%
+<c.colorE5E5E5>anything that can be</c><c.colorCCCCCC> scripted in groovy
+ </c>
+
+00:09:04.970 --> 00:09:07.890 align:start position:0%
+<c.colorE5E5E5>anything that can be</c><c.colorCCCCCC> scripted in groovy
+can<00:09:05.480><c> be</c><00:09:05.630><c> executed</c></c><c.colorE5E5E5><00:09:05.960><c> in</c><00:09:06.380><c> a</c><00:09:06.500><c> scripted</c></c><c.colorCCCCCC><00:09:06.890><c> part</c><00:09:07.160><c> line</c></c>
+
+00:09:07.890 --> 00:09:07.900 align:start position:0%
+can be executed<c.colorE5E5E5> in a scripted</c><c.colorCCCCCC> part line
+ </c>
+
+00:09:07.900 --> 00:09:10.480 align:start position:0%
+can be executed<c.colorE5E5E5> in a scripted</c><c.colorCCCCCC> part line
+scripted<00:09:08.900><c> pipelines</c><00:09:09.380><c> are</c><00:09:09.620><c> well</c></c><c.colorE5E5E5><00:09:09.980><c> suited</c><00:09:10.460><c> for</c></c>
+
+00:09:10.480 --> 00:09:10.490 align:start position:0%
+scripted pipelines are well<c.colorE5E5E5> suited for
+ </c>
+
+00:09:10.490 --> 00:09:13.180 align:start position:0%
+scripted pipelines are well<c.colorE5E5E5> suited for
+developers<00:09:11.240><c> having</c><00:09:11.930><c> experience</c><00:09:12.560><c> with</c><00:09:12.740><c> groovy</c></c>
+
+00:09:13.180 --> 00:09:13.190 align:start position:0%
+developers having experience with groovy
+ 
+
+00:09:13.190 --> 00:09:15.850 align:start position:0%
+developers having experience with groovy
+over<00:09:14.000><c> another</c><00:09:14.210><c> scripting</c><00:09:14.750><c> language</c><c.colorE5E5E5><00:09:15.200><c> but</c></c>
+
+00:09:15.850 --> 00:09:15.860 align:start position:0%
+over another scripting language<c.colorE5E5E5> but
+ </c>
+
+00:09:15.860 --> 00:09:17.980 align:start position:0%
+over another scripting language<c.colorE5E5E5> but
+could<00:09:16.280><c> become</c><00:09:16.400><c> a</c><00:09:16.580><c> bit</c><00:09:16.850><c> messy</c><00:09:17.420><c> if</c><00:09:17.600><c> best</c></c>
+
+00:09:17.980 --> 00:09:17.990 align:start position:0%
+could become<c.colorE5E5E5> a bit messy if best
+ </c>
+
+00:09:17.990 --> 00:09:20.040 align:start position:0%
+could become<c.colorE5E5E5> a bit messy if best
+practices<00:09:18.740><c> are</c></c><c.colorCCCCCC><00:09:18.890><c> not</c><00:09:19.070><c> followed</c></c>
+
+00:09:20.040 --> 00:09:20.050 align:start position:0%
+practices are<c.colorCCCCCC> not followed
+ </c>
+
+00:09:20.050 --> 00:09:22.870 align:start position:0%
+practices are<c.colorCCCCCC> not followed
+conversely<00:09:21.220><c> declarative</c><00:09:22.220><c> pipelines</c></c>
+
+00:09:22.870 --> 00:09:22.880 align:start position:0%
+conversely declarative pipelines
+ 
+
+00:09:22.880 --> 00:09:25.780 align:start position:0%
+conversely declarative pipelines
+follow<00:09:23.360><c> the</c><00:09:23.930><c> declarative</c><00:09:24.710><c> programming</c><00:09:24.860><c> model</c>
+
+00:09:25.780 --> 00:09:25.790 align:start position:0%
+follow the declarative programming model
+ 
+
+00:09:25.790 --> 00:09:28.390 align:start position:0%
+follow the declarative programming model
+<c.colorE5E5E5>which<00:09:26.390><c> focuses</c><00:09:27.020><c> on</c><00:09:27.290><c> what</c><00:09:27.710><c> the</c><00:09:27.920><c> pipeline</c></c>
+
+00:09:28.390 --> 00:09:28.400 align:start position:0%
+<c.colorE5E5E5>which focuses on what the pipeline
+ </c>
+
+00:09:28.400 --> 00:09:31.000 align:start position:0%
+<c.colorE5E5E5>which focuses on what the pipeline
+should</c><c.colorCCCCCC><00:09:28.550><c> accomplish</c><00:09:29.360><c> without</c></c><c.colorE5E5E5><00:09:29.930><c> specifying</c><00:09:30.470><c> in</c></c>
+
+00:09:31.000 --> 00:09:31.010 align:start position:0%
+should<c.colorCCCCCC> accomplish without</c><c.colorE5E5E5> specifying in
+ </c>
+
+00:09:31.010 --> 00:09:33.910 align:start position:0%
+should<c.colorCCCCCC> accomplish without</c><c.colorE5E5E5> specifying in
+detail<00:09:31.460><c> how</c><00:09:31.970><c> to</c><00:09:32.030><c> perform</c><00:09:32.660><c> it</c></c><c.colorCCCCCC><00:09:32.870><c> a</c><00:09:33.050><c> declarative</c></c>
+
+00:09:33.910 --> 00:09:33.920 align:start position:0%
+detail<c.colorE5E5E5> how to perform it</c><c.colorCCCCCC> a declarative
+ </c>
+
+00:09:33.920 --> 00:09:36.190 align:start position:0%
+detail<c.colorE5E5E5> how to perform it</c><c.colorCCCCCC> a declarative
+pipeline<00:09:34.430><c> is</c><00:09:34.610><c> suited</c><00:09:35.300><c> for</c><00:09:35.540><c> regular</c></c>
+
+00:09:36.190 --> 00:09:36.200 align:start position:0%
+pipeline is suited for regular
+ 
+
+00:09:36.200 --> 00:09:38.710 align:start position:0%
+pipeline is suited for regular
+requirements<c.colorE5E5E5><00:09:36.920><c> due</c></c><c.colorCCCCCC><00:09:37.370><c> to</c><00:09:37.610><c> its</c><00:09:37.760><c> predefined</c></c><c.colorE5E5E5><00:09:38.390><c> and</c></c>
+
+00:09:38.710 --> 00:09:38.720 align:start position:0%
+requirements<c.colorE5E5E5> due</c><c.colorCCCCCC> to its predefined</c><c.colorE5E5E5> and
+ </c>
+
+00:09:38.720 --> 00:09:40.390 align:start position:0%
+requirements<c.colorE5E5E5> due</c><c.colorCCCCCC> to its predefined</c><c.colorE5E5E5> and
+opinionated<00:09:39.350><c> syntax</c></c>
+
+00:09:40.390 --> 00:09:40.400 align:start position:0%
+opinionated syntax
+ 
+
+00:09:40.400 --> 00:09:42.700 align:start position:0%
+opinionated syntax
+this<00:09:40.970><c> makes</c><00:09:41.270><c> the</c><00:09:41.480><c> clarity</c><c.colorCCCCCC><00:09:41.870><c> of</c><00:09:41.930><c> pipelines</c><00:09:42.380><c> more</c></c>
+
+00:09:42.700 --> 00:09:42.710 align:start position:0%
+this makes the clarity<c.colorCCCCCC> of pipelines more
+ </c>
+
+00:09:42.710 --> 00:09:45.040 align:start position:0%
+this makes the clarity<c.colorCCCCCC> of pipelines more
+readable<00:09:43.070><c> and</c></c><c.colorE5E5E5><00:09:43.400><c> they</c><00:09:43.820><c> can</c><00:09:43.940><c> also</c><00:09:44.060><c> be</c><00:09:44.330><c> validated</c></c>
+
+00:09:45.040 --> 00:09:45.050 align:start position:0%
+readable<c.colorCCCCCC> and</c><c.colorE5E5E5> they can also be validated
+ </c>
+
+00:09:45.050 --> 00:09:47.410 align:start position:0%
+readable<c.colorCCCCCC> and</c><c.colorE5E5E5> they can also be validated
+thanks<00:09:45.620><c> to</c><00:09:45.740><c> a</c><00:09:45.770><c> stricter</c><00:09:46.340><c> and</c><00:09:46.550><c> predefined</c></c>
+
+00:09:47.410 --> 00:09:47.420 align:start position:0%
+thanks to a stricter<c.colorE5E5E5> and predefined
+ </c>
+
+00:09:47.420 --> 00:09:50.080 align:start position:0%
+thanks to a stricter<c.colorE5E5E5> and predefined
+structure<00:09:48.100><c> declarative</c><00:09:49.100><c> pipelines</c><00:09:49.640><c> can</c><00:09:49.910><c> also</c></c>
+
+00:09:50.080 --> 00:09:50.090 align:start position:0%
+structure<c.colorE5E5E5> declarative pipelines can also
+ </c>
+
+00:09:50.090 --> 00:09:52.690 align:start position:0%
+structure<c.colorE5E5E5> declarative pipelines can also
+integrate<00:09:50.390><c> snippets</c><00:09:51.260><c> of</c><00:09:51.410><c> scripted</c><00:09:52.190><c> pipeline</c></c>
+
+00:09:52.690 --> 00:09:52.700 align:start position:0%
+integrate snippets<c.colorE5E5E5> of scripted pipeline
+ </c>
+
+00:09:52.700 --> 00:09:55.870 align:start position:0%
+integrate snippets<c.colorE5E5E5> of scripted pipeline</c>
+<c.colorE5E5E5>if<00:09:52.910><c> needed</c><00:09:53.980><c> learning</c><00:09:54.980><c> to</c><00:09:55.130><c> write</c><00:09:55.340><c> declarative</c></c>
+
+00:09:55.870 --> 00:09:55.880 align:start position:0%
+<c.colorE5E5E5>if needed learning to write declarative
+ </c>
+
+00:09:55.880 --> 00:09:57.940 align:start position:0%
+<c.colorE5E5E5>if needed learning to write declarative
+pipelines<00:09:56.390><c> may</c><00:09:56.600><c> require</c><00:09:56.960><c> a</c><00:09:57.290><c> bit</c><00:09:57.710><c> of</c><00:09:57.860><c> a</c></c>
+
+00:09:57.940 --> 00:09:57.950 align:start position:0%
+pipelines may require a bit<c.colorE5E5E5> of a
+ </c>
+
+00:09:57.950 --> 00:10:00.040 align:start position:0%
+pipelines may require a bit<c.colorE5E5E5> of a
+learning</c><c.colorCCCCCC><00:09:58.160><c> curve</c></c><c.colorE5E5E5><00:09:58.670><c> especially</c><00:09:59.660><c> if</c></c><c.colorCCCCCC><00:09:59.750><c> you're</c><00:09:59.870><c> not</c></c>
+
+00:10:00.040 --> 00:10:00.050 align:start position:0%
+learning<c.colorCCCCCC> curve</c><c.colorE5E5E5> especially if</c><c.colorCCCCCC> you're not
+ </c>
+
+00:10:00.050 --> 00:10:01.600 align:start position:0%
+learning<c.colorCCCCCC> curve</c><c.colorE5E5E5> especially if</c><c.colorCCCCCC> you're not
+familiar</c><c.colorE5E5E5><00:10:00.350><c> with</c><00:10:00.890><c> the</c><00:10:01.070><c> declarative</c></c>
+
+00:10:01.600 --> 00:10:01.610 align:start position:0%
+familiar<c.colorE5E5E5> with the declarative
+ </c>
+
+00:10:01.610 --> 00:10:04.210 align:start position:0%
+familiar<c.colorE5E5E5> with the declarative</c>
+<c.colorE5E5E5>programming<00:10:01.730><c> model</c><00:10:02.570><c> to</c><00:10:03.020><c> conclude</c><00:10:03.470><c> both</c></c>
+
+00:10:04.210 --> 00:10:04.220 align:start position:0%
+<c.colorE5E5E5>programming model to conclude both
+ </c>
+
+00:10:04.220 --> 00:10:06.340 align:start position:0%
+<c.colorE5E5E5>programming model to conclude both
+scripted<00:10:04.850><c> and</c><00:10:05.060><c> declarative</c><00:10:05.630><c> pipelines</c><00:10:06.170><c> are</c></c>
+
+00:10:06.340 --> 00:10:06.350 align:start position:0%
+scripted and declarative pipelines are
+ 
+
+00:10:06.350 --> 00:10:08.740 align:start position:0%
+scripted and declarative pipelines are
+valid<c.colorE5E5E5><00:10:06.740><c> ways</c><00:10:06.980><c> to</c><00:10:07.310><c> write</c><00:10:07.520><c> pipelines</c><00:10:08.120><c> in</c></c><c.colorCCCCCC><00:10:08.270><c> jenkins</c></c>
+
+00:10:08.740 --> 00:10:08.750 align:start position:0%
+valid<c.colorE5E5E5> ways to write pipelines in</c><c.colorCCCCCC> jenkins
+ </c>
+
+00:10:08.750 --> 00:10:11.620 align:start position:0%
+valid<c.colorE5E5E5> ways to write pipelines in</c><c.colorCCCCCC> jenkins</c>
+<c.colorE5E5E5>but<00:10:09.170><c> they</c><00:10:09.290><c> offer</c><00:10:09.440><c> different</c></c><c.colorCCCCCC><00:10:09.770><c> advantages</c></c><c.colorE5E5E5><00:10:10.670><c> this</c></c>
+
+00:10:11.620 --> 00:10:11.630 align:start position:0%
+<c.colorE5E5E5>but they offer different</c><c.colorCCCCCC> advantages</c><c.colorE5E5E5> this
+ </c>
+
+00:10:11.630 --> 00:10:13.630 align:start position:0%
+<c.colorE5E5E5>but they offer different</c><c.colorCCCCCC> advantages</c><c.colorE5E5E5> this
+is<00:10:11.840><c> the</c><00:10:11.960><c> end</c><00:10:12.080><c> of</c><00:10:12.200><c> this</c><00:10:12.350><c> video</c><00:10:12.620><c> where</c><00:10:13.280><c> we</c><00:10:13.430><c> looked</c></c>
+
+00:10:13.630 --> 00:10:13.640 align:start position:0%
+<c.colorE5E5E5>is the end of this video where we looked
+ </c>
+
+00:10:13.640 --> 00:10:16.060 align:start position:0%
+<c.colorE5E5E5>is the end of this video where we looked
+at<00:10:13.760><c> jenkins</c><00:10:14.240><c> file</c><00:10:14.510><c> and</c><00:10:14.750><c> scripted</c><00:10:15.620><c> and</c><00:10:15.860><c> the</c></c>
+
+00:10:16.060 --> 00:10:16.070 align:start position:0%
+at jenkins file<c.colorE5E5E5> and scripted and the
+ </c>
+
+00:10:16.070 --> 00:10:18.670 align:start position:0%
+at jenkins file<c.colorE5E5E5> and scripted and the
+clarity</c><c.colorCCCCCC><00:10:16.400><c> of</c><00:10:16.490><c> pipelines</c></c><c.colorE5E5E5><00:10:17.110><c> watch</c><00:10:18.110><c> the</c><00:10:18.380><c> next</c></c>
+
+00:10:18.670 --> 00:10:18.680 align:start position:0%
+clarity<c.colorCCCCCC> of pipelines</c><c.colorE5E5E5> watch the next
+ </c>
+
+00:10:18.680 --> 00:10:21.040 align:start position:0%
+clarity<c.colorCCCCCC> of pipelines</c><c.colorE5E5E5> watch the next
+video<00:10:18.860><c> where</c><00:10:19.640><c> we</c><00:10:20.000><c> will</c></c><c.colorCCCCCC><00:10:20.030><c> have</c><00:10:20.390><c> an</c><00:10:20.540><c> overview</c><00:10:20.990><c> of</c></c>
+
+00:10:21.040 --> 00:10:21.050 align:start position:0%
+video where we will<c.colorCCCCCC> have an overview of
+ </c>
+
+00:10:21.050 --> 00:10:23.650 align:start position:0%
+video where we will<c.colorCCCCCC> have an overview of</c>
+<c.colorE5E5E5>the<00:10:21.410><c> CD</c><00:10:21.800><c> pipeline</c><00:10:22.340><c> and</c><00:10:22.520><c> an</c><00:10:22.970><c> introduction</c><00:10:23.630><c> to</c></c>
+
+00:10:23.650 --> 00:10:23.660 align:start position:0%
+<c.colorE5E5E5>the CD pipeline and an introduction to
+ </c>
+
+00:10:23.660 --> 00:10:26.050 align:start position:0%
+<c.colorE5E5E5>the CD pipeline and an introduction to
+docker</c>
+

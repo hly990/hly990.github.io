@@ -1,0 +1,2126 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.290 --> 00:00:02.470 align:start position:0%
+ 
+in<00:00:00.620><c> this</c><c.colorE5E5E5><00:00:01.100><c> video</c><00:00:01.490><c> we</c><00:00:01.819><c> are</c><00:00:01.880><c> going</c><00:00:02.030><c> to</c><00:00:02.209><c> introduce</c></c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+in this<c.colorE5E5E5> video we are going to introduce
+ </c>
+
+00:00:02.480 --> 00:00:05.890 align:start position:0%
+in this<c.colorE5E5E5> video we are going to introduce
+and<00:00:02.960><c> run</c><00:00:03.169><c> some</c><00:00:03.800><c> docker</c><00:00:04.040><c> commands</c><00:00:04.700><c> this</c><00:00:05.509><c> video</c></c>
+
+00:00:05.890 --> 00:00:05.900 align:start position:0%
+and run some docker commands<c.colorE5E5E5> this video
+ </c>
+
+00:00:05.900 --> 00:00:08.350 align:start position:0%
+and run some docker commands<c.colorE5E5E5> this video
+is<00:00:06.140><c> mainly</c><00:00:06.380><c> practical</c><00:00:07.069><c> as</c><00:00:07.220><c> we</c><00:00:07.790><c> will</c><00:00:07.940><c> explore</c></c>
+
+00:00:08.350 --> 00:00:08.360 align:start position:0%
+is mainly practical as we will explore
+ 
+
+00:00:08.360 --> 00:00:10.930 align:start position:0%
+is mainly practical as we will explore
+the<00:00:08.599><c> docker</c><00:00:08.809><c> file</c><c.colorE5E5E5><00:00:09.169><c> to</c><00:00:09.650><c> package</c><00:00:10.099><c> and</c></c><c.colorCCCCCC><00:00:10.339><c> deploy</c><00:00:10.669><c> a</c></c>
+
+00:00:10.930 --> 00:00:10.940 align:start position:0%
+the docker file<c.colorE5E5E5> to package and</c><c.colorCCCCCC> deploy a
+ </c>
+
+00:00:10.940 --> 00:00:13.810 align:start position:0%
+the docker file<c.colorE5E5E5> to package and</c><c.colorCCCCCC> deploy a
+simple<00:00:11.690><c> web</c><00:00:11.839><c> application</c></c><c.colorE5E5E5><00:00:12.549><c> look</c><00:00:13.549><c> at</c><00:00:13.730><c> the</c></c>
+
+00:00:13.810 --> 00:00:13.820 align:start position:0%
+simple web application<c.colorE5E5E5> look at the
+ </c>
+
+00:00:13.820 --> 00:00:15.699 align:start position:0%
+simple web application<c.colorE5E5E5> look at the
+Python<00:00:14.269><c> code</c></c><c.colorCCCCCC><00:00:14.570><c> to</c><00:00:14.959><c> create</c></c><c.colorE5E5E5><00:00:15.230><c> the</c><00:00:15.589><c> application</c></c>
+
+00:00:15.699 --> 00:00:15.709 align:start position:0%
+Python code<c.colorCCCCCC> to create</c><c.colorE5E5E5> the application
+ </c>
+
+00:00:15.709 --> 00:00:19.509 align:start position:0%
+Python code<c.colorCCCCCC> to create</c><c.colorE5E5E5> the application</c>
+<c.colorCCCCCC>and<00:00:16.630><c> execute</c><00:00:17.630><c> the</c><00:00:17.779><c> docker</c></c><c.colorE5E5E5><00:00:18.019><c> commands</c><00:00:18.650><c> to</c><00:00:19.310><c> build</c></c>
+
+00:00:19.509 --> 00:00:19.519 align:start position:0%
+<c.colorCCCCCC>and execute the docker</c><c.colorE5E5E5> commands to build
+ </c>
+
+00:00:19.519 --> 00:00:21.730 align:start position:0%
+<c.colorCCCCCC>and execute the docker</c><c.colorE5E5E5> commands to build
+the<00:00:19.669><c> docker</c><00:00:19.880><c> image</c><00:00:20.330><c> and</c><00:00:20.570><c> run</c><00:00:21.169><c> the</c><00:00:21.529><c> docker</c></c>
+
+00:00:21.730 --> 00:00:21.740 align:start position:0%
+the docker image and run the docker
+ 
+
+00:00:21.740 --> 00:00:24.189 align:start position:0%
+the docker image and run the docker
+container<c.colorE5E5E5><00:00:22.279><c> we</c><00:00:22.910><c> are</c><00:00:22.970><c> not</c><00:00:23.089><c> using</c><00:00:23.300><c> Jenkins</c><00:00:23.749><c> in</c></c>
+
+00:00:24.189 --> 00:00:24.199 align:start position:0%
+container<c.colorE5E5E5> we are not using Jenkins in
+ </c>
+
+00:00:24.199 --> 00:00:26.290 align:start position:0%
+container<c.colorE5E5E5> we are not using Jenkins in
+this<00:00:24.380><c> video</c><00:00:24.769><c> but</c><00:00:25.400><c> all</c><00:00:25.580><c> the</c><00:00:25.789><c> commands</c><00:00:26.089><c> we</c></c>
+
+00:00:26.290 --> 00:00:26.300 align:start position:0%
+this video but all the commands<c.colorE5E5E5> we
+ </c>
+
+00:00:26.300 --> 00:00:29.079 align:start position:0%
+this video but all the commands<c.colorE5E5E5> we</c>
+<c.colorCCCCCC>introduce<00:00:26.839><c> here</c></c><c.colorE5E5E5><00:00:27.199><c> will</c><00:00:27.800><c> be</c><00:00:28.009><c> part</c><00:00:28.310><c> of</c><00:00:28.490><c> the</c><00:00:28.669><c> CD</c></c>
+
+00:00:29.079 --> 00:00:29.089 align:start position:0%
+<c.colorCCCCCC>introduce here</c><c.colorE5E5E5> will be part of the CD
+ </c>
+
+00:00:29.089 --> 00:00:31.239 align:start position:0%
+<c.colorCCCCCC>introduce here</c><c.colorE5E5E5> will be part of the CD
+pipeline<00:00:29.599><c> we</c><00:00:30.079><c> are</c><00:00:30.169><c> building</c><00:00:30.560><c> in</c><00:00:30.829><c> the</c><00:00:30.980><c> next</c></c>
+
+00:00:31.239 --> 00:00:31.249 align:start position:0%
+pipeline we are building in the<c.colorE5E5E5> next
+ </c>
+
+00:00:31.249 --> 00:00:34.240 align:start position:0%
+pipeline we are building in the<c.colorE5E5E5> next
+videos<00:00:31.689><c> the</c><00:00:32.689><c> only</c><00:00:32.770><c> prerequisite</c><00:00:33.770><c> is</c><00:00:34.039><c> to</c></c>
+
+00:00:34.240 --> 00:00:34.250 align:start position:0%
+videos the only<c.colorE5E5E5> prerequisite is to
+ </c>
+
+00:00:34.250 --> 00:00:37.389 align:start position:0%
+videos the only<c.colorE5E5E5> prerequisite is to
+install<00:00:34.670><c> docker</c></c><c.colorCCCCCC><00:00:35.180><c> on</c><00:00:35.510><c> your</c><00:00:35.780><c> machine</c><00:00:36.260><c> as</c><00:00:36.440><c> we</c></c>
+
+00:00:37.389 --> 00:00:37.399 align:start position:0%
+install<c.colorE5E5E5> docker</c><c.colorCCCCCC> on your machine as we
+ </c>
+
+00:00:37.399 --> 00:00:39.549 align:start position:0%
+install<c.colorE5E5E5> docker</c><c.colorCCCCCC> on your machine as we
+will<00:00:37.520><c> not</c><00:00:37.640><c> cover</c><00:00:37.969><c> this</c><00:00:38.300><c> during</c><00:00:38.870><c> the</c><00:00:39.020><c> demo</c><00:00:39.230><c> for</c></c>
+
+00:00:39.549 --> 00:00:39.559 align:start position:0%
+will not cover this during the demo for
+ 
+
+00:00:39.559 --> 00:00:42.250 align:start position:0%
+will not cover this during the demo for
+time<00:00:39.800><c> reasons</c><c.colorCCCCCC><00:00:40.149><c> here</c><00:00:41.149><c> is</c><00:00:41.270><c> the</c><00:00:41.480><c> link</c><00:00:41.690><c> to</c><00:00:41.809><c> install</c></c>
+
+00:00:42.250 --> 00:00:42.260 align:start position:0%
+time reasons<c.colorCCCCCC> here is the link to install
+ </c>
+
+00:00:42.260 --> 00:00:44.529 align:start position:0%
+time reasons<c.colorCCCCCC> here is the link to install
+a<00:00:42.289><c> docker</c><00:00:42.680><c> on</c><00:00:43.280><c> your</c><00:00:43.520><c> favorite</c><00:00:43.940><c> operating</c></c>
+
+00:00:44.529 --> 00:00:44.539 align:start position:0%
+a docker<c.colorCCCCCC> on your favorite operating
+ </c>
+
+00:00:44.539 --> 00:00:47.290 align:start position:0%
+a docker<c.colorCCCCCC> on your favorite operating
+system<00:00:45.050><c> and</c><00:00:45.230><c> platform</c><00:00:45.949><c> there</c><00:00:46.760><c> are</c><00:00:46.879><c> currently</c></c>
+
+00:00:47.290 --> 00:00:47.300 align:start position:0%
+system and<c.colorCCCCCC> platform there are currently
+ </c>
+
+00:00:47.300 --> 00:00:49.779 align:start position:0%
+system and<c.colorCCCCCC> platform there are currently
+two<00:00:47.600><c> versions</c><00:00:48.079><c> of</c><00:00:48.260><c> docker</c></c><c.colorE5E5E5><00:00:48.500><c> a</c></c><c.colorCCCCCC><00:00:48.829><c> community</c></c>
+
+00:00:49.779 --> 00:00:49.789 align:start position:0%
+two versions of docker<c.colorE5E5E5> a</c><c.colorCCCCCC> community
+ </c>
+
+00:00:49.789 --> 00:00:52.660 align:start position:0%
+two versions of docker<c.colorE5E5E5> a</c><c.colorCCCCCC> community
+Edition<00:00:50.300><c> and</c><00:00:50.449><c> an</c></c><c.colorE5E5E5><00:00:50.960><c> Enterprise</c><00:00:51.469><c> Edition</c><00:00:52.039><c> the</c></c>
+
+00:00:52.660 --> 00:00:52.670 align:start position:0%
+<c.colorCCCCCC>Edition and an</c><c.colorE5E5E5> Enterprise Edition the
+ </c>
+
+00:00:52.670 --> 00:00:54.970 align:start position:0%
+<c.colorCCCCCC>Edition and an</c><c.colorE5E5E5> Enterprise Edition the</c>
+<c.colorCCCCCC>community<00:00:53.179><c> edition</c><00:00:53.359><c> is</c><00:00:53.780><c> fine</c><00:00:54.140><c> for</c></c><c.colorE5E5E5><00:00:54.410><c> this</c></c><c.colorCCCCCC><00:00:54.590><c> video</c></c>
+
+00:00:54.970 --> 00:00:54.980 align:start position:0%
+<c.colorCCCCCC>community edition is fine for</c><c.colorE5E5E5> this</c><c.colorCCCCCC> video
+ </c>
+
+00:00:54.980 --> 00:00:57.790 align:start position:0%
+<c.colorCCCCCC>community edition is fine for</c><c.colorE5E5E5> this</c><c.colorCCCCCC> video</c>
+<c.colorE5E5E5>let's<00:00:55.699><c> move</c><00:00:55.969><c> swiftly</c><00:00:56.390><c> to</c></c><c.colorCCCCCC><00:00:57.199><c> the</c><00:00:57.320><c> demo</c><00:00:57.530><c> part</c></c>
+
+00:00:57.790 --> 00:00:57.800 align:start position:0%
+<c.colorE5E5E5>let's move swiftly to</c><c.colorCCCCCC> the demo part
+ </c>
+
+00:00:57.800 --> 00:00:59.979 align:start position:0%
+<c.colorE5E5E5>let's move swiftly to</c><c.colorCCCCCC> the demo part
+where<00:00:58.219><c> we</c><00:00:58.460><c> will</c><00:00:58.609><c> analyze</c><00:00:59.089><c> together</c></c><c.colorE5E5E5><00:00:59.420><c> a</c><00:00:59.690><c> docker</c></c>
+
+00:00:59.979 --> 00:00:59.989 align:start position:0%
+where we will analyze together<c.colorE5E5E5> a docker
+ </c>
+
+00:00:59.989 --> 00:01:03.250 align:start position:0%
+where we will analyze together<c.colorE5E5E5> a docker
+file<00:01:00.460><c> explore</c><00:01:01.460><c> the</c><00:01:01.640><c> Python</c><00:01:02.149><c> code</c><00:01:02.420><c> for</c><00:01:03.019><c> the</c><00:01:03.109><c> web</c></c>
+
+00:01:03.250 --> 00:01:03.260 align:start position:0%
+file<c.colorE5E5E5> explore the Python code for the web
+ </c>
+
+00:01:03.260 --> 00:01:06.190 align:start position:0%
+file<c.colorE5E5E5> explore the Python code for the web
+application<00:01:03.980><c> and</c><00:01:04.240><c> explain</c><00:01:05.240><c> and</c><00:01:05.540><c> execute</c></c>
+
+00:01:06.190 --> 00:01:06.200 align:start position:0%
+application<c.colorE5E5E5> and explain and execute
+ </c>
+
+00:01:06.200 --> 00:01:08.950 align:start position:0%
+application<c.colorE5E5E5> and explain and execute
+commands<00:01:06.770><c> to</c><00:01:07.400><c> build</c><00:01:07.640><c> the</c><00:01:08.030><c> docker</c><00:01:08.270><c> image</c><00:01:08.690><c> and</c></c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+commands<c.colorE5E5E5> to build the docker image and
+ </c>
+
+00:01:08.960 --> 00:01:11.770 align:start position:0%
+commands<c.colorE5E5E5> to build the docker image and
+run<00:01:09.320><c> the</c><00:01:09.680><c> docker</c><00:01:09.920><c> container</c></c><c.colorCCCCCC><00:01:10.510><c> this</c><00:01:11.510><c> is</c><00:01:11.570><c> a</c></c>
+
+00:01:11.770 --> 00:01:11.780 align:start position:0%
+run<c.colorE5E5E5> the docker container</c><c.colorCCCCCC> this is a
+ </c>
+
+00:01:11.780 --> 00:01:14.500 align:start position:0%
+run<c.colorE5E5E5> the docker container</c><c.colorCCCCCC> this is a
+simple<00:01:12.230><c> docker</c><00:01:12.440><c> file</c></c><c.colorE5E5E5><00:01:12.830><c> to</c><00:01:13.460><c> build</c><00:01:13.670><c> a</c><00:01:13.850><c> Python</c><00:01:14.300><c> web</c></c>
+
+00:01:14.500 --> 00:01:14.510 align:start position:0%
+simple docker file<c.colorE5E5E5> to build a Python web
+ </c>
+
+00:01:14.510 --> 00:01:17.640 align:start position:0%
+simple docker file<c.colorE5E5E5> to build a Python web
+application<00:01:15.200><c> the</c><00:01:16.040><c> daka</c><00:01:16.250><c> file</c><00:01:16.580><c> is</c><00:01:16.760><c> a</c><00:01:16.790><c> script</c></c>
+
+00:01:17.640 --> 00:01:17.650 align:start position:0%
+application<c.colorE5E5E5> the daka file is a script
+ </c>
+
+00:01:17.650 --> 00:01:20.590 align:start position:0%
+application<c.colorE5E5E5> the daka file is a script</c>
+<c.colorE5E5E5>containing<00:01:18.650><c> a</c><00:01:18.740><c> sequence</c><00:01:19.250><c> of</c><00:01:19.550><c> commands</c></c><c.colorCCCCCC><00:01:20.300><c> to</c></c>
+
+00:01:20.590 --> 00:01:20.600 align:start position:0%
+<c.colorE5E5E5>containing a sequence of commands</c><c.colorCCCCCC> to
+ </c>
+
+00:01:20.600 --> 00:01:24.010 align:start position:0%
+<c.colorE5E5E5>containing a sequence of commands</c><c.colorCCCCCC> to
+assemble<00:01:21.440><c> a</c><00:01:21.560><c> docker</c><00:01:21.800><c> image</c></c><c.colorE5E5E5><00:01:22.540><c> in</c><00:01:23.540><c> other</c><00:01:23.690><c> words</c></c>
+
+00:01:24.010 --> 00:01:24.020 align:start position:0%
+<c.colorCCCCCC>assemble a docker image</c><c.colorE5E5E5> in other words
+ </c>
+
+00:01:24.020 --> 00:01:26.110 align:start position:0%
+<c.colorCCCCCC>assemble a docker image</c><c.colorE5E5E5> in other words</c>
+<c.colorE5E5E5>the<00:01:24.740><c> docker</c><00:01:24.950><c> file</c><00:01:25.310><c> contains</c><00:01:25.940><c> the</c></c>
+
+00:01:26.110 --> 00:01:26.120 align:start position:0%
+<c.colorE5E5E5>the docker file contains the
+ </c>
+
+00:01:26.120 --> 00:01:29.710 align:start position:0%
+<c.colorE5E5E5>the docker file contains the</c>
+<c.colorCCCCCC>instructions<00:01:26.930><c> to</c><00:01:27.170><c> build</c><00:01:27.200><c> the</c><00:01:27.770><c> docker</c><00:01:28.010><c> image</c></c>
+
+00:01:29.710 --> 00:01:29.720 align:start position:0%
+<c.colorCCCCCC>instructions to build the docker image
+ </c>
+
+00:01:29.720 --> 00:01:31.870 align:start position:0%
+<c.colorCCCCCC>instructions to build the docker image
+if<00:01:29.900><c> you</c><00:01:30.110><c> are</c><00:01:30.170><c> familiar</c><00:01:30.680><c> with</c><00:01:30.860><c> shell</c><00:01:31.280><c> scripting</c></c>
+
+00:01:31.870 --> 00:01:31.880 align:start position:0%
+if you are<c.colorCCCCCC> familiar with shell scripting
+ </c>
+
+00:01:31.880 --> 00:01:34.360 align:start position:0%
+if you are<c.colorCCCCCC> familiar with shell scripting</c>
+<c.colorE5E5E5>you<00:01:32.450><c> will</c><00:01:32.600><c> soon</c><00:01:32.810><c> recognize</c><00:01:33.410><c> many</c><00:01:33.770><c> commands</c></c>
+
+00:01:34.360 --> 00:01:34.370 align:start position:0%
+<c.colorE5E5E5>you will soon recognize many commands
+ </c>
+
+00:01:34.370 --> 00:01:36.940 align:start position:0%
+<c.colorE5E5E5>you will soon recognize many commands
+but<00:01:34.970><c> don't</c><00:01:35.390><c> worry</c><00:01:35.540><c> if</c><00:01:35.750><c> you</c><00:01:35.870><c> don't</c><00:01:36.050><c> I</c><00:01:36.350><c> will</c></c>
+
+00:01:36.940 --> 00:01:36.950 align:start position:0%
+but don't worry<c.colorE5E5E5> if you don't I will
+ </c>
+
+00:01:36.950 --> 00:01:39.570 align:start position:0%
+but don't worry<c.colorE5E5E5> if you don't I will
+explain<00:01:37.340><c> the</c><00:01:37.550><c> docker</c><00:01:37.760><c> file</c><00:01:38.120><c> line-by-line</c></c>
+
+00:01:39.570 --> 00:01:39.580 align:start position:0%
+explain the docker file line-by-line
+ 
+
+00:01:39.580 --> 00:01:42.040 align:start position:0%
+explain the docker file line-by-line
+<c.colorCCCCCC>also<00:01:40.580><c> there</c><00:01:40.880><c> is</c><00:01:41.000><c> no</c></c><c.colorE5E5E5><00:01:41.210><c> need</c><00:01:41.390><c> to</c><00:01:41.420><c> copy</c><00:01:41.840><c> it</c></c>
+
+00:01:42.040 --> 00:01:42.050 align:start position:0%
+<c.colorCCCCCC>also there is no</c><c.colorE5E5E5> need to copy it
+ </c>
+
+00:01:42.050 --> 00:01:44.760 align:start position:0%
+<c.colorCCCCCC>also there is no</c><c.colorE5E5E5> need to copy it
+manually<00:01:42.470><c> although</c><00:01:43.370><c> it</c><00:01:43.580><c> is</c><00:01:43.790><c> a</c><00:01:43.820><c> good</c><00:01:44.060><c> exercise</c></c>
+
+00:01:44.760 --> 00:01:44.770 align:start position:0%
+manually<c.colorE5E5E5> although it is a good exercise
+ </c>
+
+00:01:44.770 --> 00:01:47.530 align:start position:0%
+manually<c.colorE5E5E5> although it is a good exercise
+because<00:01:45.770><c> all</c><00:01:45.980><c> the</c><00:01:46.190><c> code</c><00:01:46.400><c> is</c><00:01:46.580><c> available</c><00:01:46.760><c> on</c><00:01:47.360><c> the</c></c>
+
+00:01:47.530 --> 00:01:47.540 align:start position:0%
+<c.colorE5E5E5>because all the code is available on the
+ </c>
+
+00:01:47.540 --> 00:01:50.770 align:start position:0%
+<c.colorE5E5E5>because all the code is available on the</c>
+<c.colorE5E5E5>companion<00:01:48.080><c> repository</c><00:01:48.800><c> on</c><00:01:49.010><c> github</c><00:01:49.550><c> and</c><00:01:50.120><c> the</c></c>
+
+00:01:50.770 --> 00:01:50.780 align:start position:0%
+<c.colorE5E5E5>companion repository on github and the
+ </c>
+
+00:01:50.780 --> 00:01:55.630 align:start position:0%
+<c.colorE5E5E5>companion repository on github and the
+section<00:01:51.320><c> underscore</c><00:01:51.980><c> for</c><00:01:52.540><c> code</c><00:01:54.160><c> CD</c><00:01:55.160><c> and</c><00:01:55.370><c> the</c></c>
+
+00:01:55.630 --> 00:01:55.640 align:start position:0%
+section<c.colorE5E5E5> underscore for code CD and the
+ </c>
+
+00:01:55.640 --> 00:01:59.410 align:start position:0%
+section<c.colorE5E5E5> underscore for code CD and the
+school<00:01:55.970><c> pipeline</c><00:01:56.540><c> docker</c><00:01:57.440><c> file</c><00:01:57.910><c> the</c><00:01:58.910><c> code</c><00:01:59.180><c> is</c></c>
+
+00:01:59.410 --> 00:01:59.420 align:start position:0%
+school pipeline<c.colorE5E5E5> docker file the code is
+ </c>
+
+00:01:59.420 --> 00:02:01.510 align:start position:0%
+school pipeline<c.colorE5E5E5> docker file the code is
+adapted<00:01:59.990><c> from</c><00:02:00.170><c> an</c><00:02:00.350><c> excellent</c><00:02:00.740><c> official</c></c>
+
+00:02:01.510 --> 00:02:01.520 align:start position:0%
+adapted from an excellent<c.colorE5E5E5> official
+ </c>
+
+00:02:01.520 --> 00:02:04.180 align:start position:0%
+adapted from an excellent<c.colorE5E5E5> official
+docker<00:02:01.820><c> tutorial</c><00:02:02.540><c> have</c><00:02:03.320><c> a</c><00:02:03.350><c> look</c><00:02:03.590><c> at</c><00:02:03.740><c> it</c><00:02:03.890><c> if</c><00:02:04.130><c> you</c></c>
+
+00:02:04.180 --> 00:02:04.190 align:start position:0%
+docker tutorial have a look at it if you
+ 
+
+00:02:04.190 --> 00:02:06.850 align:start position:0%
+docker tutorial have a look at it if you
+<c.colorCCCCCC>want<00:02:04.400><c> to</c></c><c.colorE5E5E5><00:02:04.670><c> play</c><00:02:04.910><c> more</c><00:02:05.270><c> with</c><00:02:05.330><c> docker</c></c><c.colorCCCCCC><00:02:05.870><c> the</c><00:02:06.620><c> first</c></c>
+
+00:02:06.850 --> 00:02:06.860 align:start position:0%
+<c.colorCCCCCC>want to</c><c.colorE5E5E5> play more with docker</c><c.colorCCCCCC> the first
+ </c>
+
+00:02:06.860 --> 00:02:09.100 align:start position:0%
+<c.colorCCCCCC>want to</c><c.colorE5E5E5> play more with docker</c><c.colorCCCCCC> the first
+line<00:02:07.130><c> of</c><00:02:07.160><c> code</c><00:02:07.550><c> is</c><00:02:07.880><c> the</c></c><c.colorE5E5E5><00:02:08.270><c> underlying</c><00:02:08.750><c> base</c></c>
+
+00:02:09.100 --> 00:02:09.110 align:start position:0%
+line of<c.colorCCCCCC> code is the</c><c.colorE5E5E5> underlying base
+ </c>
+
+00:02:09.110 --> 00:02:12.870 align:start position:0%
+line of<c.colorCCCCCC> code is the</c><c.colorE5E5E5> underlying base
+image<00:02:09.679><c> upon</c><00:02:10.520><c> which</c><00:02:10.760><c> our</c><00:02:11.030><c> docker</c></c><c.colorCCCCCC><00:02:11.390><c> images</c><00:02:11.930><c> based</c></c>
+
+00:02:12.870 --> 00:02:12.880 align:start position:0%
+image upon which our docker<c.colorCCCCCC> images based
+ </c>
+
+00:02:12.880 --> 00:02:15.550 align:start position:0%
+image upon which our docker<c.colorCCCCCC> images based</c>
+<c.colorE5E5E5>these<00:02:13.880><c> uses</c><00:02:14.360><c> the</c><00:02:14.570><c> latest</c><00:02:14.750><c> available</c><00:02:15.260><c> version</c></c>
+
+00:02:15.550 --> 00:02:15.560 align:start position:0%
+<c.colorE5E5E5>these uses the latest available version
+ </c>
+
+00:02:15.560 --> 00:02:18.280 align:start position:0%
+<c.colorE5E5E5>these uses the latest available version
+of<00:02:16.160><c> Alpine</c><00:02:16.850><c> at</c><00:02:17.150><c> the</c><00:02:17.450><c> time</c><00:02:17.690><c> this</c><00:02:17.900><c> video</c><00:02:18.110><c> was</c></c>
+
+00:02:18.280 --> 00:02:18.290 align:start position:0%
+of<c.colorE5E5E5> Alpine at the time this video was
+ </c>
+
+00:02:18.290 --> 00:02:22.060 align:start position:0%
+of<c.colorE5E5E5> Alpine at the time this video was</c>
+<c.colorCCCCCC>shot<00:02:19.480><c> Alpine</c></c><c.colorE5E5E5><00:02:20.480><c> is</c><00:02:20.780><c> a</c><00:02:20.840><c> lightweight</c></c><c.colorCCCCCC><00:02:21.260><c> linux</c></c>
+
+00:02:22.060 --> 00:02:22.070 align:start position:0%
+<c.colorCCCCCC>shot Alpine</c><c.colorE5E5E5> is a lightweight</c><c.colorCCCCCC> linux
+ </c>
+
+00:02:22.070 --> 00:02:23.950 align:start position:0%
+<c.colorCCCCCC>shot Alpine</c><c.colorE5E5E5> is a lightweight</c><c.colorCCCCCC> linux
+distribution</c>
+
+00:02:23.950 --> 00:02:23.960 align:start position:0%
+distribution
+ 
+
+00:02:23.960 --> 00:02:27.400 align:start position:0%
+distribution
+this<00:02:24.620><c> line</c><00:02:25.010><c> installs</c><00:02:25.880><c> Python</c><c.colorCCCCCC><00:02:26.540><c> three</c><00:02:26.870><c> and</c></c><c.colorE5E5E5><00:02:27.080><c> pip</c></c>
+
+00:02:27.400 --> 00:02:27.410 align:start position:0%
+this line installs Python<c.colorCCCCCC> three and</c><c.colorE5E5E5> pip
+ </c>
+
+00:02:27.410 --> 00:02:31.360 align:start position:0%
+this line installs Python<c.colorCCCCCC> three and</c><c.colorE5E5E5> pip
+using<00:02:28.190><c> apk</c><00:02:28.940><c> which</c></c><c.colorCCCCCC><00:02:29.210><c> is</c><00:02:29.810><c> a</c></c><c.colorE5E5E5><00:02:29.840><c> package</c><00:02:30.410><c> manager</c></c><c.colorCCCCCC><00:02:30.440><c> for</c></c>
+
+00:02:31.360 --> 00:02:31.370 align:start position:0%
+<c.colorE5E5E5>using apk which</c><c.colorCCCCCC> is a</c><c.colorE5E5E5> package manager</c><c.colorCCCCCC> for
+ </c>
+
+00:02:31.370 --> 00:02:34.180 align:start position:0%
+<c.colorE5E5E5>using apk which</c><c.colorCCCCCC> is a</c><c.colorE5E5E5> package manager</c><c.colorCCCCCC> for</c>
+<c.colorE5E5E5>the</c><c.colorCCCCCC><00:02:31.490><c> alpine</c><00:02:31.880><c> Linux</c><00:02:32.360><c> distribution</c><00:02:33.140><c> it</c><00:02:33.920><c> is</c></c>
+
+00:02:34.180 --> 00:02:34.190 align:start position:0%
+<c.colorE5E5E5>the</c><c.colorCCCCCC> alpine Linux distribution it is
+ </c>
+
+00:02:34.190 --> 00:02:36.820 align:start position:0%
+<c.colorE5E5E5>the</c><c.colorCCCCCC> alpine Linux distribution it is
+similar<00:02:34.580><c> to</c></c><c.colorE5E5E5><00:02:34.760><c> up</c><00:02:34.940><c> get</c><00:02:35.360><c> or</c></c><c.colorCCCCCC><00:02:35.690><c> yum</c><00:02:36.050><c> if</c><00:02:36.260><c> you</c><00:02:36.740><c> are</c></c>
+
+00:02:36.820 --> 00:02:36.830 align:start position:0%
+similar<c.colorCCCCCC> to</c><c.colorE5E5E5> up get or</c><c.colorCCCCCC> yum if you are
+ </c>
+
+00:02:36.830 --> 00:02:39.840 align:start position:0%
+similar<c.colorCCCCCC> to</c><c.colorE5E5E5> up get or</c><c.colorCCCCCC> yum if you are
+familiar</c><c.colorE5E5E5><00:02:37.010><c> with</c></c><c.colorCCCCCC><00:02:37.370><c> other</c><00:02:37.880><c> Linux</c><00:02:38.270><c> distributions</c></c>
+
+00:02:39.840 --> 00:02:39.850 align:start position:0%
+familiar<c.colorE5E5E5> with</c><c.colorCCCCCC> other Linux distributions
+ </c>
+
+00:02:39.850 --> 00:02:43.450 align:start position:0%
+familiar<c.colorE5E5E5> with</c><c.colorCCCCCC> other Linux distributions
+this<00:02:40.850><c> line</c></c><c.colorE5E5E5><00:02:41.210><c> copies</c><00:02:42.140><c> the</c><00:02:42.320><c> requirements</c><00:02:43.100><c> dot</c></c>
+
+00:02:43.450 --> 00:02:43.460 align:start position:0%
+this line<c.colorE5E5E5> copies the requirements dot
+ </c>
+
+00:02:43.460 --> 00:02:47.710 align:start position:0%
+this line<c.colorE5E5E5> copies the requirements dot</c>
+<c.colorE5E5E5>txt<00:02:44.120><c> file</c><00:02:44.600><c> from</c><00:02:45.380><c> the</c><00:02:45.560><c> current</c><00:02:46.040><c> directory</c></c><c.colorCCCCCC><00:02:46.720><c> into</c></c>
+
+00:02:47.710 --> 00:02:47.720 align:start position:0%
+<c.colorE5E5E5>txt file from the current directory</c><c.colorCCCCCC> into
+ </c>
+
+00:02:47.720 --> 00:02:52.210 align:start position:0%
+<c.colorE5E5E5>txt file from the current directory</c><c.colorCCCCCC> into
+the<00:02:47.870><c> directory</c><00:02:48.470><c> user</c></c><c.colorE5E5E5><00:02:49.430><c> has</c><00:02:50.120><c> a</c><00:02:50.300><c> see</c><00:02:50.630><c> up</c><00:02:51.220><c> inside</c></c>
+
+00:02:52.210 --> 00:02:52.220 align:start position:0%
+the directory user<c.colorE5E5E5> has a see up inside
+ </c>
+
+00:02:52.220 --> 00:02:55.750 align:start position:0%
+the directory user<c.colorE5E5E5> has a see up inside</c>
+<c.colorE5E5E5>the<00:02:52.760><c> docker</c><00:02:53.030><c> container</c><00:02:54.130><c> note</c></c><c.colorCCCCCC><00:02:55.130><c> that</c><00:02:55.370><c> we</c><00:02:55.520><c> need</c></c>
+
+00:02:55.750 --> 00:02:55.760 align:start position:0%
+<c.colorE5E5E5>the docker container note</c><c.colorCCCCCC> that we need
+ </c>
+
+00:02:55.760 --> 00:02:58.470 align:start position:0%
+<c.colorE5E5E5>the docker container note</c><c.colorCCCCCC> that we need
+to<00:02:55.940><c> copy</c><00:02:56.150><c> this</c><00:02:56.450><c> file</c></c><c.colorE5E5E5><00:02:56.810><c> from</c><00:02:57.500><c> our</c><00:02:57.680><c> local</c></c><c.colorCCCCCC><00:02:58.040><c> machine</c></c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+to copy this file<c.colorE5E5E5> from our local</c><c.colorCCCCCC> machine
+ </c>
+
+00:02:58.480 --> 00:03:01.600 align:start position:0%
+to copy this file<c.colorE5E5E5> from our local</c><c.colorCCCCCC> machine
+into<00:02:59.480><c> the</c><00:02:59.600><c> docker</c><00:02:59.840><c> container</c></c><c.colorE5E5E5><00:03:00.610><c> otherwise</c></c>
+
+00:03:01.600 --> 00:03:01.610 align:start position:0%
+into<c.colorCCCCCC> the docker container</c><c.colorE5E5E5> otherwise
+ </c>
+
+00:03:01.610 --> 00:03:04.840 align:start position:0%
+into<c.colorCCCCCC> the docker container</c><c.colorE5E5E5> otherwise
+docker<00:03:02.000><c> won't</c><00:03:02.630><c> be</c><00:03:02.750><c> able</c></c><c.colorCCCCCC><00:03:02.870><c> to</c><00:03:03.080><c> find</c><00:03:03.380><c> it</c></c><c.colorE5E5E5><00:03:03.850><c> let's</c></c>
+
+00:03:04.840 --> 00:03:04.850 align:start position:0%
+docker<c.colorE5E5E5> won't be able</c><c.colorCCCCCC> to find it</c><c.colorE5E5E5> let's
+ </c>
+
+00:03:04.850 --> 00:03:07.120 align:start position:0%
+docker<c.colorE5E5E5> won't be able</c><c.colorCCCCCC> to find it</c><c.colorE5E5E5> let's
+have</c><c.colorCCCCCC><00:03:05.000><c> a</c><00:03:05.060><c> look</c><00:03:05.330><c> at</c><00:03:05.510><c> requirements</c></c><c.colorE5E5E5><00:03:05.540><c> dot</c><00:03:06.470><c> txt</c></c>
+
+00:03:07.120 --> 00:03:07.130 align:start position:0%
+have<c.colorCCCCCC> a look at requirements</c><c.colorE5E5E5> dot txt
+ </c>
+
+00:03:07.130 --> 00:03:09.910 align:start position:0%
+have<c.colorCCCCCC> a look at requirements</c><c.colorE5E5E5> dot txt
+which<00:03:07.790><c> is</c><00:03:08.030><c> located</c><00:03:08.420><c> in</c><00:03:08.840><c> the</c><00:03:09.050><c> same</c><00:03:09.290><c> directory</c></c>
+
+00:03:09.910 --> 00:03:09.920 align:start position:0%
+which is located<c.colorE5E5E5> in the same directory
+ </c>
+
+00:03:09.920 --> 00:03:13.360 align:start position:0%
+which is located<c.colorE5E5E5> in the same directory
+of<00:03:10.100><c> the</c><00:03:10.190><c> daka</c><00:03:10.610><c> file</c><00:03:11.170><c> this</c><00:03:12.170><c> is</c><00:03:12.380><c> a</c><00:03:12.410><c> simple</c><00:03:12.950><c> text</c></c>
+
+00:03:13.360 --> 00:03:13.370 align:start position:0%
+of the daka file this is a simple<c.colorE5E5E5> text
+ </c>
+
+00:03:13.370 --> 00:03:15.820 align:start position:0%
+of the daka file this is a simple<c.colorE5E5E5> text
+file<00:03:13.610><c> containing</c><00:03:14.540><c> the</c><00:03:14.870><c> name</c><00:03:15.110><c> and</c><00:03:15.410><c> the</c><00:03:15.620><c> version</c></c>
+
+00:03:15.820 --> 00:03:15.830 align:start position:0%
+file<c.colorE5E5E5> containing the name and the version
+ </c>
+
+00:03:15.830 --> 00:03:18.750 align:start position:0%
+file<c.colorE5E5E5> containing the name and the version
+of<00:03:16.190><c> the</c></c><c.colorCCCCCC><00:03:16.430><c> Python</c><00:03:16.910><c> module</c><00:03:17.330><c> we</c><00:03:17.510><c> need</c><00:03:17.540><c> to</c></c><c.colorE5E5E5><00:03:17.690><c> install</c></c>
+
+00:03:18.750 --> 00:03:18.760 align:start position:0%
+<c.colorE5E5E5>of the</c><c.colorCCCCCC> Python module we need to</c><c.colorE5E5E5> install
+ </c>
+
+00:03:18.760 --> 00:03:21.730 align:start position:0%
+<c.colorE5E5E5>of the</c><c.colorCCCCCC> Python module we need to</c><c.colorE5E5E5> install
+here<00:03:19.760><c> we</c><00:03:20.120><c> are</c><00:03:20.150><c> using</c><00:03:20.330><c> flask</c></c><c.colorCCCCCC><00:03:20.840><c> which</c><00:03:21.530><c> is</c><00:03:21.710><c> a</c></c>
+
+00:03:21.730 --> 00:03:21.740 align:start position:0%
+here we are using flask<c.colorCCCCCC> which is a
+ </c>
+
+00:03:21.740 --> 00:03:23.650 align:start position:0%
+here we are using flask<c.colorCCCCCC> which is a
+popular<00:03:22.250><c> framework</c><00:03:22.820><c> for</c><00:03:23.120><c> building</c><00:03:23.510><c> web</c></c>
+
+00:03:23.650 --> 00:03:23.660 align:start position:0%
+popular framework for<c.colorCCCCCC> building web
+ </c>
+
+00:03:23.660 --> 00:03:27.250 align:start position:0%
+popular framework for<c.colorCCCCCC> building web
+applications</c><c.colorE5E5E5><00:03:23.870><c> in</c><00:03:24.680><c> Python</c><00:03:25.720><c> that's</c><00:03:26.720><c> one</c><00:03:26.990><c> of</c><00:03:27.110><c> the</c></c>
+
+00:03:27.250 --> 00:03:27.260 align:start position:0%
+applications<c.colorE5E5E5> in Python that's one of the
+ </c>
+
+00:03:27.260 --> 00:03:29.680 align:start position:0%
+applications<c.colorE5E5E5> in Python that's one of the
+dependencies<00:03:27.980><c> we</c><00:03:28.250><c> need</c><00:03:28.460><c> in</c><00:03:29.030><c> order</c></c><c.colorCCCCCC><00:03:29.240><c> to</c><00:03:29.540><c> build</c></c>
+
+00:03:29.680 --> 00:03:29.690 align:start position:0%
+dependencies we need in<c.colorE5E5E5> order</c><c.colorCCCCCC> to build
+ </c>
+
+00:03:29.690 --> 00:03:32.010 align:start position:0%
+dependencies we need in<c.colorE5E5E5> order</c><c.colorCCCCCC> to build
+our<00:03:29.930><c> web</c><00:03:30.260><c> application</c></c>
+
+00:03:32.010 --> 00:03:32.020 align:start position:0%
+our web application
+ 
+
+00:03:32.020 --> 00:03:34.560 align:start position:0%
+our web application
+let's<00:03:32.950><c> go</c><00:03:33.220><c> back</c><c.colorCCCCCC><00:03:33.400><c> to</c><00:03:33.460><c> the</c><00:03:33.730><c> dockerfile</c><00:03:34.060><c> and</c></c>
+
+00:03:34.560 --> 00:03:34.570 align:start position:0%
+let's go back<c.colorCCCCCC> to the dockerfile and
+ </c>
+
+00:03:34.570 --> 00:03:37.990 align:start position:0%
+let's go back<c.colorCCCCCC> to the dockerfile and
+continue<00:03:35.530><c> from</c><00:03:35.770><c> where</c><00:03:35.830><c> we</c><00:03:36.220><c> left</c></c>
+
+00:03:37.990 --> 00:03:38.000 align:start position:0%
+continue from where<c.colorCCCCCC> we left
+ </c>
+
+00:03:38.000 --> 00:03:41.980 align:start position:0%
+continue from where<c.colorCCCCCC> we left
+this<00:03:38.870><c> line</c><00:03:39.370><c> installs</c><00:03:40.370><c> the</c><00:03:40.640><c> modules</c><00:03:41.090><c> listed</c><00:03:41.780><c> in</c></c>
+
+00:03:41.980 --> 00:03:41.990 align:start position:0%
+this line installs the modules listed in
+ 
+
+00:03:41.990 --> 00:03:45.010 align:start position:0%
+this line installs the modules listed in
+the<00:03:42.140><c> requirements</c><00:03:42.860><c> dot</c><00:03:43.130><c> txt</c><00:03:43.790><c> file</c><c.colorE5E5E5><00:03:44.330><c> hence</c></c>
+
+00:03:45.010 --> 00:03:45.020 align:start position:0%
+the requirements dot txt file<c.colorE5E5E5> hence
+ </c>
+
+00:03:45.020 --> 00:03:48.790 align:start position:0%
+the requirements dot txt file<c.colorE5E5E5> hence
+flask<00:03:46.000><c> using</c></c><c.colorCCCCCC><00:03:47.000><c> pip</c></c><c.colorE5E5E5><00:03:47.300><c> which</c><00:03:48.050><c> is</c><00:03:48.230><c> the</c><00:03:48.410><c> package</c></c>
+
+00:03:48.790 --> 00:03:48.800 align:start position:0%
+<c.colorE5E5E5>flask using</c><c.colorCCCCCC> pip</c><c.colorE5E5E5> which is the package
+ </c>
+
+00:03:48.800 --> 00:03:51.540 align:start position:0%
+<c.colorE5E5E5>flask using</c><c.colorCCCCCC> pip</c><c.colorE5E5E5> which is the package</c>
+<c.colorCCCCCC>manager<00:03:49.400><c> for</c><00:03:49.520><c> installing</c><00:03:49.810><c> Python</c><00:03:50.810><c> modules</c></c>
+
+00:03:51.540 --> 00:03:51.550 align:start position:0%
+<c.colorCCCCCC>manager for installing Python modules
+ </c>
+
+00:03:51.550 --> 00:03:55.030 align:start position:0%
+<c.colorCCCCCC>manager for installing Python modules</c>
+<c.colorE5E5E5>note<00:03:52.550><c> that</c><00:03:53.060><c> we</c><00:03:53.210><c> have</c><00:03:53.300><c> to</c><00:03:53.450><c> specify</c><00:03:53.750><c> the</c><00:03:54.110><c> path</c><00:03:54.590><c> to</c></c>
+
+00:03:55.030 --> 00:03:55.040 align:start position:0%
+<c.colorE5E5E5>note that we have to specify the path to
+ </c>
+
+00:03:55.040 --> 00:03:57.520 align:start position:0%
+<c.colorE5E5E5>note that we have to specify the path to
+the<00:03:55.190><c> file</c><00:03:55.459><c> inside</c></c><c.colorCCCCCC><00:03:56.060><c> the</c></c><c.colorE5E5E5><00:03:56.540><c> docker</c><00:03:56.990><c> container</c></c>
+
+00:03:57.520 --> 00:03:57.530 align:start position:0%
+the file inside<c.colorCCCCCC> the</c><c.colorE5E5E5> docker container
+ </c>
+
+00:03:57.530 --> 00:04:00.699 align:start position:0%
+the file inside<c.colorCCCCCC> the</c><c.colorE5E5E5> docker container
+this<00:03:58.310><c> is</c><00:03:58.520><c> why</c><00:03:58.760><c> we</c><00:03:59.330><c> had</c><00:03:59.480><c> to</c><00:03:59.510><c> copy</c><00:03:59.930><c> it</c><00:04:00.140><c> in</c><00:04:00.380><c> the</c></c>
+
+00:04:00.699 --> 00:04:00.709 align:start position:0%
+this<c.colorE5E5E5> is why we had to copy it in the
+ </c>
+
+00:04:00.709 --> 00:04:03.670 align:start position:0%
+this<c.colorE5E5E5> is why we had to copy it in the
+previous<00:04:01.160><c> line</c><00:04:01.450><c> these</c><00:04:02.450><c> lines</c></c><c.colorCCCCCC><00:04:02.870><c> copied</c><00:04:03.590><c> the</c></c>
+
+00:04:03.670 --> 00:04:03.680 align:start position:0%
+previous line<c.colorE5E5E5> these lines</c><c.colorCCCCCC> copied the
+ </c>
+
+00:04:03.680 --> 00:04:04.270 align:start position:0%
+previous line<c.colorE5E5E5> these lines</c><c.colorCCCCCC> copied the
+files</c>
+
+00:04:04.270 --> 00:04:04.280 align:start position:0%
+files
+ 
+
+00:04:04.280 --> 00:04:09.970 align:start position:0%
+files
+up<00:04:04.520><c> dot</c><c.colorCCCCCC><00:04:05.420><c> pi</c><00:04:05.930><c> and</c><00:04:06.640><c> index</c><00:04:07.640><c> dot</c><00:04:07.940><c> HTML</c></c><c.colorE5E5E5><00:04:08.740><c> inside</c><00:04:09.740><c> the</c></c>
+
+00:04:09.970 --> 00:04:09.980 align:start position:0%
+up dot<c.colorCCCCCC> pi and index dot HTML</c><c.colorE5E5E5> inside the
+ </c>
+
+00:04:09.980 --> 00:04:12.550 align:start position:0%
+up dot<c.colorCCCCCC> pi and index dot HTML</c><c.colorE5E5E5> inside the
+templates<00:04:10.550><c> directory</c><00:04:11.170><c> into</c><00:04:12.170><c> the</c><00:04:12.320><c> docker</c></c>
+
+00:04:12.550 --> 00:04:12.560 align:start position:0%
+templates directory<c.colorE5E5E5> into the docker
+ </c>
+
+00:04:12.560 --> 00:04:15.970 align:start position:0%
+templates directory<c.colorE5E5E5> into the docker
+container<00:04:13.190><c> in</c><00:04:13.580><c> specific</c><00:04:14.420><c> directories</c><00:04:15.110><c> let's</c></c>
+
+00:04:15.970 --> 00:04:15.980 align:start position:0%
+container<c.colorE5E5E5> in specific directories let's
+ </c>
+
+00:04:15.980 --> 00:04:18.090 align:start position:0%
+container<c.colorE5E5E5> in specific directories let's
+have<00:04:16.190><c> a</c><00:04:16.220><c> look</c><00:04:16.459><c> at</c><00:04:16.669><c> these</c><00:04:16.850><c> files</c></c>
+
+00:04:18.090 --> 00:04:18.100 align:start position:0%
+have a look at these files
+ 
+
+00:04:18.100 --> 00:04:22.750 align:start position:0%
+have a look at these files
+<c.colorCCCCCC>ha<00:04:19.100><c> dot</c><00:04:19.579><c> pi</c><00:04:19.940><c> is</c><00:04:20.480><c> a</c></c><c.colorE5E5E5><00:04:20.540><c> Python</c><00:04:21.230><c> file</c><00:04:21.530><c> that</c></c><c.colorCCCCCC><00:04:22.130><c> uses</c><00:04:22.550><c> the</c></c>
+
+00:04:22.750 --> 00:04:22.760 align:start position:0%
+<c.colorCCCCCC>ha dot pi is a</c><c.colorE5E5E5> Python file that</c><c.colorCCCCCC> uses the
+ </c>
+
+00:04:22.760 --> 00:04:25.240 align:start position:0%
+<c.colorCCCCCC>ha dot pi is a</c><c.colorE5E5E5> Python file that</c><c.colorCCCCCC> uses the
+flask<00:04:23.060><c> web</c><00:04:23.480><c> framework</c><00:04:24.140><c> for</c><00:04:24.770><c> building</c><00:04:24.800><c> a</c></c>
+
+00:04:25.240 --> 00:04:25.250 align:start position:0%
+flask web framework for building<c.colorCCCCCC> a
+ </c>
+
+00:04:25.250 --> 00:04:28.540 align:start position:0%
+flask web framework for building<c.colorCCCCCC> a
+simple</c><c.colorE5E5E5><00:04:25.460><c> web</c><00:04:25.820><c> application</c><00:04:26.530><c> it</c><00:04:27.530><c> imports</c><00:04:28.160><c> flask</c></c>
+
+00:04:28.540 --> 00:04:28.550 align:start position:0%
+simple<c.colorE5E5E5> web application it imports flask
+ </c>
+
+00:04:28.550 --> 00:04:31.600 align:start position:0%
+simple<c.colorE5E5E5> web application it imports flask</c>
+<c.colorE5E5E5>and</c><c.colorCCCCCC><00:04:28.910><c> ran</c><00:04:29.690><c> that</c><00:04:29.900><c> template</c><00:04:30.440><c> from</c><00:04:31.220><c> the</c></c><c.colorE5E5E5><00:04:31.280><c> flask</c></c>
+
+00:04:31.600 --> 00:04:31.610 align:start position:0%
+<c.colorE5E5E5>and</c><c.colorCCCCCC> ran that template from the</c><c.colorE5E5E5> flask
+ </c>
+
+00:04:31.610 --> 00:04:34.900 align:start position:0%
+<c.colorE5E5E5>and</c><c.colorCCCCCC> ran that template from the</c><c.colorE5E5E5> flask
+module<00:04:32.350><c> it</c><00:04:33.350><c> also</c><00:04:33.530><c> imports</c><00:04:34.010><c> the</c><00:04:34.310><c> random</c><00:04:34.700><c> module</c></c>
+
+00:04:34.900 --> 00:04:34.910 align:start position:0%
+module it also imports the random module
+ 
+
+00:04:34.910 --> 00:04:37.510 align:start position:0%
+module it also imports the random module
+<c.colorE5E5E5>there<00:04:35.660><c> is</c><00:04:35.720><c> no</c><00:04:35.960><c> need</c><00:04:36.140><c> to</c><00:04:36.169><c> specify</c><00:04:36.530><c> this</c><00:04:37.070><c> module</c></c>
+
+00:04:37.510 --> 00:04:37.520 align:start position:0%
+<c.colorE5E5E5>there is no need to specify this module
+ </c>
+
+00:04:37.520 --> 00:04:40.300 align:start position:0%
+<c.colorE5E5E5>there is no need to specify this module
+in<00:04:37.730><c> the</c><00:04:37.940><c> requirements</c><00:04:38.570><c> dot</c><00:04:38.750><c> txt</c><00:04:39.230><c> as</c><00:04:39.560><c> it</c><00:04:40.190><c> is</c></c>
+
+00:04:40.300 --> 00:04:40.310 align:start position:0%
+in the requirements dot txt as it is
+ 
+
+00:04:40.310 --> 00:04:43.120 align:start position:0%
+in the requirements dot txt as it is
+included<00:04:41.030><c> by</c><00:04:41.510><c> default</c><c.colorE5E5E5><00:04:41.570><c> in</c><00:04:42.229><c> the</c><00:04:42.830><c> Python</c></c>
+
+00:04:43.120 --> 00:04:43.130 align:start position:0%
+included by default<c.colorE5E5E5> in the Python
+ </c>
+
+00:04:43.130 --> 00:04:46.690 align:start position:0%
+included by default<c.colorE5E5E5> in the Python</c>
+<c.colorE5E5E5>standard<00:04:43.729><c> library</c></c><c.colorCCCCCC><00:04:44.410><c> we</c><00:04:45.410><c> use</c><00:04:45.620><c> this</c><00:04:45.830><c> module</c><00:04:46.130><c> to</c></c>
+
+00:04:46.690 --> 00:04:46.700 align:start position:0%
+<c.colorE5E5E5>standard library</c><c.colorCCCCCC> we use this module to
+ </c>
+
+00:04:46.700 --> 00:04:49.840 align:start position:0%
+<c.colorE5E5E5>standard library</c><c.colorCCCCCC> we use this module to
+generate<00:04:47.150><c> a</c><00:04:47.180><c> random</c></c><c.colorE5E5E5><00:04:47.479><c> gif</c><00:04:48.020><c> of</c><00:04:48.260><c> a</c><00:04:48.470><c> cat</c><00:04:48.710><c> this</c><00:04:49.490><c> line</c></c>
+
+00:04:49.840 --> 00:04:49.850 align:start position:0%
+generate a random<c.colorE5E5E5> gif of a cat this line
+ </c>
+
+00:04:49.850 --> 00:04:53.290 align:start position:0%
+generate a random<c.colorE5E5E5> gif of a cat this line</c>
+<c.colorE5E5E5>initiates<00:04:50.630><c> a</c><00:04:50.810><c> flask</c></c><c.colorCCCCCC><00:04:51.200><c> application</c><00:04:51.979><c> this</c></c><c.colorE5E5E5><00:04:52.880><c> line</c></c>
+
+00:04:53.290 --> 00:04:53.300 align:start position:0%
+<c.colorE5E5E5>initiates a flask</c><c.colorCCCCCC> application this</c><c.colorE5E5E5> line
+ </c>
+
+00:04:53.300 --> 00:04:57.100 align:start position:0%
+<c.colorE5E5E5>initiates a flask</c><c.colorCCCCCC> application this</c><c.colorE5E5E5> line
+creates<00:04:54.169><c> a</c><00:04:54.350><c> list</c><00:04:54.710><c> named</c><00:04:55.280><c> images</c><00:04:56.110><c> containing</c></c>
+
+00:04:57.100 --> 00:04:57.110 align:start position:0%
+<c.colorE5E5E5>creates a list named images containing
+ </c>
+
+00:04:57.110 --> 00:05:00.909 align:start position:0%
+<c.colorE5E5E5>creates a list named images containing
+URLs<00:04:57.710><c> of</c><00:04:57.890><c> gif</c><00:04:58.370><c> images</c><00:04:59.030><c> of</c><00:04:59.270><c> cats</c></c><c.colorCCCCCC><00:04:59.770><c> taken</c><00:05:00.770><c> from</c></c>
+
+00:05:00.909 --> 00:05:00.919 align:start position:0%
+URLs of gif images of cats<c.colorCCCCCC> taken from
+ </c>
+
+00:05:00.919 --> 00:05:04.570 align:start position:0%
+URLs of gif images of cats<c.colorCCCCCC> taken from</c>
+<c.colorE5E5E5>the<00:05:01.070><c> BuzzFeed</c></c><c.colorCCCCCC><00:05:01.280><c> web</c><00:05:02.180><c> site</c></c><c.colorE5E5E5><00:05:02.479><c> if</c><00:05:03.350><c> you</c><00:05:03.680><c> want</c><00:05:03.710><c> you</c></c>
+
+00:05:04.570 --> 00:05:04.580 align:start position:0%
+<c.colorE5E5E5>the BuzzFeed</c><c.colorCCCCCC> web site</c><c.colorE5E5E5> if you want you
+ </c>
+
+00:05:04.580 --> 00:05:07.240 align:start position:0%
+<c.colorE5E5E5>the BuzzFeed</c><c.colorCCCCCC> web site</c><c.colorE5E5E5> if you want you
+can<00:05:04.700><c> customize</c></c><c.colorCCCCCC><00:05:04.970><c> this</c><00:05:05.600><c> list</c><00:05:06.020><c> with</c><00:05:06.470><c> more</c><00:05:06.770><c> gifts</c></c>
+
+00:05:07.240 --> 00:05:07.250 align:start position:0%
+can customize<c.colorCCCCCC> this list with more gifts
+ </c>
+
+00:05:07.250 --> 00:05:11.500 align:start position:0%
+can customize<c.colorCCCCCC> this list with more gifts
+of<00:05:07.400><c> cats</c><00:05:08.380><c> this</c><00:05:09.380><c> line</c><00:05:09.740><c> defines</c><00:05:10.700><c> an</c><00:05:10.910><c> application</c></c>
+
+00:05:11.500 --> 00:05:11.510 align:start position:0%
+of cats this line defines an application
+ 
+
+00:05:11.510 --> 00:05:15.010 align:start position:0%
+of cats this line defines an application
+route<00:05:11.810><c> and</c><c.colorE5E5E5><00:05:12.020><c> maps</c><00:05:12.860><c> the</c><00:05:13.220><c> route</c></c><c.colorCCCCCC><00:05:13.460><c> slash</c></c><c.colorE5E5E5><00:05:14.030><c> in</c><00:05:14.780><c> other</c></c>
+
+00:05:15.010 --> 00:05:15.020 align:start position:0%
+route and<c.colorE5E5E5> maps the route</c><c.colorCCCCCC> slash</c><c.colorE5E5E5> in other
+ </c>
+
+00:05:15.020 --> 00:05:17.710 align:start position:0%
+route and<c.colorE5E5E5> maps the route</c><c.colorCCCCCC> slash</c><c.colorE5E5E5> in other
+words<00:05:15.350><c> the</c><00:05:15.710><c> route</c><00:05:15.950><c> of</c><00:05:16.190><c> localhost</c></c><c.colorCCCCCC><00:05:16.880><c> or</c><00:05:17.210><c> domain</c></c>
+
+00:05:17.710 --> 00:05:17.720 align:start position:0%
+words<c.colorE5E5E5> the route of localhost</c><c.colorCCCCCC> or domain
+ </c>
+
+00:05:17.720 --> 00:05:21.380 align:start position:0%
+words<c.colorE5E5E5> the route of localhost</c><c.colorCCCCCC> or domain</c>
+<c.colorCCCCCC>name<00:05:18.050><c> to</c><00:05:18.919><c> the</c><00:05:19.040><c> function</c></c><c.colorE5E5E5><00:05:19.490><c> index</c></c>
+
+00:05:21.380 --> 00:05:21.390 align:start position:0%
+<c.colorCCCCCC>name to the function</c><c.colorE5E5E5> index
+ </c>
+
+00:05:21.390 --> 00:05:23.810 align:start position:0%
+<c.colorCCCCCC>name to the function</c><c.colorE5E5E5> index
+these<00:05:21.600><c> function</c><00:05:22.200><c> stores</c><00:05:22.800><c> inside</c><00:05:23.400><c> the</c><00:05:23.610><c> URL</c></c>
+
+00:05:23.810 --> 00:05:23.820 align:start position:0%
+<c.colorE5E5E5>these function stores inside the URL
+ </c>
+
+00:05:23.820 --> 00:05:28.310 align:start position:0%
+<c.colorE5E5E5>these function stores inside the URL
+variable<00:05:24.630><c> the</c><00:05:25.140><c> URL</c><00:05:25.650><c> of</c><00:05:25.860><c> the</c></c><c.colorCCCCCC><00:05:25.950><c> cat</c><00:05:26.400><c> gif</c><00:05:26.940><c> you</c><00:05:27.320><c> can</c></c>
+
+00:05:28.310 --> 00:05:28.320 align:start position:0%
+variable the URL of the<c.colorCCCCCC> cat gif you can
+ </c>
+
+00:05:28.320 --> 00:05:30.680 align:start position:0%
+variable the URL of the<c.colorCCCCCC> cat gif you can
+see<00:05:28.530><c> here</c></c><c.colorE5E5E5><00:05:28.950><c> that</c><00:05:29.430><c> we</c></c><c.colorCCCCCC><00:05:29.550><c> are</c><00:05:29.610><c> using</c></c><c.colorE5E5E5><00:05:29.940><c> the</c><00:05:30.330><c> random</c></c>
+
+00:05:30.680 --> 00:05:30.690 align:start position:0%
+see here<c.colorE5E5E5> that we</c><c.colorCCCCCC> are using</c><c.colorE5E5E5> the random
+ </c>
+
+00:05:30.690 --> 00:05:34.280 align:start position:0%
+see here<c.colorE5E5E5> that we</c><c.colorCCCCCC> are using</c><c.colorE5E5E5> the random
+module<00:05:30.900><c> to</c><00:05:31.680><c> pick</c><00:05:32.010><c> up</c><00:05:32.250><c> a</c><00:05:32.490><c> URL</c><00:05:32.970><c> from</c></c><c.colorCCCCCC><00:05:33.660><c> the</c><00:05:33.780><c> images</c></c>
+
+00:05:34.280 --> 00:05:34.290 align:start position:0%
+module<c.colorE5E5E5> to pick up a URL from</c><c.colorCCCCCC> the images
+ </c>
+
+00:05:34.290 --> 00:05:35.210 align:start position:0%
+module<c.colorE5E5E5> to pick up a URL from</c><c.colorCCCCCC> the images
+list</c>
+
+00:05:35.210 --> 00:05:35.220 align:start position:0%
+list
+ 
+
+00:05:35.220 --> 00:05:38.150 align:start position:0%
+list
+finally<00:05:36.060><c> the</c><00:05:36.660><c> function</c><00:05:37.110><c> invokes</c><00:05:37.590><c> the</c><00:05:37.830><c> render</c>
+
+00:05:38.150 --> 00:05:38.160 align:start position:0%
+finally the function invokes the render
+ 
+
+00:05:38.160 --> 00:05:40.880 align:start position:0%
+finally the function invokes the render
+template<c.colorE5E5E5><00:05:38.580><c> to</c><00:05:39.270><c> render</c><00:05:39.690><c> the</c><00:05:39.840><c> template</c></c><c.colorCCCCCC><00:05:40.230><c> stored</c></c>
+
+00:05:40.880 --> 00:05:40.890 align:start position:0%
+template<c.colorE5E5E5> to render the template</c><c.colorCCCCCC> stored
+ </c>
+
+00:05:40.890 --> 00:05:45.050 align:start position:0%
+template<c.colorE5E5E5> to render the template</c><c.colorCCCCCC> stored
+in<00:05:41.160><c> index</c><00:05:41.820><c> dot</c><00:05:42.210><c> HTML</c><00:05:42.480><c> and</c><00:05:43.520><c> passes</c><00:05:44.520><c> the</c><00:05:44.640><c> URL</c></c>
+
+00:05:45.050 --> 00:05:45.060 align:start position:0%
+in index dot HTML and passes the URL
+ 
+
+00:05:45.060 --> 00:05:48.440 align:start position:0%
+in index dot HTML and passes the URL
+variable<00:05:45.630><c> to</c><00:05:46.140><c> this</c><00:05:46.290><c> template</c><00:05:47.180><c> we</c><c.colorCCCCCC><00:05:48.180><c> will</c><00:05:48.330><c> look</c></c>
+
+00:05:48.440 --> 00:05:48.450 align:start position:0%
+variable to this template we<c.colorCCCCCC> will look
+ </c>
+
+00:05:48.450 --> 00:05:50.180 align:start position:0%
+variable to this template we<c.colorCCCCCC> will look
+at<00:05:48.600><c> the</c><00:05:48.660><c> template</c></c><c.colorE5E5E5><00:05:49.080><c> in</c><00:05:49.410><c> a</c><00:05:49.620><c> minute</c></c>
+
+00:05:50.180 --> 00:05:50.190 align:start position:0%
+at the template<c.colorE5E5E5> in a minute
+ </c>
+
+00:05:50.190 --> 00:05:52.520 align:start position:0%
+at the template<c.colorE5E5E5> in a minute
+the<00:05:50.520><c> render</c><00:05:50.880><c> template</c><00:05:51.300><c> page</c><00:05:51.660><c> is</c><00:05:52.170><c> then</c></c>
+
+00:05:52.520 --> 00:05:52.530 align:start position:0%
+the render<c.colorE5E5E5> template page is then
+ </c>
+
+00:05:52.530 --> 00:05:54.980 align:start position:0%
+the render<c.colorE5E5E5> template page is then
+returned<00:05:53.100><c> by</c><00:05:53.370><c> the</c><00:05:53.430><c> function</c><00:05:53.630><c> when</c><00:05:54.630><c> the</c><00:05:54.750><c> user</c></c>
+
+00:05:54.980 --> 00:05:54.990 align:start position:0%
+returned by the function<c.colorE5E5E5> when the user
+ </c>
+
+00:05:54.990 --> 00:05:57.140 align:start position:0%
+returned by the function<c.colorE5E5E5> when the user
+invokes<00:05:55.500><c> the</c></c><c.colorCCCCCC><00:05:55.860><c> homepage</c><00:05:56.400><c> of</c><00:05:56.700><c> the</c><00:05:56.970><c> web</c></c>
+
+00:05:57.140 --> 00:05:57.150 align:start position:0%
+invokes the<c.colorCCCCCC> homepage of the web
+ </c>
+
+00:05:57.150 --> 00:06:00.470 align:start position:0%
+invokes the<c.colorCCCCCC> homepage of the web
+application</c><c.colorE5E5E5><00:05:57.870><c> this</c><00:05:58.500><c> last</c><00:05:58.920><c> line</c><00:05:59.310><c> is</c><00:05:59.880><c> used</c><00:06:00.300><c> to</c></c>
+
+00:06:00.470 --> 00:06:00.480 align:start position:0%
+application<c.colorE5E5E5> this last line is used to
+ </c>
+
+00:06:00.480 --> 00:06:02.950 align:start position:0%
+application<c.colorE5E5E5> this last line is used to
+run<00:06:00.690><c> the</c><00:06:00.840><c> application</c></c><c.colorCCCCCC><00:06:00.960><c> on</c></c><c.colorE5E5E5><00:06:01.680><c> the</c><00:06:01.770><c> current</c><00:06:02.280><c> host</c></c>
+
+00:06:02.950 --> 00:06:02.960 align:start position:0%
+run<c.colorE5E5E5> the application</c><c.colorCCCCCC> on</c><c.colorE5E5E5> the current host
+ </c>
+
+00:06:02.960 --> 00:06:05.840 align:start position:0%
+run<c.colorE5E5E5> the application</c><c.colorCCCCCC> on</c><c.colorE5E5E5> the current host
+localhost<00:06:03.960><c> in</c><00:06:04.200><c> our</c><00:06:04.320><c> case</c><00:06:04.650><c> or</c><00:06:04.950><c> a</c><00:06:05.010><c> domain</c></c><c.colorCCCCCC><00:06:05.400><c> name</c></c>
+
+00:06:05.840 --> 00:06:05.850 align:start position:0%
+localhost in our case or a domain<c.colorCCCCCC> name
+ </c>
+
+00:06:05.850 --> 00:06:08.540 align:start position:0%
+localhost in our case or a domain<c.colorCCCCCC> name</c>
+<c.colorE5E5E5>if<00:06:06.120><c> the</c><00:06:06.420><c> application</c></c><c.colorCCCCCC><00:06:06.840><c> is</c><00:06:07.230><c> deployed</c></c><c.colorE5E5E5><00:06:07.520><c> to</c><00:06:08.520><c> a</c></c>
+
+00:06:08.540 --> 00:06:08.550 align:start position:0%
+<c.colorE5E5E5>if the application</c><c.colorCCCCCC> is deployed</c><c.colorE5E5E5> to a
+ </c>
+
+00:06:08.550 --> 00:06:14.390 align:start position:0%
+<c.colorE5E5E5>if the application</c><c.colorCCCCCC> is deployed</c><c.colorE5E5E5> to a
+server<00:06:08.940><c> accessible</c><00:06:09.900><c> via</c></c><c.colorCCCCCC><00:06:10.110><c> DNS</c><00:06:11.600><c> 0.0.0.0</c><00:06:13.400><c> means</c></c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+server accessible via<c.colorCCCCCC> DNS 0.0.0.0 means
+ </c>
+
+00:06:14.400 --> 00:06:17.060 align:start position:0%
+server accessible via<c.colorCCCCCC> DNS 0.0.0.0 means
+the<00:06:14.760><c> application</c><00:06:15.390><c> is</c><00:06:15.540><c> reachable</c></c><c.colorE5E5E5><00:06:16.020><c> from</c></c><c.colorCCCCCC><00:06:16.170><c> all</c></c>
+
+00:06:17.060 --> 00:06:17.070 align:start position:0%
+the<c.colorCCCCCC> application is reachable</c><c.colorE5E5E5> from</c><c.colorCCCCCC> all
+ </c>
+
+00:06:17.070 --> 00:06:20.620 align:start position:0%
+the<c.colorCCCCCC> application is reachable</c><c.colorE5E5E5> from</c><c.colorCCCCCC> all
+the<00:06:17.310><c> IP</c></c><c.colorE5E5E5><00:06:17.610><c> addresses</c><00:06:18.210><c> on</c><00:06:18.600><c> the</c><00:06:18.900><c> local</c><00:06:19.230><c> machine</c></c>
+
+00:06:20.620 --> 00:06:20.630 align:start position:0%
+the IP<c.colorE5E5E5> addresses on the local machine
+ </c>
+
+00:06:20.630 --> 00:06:24.140 align:start position:0%
+the IP<c.colorE5E5E5> addresses on the local machine
+now<00:06:21.630><c> let's</c><00:06:22.320><c> look</c><00:06:22.590><c> at</c><00:06:22.740><c> the</c><00:06:22.920><c> template</c><00:06:23.400><c> invoked</c></c>
+
+00:06:24.140 --> 00:06:24.150 align:start position:0%
+now let's look at<c.colorE5E5E5> the template invoked
+ </c>
+
+00:06:24.150 --> 00:06:27.800 align:start position:0%
+now let's look at<c.colorE5E5E5> the template invoked
+in<00:06:24.420><c> this</c><00:06:24.690><c> line</c></c><c.colorCCCCCC><00:06:25.050><c> it</c><00:06:25.350><c> is</c><00:06:26.190><c> stored</c><00:06:26.520><c> locally</c><00:06:26.820><c> inside</c></c>
+
+00:06:27.800 --> 00:06:27.810 align:start position:0%
+in this line<c.colorCCCCCC> it is stored locally inside
+ </c>
+
+00:06:27.810 --> 00:06:31.730 align:start position:0%
+in this line<c.colorCCCCCC> it is stored locally inside
+the<00:06:28.020><c> templates</c><00:06:28.470><c> directory</c></c><c.colorE5E5E5><00:06:29.780><c> let's</c><00:06:30.780><c> open</c><00:06:30.990><c> index</c></c>
+
+00:06:31.730 --> 00:06:31.740 align:start position:0%
+the templates directory<c.colorE5E5E5> let's open index
+ </c>
+
+00:06:31.740 --> 00:06:36.500 align:start position:0%
+the templates directory<c.colorE5E5E5> let's open index
+dot<00:06:32.070><c> HTML</c></c><c.colorCCCCCC><00:06:33.170><c> this</c><00:06:34.170><c> is</c><00:06:34.350><c> a</c><00:06:34.380><c> simple</c><00:06:34.890><c> HTML</c></c><c.colorE5E5E5><00:06:35.370><c> file</c><00:06:35.850><c> with</c></c>
+
+00:06:36.500 --> 00:06:36.510 align:start position:0%
+dot HTML<c.colorCCCCCC> this is a simple HTML</c><c.colorE5E5E5> file with
+ </c>
+
+00:06:36.510 --> 00:06:39.680 align:start position:0%
+dot HTML<c.colorCCCCCC> this is a simple HTML</c><c.colorE5E5E5> file with
+some<00:06:36.780><c> CSS</c><00:06:37.470><c> in</c><00:06:37.770><c> it</c><00:06:37.920><c> and</c><00:06:38.220><c> it</c><00:06:38.880><c> is</c><00:06:38.910><c> used</c><00:06:39.420><c> as</c><00:06:39.660><c> a</c></c>
+
+00:06:39.680 --> 00:06:39.690 align:start position:0%
+some CSS in it and it is<c.colorE5E5E5> used as a
+ </c>
+
+00:06:39.690 --> 00:06:42.560 align:start position:0%
+some CSS in it and it is<c.colorE5E5E5> used as a
+template<00:06:40.260><c> for</c></c><c.colorCCCCCC><00:06:40.590><c> the</c><00:06:40.980><c> home</c><00:06:41.160><c> page</c><00:06:41.460><c> of</c><00:06:41.760><c> our</c><00:06:42.210><c> web</c></c>
+
+00:06:42.560 --> 00:06:42.570 align:start position:0%
+template for<c.colorCCCCCC> the home page of our web
+ </c>
+
+00:06:42.570 --> 00:06:45.830 align:start position:0%
+template for<c.colorCCCCCC> the home page of our web
+application<00:06:43.350><c> the</c><00:06:44.270><c> interesting</c><00:06:45.270><c> part</c><00:06:45.600><c> is</c></c>
+
+00:06:45.830 --> 00:06:45.840 align:start position:0%
+application the<c.colorCCCCCC> interesting part is
+ </c>
+
+00:06:45.840 --> 00:06:49.970 align:start position:0%
+application the<c.colorCCCCCC> interesting part is</c>
+<c.colorE5E5E5>inside<00:06:46.620><c> the</c><00:06:47.010><c> div</c><00:06:47.250><c> class</c><00:06:47.730><c> container</c></c><c.colorCCCCCC><00:06:48.360><c> in</c><00:06:48.980><c> here</c></c>
+
+00:06:49.970 --> 00:06:49.980 align:start position:0%
+<c.colorE5E5E5>inside the div class container</c><c.colorCCCCCC> in here
+ </c>
+
+00:06:49.980 --> 00:06:53.060 align:start position:0%
+<c.colorE5E5E5>inside the div class container</c><c.colorCCCCCC> in here
+we<00:06:50.610><c> find</c><00:06:50.820><c> the</c><00:06:50.940><c> URL</c><00:06:51.420><c> variable</c><00:06:51.990><c> that</c><00:06:52.500><c> it</c><00:06:52.770><c> is</c></c>
+
+00:06:53.060 --> 00:06:53.070 align:start position:0%
+we find the URL variable that it is
+ 
+
+00:06:53.070 --> 00:06:56.360 align:start position:0%
+we find the URL variable that it is
+passed<00:06:53.430><c> to</c><c.colorE5E5E5><00:06:53.610><c> the</c><00:06:53.700><c> template</c><00:06:54.380><c> embedding</c><00:06:55.380><c> the</c><00:06:56.100><c> gif</c></c>
+
+00:06:56.360 --> 00:06:56.370 align:start position:0%
+passed to<c.colorE5E5E5> the template embedding the gif
+ </c>
+
+00:06:56.370 --> 00:07:00.470 align:start position:0%
+passed to<c.colorE5E5E5> the template embedding the gif
+image<00:06:57.710><c> now</c><00:06:58.710><c> let's</c><00:06:59.400><c> go</c><00:06:59.670><c> back</c><00:06:59.910><c> to</c><00:07:00.120><c> the</c><00:07:00.240><c> docker</c></c>
+
+00:07:00.470 --> 00:07:00.480 align:start position:0%
+image now let's go back<c.colorE5E5E5> to the docker
+ </c>
+
+00:07:00.480 --> 00:07:03.730 align:start position:0%
+image now let's go back<c.colorE5E5E5> to the docker
+file<00:07:00.840><c> and</c><00:07:01.110><c> continue</c><00:07:02.040><c> from</c><00:07:02.220><c> where</c></c><c.colorCCCCCC><00:07:02.310><c> we</c><00:07:02.670><c> left</c></c>
+
+00:07:03.730 --> 00:07:03.740 align:start position:0%
+file and continue from<c.colorE5E5E5> where</c><c.colorCCCCCC> we left
+ </c>
+
+00:07:03.740 --> 00:07:08.480 align:start position:0%
+file and continue from<c.colorE5E5E5> where</c><c.colorCCCCCC> we left
+this<00:07:04.740><c> line</c><00:07:05.180><c> exposes</c><00:07:06.180><c> port</c><00:07:06.650><c> 5,000</c><00:07:07.650><c> inside</c><00:07:08.340><c> the</c></c>
+
+00:07:08.480 --> 00:07:08.490 align:start position:0%
+this line exposes port<c.colorCCCCCC> 5,000 inside the
+ </c>
+
+00:07:08.490 --> 00:07:11.600 align:start position:0%
+this line exposes port<c.colorCCCCCC> 5,000 inside the
+container</c><c.colorE5E5E5><00:07:08.960><c> by</c><00:07:09.960><c> default</c><00:07:10.410><c> this</c></c><c.colorCCCCCC><00:07:11.040><c> is</c><00:07:11.190><c> the</c><00:07:11.340><c> port</c></c>
+
+00:07:11.600 --> 00:07:11.610 align:start position:0%
+container<c.colorE5E5E5> by default this</c><c.colorCCCCCC> is the port
+ </c>
+
+00:07:11.610 --> 00:07:14.390 align:start position:0%
+container<c.colorE5E5E5> by default this</c><c.colorCCCCCC> is the port
+where<00:07:11.850><c> the</c><00:07:11.880><c> flask</c><00:07:12.300><c> application</c></c><c.colorE5E5E5><00:07:12.540><c> is</c><00:07:13.230><c> served</c><00:07:13.620><c> so</c></c>
+
+00:07:14.390 --> 00:07:14.400 align:start position:0%
+where the flask application<c.colorE5E5E5> is served so
+ </c>
+
+00:07:14.400 --> 00:07:17.980 align:start position:0%
+where the flask application<c.colorE5E5E5> is served so
+we<00:07:14.820><c> need</c><00:07:14.970><c> to</c><00:07:15.090><c> open</c></c><c.colorCCCCCC><00:07:15.120><c> it</c><00:07:15.600><c> inside</c><00:07:15.900><c> the</c><00:07:16.500><c> container</c></c>
+
+00:07:17.980 --> 00:07:17.990 align:start position:0%
+we need to open<c.colorCCCCCC> it inside the container
+ </c>
+
+00:07:17.990 --> 00:07:21.110 align:start position:0%
+we need to open<c.colorCCCCCC> it inside the container
+finally<00:07:18.990><c> the</c><00:07:19.650><c> last</c><00:07:19.860><c> line</c><00:07:20.220><c> of</c></c><c.colorE5E5E5><00:07:20.250><c> the</c><00:07:20.550><c> docker</c><00:07:20.760><c> file</c></c>
+
+00:07:21.110 --> 00:07:21.120 align:start position:0%
+finally the last line of<c.colorE5E5E5> the docker file
+ </c>
+
+00:07:21.120 --> 00:07:23.540 align:start position:0%
+finally the last line of<c.colorE5E5E5> the docker file
+contains<00:07:21.990><c> the</c><00:07:22.170><c> command</c><00:07:22.650><c> to</c><00:07:22.980><c> run</c><00:07:23.250><c> the</c></c>
+
+00:07:23.540 --> 00:07:23.550 align:start position:0%
+contains the command to run the
+ 
+
+00:07:23.550 --> 00:07:26.630 align:start position:0%
+contains the command to run the
+<c.colorE5E5E5>application<00:07:24.180><c> through</c><00:07:24.450><c> a</c><00:07:24.570><c> Python</c><00:07:25.220><c> our</c><00:07:26.220><c> next</c></c>
+
+00:07:26.630 --> 00:07:26.640 align:start position:0%
+<c.colorE5E5E5>application through a Python our next
+ </c>
+
+00:07:26.640 --> 00:07:28.630 align:start position:0%
+<c.colorE5E5E5>application through a Python our next
+step<00:07:26.880><c> is</c><00:07:27.120><c> to</c></c><c.colorCCCCCC><00:07:27.150><c> build</c><00:07:27.480><c> the</c><00:07:27.690><c> docker</c><00:07:27.870><c> image</c></c>
+
+00:07:28.630 --> 00:07:28.640 align:start position:0%
+step<c.colorE5E5E5> is to</c><c.colorCCCCCC> build the docker image
+ </c>
+
+00:07:28.640 --> 00:07:31.190 align:start position:0%
+step<c.colorE5E5E5> is to</c><c.colorCCCCCC> build the docker image
+remember<00:07:29.640><c> the</c></c><c.colorE5E5E5><00:07:29.940><c> difference</c><00:07:30.390><c> between</c><00:07:30.480><c> docker</c></c>
+
+00:07:31.190 --> 00:07:31.200 align:start position:0%
+remember<c.colorCCCCCC> the</c><c.colorE5E5E5> difference between docker
+ </c>
+
+00:07:31.200 --> 00:07:33.950 align:start position:0%
+remember<c.colorCCCCCC> the</c><c.colorE5E5E5> difference between docker
+image<00:07:31.710><c> and</c><00:07:31.950><c> docker</c><00:07:32.280><c> container</c><00:07:32.910><c> we</c><00:07:33.570><c> made</c><00:07:33.780><c> in</c></c>
+
+00:07:33.950 --> 00:07:33.960 align:start position:0%
+image and docker container<c.colorE5E5E5> we made in
+ </c>
+
+00:07:33.960 --> 00:07:35.320 align:start position:0%
+image and docker container<c.colorE5E5E5> we made in
+the</c><c.colorCCCCCC><00:07:34.080><c> previous</c><00:07:34.440><c> video</c></c>
+
+00:07:35.320 --> 00:07:35.330 align:start position:0%
+the<c.colorCCCCCC> previous video
+ </c>
+
+00:07:35.330 --> 00:07:38.410 align:start position:0%
+the<c.colorCCCCCC> previous video
+the</c><c.colorE5E5E5><00:07:36.140><c> dockerfile</c><00:07:36.920><c> is</c><00:07:37.040><c> the</c><00:07:37.430><c> recipe</c><00:07:37.910><c> for</c></c><c.colorCCCCCC><00:07:38.240><c> our</c></c>
+
+00:07:38.410 --> 00:07:38.420 align:start position:0%
+the<c.colorE5E5E5> dockerfile is the recipe for</c><c.colorCCCCCC> our
+ </c>
+
+00:07:38.420 --> 00:07:40.930 align:start position:0%
+the<c.colorE5E5E5> dockerfile is the recipe for</c><c.colorCCCCCC> our
+application<00:07:39.260><c> and</c><00:07:39.530><c> we</c><00:07:39.860><c> need</c><00:07:40.100><c> to</c></c><c.colorE5E5E5><00:07:40.250><c> build</c><00:07:40.490><c> it</c><00:07:40.730><c> in</c></c>
+
+00:07:40.930 --> 00:07:40.940 align:start position:0%
+application<c.colorCCCCCC> and we need to</c><c.colorE5E5E5> build it in
+ </c>
+
+00:07:40.940 --> 00:07:43.300 align:start position:0%
+application<c.colorCCCCCC> and we need to</c><c.colorE5E5E5> build it in
+order<00:07:41.090><c> to</c><00:07:41.210><c> generate</c><00:07:41.540><c> a</c><00:07:42.080><c> docker</c><00:07:42.470><c> image</c><00:07:42.890><c> of</c><00:07:43.100><c> the</c></c>
+
+00:07:43.300 --> 00:07:43.310 align:start position:0%
+order<c.colorE5E5E5> to generate a docker image of the
+ </c>
+
+00:07:43.310 --> 00:07:46.240 align:start position:0%
+order<c.colorE5E5E5> to generate a docker image of the
+web<00:07:43.520><c> application</c><00:07:44.590><c> once</c><00:07:45.590><c> we</c><00:07:45.770><c> have</c><00:07:45.860><c> the</c><00:07:46.010><c> docker</c></c>
+
+00:07:46.240 --> 00:07:46.250 align:start position:0%
+web application once we have the docker
+ 
+
+00:07:46.250 --> 00:07:48.850 align:start position:0%
+web application once we have the docker
+image<00:07:46.700><c> we</c><c.colorE5E5E5><00:07:47.360><c> can</c><00:07:47.540><c> run</c><00:07:47.780><c> the</c><00:07:47.990><c> docker</c><00:07:48.230><c> container</c></c>
+
+00:07:48.850 --> 00:07:48.860 align:start position:0%
+image we<c.colorE5E5E5> can run the docker container
+ </c>
+
+00:07:48.860 --> 00:07:51.760 align:start position:0%
+image we<c.colorE5E5E5> can run the docker container</c>
+<c.colorE5E5E5>which<00:07:49.640><c> is</c><00:07:49.850><c> a</c><00:07:49.880><c> concrete</c><00:07:50.210><c> instance</c><00:07:51.170><c> of</c><00:07:51.410><c> the</c></c>
+
+00:07:51.760 --> 00:07:51.770 align:start position:0%
+<c.colorE5E5E5>which is a concrete instance of the
+ </c>
+
+00:07:51.770 --> 00:07:55.810 align:start position:0%
+<c.colorE5E5E5>which is a concrete instance of the
+docker<00:07:51.980><c> image</c><00:07:53.110><c> so</c><00:07:54.110><c> let's</c></c><c.colorCCCCCC><00:07:54.350><c> start</c><00:07:55.190><c> by</c></c><c.colorE5E5E5><00:07:55.400><c> checking</c></c>
+
+00:07:55.810 --> 00:07:55.820 align:start position:0%
+docker image so let's<c.colorCCCCCC> start by</c><c.colorE5E5E5> checking
+ </c>
+
+00:07:55.820 --> 00:07:58.240 align:start position:0%
+docker image so let's<c.colorCCCCCC> start by</c><c.colorE5E5E5> checking
+out<00:07:56.150><c> the</c><00:07:56.180><c> code</c><00:07:56.660><c> from</c></c><c.colorCCCCCC><00:07:57.110><c> the</c><00:07:57.260><c> companion</c><00:07:57.650><c> github</c></c>
+
+00:07:58.240 --> 00:07:58.250 align:start position:0%
+out the<c.colorE5E5E5> code from</c><c.colorCCCCCC> the companion github
+ </c>
+
+00:07:58.250 --> 00:08:03.370 align:start position:0%
+out the<c.colorE5E5E5> code from</c><c.colorCCCCCC> the companion github
+repository<00:07:59.560><c> run</c><00:08:00.560><c> this</c><00:08:00.800><c> git</c><00:08:01.160><c> clone</c><00:08:01.520><c> command</c></c>
+
+00:08:03.370 --> 00:08:03.380 align:start position:0%
+repository run this git clone command
+ 
+
+00:08:03.380 --> 00:08:06.610 align:start position:0%
+repository run this git clone command
+and<00:08:03.640><c> wait</c><c.colorE5E5E5><00:08:04.640><c> until</c><00:08:05.450><c> it</c><00:08:05.600><c> downloads</c><00:08:06.110><c> the</c><00:08:06.410><c> whole</c></c>
+
+00:08:06.610 --> 00:08:06.620 align:start position:0%
+and wait<c.colorE5E5E5> until it downloads the whole
+ </c>
+
+00:08:06.620 --> 00:08:09.040 align:start position:0%
+and wait<c.colorE5E5E5> until it downloads the whole</c>
+<c.colorCCCCCC>repository</c>
+
+00:08:09.040 --> 00:08:09.050 align:start position:0%
+<c.colorCCCCCC>repository
+ </c>
+
+00:08:09.050 --> 00:08:13.760 align:start position:0%
+<c.colorCCCCCC>repository
+then<00:08:10.050><c> CD</c><00:08:10.800><c> into</c><00:08:11.250><c> hands-on</c><00:08:11.700><c> Jenkins</c></c><c.colorE5E5E5><00:08:12.300><c> then</c><00:08:13.260><c> see</c></c>
+
+00:08:13.760 --> 00:08:13.770 align:start position:0%
+then<c.colorCCCCCC> CD into hands-on Jenkins</c><c.colorE5E5E5> then see
+ </c>
+
+00:08:13.770 --> 00:08:17.390 align:start position:0%
+then<c.colorCCCCCC> CD into hands-on Jenkins</c><c.colorE5E5E5> then see
+the<00:08:13.950><c> intersection</c><00:08:14.370><c> and</c><00:08:15.090><c> the</c><00:08:15.570><c> school</c><00:08:15.930><c> for</c></c><c.colorCCCCCC><00:08:16.400><c> /</c></c>
+
+00:08:17.390 --> 00:08:17.400 align:start position:0%
+the intersection<c.colorE5E5E5> and the school for</c><c.colorCCCCCC> /
+ </c>
+
+00:08:17.400 --> 00:08:22.430 align:start position:0%
+the intersection<c.colorE5E5E5> and the school for</c><c.colorCCCCCC> /
+code<00:08:18.260><c> /</c><00:08:19.260><c> CD</c><00:08:20.100><c> and</c><00:08:20.310><c> the</c><00:08:20.580><c> school</c><00:08:20.910><c> pipeline</c></c><c.colorE5E5E5><00:08:21.570><c> this</c></c>
+
+00:08:22.430 --> 00:08:22.440 align:start position:0%
+code / CD and the school pipeline<c.colorE5E5E5> this
+ </c>
+
+00:08:22.440 --> 00:08:24.530 align:start position:0%
+code / CD and the school pipeline<c.colorE5E5E5> this
+is<00:08:22.650><c> the</c><00:08:22.800><c> directory</c><00:08:23.280><c> where</c><00:08:23.850><c> the</c><00:08:23.910><c> docker</c><00:08:24.210><c> file</c></c>
+
+00:08:24.530 --> 00:08:24.540 align:start position:0%
+is the directory where<c.colorE5E5E5> the docker file
+ </c>
+
+00:08:24.540 --> 00:08:28.369 align:start position:0%
+is the directory where<c.colorE5E5E5> the docker file
+and<00:08:24.840><c> the</c><00:08:25.140><c> Python</c><00:08:25.560><c> code</c><00:08:25.890><c> is</c><00:08:26.460><c> stored</c></c>
+
+00:08:28.369 --> 00:08:28.379 align:start position:0%
+and the<c.colorE5E5E5> Python code is stored
+ </c>
+
+00:08:28.379 --> 00:08:31.409 align:start position:0%
+and the<c.colorE5E5E5> Python code is stored
+now<00:08:29.379><c> let's</c><00:08:29.949><c> build</c><00:08:30.220><c> the</c><00:08:30.370><c> docker</c><00:08:30.580><c> image</c><00:08:31.000><c> from</c></c>
+
+00:08:31.409 --> 00:08:31.419 align:start position:0%
+now let's<c.colorE5E5E5> build the docker image from
+ </c>
+
+00:08:31.419 --> 00:08:34.709 align:start position:0%
+now let's<c.colorE5E5E5> build the docker image from
+the<00:08:31.599><c> docker</c><00:08:31.780><c> file</c><00:08:32.669><c> this</c><00:08:33.669><c> is</c><00:08:33.880><c> the</c><00:08:34.029><c> command</c><00:08:34.390><c> to</c></c>
+
+00:08:34.709 --> 00:08:34.719 align:start position:0%
+the docker file this is the command<c.colorE5E5E5> to
+ </c>
+
+00:08:34.719 --> 00:08:39.180 align:start position:0%
+the docker file this is the command<c.colorE5E5E5> to
+build<00:08:34.959><c> the</c><00:08:35.289><c> docker</c><00:08:35.500><c> image</c></c><c.colorCCCCCC><00:08:35.950><c> I</c><00:08:37.890><c> assume</c><00:08:38.890><c> you</c></c>
+
+00:08:39.180 --> 00:08:39.190 align:start position:0%
+build the docker image<c.colorCCCCCC> I assume you
+ </c>
+
+00:08:39.190 --> 00:08:41.969 align:start position:0%
+build the docker image<c.colorCCCCCC> I assume you
+already</c><c.colorE5E5E5><00:08:39.310><c> have</c><00:08:39.729><c> docker</c><00:08:40.029><c> installed</c><00:08:40.680><c> if</c><00:08:41.680><c> you</c><00:08:41.890><c> are</c></c>
+
+00:08:41.969 --> 00:08:41.979 align:start position:0%
+already<c.colorE5E5E5> have docker installed if you are
+ </c>
+
+00:08:41.979 --> 00:08:44.759 align:start position:0%
+already<c.colorE5E5E5> have docker installed if you are
+on<00:08:42.130><c> Mac</c><00:08:42.339><c> OS</c><00:08:42.700><c> or</c><00:08:42.969><c> Linux</c><00:08:43.360><c> and</c><00:08:43.599><c> you're</c><00:08:44.350><c> running</c></c>
+
+00:08:44.759 --> 00:08:44.769 align:start position:0%
+on Mac OS or Linux and you're running
+ 
+
+00:08:44.769 --> 00:08:47.400 align:start position:0%
+on Mac OS or Linux and you're running
+docker<00:08:45.070><c> commands</c><00:08:45.640><c> from</c><c.colorE5E5E5><00:08:45.880><c> a</c><00:08:46.029><c> user</c><00:08:46.329><c> who</c><00:08:47.019><c> is</c><00:08:47.079><c> not</c></c>
+
+00:08:47.400 --> 00:08:47.410 align:start position:0%
+docker commands from<c.colorE5E5E5> a user who is not
+ </c>
+
+00:08:47.410 --> 00:08:50.130 align:start position:0%
+docker commands from<c.colorE5E5E5> a user who is not
+part<00:08:47.800><c> of</c><00:08:48.010><c> the</c><00:08:48.190><c> docker</c><00:08:48.399><c> group</c><00:08:48.839><c> you</c><00:08:49.839><c> need</c><00:08:49.990><c> to</c></c>
+
+00:08:50.130 --> 00:08:50.140 align:start position:0%
+part of the docker group you need<c.colorE5E5E5> to
+ </c>
+
+00:08:50.140 --> 00:08:53.400 align:start position:0%
+part of the docker group you need<c.colorE5E5E5> to
+prefix<00:08:50.680><c> this</c><00:08:51.040><c> command</c><00:08:51.550><c> with</c><00:08:52.000><c> sudo</c><00:08:52.510><c> otherwise</c></c>
+
+00:08:53.400 --> 00:08:53.410 align:start position:0%
+prefix this command with sudo otherwise
+ 
+
+00:08:53.410 --> 00:08:56.130 align:start position:0%
+prefix this command with sudo otherwise
+<c.colorE5E5E5>you</c><c.colorCCCCCC><00:08:53.709><c> will</c><00:08:53.800><c> get</c><00:08:53.920><c> an</c><00:08:54.130><c> error</c></c><c.colorE5E5E5><00:08:54.310><c> I</c><00:08:54.899><c> will</c><00:08:55.899><c> show</c><00:08:56.079><c> you</c></c>
+
+00:08:56.130 --> 00:08:56.140 align:start position:0%
+<c.colorE5E5E5>you</c><c.colorCCCCCC> will get an error</c><c.colorE5E5E5> I will show you
+ </c>
+
+00:08:56.140 --> 00:08:58.500 align:start position:0%
+<c.colorE5E5E5>you</c><c.colorCCCCCC> will get an error</c><c.colorE5E5E5> I will show you
+how<00:08:56.440><c> to</c><00:08:56.470><c> add</c><00:08:56.800><c> a</c><00:08:56.829><c> user</c><00:08:57.250><c> to</c><00:08:57.579><c> the</c><00:08:57.610><c> docker</c><00:08:57.940><c> group</c><00:08:58.300><c> in</c></c>
+
+00:08:58.500 --> 00:08:58.510 align:start position:0%
+how to add a user<c.colorE5E5E5> to the docker group in
+ </c>
+
+00:08:58.510 --> 00:09:01.139 align:start position:0%
+how to add a user<c.colorE5E5E5> to the docker group in
+the<00:08:59.200><c> next</c><00:08:59.470><c> video</c></c><c.colorCCCCCC><00:08:59.589><c> as</c><00:08:59.950><c> we</c><00:09:00.399><c> need</c><00:09:00.550><c> to</c><00:09:00.579><c> do</c><00:09:00.790><c> it</c><00:09:00.910><c> for</c></c>
+
+00:09:01.139 --> 00:09:01.149 align:start position:0%
+the next video<c.colorCCCCCC> as we need to do it for
+ </c>
+
+00:09:01.149 --> 00:09:04.500 align:start position:0%
+the next video<c.colorCCCCCC> as we need to do it for
+Jenkins</c><c.colorE5E5E5><00:09:01.680><c> docker</c><00:09:02.680><c> build</c><00:09:03.070><c> is</c><00:09:03.640><c> the</c></c><c.colorCCCCCC><00:09:03.700><c> command</c><00:09:04.240><c> to</c></c>
+
+00:09:04.500 --> 00:09:04.510 align:start position:0%
+Jenkins<c.colorE5E5E5> docker build is the</c><c.colorCCCCCC> command to
+ </c>
+
+00:09:04.510 --> 00:09:07.710 align:start position:0%
+Jenkins<c.colorE5E5E5> docker build is the</c><c.colorCCCCCC> command to
+build</c><c.colorE5E5E5><00:09:04.750><c> the</c><00:09:04.899><c> docker</c><00:09:05.110><c> image</c><00:09:05.670><c> the</c><00:09:06.670><c> minus</c><00:09:07.089><c> T</c><00:09:07.329><c> flag</c></c>
+
+00:09:07.710 --> 00:09:07.720 align:start position:0%
+build<c.colorE5E5E5> the docker image the minus T flag
+ </c>
+
+00:09:07.720 --> 00:09:11.310 align:start position:0%
+build<c.colorE5E5E5> the docker image the minus T flag
+allows<00:09:08.560><c> to</c><00:09:08.920><c> talk</c><00:09:09.130><c> the</c><00:09:09.310><c> docker</c><00:09:09.519><c> image</c><00:09:10.000><c> in</c><00:09:10.320><c> this</c></c>
+
+00:09:11.310 --> 00:09:11.320 align:start position:0%
+allows to<c.colorE5E5E5> talk the docker image in this
+ </c>
+
+00:09:11.320 --> 00:09:13.980 align:start position:0%
+allows to<c.colorE5E5E5> talk the docker image in this</c>
+<c.colorCCCCCC>case</c><c.colorE5E5E5><00:09:11.589><c> I'm</c><00:09:12.130><c> tagging</c><00:09:12.640><c> it</c><00:09:12.760><c> as</c><00:09:12.970><c> hands</c><00:09:13.540><c> on</c><00:09:13.630><c> Jenkins</c></c>
+
+00:09:13.980 --> 00:09:13.990 align:start position:0%
+<c.colorCCCCCC>case</c><c.colorE5E5E5> I'm tagging it as hands on Jenkins
+ </c>
+
+00:09:13.990 --> 00:09:17.759 align:start position:0%
+<c.colorCCCCCC>case</c><c.colorE5E5E5> I'm tagging it as hands on Jenkins</c>
+<c.colorCCCCCC>slash<00:09:14.740><c> my</c><00:09:15.160><c> app</c><00:09:15.399><c> but</c></c><c.colorE5E5E5><00:09:16.360><c> you</c><00:09:16.690><c> can</c><00:09:16.839><c> give</c></c><c.colorCCCCCC><00:09:16.990><c> it</c><00:09:17.079><c> any</c><00:09:17.200><c> tag</c></c>
+
+00:09:17.759 --> 00:09:17.769 align:start position:0%
+<c.colorCCCCCC>slash my app but</c><c.colorE5E5E5> you can give</c><c.colorCCCCCC> it any tag
+ </c>
+
+00:09:17.769 --> 00:09:21.660 align:start position:0%
+<c.colorCCCCCC>slash my app but</c><c.colorE5E5E5> you can give</c><c.colorCCCCCC> it any tag
+name<00:09:18.220><c> you</c><00:09:18.579><c> want</c><00:09:19.200><c> the</c><00:09:20.200><c> dot</c><00:09:20.470><c> means</c><00:09:20.920><c> that</c><00:09:21.519><c> the</c></c>
+
+00:09:21.660 --> 00:09:21.670 align:start position:0%
+name you want the dot means that the
+ 
+
+00:09:21.670 --> 00:09:24.150 align:start position:0%
+name you want the dot means that the
+docker<00:09:21.910><c> file</c><00:09:22.269><c> is</c><00:09:22.570><c> expected</c><00:09:23.500><c> to</c><00:09:23.649><c> be</c><00:09:23.800><c> in</c><00:09:24.010><c> the</c>
+
+00:09:24.150 --> 00:09:24.160 align:start position:0%
+docker file is expected to be in the
+ 
+
+00:09:24.160 --> 00:09:26.670 align:start position:0%
+docker file is expected to be in the
+<c.colorCCCCCC>current<00:09:24.550><c> directory</c><00:09:24.870><c> now</c><00:09:25.870><c> let's</c><00:09:26.410><c> run</c><00:09:26.620><c> the</c></c>
+
+00:09:26.670 --> 00:09:26.680 align:start position:0%
+<c.colorCCCCCC>current directory now let's run the
+ </c>
+
+00:09:26.680 --> 00:09:30.090 align:start position:0%
+<c.colorCCCCCC>current directory now let's run the</c>
+<c.colorE5E5E5>docker<00:09:27.010><c> build</c><00:09:27.310><c> command</c><00:09:28.380><c> the</c><00:09:29.380><c> first</c><00:09:29.680><c> time</c><00:09:29.950><c> you</c></c>
+
+00:09:30.090 --> 00:09:30.100 align:start position:0%
+<c.colorE5E5E5>docker build command the first time you
+ </c>
+
+00:09:30.100 --> 00:09:32.519 align:start position:0%
+<c.colorE5E5E5>docker build command the first time you
+run<00:09:30.310><c> it</c><00:09:30.490><c> it</c><00:09:30.760><c> will</c><00:09:31.000><c> take</c><00:09:31.240><c> some</c></c><c.colorCCCCCC><00:09:31.540><c> time</c><00:09:31.870><c> because</c></c>
+
+00:09:32.519 --> 00:09:32.529 align:start position:0%
+run it it will<c.colorE5E5E5> take some</c><c.colorCCCCCC> time because
+ </c>
+
+00:09:32.529 --> 00:09:35.310 align:start position:0%
+run it it will<c.colorE5E5E5> take some</c><c.colorCCCCCC> time because</c>
+<c.colorE5E5E5>docker<00:09:33.070><c> needs</c><00:09:33.610><c> to</c><00:09:33.880><c> pull</c><00:09:34.120><c> the</c><00:09:34.390><c> base</c><00:09:34.600><c> image</c><00:09:34.959><c> of</c></c>
+
+00:09:35.310 --> 00:09:35.320 align:start position:0%
+<c.colorE5E5E5>docker needs to pull the base image of
+ </c>
+
+00:09:35.320 --> 00:09:37.920 align:start position:0%
+<c.colorE5E5E5>docker needs to pull the base image of</c>
+<c.colorCCCCCC>Alpine<00:09:36.130><c> Linux</c><00:09:36.640><c> from</c><00:09:37.270><c> the</c><00:09:37.420><c> docker</c><00:09:37.660><c> hub</c></c>
+
+00:09:37.920 --> 00:09:37.930 align:start position:0%
+<c.colorCCCCCC>Alpine Linux from the docker hub
+ </c>
+
+00:09:37.930 --> 00:09:41.310 align:start position:0%
+<c.colorCCCCCC>Alpine Linux from the docker hub
+repository<00:09:38.279><c> for</c><00:09:39.279><c> the</c><00:09:39.399><c> first</c><00:09:39.700><c> time</c><00:09:40.120><c> as</c><00:09:40.390><c> well</c><00:09:40.450><c> as</c></c>
+
+00:09:41.310 --> 00:09:41.320 align:start position:0%
+repository for the first time as well<c.colorCCCCCC> as
+ </c>
+
+00:09:41.320 --> 00:09:44.400 align:start position:0%
+repository for the first time as well<c.colorCCCCCC> as
+all<00:09:41.589><c> the</c><00:09:41.980><c> other</c><00:09:42.029><c> dependencies</c></c><c.colorE5E5E5><00:09:43.029><c> like</c></c><c.colorCCCCCC><00:09:43.410><c> Python</c></c>
+
+00:09:44.400 --> 00:09:44.410 align:start position:0%
+all the other dependencies<c.colorE5E5E5> like</c><c.colorCCCCCC> Python
+ </c>
+
+00:09:44.410 --> 00:09:48.389 align:start position:0%
+all the other dependencies<c.colorE5E5E5> like</c><c.colorCCCCCC> Python
+and</c><c.colorE5E5E5><00:09:44.620><c> so</c><00:09:45.160><c> on</c><00:09:45.899><c> next</c><00:09:46.899><c> time</c><00:09:47.050><c> you</c><00:09:47.200><c> run</c><00:09:47.410><c> it</c><00:09:47.560><c> you</c></c><c.colorCCCCCC><00:09:47.770><c> will</c></c>
+
+00:09:48.389 --> 00:09:48.399 align:start position:0%
+<c.colorCCCCCC>and</c><c.colorE5E5E5> so on next time you run it you</c><c.colorCCCCCC> will
+ </c>
+
+00:09:48.399 --> 00:09:50.699 align:start position:0%
+<c.colorCCCCCC>and</c><c.colorE5E5E5> so on next time you run it you</c><c.colorCCCCCC> will</c>
+<c.colorE5E5E5>notice<00:09:48.730><c> the</c><00:09:48.910><c> docker</c><00:09:49.180><c> can</c><00:09:49.660><c> cache</c><00:09:50.050><c> previous</c></c>
+
+00:09:50.699 --> 00:09:50.709 align:start position:0%
+<c.colorE5E5E5>notice the docker can cache previous
+ </c>
+
+00:09:50.709 --> 00:09:54.600 align:start position:0%
+<c.colorE5E5E5>notice the docker can cache previous
+layers<00:09:50.980><c> if</c><00:09:51.339><c> they</c><00:09:51.910><c> have</c><00:09:52.029><c> not</c><00:09:52.209><c> changed</c><00:09:53.610><c> wait</c></c>
+
+00:09:54.600 --> 00:09:54.610 align:start position:0%
+layers<c.colorE5E5E5> if they have not changed wait
+ </c>
+
+00:09:54.610 --> 00:09:57.030 align:start position:0%
+layers<c.colorE5E5E5> if they have not changed wait</c>
+<c.colorE5E5E5>until<00:09:55.149><c> docker</c><00:09:55.480><c> downloads</c></c><c.colorCCCCCC><00:09:56.170><c> all</c><00:09:56.470><c> the</c><00:09:56.709><c> image</c></c>
+
+00:09:57.030 --> 00:09:57.040 align:start position:0%
+<c.colorE5E5E5>until docker downloads</c><c.colorCCCCCC> all the image
+ </c>
+
+00:09:57.040 --> 00:09:59.430 align:start position:0%
+<c.colorE5E5E5>until docker downloads</c><c.colorCCCCCC> all the image
+layers<00:09:57.339><c> and</c><00:09:57.700><c> give</c><00:09:58.540><c> you</c><00:09:58.690><c> a</c></c><c.colorE5E5E5><00:09:58.720><c> successful</c></c>
+
+00:09:59.430 --> 00:09:59.440 align:start position:0%
+layers and give you a<c.colorE5E5E5> successful
+ </c>
+
+00:09:59.440 --> 00:10:02.290 align:start position:0%
+layers and give you a<c.colorE5E5E5> successful
+execution</c>
+
+00:10:02.290 --> 00:10:02.300 align:start position:0%
+ 
+ 
+
+00:10:02.300 --> 00:10:05.650 align:start position:0%
+ 
+we<00:10:02.930><c> now</c><00:10:03.110><c> have</c><00:10:03.380><c> a</c><00:10:03.410><c> docker</c><00:10:03.709><c> image</c><00:10:04.190><c> you</c><00:10:05.149><c> can</c><00:10:05.360><c> check</c>
+
+00:10:05.650 --> 00:10:05.660 align:start position:0%
+we now have a docker image you can check
+ 
+
+00:10:05.660 --> 00:10:08.110 align:start position:0%
+we now have a docker image you can check
+<c.colorCCCCCC>that</c><c.colorE5E5E5><00:10:05.899><c> the</c></c><c.colorCCCCCC><00:10:06.020><c> image</c><00:10:06.350><c> has</c><00:10:06.380><c> been</c><00:10:06.680><c> created</c><00:10:07.310><c> via</c><00:10:07.910><c> the</c></c>
+
+00:10:08.110 --> 00:10:08.120 align:start position:0%
+<c.colorCCCCCC>that</c><c.colorE5E5E5> the</c><c.colorCCCCCC> image has been created via the
+ </c>
+
+00:10:08.120 --> 00:10:11.170 align:start position:0%
+<c.colorCCCCCC>that</c><c.colorE5E5E5> the</c><c.colorCCCCCC> image has been created via the
+docker<00:10:08.330><c> images</c><00:10:08.930><c> command</c><00:10:09.470><c> and</c><00:10:09.740><c> then</c><00:10:10.520><c> grapping</c></c>
+
+00:10:11.170 --> 00:10:11.180 align:start position:0%
+docker images command and then<c.colorCCCCCC> grapping
+ </c>
+
+00:10:11.180 --> 00:10:14.980 align:start position:0%
+docker images command and then<c.colorCCCCCC> grapping
+the<00:10:11.540><c> tag</c><00:10:11.779><c> name</c><00:10:13.089><c> let's</c><00:10:14.089><c> run</c><00:10:14.390><c> the</c><00:10:14.779><c> docker</c></c>
+
+00:10:14.980 --> 00:10:14.990 align:start position:0%
+the tag name let's run the docker
+ 
+
+00:10:14.990 --> 00:10:17.230 align:start position:0%
+the tag name let's run the docker
+container<00:10:15.500><c> which</c><00:10:16.190><c> is</c><00:10:16.459><c> as</c><00:10:16.760><c> we</c><00:10:17.029><c> saw</c><00:10:17.209><c> previously</c>
+
+00:10:17.230 --> 00:10:17.240 align:start position:0%
+container which is as we saw previously
+ 
+
+00:10:17.240 --> 00:10:20.760 align:start position:0%
+container which is as we saw previously
+<c.colorCCCCCC>a<00:10:17.990><c> concrete</c><00:10:18.589><c> instance</c><00:10:19.339><c> of</c><00:10:19.580><c> a</c><00:10:19.790><c> docker</c><00:10:20.000><c> image</c></c>
+
+00:10:20.760 --> 00:10:20.770 align:start position:0%
+<c.colorCCCCCC>a concrete instance of a docker image
+ </c>
+
+00:10:20.770 --> 00:10:24.810 align:start position:0%
+<c.colorCCCCCC>a concrete instance of a docker image
+this<00:10:21.770><c> is</c><00:10:22.010><c> done</c><00:10:22.250><c> via</c><00:10:22.520><c> the</c><00:10:22.790><c> docker</c><00:10:23.000><c> run</c><00:10:23.330><c> command</c></c>
+
+00:10:24.810 --> 00:10:24.820 align:start position:0%
+this is done via<c.colorCCCCCC> the docker run command
+ </c>
+
+00:10:24.820 --> 00:10:27.639 align:start position:0%
+this is done via<c.colorCCCCCC> the docker run command
+again<00:10:25.820><c> bear</c><00:10:26.390><c> in</c><00:10:26.420><c> mind</c></c><c.colorE5E5E5><00:10:26.779><c> that</c><00:10:27.020><c> you</c><00:10:27.140><c> need</c><00:10:27.290><c> to</c><00:10:27.470><c> run</c></c>
+
+00:10:27.639 --> 00:10:27.649 align:start position:0%
+again bear in<c.colorCCCCCC> mind</c><c.colorE5E5E5> that you need to run
+ </c>
+
+00:10:27.649 --> 00:10:29.650 align:start position:0%
+again bear in<c.colorCCCCCC> mind</c><c.colorE5E5E5> that you need to run
+this<00:10:27.830><c> command</c><00:10:28.070><c> with</c><00:10:28.399><c> so</c><00:10:28.760><c> though</c><00:10:28.970><c> if</c><00:10:29.149><c> the</c></c>
+
+00:10:29.650 --> 00:10:29.660 align:start position:0%
+this command with so<c.colorE5E5E5> though if the
+ </c>
+
+00:10:29.660 --> 00:10:31.720 align:start position:0%
+this command with so<c.colorE5E5E5> though if the
+current<00:10:30.020><c> user</c><00:10:30.290><c> is</c><00:10:30.589><c> not</c><00:10:30.860><c> part</c><00:10:31.190><c> of</c><00:10:31.370><c> the</c><00:10:31.550><c> docker</c></c>
+
+00:10:31.720 --> 00:10:31.730 align:start position:0%
+current user is not part of the docker
+ 
+
+00:10:31.730 --> 00:10:33.790 align:start position:0%
+current user is not part of the docker
+group<00:10:32.089><c> otherwise</c><c.colorE5E5E5><00:10:32.839><c> you'll</c><00:10:33.290><c> get</c><00:10:33.470><c> an</c><00:10:33.680><c> error</c></c>
+
+00:10:33.790 --> 00:10:33.800 align:start position:0%
+group otherwise<c.colorE5E5E5> you'll get an error
+ </c>
+
+00:10:33.800 --> 00:10:38.160 align:start position:0%
+group otherwise<c.colorE5E5E5> you'll get an error</c>
+<c.colorE5E5E5>message<00:10:35.500><c> let's</c><00:10:36.500><c> explain</c><00:10:36.980><c> this</c><00:10:37.310><c> command</c></c>
+
+00:10:38.160 --> 00:10:38.170 align:start position:0%
+<c.colorE5E5E5>message let's explain this command
+ </c>
+
+00:10:38.170 --> 00:10:41.079 align:start position:0%
+<c.colorE5E5E5>message let's explain this command
+docker<00:10:39.170><c> run</c><00:10:39.470><c> is</c><00:10:39.740><c> the</c><00:10:40.459><c> command</c><00:10:40.760><c> to</c><00:10:40.820><c> run</c><00:10:41.029><c> a</c></c>
+
+00:10:41.079 --> 00:10:41.089 align:start position:0%
+docker run is the command to<c.colorE5E5E5> run a
+ </c>
+
+00:10:41.089 --> 00:10:46.030 align:start position:0%
+docker run is the command to<c.colorE5E5E5> run a
+docker<00:10:41.390><c> container</c><00:10:42.399><c> the</c><00:10:43.399><c> -</c><00:10:43.820><c> P</c><00:10:44.120><c> option</c></c><c.colorCCCCCC><00:10:44.720><c> Maps</c><00:10:45.500><c> the</c></c>
+
+00:10:46.030 --> 00:10:46.040 align:start position:0%
+docker container the<c.colorE5E5E5> - P option</c><c.colorCCCCCC> Maps the
+ </c>
+
+00:10:46.040 --> 00:10:50.290 align:start position:0%
+docker container the<c.colorE5E5E5> - P option</c><c.colorCCCCCC> Maps the
+port<00:10:46.370><c> on</c><00:10:46.670><c> the</c><00:10:46.910><c> container</c><00:10:48.610><c> 5002</c><00:10:49.610><c> the</c><00:10:49.760><c> port</c><00:10:50.029><c> on</c></c>
+
+00:10:50.290 --> 00:10:50.300 align:start position:0%
+port on the container<c.colorCCCCCC> 5002 the port on
+ </c>
+
+00:10:50.300 --> 00:10:54.670 align:start position:0%
+port on the container<c.colorCCCCCC> 5002 the port on
+localhost<00:10:52.149><c> 8888</c><00:10:53.149><c> you</c><00:10:53.839><c> remember</c><00:10:54.260><c> that</c><00:10:54.440><c> in</c><00:10:54.589><c> our</c></c>
+
+00:10:54.670 --> 00:10:54.680 align:start position:0%
+localhost 8888 you remember<c.colorCCCCCC> that in our
+ </c>
+
+00:10:54.680 --> 00:10:58.240 align:start position:0%
+localhost 8888 you remember<c.colorCCCCCC> that in our</c>
+<c.colorE5E5E5>docket<00:10:55.130><c> file</c><00:10:55.339><c> we</c></c><c.colorCCCCCC><00:10:55.640><c> expose</c><00:10:56.060><c> port</c><00:10:56.500><c> 5000</c><00:10:57.500><c> which</c><00:10:58.070><c> is</c></c>
+
+00:10:58.240 --> 00:10:58.250 align:start position:0%
+<c.colorE5E5E5>docket file we</c><c.colorCCCCCC> expose port 5000 which is
+ </c>
+
+00:10:58.250 --> 00:11:00.850 align:start position:0%
+<c.colorE5E5E5>docket file we</c><c.colorCCCCCC> expose port 5000 which is
+the<00:10:58.399><c> default</c></c><c.colorE5E5E5><00:10:58.580><c> port</c><00:10:59.180><c> to</c><00:10:59.839><c> access</c><00:11:00.170><c> the</c><00:11:00.410><c> Python</c></c>
+
+00:11:00.850 --> 00:11:00.860 align:start position:0%
+the default<c.colorE5E5E5> port to access the Python
+ </c>
+
+00:11:00.860 --> 00:11:05.220 align:start position:0%
+the default<c.colorE5E5E5> port to access the Python
+flask<00:11:01.130><c> application</c><00:11:02.350><c> here</c><00:11:03.350><c> we</c></c><c.colorCCCCCC><00:11:03.770><c> remap</c><00:11:04.459><c> port</c></c>
+
+00:11:05.220 --> 00:11:05.230 align:start position:0%
+flask application<c.colorE5E5E5> here we</c><c.colorCCCCCC> remap port
+ </c>
+
+00:11:05.230 --> 00:11:08.170 align:start position:0%
+flask application<c.colorE5E5E5> here we</c><c.colorCCCCCC> remap port</c>
+<c.colorE5E5E5>5000<00:11:06.230><c> so</c><00:11:06.890><c> that</c><00:11:07.100><c> the</c><00:11:07.220><c> web</c><00:11:07.399><c> application</c><00:11:08.029><c> is</c></c>
+
+00:11:08.170 --> 00:11:08.180 align:start position:0%
+<c.colorE5E5E5>5000 so that the web application is
+ </c>
+
+00:11:08.180 --> 00:11:13.590 align:start position:0%
+<c.colorE5E5E5>5000 so that the web application is
+accessible<00:11:08.930><c> on</c><00:11:09.140><c> local</c><00:11:09.980><c> host</c><00:11:10.279><c> on</c><00:11:11.060><c> port</c><00:11:12.220><c> 8888</c></c>
+
+00:11:13.590 --> 00:11:13.600 align:start position:0%
+accessible on local host on port<c.colorE5E5E5> 8888
+ </c>
+
+00:11:13.600 --> 00:11:18.850 align:start position:0%
+accessible on local host on port<c.colorE5E5E5> 8888
+why<00:11:14.600><c> do</c><00:11:14.660><c> we</c><00:11:15.020><c> do</c><00:11:15.290><c> that</c><00:11:16.029><c> we</c><00:11:17.029><c> can</c><00:11:17.209><c> leave</c><00:11:17.420><c> port</c><00:11:17.860><c> 5000</c></c>
+
+00:11:18.850 --> 00:11:18.860 align:start position:0%
+why do we do that we can leave port 5000
+ 
+
+00:11:18.860 --> 00:11:21.610 align:start position:0%
+why do we do that we can leave port 5000
+<c.colorE5E5E5>and<00:11:19.070><c> it</c><00:11:19.520><c> would</c><00:11:19.700><c> be</c><00:11:19.820><c> fine</c><00:11:20.089><c> but</c><00:11:20.720><c> I</c><00:11:20.959><c> want</c></c><c.colorCCCCCC><00:11:21.200><c> to</c><00:11:21.350><c> show</c></c>
+
+00:11:21.610 --> 00:11:21.620 align:start position:0%
+<c.colorE5E5E5>and it would be fine but I want</c><c.colorCCCCCC> to show
+ </c>
+
+00:11:21.620 --> 00:11:24.730 align:start position:0%
+<c.colorE5E5E5>and it would be fine but I want</c><c.colorCCCCCC> to show
+you<00:11:21.680><c> how</c></c><c.colorE5E5E5><00:11:22.070><c> to</c><00:11:22.130><c> remap</c><00:11:22.940><c> ports</c><00:11:23.630><c> so</c><00:11:24.260><c> that</c><00:11:24.410><c> we</c><00:11:24.560><c> can</c></c>
+
+00:11:24.730 --> 00:11:24.740 align:start position:0%
+you how<c.colorE5E5E5> to remap ports so that we can
+ </c>
+
+00:11:24.740 --> 00:11:28.540 align:start position:0%
+you how<c.colorE5E5E5> to remap ports so that we can</c>
+<c.colorE5E5E5>run<00:11:24.950><c> the</c><00:11:25.220><c> dev</c></c><c.colorCCCCCC><00:11:25.459><c> environment</c></c><c.colorE5E5E5><00:11:25.640><c> on</c><00:11:26.360><c> port</c><00:11:27.310><c> 8888</c><00:11:28.310><c> and</c></c>
+
+00:11:28.540 --> 00:11:28.550 align:start position:0%
+<c.colorE5E5E5>run the dev</c><c.colorCCCCCC> environment</c><c.colorE5E5E5> on port 8888 and
+ </c>
+
+00:11:28.550 --> 00:11:31.930 align:start position:0%
+<c.colorE5E5E5>run the dev</c><c.colorCCCCCC> environment</c><c.colorE5E5E5> on port 8888 and
+later<00:11:29.480><c> on</c><00:11:29.779><c> the</c><00:11:30.470><c> staging</c><00:11:30.980><c> environment</c><00:11:31.520><c> on</c><00:11:31.640><c> port</c></c>
+
+00:11:31.930 --> 00:11:31.940 align:start position:0%
+later on the staging environment on port
+ 
+
+00:11:31.940 --> 00:11:34.690 align:start position:0%
+later on the staging environment on port
+88<00:11:32.600><c> and</c><00:11:32.870><c> the</c><00:11:33.500><c> production</c><c.colorE5E5E5><00:11:33.829><c> environment</c></c><c.colorCCCCCC><00:11:34.100><c> on</c></c>
+
+00:11:34.690 --> 00:11:34.700 align:start position:0%
+88 and the production<c.colorE5E5E5> environment</c><c.colorCCCCCC> on
+ </c>
+
+00:11:34.700 --> 00:11:40.480 align:start position:0%
+88 and the production<c.colorE5E5E5> environment</c><c.colorCCCCCC> on
+port<00:11:35.149><c> 80</c></c><c.colorE5E5E5><00:11:35.720><c> the</c><00:11:36.709><c> next</c><00:11:37.040><c> option</c><00:11:37.430><c> is</c><00:11:37.550><c> -</c><00:11:38.360><c> -</c><00:11:38.810><c> name</c><00:11:39.490><c> this</c></c>
+
+00:11:40.480 --> 00:11:40.490 align:start position:0%
+port 80<c.colorE5E5E5> the next option is - - name this
+ </c>
+
+00:11:40.490 --> 00:11:42.670 align:start position:0%
+port 80<c.colorE5E5E5> the next option is - - name this
+option<00:11:41.029><c> gives</c><00:11:41.180><c> a</c><00:11:41.540><c> friendly</c><00:11:42.170><c> name</c><00:11:42.380><c> to</c><00:11:42.649><c> our</c></c>
+
+00:11:42.670 --> 00:11:42.680 align:start position:0%
+option gives a friendly name to our
+ 
+
+00:11:42.680 --> 00:11:45.010 align:start position:0%
+option gives a friendly name to our
+docker<00:11:43.040><c> container</c><c.colorE5E5E5><00:11:43.550><c> if</c><00:11:44.480><c> you</c><00:11:44.660><c> don't</c><00:11:44.839><c> give</c><00:11:44.990><c> a</c></c>
+
+00:11:45.010 --> 00:11:45.020 align:start position:0%
+docker container<c.colorE5E5E5> if you don't give a
+ </c>
+
+00:11:45.020 --> 00:11:48.040 align:start position:0%
+docker container<c.colorE5E5E5> if you don't give a
+name<00:11:45.350><c> docker</c><00:11:46.250><c> will</c><00:11:46.520><c> automatically</c><00:11:47.420><c> assign</c><00:11:47.750><c> a</c></c>
+
+00:11:48.040 --> 00:11:48.050 align:start position:0%
+name<c.colorE5E5E5> docker will automatically assign a
+ </c>
+
+00:11:48.050 --> 00:11:51.800 align:start position:0%
+name<c.colorE5E5E5> docker will automatically assign a
+random<00:11:48.290><c> name</c><00:11:48.740><c> often</c></c><c.colorCCCCCC><00:11:49.339><c> a</c><00:11:49.820><c> funny</c><00:11:50.180><c> one</c></c>
+
+00:11:51.800 --> 00:11:51.810 align:start position:0%
+random<c.colorE5E5E5> name often</c><c.colorCCCCCC> a funny one
+ </c>
+
+00:11:51.810 --> 00:11:54.319 align:start position:0%
+random<c.colorE5E5E5> name often</c><c.colorCCCCCC> a funny one
+the<00:11:51.990><c> next</c><00:11:52.319><c> argument</c></c><c.colorE5E5E5><00:11:52.560><c> is</c><00:11:53.040><c> the</c></c><c.colorCCCCCC><00:11:53.759><c> name</c><00:11:53.970><c> of</c></c><c.colorE5E5E5><00:11:53.999><c> the</c></c>
+
+00:11:54.319 --> 00:11:54.329 align:start position:0%
+the next argument<c.colorE5E5E5> is the</c><c.colorCCCCCC> name of</c><c.colorE5E5E5> the
+ </c>
+
+00:11:54.329 --> 00:11:58.400 align:start position:0%
+the next argument<c.colorE5E5E5> is the</c><c.colorCCCCCC> name of</c><c.colorE5E5E5> the
+docker<00:11:54.540><c> image</c><00:11:54.990><c> that</c><00:11:55.620><c> we</c><00:11:55.800><c> built</c><00:11:56.279><c> before</c><00:11:57.410><c> note</c></c>
+
+00:11:58.400 --> 00:11:58.410 align:start position:0%
+docker image that we<c.colorE5E5E5> built before note
+ </c>
+
+00:11:58.410 --> 00:12:00.290 align:start position:0%
+docker image that we<c.colorE5E5E5> built before note</c>
+<c.colorE5E5E5>that<00:11:58.709><c> there</c><00:11:58.889><c> is</c><00:11:58.980><c> a</c><00:11:59.009><c> difference</c><00:11:59.610><c> between</c><00:11:59.790><c> the</c></c>
+
+00:12:00.290 --> 00:12:00.300 align:start position:0%
+<c.colorE5E5E5>that there is a difference between the
+ </c>
+
+00:12:00.300 --> 00:12:03.139 align:start position:0%
+<c.colorE5E5E5>that there is a difference between the
+name<00:12:00.540><c> of</c><00:12:00.779><c> the</c><00:12:00.990><c> docker</c><00:12:01.199><c> image</c><00:12:01.740><c> here</c></c><c.colorCCCCCC><00:12:02.639><c> hands-on</c></c>
+
+00:12:03.139 --> 00:12:03.149 align:start position:0%
+name of the docker image here<c.colorCCCCCC> hands-on
+ </c>
+
+00:12:03.149 --> 00:12:04.040 align:start position:0%
+name of the docker image here<c.colorCCCCCC> hands-on</c>
+<c.colorE5E5E5>Jenkins</c>
+
+00:12:04.040 --> 00:12:04.050 align:start position:0%
+<c.colorE5E5E5>Jenkins
+ </c>
+
+00:12:04.050 --> 00:12:07.220 align:start position:0%
+<c.colorE5E5E5>Jenkins
+/my</c><c.colorCCCCCC><00:12:04.470><c> app</c><00:12:05.009><c> and</c><00:12:05.310><c> the</c><00:12:06.269><c> name</c></c><c.colorE5E5E5><00:12:06.480><c> of</c><00:12:06.749><c> the</c><00:12:06.990><c> docker</c></c>
+
+00:12:07.220 --> 00:12:07.230 align:start position:0%
+<c.colorE5E5E5>/my</c><c.colorCCCCCC> app and the name</c><c.colorE5E5E5> of the docker
+ </c>
+
+00:12:07.230 --> 00:12:11.660 align:start position:0%
+<c.colorE5E5E5>/my</c><c.colorCCCCCC> app and the name</c><c.colorE5E5E5> of the docker
+container<00:12:07.860><c> here</c><00:12:08.730><c> my</c><00:12:09.149><c> app</c><00:12:10.069><c> to</c><00:12:11.069><c> reuse</c><00:12:11.459><c> the</c></c>
+
+00:12:11.660 --> 00:12:11.670 align:start position:0%
+container<c.colorE5E5E5> here my app to reuse the
+ </c>
+
+00:12:11.670 --> 00:12:13.819 align:start position:0%
+container<c.colorE5E5E5> here my app to reuse the</c>
+<c.colorE5E5E5>object<00:12:12.029><c> oriented</c><00:12:12.300><c> analogy</c><00:12:13.050><c> you</c><00:12:13.529><c> can</c></c><c.colorCCCCCC><00:12:13.559><c> have</c></c>
+
+00:12:13.819 --> 00:12:13.829 align:start position:0%
+<c.colorE5E5E5>object oriented analogy you can</c><c.colorCCCCCC> have
+ </c>
+
+00:12:13.829 --> 00:12:16.999 align:start position:0%
+<c.colorE5E5E5>object oriented analogy you can</c><c.colorCCCCCC> have
+multiple<00:12:14.160><c> containers</c><00:12:14.939><c> running</c><00:12:15.720><c> and</c><00:12:15.899><c> we</c><00:12:16.709><c> left</c></c>
+
+00:12:16.999 --> 00:12:17.009 align:start position:0%
+multiple containers<c.colorCCCCCC> running and we left
+ </c>
+
+00:12:17.009 --> 00:12:19.460 align:start position:0%
+multiple containers<c.colorCCCCCC> running and we left
+them<00:12:17.279><c> in</c><00:12:17.490><c> the</c></c><c.colorE5E5E5><00:12:17.699><c> next</c><00:12:17.939><c> videos</c><00:12:18.269><c> as</c><00:12:18.420><c> you</c></c><c.colorCCCCCC><00:12:18.899><c> usually</c></c>
+
+00:12:19.460 --> 00:12:19.470 align:start position:0%
+them in the<c.colorE5E5E5> next videos as you</c><c.colorCCCCCC> usually
+ </c>
+
+00:12:19.470 --> 00:12:22.610 align:start position:0%
+them in the<c.colorE5E5E5> next videos as you</c><c.colorCCCCCC> usually
+have<00:12:19.620><c> multiple</c></c><c.colorE5E5E5><00:12:19.980><c> objects</c><00:12:20.990><c> however</c><00:12:21.990><c> you</c></c>
+
+00:12:22.610 --> 00:12:22.620 align:start position:0%
+have multiple<c.colorE5E5E5> objects however you
+ </c>
+
+00:12:22.620 --> 00:12:25.549 align:start position:0%
+have multiple<c.colorE5E5E5> objects however you</c>
+<c.colorCCCCCC>usually<00:12:23.100><c> have</c><00:12:23.220><c> a</c><00:12:23.249><c> single</c><00:12:23.790><c> image</c><00:12:24.269><c> as</c></c><c.colorE5E5E5><00:12:24.509><c> in</c></c><c.colorCCCCCC><00:12:25.199><c> object</c></c>
+
+00:12:25.549 --> 00:12:25.559 align:start position:0%
+<c.colorCCCCCC>usually have a single image as</c><c.colorE5E5E5> in</c><c.colorCCCCCC> object
+ </c>
+
+00:12:25.559 --> 00:12:27.650 align:start position:0%
+<c.colorCCCCCC>usually have a single image as</c><c.colorE5E5E5> in</c><c.colorCCCCCC> object
+oriented</c><c.colorE5E5E5><00:12:25.800><c> programming</c><00:12:26.519><c> you</c><00:12:27.059><c> have</c></c><c.colorCCCCCC><00:12:27.089><c> a</c><00:12:27.269><c> single</c></c>
+
+00:12:27.650 --> 00:12:27.660 align:start position:0%
+<c.colorCCCCCC>oriented</c><c.colorE5E5E5> programming you have</c><c.colorCCCCCC> a single
+ </c>
+
+00:12:27.660 --> 00:12:30.439 align:start position:0%
+<c.colorCCCCCC>oriented</c><c.colorE5E5E5> programming you have</c><c.colorCCCCCC> a single
+class<00:12:27.990><c> associated</c></c><c.colorE5E5E5><00:12:28.649><c> to</c><00:12:29.519><c> multiple</c><00:12:30.059><c> running</c></c>
+
+00:12:30.439 --> 00:12:30.449 align:start position:0%
+class associated<c.colorE5E5E5> to multiple running
+ </c>
+
+00:12:30.449 --> 00:12:32.220 align:start position:0%
+class associated<c.colorE5E5E5> to multiple running
+objects</c>
+
+00:12:32.220 --> 00:12:32.230 align:start position:0%
+objects
+ 
+
+00:12:32.230 --> 00:12:35.790 align:start position:0%
+objects
+now<00:12:33.130><c> let's</c><00:12:33.790><c> run</c><c.colorE5E5E5><00:12:34.030><c> the</c><00:12:34.240><c> command</c><00:12:34.600><c> you</c><00:12:35.380><c> can</c><00:12:35.560><c> see</c></c>
+
+00:12:35.790 --> 00:12:35.800 align:start position:0%
+now let's run<c.colorE5E5E5> the command you can see
+ </c>
+
+00:12:35.800 --> 00:12:40.010 align:start position:0%
+now let's run<c.colorE5E5E5> the command you can see
+the<00:12:36.040><c> locks</c><00:12:36.340><c> of</c><00:12:36.640><c> the</c></c><c.colorCCCCCC><00:12:36.730><c> container</c><00:12:37.480><c> showing</c><00:12:37.960><c> up</c></c>
+
+00:12:40.010 --> 00:12:40.020 align:start position:0%
+the locks of<c.colorE5E5E5> the</c><c.colorCCCCCC> container showing up
+ </c>
+
+00:12:40.020 --> 00:12:43.760 align:start position:0%
+the locks of<c.colorE5E5E5> the</c><c.colorCCCCCC> container showing up
+now<00:12:40.890><c> go</c><00:12:41.610><c> to</c></c><c.colorE5E5E5><00:12:41.670><c> your</c><00:12:41.970><c> favorite</c><00:12:42.240><c> browser</c><00:12:42.720><c> and</c><00:12:43.140><c> head</c></c>
+
+00:12:43.760 --> 00:12:43.770 align:start position:0%
+now go to<c.colorE5E5E5> your favorite browser and head
+ </c>
+
+00:12:43.770 --> 00:12:49.820 align:start position:0%
+now go to<c.colorE5E5E5> your favorite browser and head
+to<00:12:44.010><c> localhost</c><00:12:44.630><c> column</c><00:12:46.490><c> 8888</c><00:12:47.490><c> and</c><00:12:47.930><c> voila</c></c><c.colorCCCCCC><00:12:48.930><c> how</c><00:12:49.800><c> a</c></c>
+
+00:12:49.820 --> 00:12:49.830 align:start position:0%
+to localhost<c.colorE5E5E5> column 8888 and voila</c><c.colorCCCCCC> how a
+ </c>
+
+00:12:49.830 --> 00:12:51.920 align:start position:0%
+to localhost<c.colorE5E5E5> column 8888 and voila</c><c.colorCCCCCC> how a
+web<00:12:50.130><c> application</c><00:12:50.310><c> with</c><00:12:51.029><c> cat</c><00:12:51.270><c> gifts</c><00:12:51.660><c> is</c></c>
+
+00:12:51.920 --> 00:12:51.930 align:start position:0%
+web application<c.colorCCCCCC> with cat gifts is
+ </c>
+
+00:12:51.930 --> 00:12:56.480 align:start position:0%
+web application<c.colorCCCCCC> with cat gifts is
+running<00:12:53.660><c> refresh</c></c><c.colorE5E5E5><00:12:54.660><c> the</c><00:12:54.899><c> page</c><00:12:55.110><c> few</c><00:12:55.830><c> times</c><00:12:56.130><c> to</c></c>
+
+00:12:56.480 --> 00:12:56.490 align:start position:0%
+running refresh<c.colorE5E5E5> the page few times to
+ </c>
+
+00:12:56.490 --> 00:12:59.900 align:start position:0%
+running refresh<c.colorE5E5E5> the page few times to
+check<00:12:56.700><c> that</c><00:12:56.940><c> it</c><00:12:57.089><c> works</c></c><c.colorCCCCCC><00:12:57.300><c> properly</c></c><c.colorE5E5E5><00:12:58.550><c> go</c><00:12:59.550><c> back</c><00:12:59.760><c> to</c></c>
+
+00:12:59.900 --> 00:12:59.910 align:start position:0%
+check<c.colorE5E5E5> that it works</c><c.colorCCCCCC> properly</c><c.colorE5E5E5> go back to
+ </c>
+
+00:12:59.910 --> 00:13:02.120 align:start position:0%
+check<c.colorE5E5E5> that it works</c><c.colorCCCCCC> properly</c><c.colorE5E5E5> go back to
+the<00:13:00.029><c> command</c><00:13:00.300><c> line</c><00:13:00.450><c> and</c><00:13:00.899><c> notice</c></c><c.colorCCCCCC><00:13:01.560><c> the</c><00:13:01.860><c> logs</c></c>
+
+00:13:02.120 --> 00:13:02.130 align:start position:0%
+the command<c.colorE5E5E5> line and notice</c><c.colorCCCCCC> the logs
+ </c>
+
+00:13:02.130 --> 00:13:05.380 align:start position:0%
+the command<c.colorE5E5E5> line and notice</c><c.colorCCCCCC> the logs</c>
+<c.colorE5E5E5>displaying<00:13:03.000><c> the</c><00:13:03.180><c> request</c><00:13:03.600><c> for</c><00:13:04.230><c> each</c><00:13:04.260><c> refresh</c></c>
+
+00:13:05.380 --> 00:13:05.390 align:start position:0%
+<c.colorE5E5E5>displaying the request for each refresh
+ </c>
+
+00:13:05.390 --> 00:13:08.240 align:start position:0%
+<c.colorE5E5E5>displaying the request for each refresh
+when<00:13:06.390><c> you</c><00:13:06.570><c> finish</c><00:13:06.930><c> playing</c><00:13:07.170><c> with</c><00:13:07.620><c> the</c><00:13:07.800><c> web</c><00:13:07.980><c> app</c></c>
+
+00:13:08.240 --> 00:13:08.250 align:start position:0%
+<c.colorE5E5E5>when you finish playing with the web app
+ </c>
+
+00:13:08.250 --> 00:13:11.870 align:start position:0%
+<c.colorE5E5E5>when you finish playing with the web app</c>
+<c.colorCCCCCC>or<00:13:08.490><c> got</c><00:13:09.089><c> bored</c><00:13:09.420><c> of</c><00:13:09.690><c> watching</c><00:13:09.990><c> cats</c></c><c.colorE5E5E5><00:13:10.640><c> make</c><00:13:11.640><c> sure</c></c>
+
+00:13:11.870 --> 00:13:11.880 align:start position:0%
+<c.colorCCCCCC>or got bored of watching cats</c><c.colorE5E5E5> make sure
+ </c>
+
+00:13:11.880 --> 00:13:14.120 align:start position:0%
+<c.colorCCCCCC>or got bored of watching cats</c><c.colorE5E5E5> make sure
+you<00:13:12.029><c> stop</c><00:13:12.390><c> the</c><00:13:12.540><c> container</c></c><c.colorCCCCCC><00:13:13.020><c> by</c><00:13:13.589><c> pressing</c></c>
+
+00:13:14.120 --> 00:13:14.130 align:start position:0%
+you stop the container<c.colorCCCCCC> by pressing
+ </c>
+
+00:13:14.130 --> 00:13:17.360 align:start position:0%
+you stop the container<c.colorCCCCCC> by pressing
+together<00:13:14.339><c> control</c></c><c.colorE5E5E5><00:13:15.240><c> C</c><00:13:15.750><c> this</c><00:13:16.740><c> is</c><00:13:16.950><c> the</c><00:13:17.130><c> end</c></c><c.colorCCCCCC><00:13:17.250><c> of</c></c>
+
+00:13:17.360 --> 00:13:17.370 align:start position:0%
+together<c.colorCCCCCC> control</c><c.colorE5E5E5> C this is the end</c><c.colorCCCCCC> of
+ </c>
+
+00:13:17.370 --> 00:13:19.730 align:start position:0%
+together<c.colorCCCCCC> control</c><c.colorE5E5E5> C this is the end</c><c.colorCCCCCC> of
+this<00:13:17.520><c> video</c></c><c.colorE5E5E5><00:13:17.760><c> where</c><00:13:18.480><c> we</c><00:13:18.690><c> looked</c></c><c.colorCCCCCC><00:13:18.990><c> at</c></c><c.colorE5E5E5><00:13:19.230><c> the</c><00:13:19.529><c> daka</c></c>
+
+00:13:19.730 --> 00:13:19.740 align:start position:0%
+this video<c.colorE5E5E5> where we looked</c><c.colorCCCCCC> at</c><c.colorE5E5E5> the daka
+ </c>
+
+00:13:19.740 --> 00:13:22.220 align:start position:0%
+this video<c.colorE5E5E5> where we looked</c><c.colorCCCCCC> at</c><c.colorE5E5E5> the daka
+file<00:13:20.130><c> and</c><00:13:20.399><c> the</c></c><c.colorCCCCCC><00:13:20.970><c> python</c><00:13:21.390><c> code</c><00:13:21.660><c> for</c><00:13:21.990><c> the</c></c><c.colorE5E5E5><00:13:22.080><c> web</c></c>
+
+00:13:22.220 --> 00:13:22.230 align:start position:0%
+file and the<c.colorCCCCCC> python code for the</c><c.colorE5E5E5> web
+ </c>
+
+00:13:22.230 --> 00:13:25.570 align:start position:0%
+file and the<c.colorCCCCCC> python code for the</c><c.colorE5E5E5> web
+application<00:13:22.950><c> and</c><00:13:23.570><c> executed</c><00:13:24.570><c> docker</c><00:13:24.810><c> commands</c></c>
+
+00:13:25.570 --> 00:13:25.580 align:start position:0%
+application and executed docker commands
+ 
+
+00:13:25.580 --> 00:13:28.400 align:start position:0%
+application and executed docker commands
+watch<00:13:26.580><c> the</c><00:13:26.850><c> next</c><00:13:27.089><c> video</c><00:13:27.270><c> where</c><00:13:28.110><c> we</c><00:13:28.380><c> will</c>
+
+00:13:28.400 --> 00:13:28.410 align:start position:0%
+watch the next video where we will
+ 
+
+00:13:28.410 --> 00:13:31.670 align:start position:0%
+watch the next video where we will
+create<c.colorE5E5E5><00:13:28.740><c> the</c><00:13:29.279><c> steps</c><00:13:29.670><c> in</c><00:13:29.970><c> the</c><00:13:30.149><c> CD</c><00:13:30.570><c> pipeline</c><00:13:31.080><c> to</c></c>
+
+00:13:31.670 --> 00:13:31.680 align:start position:0%
+create<c.colorE5E5E5> the steps in the CD pipeline to
+ </c>
+
+00:13:31.680 --> 00:13:33.740 align:start position:0%
+create<c.colorE5E5E5> the steps in the CD pipeline to
+build<00:13:31.980><c> and</c><00:13:32.279><c> deploy</c></c><c.colorCCCCCC><00:13:32.520><c> to</c><00:13:33.149><c> a</c><00:13:33.180><c> development</c></c>
+
+00:13:33.740 --> 00:13:33.750 align:start position:0%
+build and deploy<c.colorCCCCCC> to a development
+ </c>
+
+00:13:33.750 --> 00:13:35.930 align:start position:0%
+build and deploy<c.colorCCCCCC> to a development</c>
+<c.colorE5E5E5>environment</c>
+

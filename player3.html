@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>聚云网 - 全栈开发、增长黑客、创业学习</title>
+    <meta name="description" property="og:description" content="A simple HTML5 media player with custom controls and WebVTT captions.">
+    <meta name="author" content="Sam Potts">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Icons -->
+<!--     <link rel="icon" href="https://cdn.plyr.io/static/icons/favicon.ico">
+    <link rel="icon" type="image/png" href="https://cdn.plyr.io/static/icons/32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://cdn.plyr.io/static/icons/16x16.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.plyr.io/static/icons/180x180.png"> -->
+
+    <!-- Opengraph -->
+    <!-- <meta property="og:title" content="Plyr - A simple, customizable HTML5 Video, Audio, YouTube and Vimeo player">
+    <meta property="og:site_name" content="Plyr">
+    <meta property="og:url" content="https://plyr.io">
+    <meta property="og:image" content="https://cdn.plyr.io/static/icons/1200x630.png">
+ -->
+    <!-- Twitter -->
+    <!-- <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@sam_potts">
+    <meta name="twitter:creator" content="@sam_potts">
+    <meta name="twitter:card" content="summary_large_image"> -->
+
+    <!-- Docs styles -->
+    <link rel="stylesheet" href="video-player/demo.css?v=2">
+    <link href="video-player/video-js.min.css" rel="stylesheet">
+    <link href="video-player/plugins/captions/videojs.caption.css" rel="stylesheet">
+    <style type="text/css">
+
+       /* .video-js .vjs-text-track-display >div>div>div { 
+        font-size: 25px !important; 
+          line-height:33px !important;
+          padding:5px !important;
+          background:transparent 2s ease-in 1s !important;
+          text-shadow: 1px 1px 2px #000000;
+          display: inline-block !important;
+         
+        }*/
+
+        .video-js .vjs-text-track-display {
+
+          position:absolute; 
+          bottom:3em;
+          top:0;
+          right:0;
+          left:25%;
+          width: 100%;
+
+         /* animation: changebox 2s ease-in-out;*/
+
+        }
+
+       /* @keyframes changebox {
+           10% {  background:red;  }
+           50% {  width:80px;  }
+           70% {  border:15px solid yellow;  }
+           100% {  width:180px;  height:180px;  }
+        }*/
+
+        .button {
+            background-color: #F1F1F1;
+            border: none;
+            /*color: white;*/
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+
+
+    </style>
+
+
+    <!-- Preload -->
+   <!--  <link rel="preload" as="font" crossorigin type="font/woff2" href="https://cdn.plyr.io/static/fonts/gordita-medium.woff2">
+    <link rel="preload" as="font" crossorigin type="font/woff2" href="https://cdn.plyr.io/static/fonts/gordita-bold.woff2"> -->
+</head>
+
+<body>
+    <div class="grid">
+        <header>
+            <h2>聚云网学习视频</h2>
+            <p>
+               目前推荐在PC端使用Chrome,safari浏览器播放。     
+            </p>
+        </header>
+
+        <main>
+            <div id="container">
+                 <div class="videocontent">
+                      <video id="my-video" class="video-js vjs-fluid  vjs-big-play-centered"  controls preload="auto" width="640" height="264"
+                      poster="MY_VIDEO_POSTER.jpg" data-setup='{"controls": true, "autoplay": false, "preload": "auto" }'>
+                        <!-- <source src="http://appplusplus.cn/2018-09-09%2013-12-05.mp4" type='video/mp4'> -->
+                      <!-- <track kind="captions" src="captions/jenkins-captions-1.vtt" srclang="en" label="English"> -->
+                      <!--<track kind="subtitles" src="../shared/example-captions.vtt" srclang="en" label="English">-->
+                      <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that 
+                        <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+                      </p>
+                      </video>
+                      <button class="button" id="prev">Previous</button>
+                      <button class="button" id="next">Next</button>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <aside>
+       <!--  <svg class="icon">
+            <title>Twitter</title>
+            <path d="M16,3c-0.6,0.3-1.2,0.4-1.9,0.5c0.7-0.4,1.2-1,1.4-1.8c-0.6,0.4-1.3,0.6-2.1,0.8c-0.6-0.6-1.5-1-2.4-1
+       C9.3,1.5,7.8,3,7.8,4.8c0,0.3,0,0.5,0.1,0.7C5.2,5.4,2.7,4.1,1.1,2.1c-0.3,0.5-0.4,1-0.4,1.7c0,1.1,0.6,2.1,1.5,2.7
+       c-0.5,0-1-0.2-1.5-0.4c0,0,0,0,0,0c0,1.6,1.1,2.9,2.6,3.2C3,9.4,2.7,9.4,2.4,9.4c-0.2,0-0.4,0-0.6-0.1c0.4,1.3,1.6,2.3,3.1,2.3
+       c-1.1,0.9-2.5,1.4-4.1,1.4c-0.3,0-0.5,0-0.8,0c1.5,0.9,3.2,1.5,5,1.5c6,0,9.3-5,9.3-9.3c0-0.1,0-0.3,0-0.4C15,4.3,15.6,3.7,16,3z"></path>
+        </svg> -->
+        <p>@2018 聚云网</p>
+    </aside>
+
+    <!-- Docs script -->
+    <!-- <script src="video-player/demo.js" crossorigin="anonymous"></script> -->
+
+    <script src="video-player/video.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/2.0.3/jquery.min.js"></script>
+    <script src='video-player/plugins/captions/videojs.caption.js'></script>
+    <script type="text/javascript">
+
+    $(document).ready(function() {
+      var objs,index,position,source;
+      index=0;
+      urlinfo=window.location.href; //获取当前页面的url
+      // var url = GetArgsFromHref(urlinfo,'url');
+      // var caption = GetArgsFromHref(urlinfo,'caption');
+
+      position = GetArgsFromHref(urlinfo,'position');
+      source = GetArgsFromHref(urlinfo,'source');
+
+      // var player = window.player = videojs('my-video', {
+      //   sources: [{
+      //     src: url,
+      //     type: 'video/mp4'
+      //     }],
+      //   tracks: [{
+      //     id: 'jenkins-en',
+      //     kind: 'captions',
+      //     label: 'English',
+      //     srclang: 'en',
+      //     src: caption,
+      //     default: 'default',
+      //     mode: 'showing'
+      //   }],
+      //   "html5": {
+      //     "nativeTextTracks": false
+      //   }
+      // })
+
+      $.getJSON('data/'+source+'.json',function(data){ 
+        objs = data
+        //alert(JSON.stringify(data))
+      }); 
+
+      var player = videojs('my-video', {
+          fluid: true,
+          controls: true,
+      });
+
+      
+      
+      player.ready(function() {
+            // the call to src is asynchronous under the covers
+            player.src({ src: objs[position].src });
+            // this says "delete this text track whenever the source next changes"
+            // (in other words manual cleanup is off, auto cleanup is on)
+            // but because the call to src(...) was asynchronous, and addRemoteTextTrack is synchronous, the order of
+            // operations is:
+            //    1. I call src - it sets a timeout for 1ms to set the actual source
+            //    2. I call addRemoteTextTrack - it immediately adds the text track
+            //    3. I'm done, and now (or 1ms from now), the source gets actually set
+            //    4. as part of setting the source, my remote track gets cleaned up - deleted - gone - blown away
+            // Nobody sees subtitles and everyone is sad.
+             player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
+
+            /*
+            // This would work, though:
+            // Under the covers, ready must queue functions to happen in a setTimeout - haven't looked to be sure
+            player.ready(function() {
+               player.addRemoteTextTrack({ src: 'https://download-a.akamaihd.net/files/media_video/9a/wsb_E_r720P.vtt' }, false);
+            });
+            */
+
+            /*
+            // And this works, because our setTimeout function will get invoked after the previously-scheduled one:
+            setTimeout(function() {
+               player.addRemoteTextTrack({ src: 'https://download-a.akamaihd.net/files/media_video/9a/wsb_E_r720P.vtt' }, false);
+            }, 1);
+            */
+            index = parseInt(position) 
+         });
+
+      $("#prev").click(function(){
+        console.log("prev index=="+index)
+        if(index==0){
+          return false
+        }
+        index-=1
+        player.src(objs[index].src)
+        player.addRemoteTextTrack({src: objs[index].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
+        player.ready(function(){
+          player.play()
+          //alert("player")
+        })
+       
+      })
+
+      $("#next").click(function(){
+        console.log("next index=="+index)
+        index+=1
+        player.src(objs[index].src)
+        player.addRemoteTextTrack({src: objs[index].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
+        player.ready(function(){
+          player.play()
+          //alert("player")
+        })
+       
+      })
+   
+      
+    });
+
+     function GetArgsFromHref(sHref, sArgName) {
+      var args    = sHref.split("?");
+      var retval = "";
+    
+      if(args[0] == sHref) /*参数为空*/
+      {
+           return retval; /*无需做任何处理*/
+      }  
+      var str = args[1];
+      args = str.split("&");
+      for(var i = 0; i < args.length; i ++)
+      {
+          str = args[i];
+          var arg = str.split("=");
+          if(arg.length <= 1) continue;
+          if(arg[0] == sArgName) retval = arg[1]; 
+      }
+      return retval;
+     }
+  </script>
+</body>
+
+</html>

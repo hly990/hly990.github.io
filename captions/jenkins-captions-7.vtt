@@ -1,0 +1,1110 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.269 --> 00:00:02.780 align:start position:0%
+ 
+in<00:00:00.539><c> this</c><00:00:01.020><c> video</c><c.colorCCCCCC><00:00:01.260><c> we're</c><00:00:01.800><c> going</c><00:00:01.980><c> to</c><00:00:02.219><c> look</c><00:00:02.370><c> at</c><00:00:02.550><c> job</c></c>
+
+00:00:02.780 --> 00:00:02.790 align:start position:0%
+in this video<c.colorCCCCCC> we're going to look at job
+ </c>
+
+00:00:02.790 --> 00:00:05.150 align:start position:0%
+in this video<c.colorCCCCCC> we're going to look at job
+configuration<00:00:03.629><c> in</c><00:00:03.810><c> Jenkins</c><00:00:04.410><c> you</c><00:00:04.829><c> will</c><00:00:04.979><c> learn</c></c>
+
+00:00:05.150 --> 00:00:05.160 align:start position:0%
+configuration in<c.colorCCCCCC> Jenkins you will learn
+ </c>
+
+00:00:05.160 --> 00:00:07.819 align:start position:0%
+configuration in<c.colorCCCCCC> Jenkins you will learn
+how<00:00:05.609><c> to</c></c><c.colorE5E5E5><00:00:05.640><c> configure</c><00:00:06.299><c> a</c><00:00:06.660><c> run</c><00:00:06.959><c> a</c><00:00:06.990><c> job</c><00:00:07.410><c> and</c><00:00:07.680><c> get</c></c>
+
+00:00:07.819 --> 00:00:07.829 align:start position:0%
+how to<c.colorE5E5E5> configure a run a job and get
+ </c>
+
+00:00:07.829 --> 00:00:10.669 align:start position:0%
+how to<c.colorE5E5E5> configure a run a job and get
+familiar<00:00:08.099><c> with</c><00:00:08.639><c> core</c><00:00:09.210><c> terminology</c><00:00:10.139><c> such</c><00:00:10.500><c> as</c></c>
+
+00:00:10.669 --> 00:00:10.679 align:start position:0%
+familiar<c.colorE5E5E5> with core terminology such as
+ </c>
+
+00:00:10.679 --> 00:00:13.940 align:start position:0%
+familiar<c.colorE5E5E5> with core terminology such as
+parameters<00:00:11.339><c> job</c></c><c.colorCCCCCC><00:00:12.089><c> will</c><00:00:12.570><c> trigger</c></c><c.colorE5E5E5><00:00:12.929><c> build</c><00:00:13.620><c> and</c></c>
+
+00:00:13.940 --> 00:00:13.950 align:start position:0%
+parameters job<c.colorCCCCCC> will trigger</c><c.colorE5E5E5> build and
+ </c>
+
+00:00:13.950 --> 00:00:18.380 align:start position:0%
+parameters job<c.colorCCCCCC> will trigger</c><c.colorE5E5E5> build and
+possible<00:00:14.580><c> actions</c><00:00:15.260><c> workspace</c><00:00:16.340><c> artifact</c><00:00:17.390><c> etc</c></c>
+
+00:00:18.380 --> 00:00:18.390 align:start position:0%
+possible actions workspace artifact<c.colorE5E5E5> etc
+ </c>
+
+00:00:18.390 --> 00:00:21.529 align:start position:0%
+possible actions workspace artifact<c.colorE5E5E5> etc
+without<00:00:19.289><c> any</c><00:00:19.590><c> further</c><00:00:19.890><c> ado</c><00:00:20.340><c> let's</c></c><c.colorCCCCCC><00:00:20.609><c> look</c><00:00:21.119><c> a</c><00:00:21.300><c> job</c></c>
+
+00:00:21.529 --> 00:00:21.539 align:start position:0%
+<c.colorE5E5E5>without any further ado let's</c><c.colorCCCCCC> look a job
+ </c>
+
+00:00:21.539 --> 00:00:24.349 align:start position:0%
+<c.colorE5E5E5>without any further ado let's</c><c.colorCCCCCC> look a job
+configuration</c><c.colorE5E5E5><00:00:22.289><c> in</c><00:00:22.500><c> Jenkins</c></c><c.colorCCCCCC><00:00:22.890><c> I</c><00:00:23.400><c> created</c><00:00:23.970><c> few</c></c>
+
+00:00:24.349 --> 00:00:24.359 align:start position:0%
+configuration<c.colorE5E5E5> in Jenkins</c><c.colorCCCCCC> I created few
+ </c>
+
+00:00:24.359 --> 00:00:26.870 align:start position:0%
+configuration<c.colorE5E5E5> in Jenkins</c><c.colorCCCCCC> I created few
+Jenkins<00:00:24.900><c> jobs</c></c><c.colorE5E5E5><00:00:25.230><c> or</c><00:00:25.800><c> projects</c><00:00:26.550><c> for</c></c>
+
+00:00:26.870 --> 00:00:26.880 align:start position:0%
+Jenkins jobs<c.colorE5E5E5> or projects for
+ </c>
+
+00:00:26.880 --> 00:00:29.659 align:start position:0%
+Jenkins jobs<c.colorE5E5E5> or projects for
+illustration<00:00:27.509><c> purposes</c><00:00:28.109><c> I</c><00:00:28.380><c> click</c><00:00:28.920><c> on</c><00:00:29.160><c> the</c><00:00:29.460><c> one</c></c>
+
+00:00:29.659 --> 00:00:29.669 align:start position:0%
+illustration purposes<c.colorE5E5E5> I click on the one
+ </c>
+
+00:00:29.669 --> 00:00:32.930 align:start position:0%
+illustration purposes<c.colorE5E5E5> I click on the one
+named<00:00:30.000><c> build</c><00:00:30.509><c> up</c><00:00:30.810><c> to</c><00:00:31.410><c> get</c><00:00:31.589><c> into</c><00:00:31.919><c> the</c><00:00:32.040><c> job</c><00:00:32.220><c> then</c></c>
+
+00:00:32.930 --> 00:00:32.940 align:start position:0%
+named<c.colorE5E5E5> build up to get into the job then
+ </c>
+
+00:00:32.940 --> 00:00:35.270 align:start position:0%
+named<c.colorE5E5E5> build up to get into the job then
+I<00:00:33.150><c> click</c><00:00:33.510><c> on</c><00:00:33.660><c> configure</c><00:00:34.320><c> to</c><00:00:34.620><c> show</c><00:00:34.800><c> you</c><00:00:34.860><c> how</c><00:00:35.250><c> I</c></c>
+
+00:00:35.270 --> 00:00:35.280 align:start position:0%
+I click<c.colorE5E5E5> on configure to show you how I
+ </c>
+
+00:00:35.280 --> 00:00:38.300 align:start position:0%
+I click<c.colorE5E5E5> on configure to show you how I</c>
+<c.colorE5E5E5>can<00:00:35.790><c> figure</c></c><c.colorCCCCCC><00:00:36.030><c> this</c><00:00:36.390><c> job</c></c><c.colorE5E5E5><00:00:36.750><c> the</c><00:00:37.470><c> first</c><00:00:37.650><c> section</c><00:00:38.160><c> is</c></c>
+
+00:00:38.300 --> 00:00:38.310 align:start position:0%
+<c.colorE5E5E5>can figure</c><c.colorCCCCCC> this job</c><c.colorE5E5E5> the first section is
+ </c>
+
+00:00:38.310 --> 00:00:41.270 align:start position:0%
+<c.colorE5E5E5>can figure</c><c.colorCCCCCC> this job</c><c.colorE5E5E5> the first section is
+general<00:00:39.090><c> this</c><00:00:39.660><c> is</c><00:00:39.810><c> where</c><00:00:40.020><c> name</c><00:00:40.350><c> description</c></c>
+
+00:00:41.270 --> 00:00:41.280 align:start position:0%
+general this is where name description
+ 
+
+00:00:41.280 --> 00:00:43.580 align:start position:0%
+general this is where name description
+<c.colorCCCCCC>and<00:00:41.460><c> other</c><00:00:41.730><c> details</c><00:00:42.300><c> about</c></c><c.colorE5E5E5><00:00:42.600><c> the</c><00:00:43.080><c> job</c><00:00:43.110><c> or</c></c>
+
+00:00:43.580 --> 00:00:43.590 align:start position:0%
+<c.colorCCCCCC>and other details about</c><c.colorE5E5E5> the job or
+ </c>
+
+00:00:43.590 --> 00:00:46.970 align:start position:0%
+<c.colorCCCCCC>and other details about</c><c.colorE5E5E5> the job or
+project<00:00:44.010><c> are</c><00:00:44.460><c> set</c><00:00:44.790><c> for</c><00:00:45.300><c> example</c></c><c.colorCCCCCC><00:00:45.390><c> I</c><00:00:45.960><c> named</c><00:00:46.500><c> this</c></c>
+
+00:00:46.970 --> 00:00:46.980 align:start position:0%
+project<c.colorE5E5E5> are set for example</c><c.colorCCCCCC> I named this
+ </c>
+
+00:00:46.980 --> 00:00:50.210 align:start position:0%
+project<c.colorE5E5E5> are set for example</c><c.colorCCCCCC> I named this
+job</c><c.colorE5E5E5><00:00:47.430><c> build</c><00:00:47.880><c> underscore</c><00:00:48.870><c> up</c><00:00:49.110><c> and</c></c><c.colorCCCCCC><00:00:49.590><c> gave</c></c><c.colorE5E5E5><00:00:50.010><c> it</c><00:00:50.130><c> a</c></c>
+
+00:00:50.210 --> 00:00:50.220 align:start position:0%
+job<c.colorE5E5E5> build underscore up and</c><c.colorCCCCCC> gave</c><c.colorE5E5E5> it a
+ </c>
+
+00:00:50.220 --> 00:00:52.910 align:start position:0%
+job<c.colorE5E5E5> build underscore up and</c><c.colorCCCCCC> gave</c><c.colorE5E5E5> it a</c>
+<c.colorE5E5E5>description<00:00:50.600><c> note</c><00:00:51.600><c> that</c><00:00:52.140><c> the</c><00:00:52.290><c> project</c><00:00:52.500><c> name</c></c>
+
+00:00:52.910 --> 00:00:52.920 align:start position:0%
+<c.colorE5E5E5>description note that the project name
+ </c>
+
+00:00:52.920 --> 00:00:55.970 align:start position:0%
+<c.colorE5E5E5>description note that the project name
+is<00:00:53.160><c> reflected</c><00:00:54.000><c> in</c><00:00:54.150><c> the</c><00:00:54.300><c> URL</c><00:00:54.690><c> used</c><00:00:55.350><c> by</c><00:00:55.620><c> Jenkins</c></c>
+
+00:00:55.970 --> 00:00:55.980 align:start position:0%
+is reflected in the URL<c.colorE5E5E5> used by Jenkins
+ </c>
+
+00:00:55.980 --> 00:00:59.600 align:start position:0%
+is reflected in the URL<c.colorE5E5E5> used by Jenkins</c>
+<c.colorCCCCCC>to<00:00:56.880><c> identify</c><00:00:57.510><c> this</c><00:00:57.900><c> job</c></c><c.colorE5E5E5><00:00:58.400><c> therefore</c><00:00:59.400><c> I</c></c>
+
+00:00:59.600 --> 00:00:59.610 align:start position:0%
+<c.colorCCCCCC>to identify this job</c><c.colorE5E5E5> therefore I
+ </c>
+
+00:00:59.610 --> 00:01:02.440 align:start position:0%
+<c.colorCCCCCC>to identify this job</c><c.colorE5E5E5> therefore I
+recommend<00:01:00.030><c> to</c><00:01:00.450><c> avoid</c><00:01:00.540><c> spaces</c><00:01:01.500><c> a</c></c><c.colorCCCCCC><00:01:01.740><c> News</c></c>
+
+00:01:02.440 --> 00:01:02.450 align:start position:0%
+recommend to avoid spaces<c.colorE5E5E5> a</c><c.colorCCCCCC> News
+ </c>
+
+00:01:02.450 --> 00:01:06.230 align:start position:0%
+recommend to avoid spaces<c.colorE5E5E5> a</c><c.colorCCCCCC> News
+underscore<00:01:03.450><c> or</c><00:01:03.930><c> -</c><00:01:04.320><c> the</c><00:01:04.890><c> final</c><00:01:05.280><c> URL</c></c><c.colorE5E5E5><00:01:05.460><c> will</c></c><c.colorCCCCCC><00:01:06.030><c> be</c></c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+underscore<c.colorCCCCCC> or - the final URL</c><c.colorE5E5E5> will</c><c.colorCCCCCC> be
+ </c>
+
+00:01:06.240 --> 00:01:08.270 align:start position:0%
+underscore<c.colorCCCCCC> or - the final URL</c><c.colorE5E5E5> will</c><c.colorCCCCCC> be
+much<00:01:06.539><c> friendlier</c><00:01:07.109><c> notice</c><00:01:07.799><c> also</c><00:01:08.039><c> that</c></c>
+
+00:01:08.270 --> 00:01:08.280 align:start position:0%
+much friendlier notice also that
+ 
+
+00:01:08.280 --> 00:01:11.029 align:start position:0%
+much friendlier notice also that
+<c.colorE5E5E5>although<00:01:09.000><c> the</c><00:01:09.149><c> project</c><00:01:09.390><c> name</c><00:01:09.840><c> is</c><00:01:10.170><c> build</c><00:01:10.679><c> on</c></c>
+
+00:01:11.029 --> 00:01:11.039 align:start position:0%
+<c.colorE5E5E5>although the project name is build on
+ </c>
+
+00:01:11.039 --> 00:01:13.130 align:start position:0%
+<c.colorE5E5E5>although the project name is build on
+the<00:01:11.189><c> school</c><00:01:11.520><c> app</c><00:01:11.759><c> in</c></c><c.colorCCCCCC><00:01:12.179><c> lowercase</c></c>
+
+00:01:13.130 --> 00:01:13.140 align:start position:0%
+the school app in<c.colorCCCCCC> lowercase
+ </c>
+
+00:01:13.140 --> 00:01:15.830 align:start position:0%
+the school app in<c.colorCCCCCC> lowercase
+there<00:01:13.320><c> is</c><00:01:13.439><c> a</c><00:01:13.469><c> friendly</c><00:01:13.979><c> name</c><00:01:14.280><c> with</c><00:01:14.909><c> space</c><00:01:15.509><c> and</c></c>
+
+00:01:15.830 --> 00:01:15.840 align:start position:0%
+there is a friendly name with space and
+ 
+
+00:01:15.840 --> 00:01:18.349 align:start position:0%
+there is a friendly name with space and
+capitalized<00:01:16.679><c> initials</c><00:01:17.310><c> displayed</c><00:01:17.909><c> in</c><00:01:18.179><c> the</c>
+
+00:01:18.349 --> 00:01:18.359 align:start position:0%
+capitalized initials displayed in the
+ 
+
+00:01:18.359 --> 00:01:21.169 align:start position:0%
+capitalized initials displayed in the
+breadcrumb<c.colorE5E5E5><00:01:18.960><c> this</c><00:01:19.560><c> is</c><00:01:19.770><c> set</c><00:01:20.009><c> by</c><00:01:20.310><c> clicking</c><00:01:20.609><c> on</c></c>
+
+00:01:21.169 --> 00:01:21.179 align:start position:0%
+breadcrumb<c.colorE5E5E5> this is set by clicking on
+ </c>
+
+00:01:21.179 --> 00:01:23.510 align:start position:0%
+breadcrumb<c.colorE5E5E5> this is set by clicking on
+advanced<00:01:21.899><c> and</c><00:01:22.109><c> setting</c><00:01:22.679><c> the</c><00:01:22.829><c> friendly</c><00:01:23.280><c> name</c></c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+advanced<c.colorE5E5E5> and setting the friendly name
+ </c>
+
+00:01:23.520 --> 00:01:26.149 align:start position:0%
+advanced<c.colorE5E5E5> and setting the friendly name
+in<00:01:23.759><c> display</c><00:01:24.359><c> name</c><00:01:24.659><c> in</c><00:01:24.990><c> this</c><00:01:25.320><c> way</c><00:01:25.530><c> you</c><00:01:25.979><c> can</c></c><c.colorCCCCCC><00:01:26.100><c> have</c></c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+in display name in this way you can<c.colorCCCCCC> have
+ </c>
+
+00:01:26.159 --> 00:01:28.520 align:start position:0%
+in display name in this way you can<c.colorCCCCCC> have
+a<00:01:26.280><c> project</c><00:01:26.789><c> name</c><00:01:27.030><c> that</c><00:01:27.479><c> displays</c><00:01:27.899><c> well</c><00:01:28.259><c> on</c><00:01:28.409><c> the</c></c>
+
+00:01:28.520 --> 00:01:28.530 align:start position:0%
+<c.colorCCCCCC>a project name that displays well on the
+ </c>
+
+00:01:28.530 --> 00:01:31.309 align:start position:0%
+<c.colorCCCCCC>a project name that displays well on the
+URL</c><c.colorE5E5E5><00:01:28.679><c> but</c><00:01:29.429><c> it</c><00:01:29.640><c> is</c><00:01:29.789><c> also</c><00:01:30.119><c> informative</c><00:01:30.719><c> when</c></c>
+
+00:01:31.309 --> 00:01:31.319 align:start position:0%
+URL<c.colorE5E5E5> but it is also informative when
+ </c>
+
+00:01:31.319 --> 00:01:34.639 align:start position:0%
+URL<c.colorE5E5E5> but it is also informative when
+displayed<00:01:31.829><c> within</c><00:01:32.280><c> Jenkins</c><00:01:33.079><c> another</c><00:01:34.079><c> useful</c></c>
+
+00:01:34.639 --> 00:01:34.649 align:start position:0%
+displayed within Jenkins another<c.colorE5E5E5> useful
+ </c>
+
+00:01:34.649 --> 00:01:38.480 align:start position:0%
+displayed within Jenkins another<c.colorE5E5E5> useful
+option<00:01:35.100><c> is</c><00:01:35.280><c> this</c><00:01:36.030><c> job</c><00:01:36.479><c> is</c><00:01:37.069><c> parameterised</c></c><c.colorCCCCCC><00:01:38.069><c> I</c></c>
+
+00:01:38.480 --> 00:01:38.490 align:start position:0%
+option is this job is parameterised<c.colorCCCCCC> I
+ </c>
+
+00:01:38.490 --> 00:01:40.880 align:start position:0%
+option is this job is parameterised<c.colorCCCCCC> I
+take<00:01:38.850><c> the</c><00:01:39.030><c> box</c></c><c.colorE5E5E5><00:01:39.270><c> and</c></c><c.colorCCCCCC><00:01:39.479><c> this</c><00:01:39.899><c> displays</c><00:01:40.560><c> a</c></c>
+
+00:01:40.880 --> 00:01:40.890 align:start position:0%
+<c.colorCCCCCC>take the box</c><c.colorE5E5E5> and</c><c.colorCCCCCC> this displays a
+ </c>
+
+00:01:40.890 --> 00:01:44.059 align:start position:0%
+<c.colorCCCCCC>take the box</c><c.colorE5E5E5> and</c><c.colorCCCCCC> this displays a
+drop-down<00:01:41.189><c> menu</c><00:01:41.969><c> add</c><00:01:42.149><c> parameter</c><00:01:43.139><c> for</c></c><c.colorE5E5E5><00:01:43.679><c> example</c></c>
+
+00:01:44.059 --> 00:01:44.069 align:start position:0%
+drop-down<c.colorCCCCCC> menu add parameter for</c><c.colorE5E5E5> example
+ </c>
+
+00:01:44.069 --> 00:01:47.090 align:start position:0%
+drop-down<c.colorCCCCCC> menu add parameter for</c><c.colorE5E5E5> example
+you<00:01:44.670><c> can</c><00:01:44.850><c> add</c><00:01:44.999><c> a</c><00:01:45.240><c> string</c><00:01:45.659><c> parameter</c><00:01:46.319><c> and</c><00:01:46.499><c> pass</c></c>
+
+00:01:47.090 --> 00:01:47.100 align:start position:0%
+you can add a string parameter and pass
+ 
+
+00:01:47.100 --> 00:01:49.580 align:start position:0%
+you can add a string parameter and pass
+it<c.colorCCCCCC><00:01:47.340><c> to</c></c><c.colorE5E5E5><00:01:47.520><c> the</c><00:01:47.639><c> Jenkins</c><00:01:48.030><c> job</c><00:01:48.389><c> we</c><00:01:49.170><c> will</c><00:01:49.350><c> see</c><00:01:49.499><c> an</c></c>
+
+00:01:49.580 --> 00:01:49.590 align:start position:0%
+it<c.colorCCCCCC> to</c><c.colorE5E5E5> the Jenkins job we will see an
+ </c>
+
+00:01:49.590 --> 00:01:52.129 align:start position:0%
+it<c.colorCCCCCC> to</c><c.colorE5E5E5> the Jenkins job we will see an</c>
+<c.colorCCCCCC>example</c><c.colorE5E5E5><00:01:49.979><c> of</c><00:01:50.399><c> passing</c><00:01:50.939><c> a</c></c><c.colorCCCCCC><00:01:51.030><c> parameter</c><00:01:51.630><c> to</c><00:01:51.780><c> a</c></c>
+
+00:01:52.129 --> 00:01:52.139 align:start position:0%
+<c.colorCCCCCC>example</c><c.colorE5E5E5> of passing a</c><c.colorCCCCCC> parameter to a
+ </c>
+
+00:01:52.139 --> 00:01:55.580 align:start position:0%
+<c.colorCCCCCC>example</c><c.colorE5E5E5> of passing a</c><c.colorCCCCCC> parameter to a
+Jenkins<00:01:52.590><c> job</c><00:01:52.829><c> in</c><00:01:53.159><c> video</c><00:01:53.520><c> 2.4</c><00:01:54.450><c> to</c><00:01:55.079><c> move</c><00:01:55.289><c> to</c><00:01:55.469><c> the</c></c>
+
+00:01:55.580 --> 00:01:55.590 align:start position:0%
+Jenkins job in video<c.colorCCCCCC> 2.4 to move to the
+ </c>
+
+00:01:55.590 --> 00:01:58.129 align:start position:0%
+Jenkins job in video<c.colorCCCCCC> 2.4 to move to the
+next<00:01:55.770><c> configuration</c><00:01:56.429><c> section</c></c><c.colorE5E5E5><00:01:56.939><c> we</c><00:01:57.630><c> can</c><00:01:57.780><c> scroll</c></c>
+
+00:01:58.129 --> 00:01:58.139 align:start position:0%
+next<c.colorCCCCCC> configuration section</c><c.colorE5E5E5> we can scroll
+ </c>
+
+00:01:58.139 --> 00:02:01.429 align:start position:0%
+next<c.colorCCCCCC> configuration section</c><c.colorE5E5E5> we can scroll</c>
+<c.colorCCCCCC>down<00:01:58.469><c> or</c><00:01:58.770><c> use</c><00:01:59.369><c> a</c><00:01:59.579><c> tabbed</c><00:01:59.939><c> view</c><00:02:00.139><c> source</c><00:02:01.139><c> code</c></c>
+
+00:02:01.429 --> 00:02:01.439 align:start position:0%
+<c.colorCCCCCC>down or use a tabbed view source code
+ </c>
+
+00:02:01.439 --> 00:02:03.830 align:start position:0%
+<c.colorCCCCCC>down or use a tabbed view source code
+management<00:02:01.679><c> is</c><00:02:02.310><c> where</c><00:02:02.520><c> we</c><00:02:02.819><c> configure</c><00:02:03.329><c> access</c></c>
+
+00:02:03.830 --> 00:02:03.840 align:start position:0%
+management is where we configure<c.colorCCCCCC> access
+ </c>
+
+00:02:03.840 --> 00:02:06.139 align:start position:0%
+management is where we configure<c.colorCCCCCC> access
+to<00:02:04.049><c> version</c><00:02:04.259><c> control</c><00:02:04.700><c> repositories</c></c><c.colorE5E5E5><00:02:05.700><c> by</c></c>
+
+00:02:06.139 --> 00:02:06.149 align:start position:0%
+to version control repositories<c.colorE5E5E5> by
+ </c>
+
+00:02:06.149 --> 00:02:07.399 align:start position:0%
+to version control repositories<c.colorE5E5E5> by
+default<00:02:06.539><c> the</c><00:02:06.840><c> Jenkins</c></c>
+
+00:02:07.399 --> 00:02:07.409 align:start position:0%
+default<c.colorE5E5E5> the Jenkins
+ </c>
+
+00:02:07.409 --> 00:02:10.550 align:start position:0%
+default<c.colorE5E5E5> the Jenkins
+LTS<00:02:07.889><c> version</c><00:02:08.460><c> allows</c><00:02:09.090><c> to</c><00:02:09.390><c> connect</c><00:02:09.750><c> to</c><00:02:10.050><c> get</c><00:02:10.290><c> and</c></c>
+
+00:02:10.550 --> 00:02:10.560 align:start position:0%
+LTS version allows<c.colorE5E5E5> to connect to get and
+ </c>
+
+00:02:10.560 --> 00:02:12.830 align:start position:0%
+LTS version allows<c.colorE5E5E5> to connect to get and</c>
+<c.colorE5E5E5>subversion<00:02:11.250><c> repositories</c></c><c.colorCCCCCC><00:02:11.970><c> but</c><00:02:12.240><c> other</c></c>
+
+00:02:12.830 --> 00:02:12.840 align:start position:0%
+<c.colorE5E5E5>subversion repositories</c><c.colorCCCCCC> but other
+ </c>
+
+00:02:12.840 --> 00:02:13.970 align:start position:0%
+<c.colorE5E5E5>subversion repositories</c><c.colorCCCCCC> but other
+version<00:02:13.320><c> controls</c></c>
+
+00:02:13.970 --> 00:02:13.980 align:start position:0%
+version controls
+ 
+
+00:02:13.980 --> 00:02:16.190 align:start position:0%
+version controls
+systems<00:02:14.310><c> can</c><c.colorCCCCCC><00:02:14.459><c> be</c><00:02:14.760><c> used</c><00:02:15.060><c> as</c><00:02:15.300><c> well</c><00:02:15.540><c> by</c></c>
+
+00:02:16.190 --> 00:02:16.200 align:start position:0%
+systems can<c.colorCCCCCC> be used as well by
+ </c>
+
+00:02:16.200 --> 00:02:18.259 align:start position:0%
+systems can<c.colorCCCCCC> be used as well by
+installing<00:02:16.650><c> the</c><00:02:16.950><c> relevant</c></c><c.colorE5E5E5><00:02:17.370><c> Jenkins</c></c><c.colorCCCCCC><00:02:17.819><c> plug-in</c></c>
+
+00:02:18.259 --> 00:02:18.269 align:start position:0%
+installing the relevant<c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> plug-in
+ </c>
+
+00:02:18.269 --> 00:02:21.259 align:start position:0%
+installing the relevant<c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> plug-in
+here<00:02:19.200><c> I</c><00:02:19.349><c> set</c><00:02:19.739><c> up</c><00:02:19.769><c> the</c><00:02:20.129><c> repository</c></c><c.colorE5E5E5><00:02:20.760><c> for</c><00:02:21.060><c> this</c></c>
+
+00:02:21.259 --> 00:02:21.269 align:start position:0%
+here I set up the repository<c.colorE5E5E5> for this
+ </c>
+
+00:02:21.269 --> 00:02:23.960 align:start position:0%
+here I set up the repository<c.colorE5E5E5> for this
+video<00:02:21.780><c> course</c><00:02:22.049><c> on</c><00:02:22.349><c> github</c></c><c.colorCCCCCC><00:02:23.010><c> when</c><00:02:23.459><c> the</c><00:02:23.580><c> job</c><00:02:23.790><c> is</c></c>
+
+00:02:23.960 --> 00:02:23.970 align:start position:0%
+video<c.colorE5E5E5> course on github</c><c.colorCCCCCC> when the job is
+ </c>
+
+00:02:23.970 --> 00:02:24.890 align:start position:0%
+video<c.colorE5E5E5> course on github</c><c.colorCCCCCC> when the job is
+executed</c>
+
+00:02:24.890 --> 00:02:24.900 align:start position:0%
+executed
+ 
+
+00:02:24.900 --> 00:02:27.680 align:start position:0%
+executed
+<c.colorE5E5E5>Jenkins<00:02:25.530><c> pulls</c><00:02:25.950><c> the</c><00:02:26.400><c> code</c><00:02:26.610><c> from</c><00:02:26.940><c> github</c><00:02:27.150><c> and</c></c>
+
+00:02:27.680 --> 00:02:27.690 align:start position:0%
+<c.colorE5E5E5>Jenkins pulls the code from github and
+ </c>
+
+00:02:27.690 --> 00:02:30.619 align:start position:0%
+<c.colorE5E5E5>Jenkins pulls the code from github and
+store<00:02:28.440><c> it</c><00:02:28.590><c> locally</c><00:02:28.799><c> within</c><00:02:29.700><c> this</c><00:02:29.879><c> project</c></c><c.colorCCCCCC><00:02:30.209><c> in</c></c>
+
+00:02:30.619 --> 00:02:30.629 align:start position:0%
+store it locally<c.colorE5E5E5> within this project</c><c.colorCCCCCC> in
+ </c>
+
+00:02:30.629 --> 00:02:33.890 align:start position:0%
+store it locally<c.colorE5E5E5> within this project</c><c.colorCCCCCC> in
+a<00:02:30.780><c> working</c><00:02:31.230><c> directory</c><00:02:31.739><c> or</c><00:02:32.010><c> workspace</c><00:02:32.900><c> the</c></c>
+
+00:02:33.890 --> 00:02:33.900 align:start position:0%
+a working directory<c.colorCCCCCC> or workspace the
+ </c>
+
+00:02:33.900 --> 00:02:36.410 align:start position:0%
+a working directory<c.colorCCCCCC> or workspace the
+next<00:02:34.230><c> section</c><00:02:34.680><c> is</c><00:02:34.830><c> they'll</c><00:02:35.370><c> trigger</c><00:02:35.730><c> a</c></c><c.colorE5E5E5><00:02:36.060><c> bill</c></c>
+
+00:02:36.410 --> 00:02:36.420 align:start position:0%
+next section is<c.colorCCCCCC> they'll trigger a</c><c.colorE5E5E5> bill
+ </c>
+
+00:02:36.420 --> 00:02:39.559 align:start position:0%
+next section is<c.colorCCCCCC> they'll trigger a</c><c.colorE5E5E5> bill
+trigger<00:02:36.720><c> is</c><00:02:37.049><c> a</c><00:02:37.260><c> criteria</c><00:02:38.040><c> or</c><00:02:38.190><c> a</c><00:02:38.280><c> condition</c><00:02:38.970><c> for</c></c>
+
+00:02:39.559 --> 00:02:39.569 align:start position:0%
+trigger<c.colorE5E5E5> is a criteria or a condition for
+ </c>
+
+00:02:39.569 --> 00:02:41.839 align:start position:0%
+trigger<c.colorE5E5E5> is a criteria or a condition for
+starting<00:02:40.079><c> a</c><00:02:40.200><c> build</c><00:02:40.500><c> automatically</c></c><c.colorCCCCCC><00:02:41.280><c> for</c></c>
+
+00:02:41.839 --> 00:02:41.849 align:start position:0%
+starting a build automatically<c.colorCCCCCC> for
+ </c>
+
+00:02:41.849 --> 00:02:44.300 align:start position:0%
+starting a build automatically<c.colorCCCCCC> for
+example<00:02:42.299><c> you</c><00:02:42.750><c> can</c><00:02:42.930><c> set</c><00:02:43.200><c> up</c></c><c.colorE5E5E5><00:02:43.230><c> a</c><00:02:43.560><c> bill</c><00:02:43.799><c> to</c><00:02:44.129><c> run</c></c>
+
+00:02:44.300 --> 00:02:44.310 align:start position:0%
+example you can set up<c.colorE5E5E5> a bill to run
+ </c>
+
+00:02:44.310 --> 00:02:47.210 align:start position:0%
+example you can set up<c.colorE5E5E5> a bill to run</c>
+<c.colorCCCCCC>periodically<00:02:45.180><c> by</c><00:02:45.629><c> setting</c><00:02:46.019><c> a</c><00:02:46.110><c> schedule</c></c><c.colorE5E5E5><00:02:46.319><c> this</c></c>
+
+00:02:47.210 --> 00:02:47.220 align:start position:0%
+<c.colorCCCCCC>periodically by setting a schedule</c><c.colorE5E5E5> this
+ </c>
+
+00:02:47.220 --> 00:02:50.630 align:start position:0%
+<c.colorCCCCCC>periodically by setting a schedule</c><c.colorE5E5E5> this
+is</c><c.colorCCCCCC><00:02:47.280><c> based</c><00:02:47.730><c> on</c><00:02:47.970><c> Crone</c></c><c.colorE5E5E5><00:02:48.480><c> syntax</c><00:02:49.260><c> but</c><00:02:49.739><c> no</c><00:02:50.250><c> worries</c></c>
+
+00:02:50.630 --> 00:02:50.640 align:start position:0%
+<c.colorE5E5E5>is</c><c.colorCCCCCC> based on Crone</c><c.colorE5E5E5> syntax but no worries
+ </c>
+
+00:02:50.640 --> 00:02:52.430 align:start position:0%
+<c.colorE5E5E5>is</c><c.colorCCCCCC> based on Crone</c><c.colorE5E5E5> syntax but no worries
+if<00:02:50.790><c> you</c><00:02:50.940><c> don't</c><00:02:51.120><c> know</c><00:02:51.269><c> it</c><00:02:51.420><c> click</c><00:02:52.170><c> on</c><00:02:52.319><c> the</c></c>
+
+00:02:52.430 --> 00:02:52.440 align:start position:0%
+if<c.colorE5E5E5> you don't know it click on the
+ </c>
+
+00:02:52.440 --> 00:02:54.680 align:start position:0%
+if<c.colorE5E5E5> you don't know it click on the
+question<00:02:52.650><c> mark</c><00:02:52.950><c> and</c><00:02:53.430><c> you</c><00:02:54.030><c> will</c><00:02:54.180><c> find</c><00:02:54.450><c> some</c></c>
+
+00:02:54.680 --> 00:02:54.690 align:start position:0%
+question mark and you will find some
+ 
+
+00:02:54.690 --> 00:02:57.619 align:start position:0%
+question mark and you will find some
+useful<c.colorE5E5E5><00:02:54.900><c> examples</c><00:02:55.620><c> on</c></c><c.colorCCCCCC><00:02:55.829><c> Chrome</c><00:02:56.400><c> syntax</c><00:02:57.090><c> for</c></c>
+
+00:02:57.619 --> 00:02:57.629 align:start position:0%
+useful<c.colorE5E5E5> examples on</c><c.colorCCCCCC> Chrome syntax for
+ </c>
+
+00:02:57.629 --> 00:03:00.680 align:start position:0%
+useful<c.colorE5E5E5> examples on</c><c.colorCCCCCC> Chrome syntax for
+example<00:02:58.109><c> this</c><00:02:58.799><c> syntax</c><00:02:59.489><c> will</c><00:02:59.940><c> run</c><00:03:00.239><c> the</c><00:03:00.480><c> job</c></c>
+
+00:03:00.680 --> 00:03:00.690 align:start position:0%
+example<c.colorCCCCCC> this syntax will run the job
+ </c>
+
+00:03:00.690 --> 00:03:04.550 align:start position:0%
+example<c.colorCCCCCC> this syntax will run the job
+every<00:03:01.170><c> 15</c><00:03:01.620><c> minutes</c></c><c.colorE5E5E5><00:03:02.690><c> another</c><00:03:03.690><c> option</c><00:03:04.230><c> that</c><00:03:04.260><c> we</c></c>
+
+00:03:04.550 --> 00:03:04.560 align:start position:0%
+every 15 minutes<c.colorE5E5E5> another option that we
+ </c>
+
+00:03:04.560 --> 00:03:06.470 align:start position:0%
+every 15 minutes<c.colorE5E5E5> another option that we
+will<00:03:04.769><c> use</c></c><c.colorCCCCCC><00:03:04.799><c> later</c><00:03:05.069><c> on</c></c><c.colorE5E5E5><00:03:05.459><c> in</c></c><c.colorCCCCCC><00:03:05.640><c> this</c><00:03:05.910><c> video</c><00:03:06.269><c> course</c></c>
+
+00:03:06.470 --> 00:03:06.480 align:start position:0%
+<c.colorE5E5E5>will use</c><c.colorCCCCCC> later on</c><c.colorE5E5E5> in</c><c.colorCCCCCC> this video course
+ </c>
+
+00:03:06.480 --> 00:03:09.530 align:start position:0%
+<c.colorE5E5E5>will use</c><c.colorCCCCCC> later on</c><c.colorE5E5E5> in</c><c.colorCCCCCC> this video course
+is</c><c.colorE5E5E5><00:03:06.780><c> to</c><00:03:07.440><c> set</c><00:03:07.650><c> the</c></c><c.colorCCCCCC><00:03:07.680><c> bill</c><00:03:08.099><c> trigger</c></c><c.colorE5E5E5><00:03:08.489><c> to</c><00:03:09.150><c> a</c><00:03:09.180><c> github</c></c>
+
+00:03:09.530 --> 00:03:09.540 align:start position:0%
+is<c.colorE5E5E5> to set the</c><c.colorCCCCCC> bill trigger</c><c.colorE5E5E5> to a github
+ </c>
+
+00:03:09.540 --> 00:03:12.619 align:start position:0%
+is<c.colorE5E5E5> to set the</c><c.colorCCCCCC> bill trigger</c><c.colorE5E5E5> to a github</c>
+<c.colorE5E5E5>hook<00:03:10.140><c> so</c><00:03:10.980><c> that</c></c><c.colorCCCCCC><00:03:11.010><c> as</c><00:03:11.340><c> soon</c><00:03:11.700><c> as</c><00:03:11.879><c> there</c><00:03:12.120><c> is</c><00:03:12.150><c> a</c><00:03:12.269><c> code</c></c>
+
+00:03:12.619 --> 00:03:12.629 align:start position:0%
+<c.colorE5E5E5>hook so that</c><c.colorCCCCCC> as soon as there is a code
+ </c>
+
+00:03:12.629 --> 00:03:15.349 align:start position:0%
+<c.colorE5E5E5>hook so that</c><c.colorCCCCCC> as soon as there is a code
+change<00:03:12.660><c> on</c><00:03:13.440><c> a</c><00:03:13.500><c> github</c></c><c.colorE5E5E5><00:03:13.799><c> repository</c></c><c.colorCCCCCC><00:03:14.160><c> a</c><00:03:14.849><c> Jenkins</c></c>
+
+00:03:15.349 --> 00:03:15.359 align:start position:0%
+change<c.colorCCCCCC> on a github</c><c.colorE5E5E5> repository</c><c.colorCCCCCC> a Jenkins
+ </c>
+
+00:03:15.359 --> 00:03:17.960 align:start position:0%
+change<c.colorCCCCCC> on a github</c><c.colorE5E5E5> repository</c><c.colorCCCCCC> a Jenkins
+job<00:03:15.569><c> is</c><00:03:15.810><c> triggered</c><00:03:16.260><c> automatically</c><00:03:16.950><c> we'll</c><00:03:17.760><c> see</c></c>
+
+00:03:17.960 --> 00:03:17.970 align:start position:0%
+job is triggered automatically<c.colorCCCCCC> we'll see
+ </c>
+
+00:03:17.970 --> 00:03:20.360 align:start position:0%
+job is triggered automatically<c.colorCCCCCC> we'll see
+this<00:03:18.209><c> in</c><00:03:18.480><c> the</c><00:03:18.720><c> next</c><00:03:18.900><c> sections</c><00:03:19.440><c> of</c><00:03:19.680><c> this</c></c><c.colorE5E5E5><00:03:19.919><c> video</c></c>
+
+00:03:20.360 --> 00:03:20.370 align:start position:0%
+this in the next sections of this<c.colorE5E5E5> video
+ </c>
+
+00:03:20.370 --> 00:03:23.270 align:start position:0%
+this in the next sections of this<c.colorE5E5E5> video
+course<00:03:20.660><c> build</c><00:03:21.660><c> environment</c><00:03:22.349><c> allows</c><00:03:22.769><c> to</c><00:03:23.040><c> set</c></c>
+
+00:03:23.270 --> 00:03:23.280 align:start position:0%
+course<c.colorE5E5E5> build environment allows to set
+ </c>
+
+00:03:23.280 --> 00:03:25.309 align:start position:0%
+course<c.colorE5E5E5> build environment allows to set
+up<00:03:23.489><c> the</c><00:03:23.669><c> environment</c></c><c.colorCCCCCC><00:03:23.790><c> before</c></c><c.colorE5E5E5><00:03:24.720><c> the</c><00:03:25.079><c> build</c></c>
+
+00:03:25.309 --> 00:03:25.319 align:start position:0%
+up the environment<c.colorCCCCCC> before</c><c.colorE5E5E5> the build
+ </c>
+
+00:03:25.319 --> 00:03:28.309 align:start position:0%
+up the environment<c.colorCCCCCC> before</c><c.colorE5E5E5> the build</c>
+<c.colorE5E5E5>starts<00:03:26.040><c> for</c><00:03:26.669><c> example</c><00:03:27.090><c> we</c><00:03:27.510><c> can</c><00:03:27.720><c> delete</c><00:03:27.989><c> the</c></c>
+
+00:03:28.309 --> 00:03:28.319 align:start position:0%
+<c.colorE5E5E5>starts for example we can delete the
+ </c>
+
+00:03:28.319 --> 00:03:30.830 align:start position:0%
+<c.colorE5E5E5>starts for example we can delete the
+workspace</c><c.colorCCCCCC><00:03:28.980><c> the</c><00:03:29.730><c> working</c><00:03:30.090><c> directory</c></c><c.colorE5E5E5><00:03:30.510><c> where</c></c>
+
+00:03:30.830 --> 00:03:30.840 align:start position:0%
+workspace<c.colorCCCCCC> the working directory</c><c.colorE5E5E5> where
+ </c>
+
+00:03:30.840 --> 00:03:33.319 align:start position:0%
+workspace<c.colorCCCCCC> the working directory</c><c.colorE5E5E5> where
+code<00:03:31.139><c> builds</c><00:03:31.919><c> and</c><00:03:32.099><c> other</c><00:03:32.459><c> temporary</c><00:03:32.910><c> files</c></c>
+
+00:03:33.319 --> 00:03:33.329 align:start position:0%
+code<c.colorE5E5E5> builds and other temporary files
+ </c>
+
+00:03:33.329 --> 00:03:36.650 align:start position:0%
+code<c.colorE5E5E5> builds and other temporary files
+are<00:03:33.690><c> stored</c><00:03:34.019><c> before</c></c><c.colorCCCCCC><00:03:34.620><c> a</c><00:03:34.829><c> build</c><00:03:35.130><c> is</c><00:03:35.310><c> executed</c><00:03:36.090><c> in</c></c>
+
+00:03:36.650 --> 00:03:36.660 align:start position:0%
+are stored<c.colorE5E5E5> before</c><c.colorCCCCCC> a build is executed in
+ </c>
+
+00:03:36.660 --> 00:03:39.050 align:start position:0%
+are stored<c.colorE5E5E5> before</c><c.colorCCCCCC> a build is executed in</c>
+<c.colorCCCCCC>order<00:03:36.900><c> to</c><00:03:37.019><c> have</c><00:03:37.109><c> a</c><00:03:37.139><c> clean</c></c><c.colorE5E5E5><00:03:37.470><c> environment</c><00:03:37.970><c> we</c><00:03:38.970><c> can</c></c>
+
+00:03:39.050 --> 00:03:39.060 align:start position:0%
+<c.colorCCCCCC>order to have a clean</c><c.colorE5E5E5> environment we can
+ </c>
+
+00:03:39.060 --> 00:03:42.080 align:start position:0%
+<c.colorCCCCCC>order to have a clean</c><c.colorE5E5E5> environment we can
+also<00:03:39.239><c> inject</c><00:03:39.930><c> in</c><00:03:40.169><c> a</c><00:03:40.290><c> secure</c><00:03:40.739><c> manner</c></c><c.colorCCCCCC><00:03:41.069><c> a</c><00:03:41.400><c> secret</c></c>
+
+00:03:42.080 --> 00:03:42.090 align:start position:0%
+<c.colorE5E5E5>also inject in a secure manner</c><c.colorCCCCCC> a secret
+ </c>
+
+00:03:42.090 --> 00:03:45.650 align:start position:0%
+<c.colorE5E5E5>also inject in a secure manner</c><c.colorCCCCCC> a secret
+file<00:03:42.389><c> or</c><00:03:42.930><c> a</c><00:03:42.959><c> text</c><00:03:43.590><c> and</c><00:03:43.970><c> reference</c><00:03:44.970><c> it</c><00:03:45.180><c> in</c><00:03:45.480><c> our</c></c>
+
+00:03:45.650 --> 00:03:45.660 align:start position:0%
+file or a text and reference it in our
+ 
+
+00:03:45.660 --> 00:03:48.650 align:start position:0%
+file or a text and reference it in our
+build<c.colorE5E5E5><00:03:45.989><c> a</c><00:03:46.290><c> typical</c></c><c.colorCCCCCC><00:03:47.220><c> example</c><00:03:47.730><c> is</c></c><c.colorE5E5E5><00:03:47.910><c> a</c><00:03:48.000><c> password</c></c>
+
+00:03:48.650 --> 00:03:48.660 align:start position:0%
+build<c.colorE5E5E5> a typical</c><c.colorCCCCCC> example is</c><c.colorE5E5E5> a password
+ </c>
+
+00:03:48.660 --> 00:03:51.729 align:start position:0%
+build<c.colorE5E5E5> a typical</c><c.colorCCCCCC> example is</c><c.colorE5E5E5> a password</c>
+<c.colorCCCCCC>again</c><c.colorE5E5E5><00:03:49.650><c> we'll</c><00:03:50.220><c> see</c><00:03:50.430><c> this</c></c><c.colorCCCCCC><00:03:50.669><c> later</c><00:03:51.030><c> in</c><00:03:51.359><c> the</c><00:03:51.419><c> course</c></c>
+
+00:03:51.729 --> 00:03:51.739 align:start position:0%
+<c.colorCCCCCC>again</c><c.colorE5E5E5> we'll see this</c><c.colorCCCCCC> later in the course
+ </c>
+
+00:03:51.739 --> 00:03:55.129 align:start position:0%
+<c.colorCCCCCC>again</c><c.colorE5E5E5> we'll see this</c><c.colorCCCCCC> later in the course</c>
+<c.colorE5E5E5>the<00:03:52.739><c> build</c><00:03:52.950><c> section</c><00:03:53.220><c> is</c><00:03:53.609><c> the</c><00:03:53.910><c> core</c><00:03:54.209><c> of</c><00:03:54.480><c> the</c></c>
+
+00:03:55.129 --> 00:03:55.139 align:start position:0%
+<c.colorE5E5E5>the build section is the core of the
+ </c>
+
+00:03:55.139 --> 00:03:57.349 align:start position:0%
+<c.colorE5E5E5>the build section is the core of the
+Jenkins<00:03:55.530><c> configuration</c><00:03:56.430><c> and</c><00:03:56.639><c> allows</c></c><c.colorCCCCCC><00:03:57.090><c> to</c></c>
+
+00:03:57.349 --> 00:03:57.359 align:start position:0%
+Jenkins configuration and<c.colorE5E5E5> allows</c><c.colorCCCCCC> to
+ </c>
+
+00:03:57.359 --> 00:03:59.780 align:start position:0%
+Jenkins configuration and<c.colorE5E5E5> allows</c><c.colorCCCCCC> to
+execute<00:03:57.870><c> a</c><00:03:57.989><c> build</c><00:03:58.200><c> step</c></c><c.colorE5E5E5><00:03:58.379><c> for</c><00:03:58.889><c> example</c></c><c.colorCCCCCC><00:03:58.980><c> running</c></c>
+
+00:03:59.780 --> 00:03:59.790 align:start position:0%
+execute a build step<c.colorE5E5E5> for example</c><c.colorCCCCCC> running
+ </c>
+
+00:03:59.790 --> 00:04:02.270 align:start position:0%
+execute a build step<c.colorE5E5E5> for example</c><c.colorCCCCCC> running</c>
+<c.colorE5E5E5>a<00:04:00.000><c> script</c><00:04:00.209><c> here</c><00:04:01.019><c> I'm</c><00:04:01.169><c> configuring</c><00:04:01.650><c> a</c><00:04:02.010><c> shell</c></c>
+
+00:04:02.270 --> 00:04:02.280 align:start position:0%
+<c.colorE5E5E5>a script here I'm configuring a shell
+ </c>
+
+00:04:02.280 --> 00:04:04.729 align:start position:0%
+<c.colorE5E5E5>a script here I'm configuring a shell
+script</c><c.colorCCCCCC><00:04:02.489><c> that</c><00:04:03.090><c> prints</c><00:04:03.450><c> hello</c><00:04:03.599><c> world</c><00:04:03.959><c> to</c><00:04:04.709><c> the</c></c>
+
+00:04:04.729 --> 00:04:04.739 align:start position:0%
+script<c.colorCCCCCC> that prints hello world to the
+ </c>
+
+00:04:04.739 --> 00:04:07.250 align:start position:0%
+script<c.colorCCCCCC> that prints hello world to the</c>
+<c.colorE5E5E5>console<00:04:05.280><c> output</c><00:04:05.629><c> you</c><00:04:06.629><c> can</c><00:04:06.780><c> choose</c><00:04:06.989><c> other</c></c>
+
+00:04:07.250 --> 00:04:07.260 align:start position:0%
+<c.colorE5E5E5>console output you can choose other
+ </c>
+
+00:04:07.260 --> 00:04:10.569 align:start position:0%
+<c.colorE5E5E5>console output you can choose other
+types<00:04:07.650><c> of</c><00:04:07.950><c> build</c><00:04:08.280><c> scripts</c><00:04:08.700><c> like</c></c><c.colorCCCCCC><00:04:09.389><c> a</c><00:04:09.450><c> batch</c><00:04:09.780><c> and</c></c>
+
+00:04:10.569 --> 00:04:10.579 align:start position:0%
+types of build scripts<c.colorE5E5E5> like</c><c.colorCCCCCC> a batch and
+ </c>
+
+00:04:10.579 --> 00:04:13.729 align:start position:0%
+types of build scripts<c.colorE5E5E5> like</c><c.colorCCCCCC> a batch and
+Gradle<00:04:11.579><c> omean</c><00:04:12.329><c> script</c></c><c.colorE5E5E5><00:04:12.660><c> and</c><00:04:12.959><c> you</c><00:04:13.230><c> can</c><00:04:13.349><c> install</c></c>
+
+00:04:13.729 --> 00:04:13.739 align:start position:0%
+Gradle<c.colorCCCCCC> omean script</c><c.colorE5E5E5> and you can install
+ </c>
+
+00:04:13.739 --> 00:04:16.189 align:start position:0%
+Gradle<c.colorCCCCCC> omean script</c><c.colorE5E5E5> and you can install
+additional<00:04:14.069><c> plugins</c><00:04:14.609><c> to</c></c><c.colorCCCCCC><00:04:15.359><c> use</c><00:04:15.540><c> your</c></c><c.colorE5E5E5><00:04:15.720><c> favorite</c></c>
+
+00:04:16.189 --> 00:04:16.199 align:start position:0%
+additional<c.colorE5E5E5> plugins to</c><c.colorCCCCCC> use your</c><c.colorE5E5E5> favorite
+ </c>
+
+00:04:16.199 --> 00:04:18.979 align:start position:0%
+additional<c.colorE5E5E5> plugins to</c><c.colorCCCCCC> use your</c><c.colorE5E5E5> favorite
+scripting<00:04:16.650><c> language</c><00:04:17.329><c> finally</c><00:04:18.329><c> the</c><00:04:18.750><c> post</c></c>
+
+00:04:18.979 --> 00:04:18.989 align:start position:0%
+scripting language finally the post
+ 
+
+00:04:18.989 --> 00:04:21.229 align:start position:0%
+scripting language finally the post
+build<00:04:19.349><c> action</c><00:04:19.919><c> allows</c><00:04:20.370><c> to</c><00:04:20.639><c> execute</c>
+
+00:04:21.229 --> 00:04:21.239 align:start position:0%
+build action allows to execute
+ 
+
+00:04:21.239 --> 00:04:23.930 align:start position:0%
+build action allows to execute
+additional<00:04:22.140><c> tasks</c><c.colorCCCCCC><00:04:22.650><c> after</c><00:04:23.250><c> the</c><00:04:23.340><c> build</c><00:04:23.550><c> script</c></c>
+
+00:04:23.930 --> 00:04:23.940 align:start position:0%
+additional tasks<c.colorCCCCCC> after the build script
+ </c>
+
+00:04:23.940 --> 00:04:26.630 align:start position:0%
+additional tasks<c.colorCCCCCC> after the build script
+has<00:04:24.240><c> been</c><00:04:24.450><c> executed</c><00:04:24.979><c> typical</c><00:04:25.979><c> examples</c><00:04:26.550><c> are</c></c>
+
+00:04:26.630 --> 00:04:26.640 align:start position:0%
+has<c.colorCCCCCC> been executed typical examples are
+ </c>
+
+00:04:26.640 --> 00:04:27.890 align:start position:0%
+has<c.colorCCCCCC> been executed typical examples are
+publishing</c>
+
+00:04:27.890 --> 00:04:27.900 align:start position:0%
+publishing
+ 
+
+00:04:27.900 --> 00:04:31.280 align:start position:0%
+publishing
+<c.colorE5E5E5>report<00:04:28.410><c> sending</c><00:04:29.220><c> an</c><00:04:29.400><c> email</c><00:04:29.639><c> or</c><00:04:30.139><c> archiving</c><00:04:31.139><c> the</c></c>
+
+00:04:31.280 --> 00:04:31.290 align:start position:0%
+<c.colorE5E5E5>report sending an email or archiving the
+ </c>
+
+00:04:31.290 --> 00:04:34.670 align:start position:0%
+<c.colorE5E5E5>report sending an email or archiving the
+artifacts<00:04:32.070><c> which</c><00:04:32.669><c> are</c><00:04:32.970><c> immutable</c><00:04:33.660><c> files</c><00:04:34.259><c> like</c></c>
+
+00:04:34.670 --> 00:04:34.680 align:start position:0%
+artifacts which are immutable files like
+ 
+
+00:04:34.680 --> 00:04:37.850 align:start position:0%
+artifacts which are immutable files like
+<c.colorE5E5E5>jar<00:04:35.130><c> or</c><00:04:35.460><c> zip</c><00:04:35.880><c> files</c><00:04:36.240><c> generated</c><00:04:37.110><c> at</c><00:04:37.289><c> the</c><00:04:37.560><c> end</c><00:04:37.680><c> of</c></c>
+
+00:04:37.850 --> 00:04:37.860 align:start position:0%
+<c.colorE5E5E5>jar or zip files generated at the end of
+ </c>
+
+00:04:37.860 --> 00:04:41.360 align:start position:0%
+<c.colorE5E5E5>jar or zip files generated at the end of
+the<00:04:38.009><c> bill</c><00:04:38.220><c> now</c></c><c.colorCCCCCC><00:04:38.910><c> I</c><00:04:39.180><c> click</c></c><c.colorE5E5E5><00:04:39.690><c> on</c><00:04:39.900><c> save</c><00:04:40.320><c> to</c><00:04:40.710><c> save</c><00:04:40.979><c> the</c></c>
+
+00:04:41.360 --> 00:04:41.370 align:start position:0%
+the<c.colorE5E5E5> bill now</c><c.colorCCCCCC> I click</c><c.colorE5E5E5> on save to save the
+ </c>
+
+00:04:41.370 --> 00:04:43.820 align:start position:0%
+the<c.colorE5E5E5> bill now</c><c.colorCCCCCC> I click</c><c.colorE5E5E5> on save to save the</c>
+<c.colorCCCCCC>current<00:04:41.699><c> configuration</c><00:04:42.060><c> and</c><00:04:42.720><c> go</c><00:04:43.259><c> back</c><00:04:43.500><c> to</c><00:04:43.710><c> the</c></c>
+
+00:04:43.820 --> 00:04:43.830 align:start position:0%
+<c.colorCCCCCC>current configuration and go back to the
+ </c>
+
+00:04:43.830 --> 00:04:47.029 align:start position:0%
+<c.colorCCCCCC>current configuration and go back to the
+project<00:04:44.250><c> I</c><00:04:44.520><c> click</c></c><c.colorE5E5E5><00:04:45.120><c> on</c><00:04:45.300><c> build</c><00:04:45.690><c> now</c><00:04:46.050><c> to</c><00:04:46.770><c> start</c></c>
+
+00:04:47.029 --> 00:04:47.039 align:start position:0%
+project<c.colorCCCCCC> I click</c><c.colorE5E5E5> on build now to start
+ </c>
+
+00:04:47.039 --> 00:04:50.390 align:start position:0%
+project<c.colorCCCCCC> I click</c><c.colorE5E5E5> on build now to start
+the<00:04:47.250><c> build</c><00:04:47.509><c> this</c><00:04:48.509><c> build</c><00:04:48.900><c> takes</c><00:04:49.710><c> just</c><00:04:50.160><c> few</c></c>
+
+00:04:50.390 --> 00:04:50.400 align:start position:0%
+<c.colorE5E5E5>the build this build takes just few
+ </c>
+
+00:04:50.400 --> 00:04:52.670 align:start position:0%
+<c.colorE5E5E5>the build this build takes just few
+seconds</c><c.colorCCCCCC><00:04:50.880><c> and</c><00:04:51.150><c> you</c></c><c.colorE5E5E5><00:04:51.690><c> can</c><00:04:51.870><c> see</c><00:04:52.050><c> that</c><00:04:52.199><c> the</c><00:04:52.350><c> latest</c></c>
+
+00:04:52.670 --> 00:04:52.680 align:start position:0%
+seconds<c.colorCCCCCC> and you</c><c.colorE5E5E5> can see that the latest
+ </c>
+
+00:04:52.680 --> 00:04:54.560 align:start position:0%
+seconds<c.colorCCCCCC> and you</c><c.colorE5E5E5> can see that the latest
+build<00:04:52.949><c> has</c><00:04:53.310><c> been</c><00:04:53.820><c> added</c><00:04:54.120><c> to</c><00:04:54.150><c> the</c><00:04:54.360><c> build</c></c>
+
+00:04:54.560 --> 00:04:54.570 align:start position:0%
+build<c.colorE5E5E5> has been added to the build
+ </c>
+
+00:04:54.570 --> 00:04:57.200 align:start position:0%
+build<c.colorE5E5E5> has been added to the build
+history<00:04:55.160><c> we</c><00:04:56.160><c> can</c><00:04:56.310><c> now</c><00:04:56.430><c> click</c><00:04:56.669><c> on</c><00:04:56.880><c> the</c><00:04:56.970><c> build</c></c>
+
+00:04:57.200 --> 00:04:57.210 align:start position:0%
+history<c.colorE5E5E5> we can now click on the build
+ </c>
+
+00:04:57.210 --> 00:05:00.409 align:start position:0%
+history<c.colorE5E5E5> we can now click on the build</c>
+<c.colorCCCCCC>stay</c><c.colorE5E5E5><00:04:57.750><c> to</c></c><c.colorCCCCCC><00:04:57.810><c> icon</c><00:04:58.590><c> to</c><00:04:59.250><c> access</c><00:04:59.460><c> the</c><00:05:00.000><c> console</c></c>
+
+00:05:00.409 --> 00:05:00.419 align:start position:0%
+<c.colorCCCCCC>stay</c><c.colorE5E5E5> to</c><c.colorCCCCCC> icon to access the console
+ </c>
+
+00:05:00.419 --> 00:05:02.779 align:start position:0%
+<c.colorCCCCCC>stay</c><c.colorE5E5E5> to</c><c.colorCCCCCC> icon to access the console
+output</c><c.colorE5E5E5><00:05:00.800><c> showing</c><00:05:01.800><c> all</c><00:05:02.010><c> the</c><00:05:02.190><c> operations</c></c>
+
+00:05:02.779 --> 00:05:02.789 align:start position:0%
+output<c.colorE5E5E5> showing all the operations
+ </c>
+
+00:05:02.789 --> 00:05:04.909 align:start position:0%
+output<c.colorE5E5E5> showing all the operations
+executed</c><c.colorCCCCCC><00:05:02.970><c> by</c><00:05:03.570><c> the</c><00:05:03.630><c> build</c><00:05:03.960><c> and</c><00:05:04.229><c> you</c><00:05:04.470><c> can</c><00:05:04.620><c> notice</c></c>
+
+00:05:04.909 --> 00:05:04.919 align:start position:0%
+executed<c.colorCCCCCC> by the build and you can notice
+ </c>
+
+00:05:04.919 --> 00:05:08.210 align:start position:0%
+executed<c.colorCCCCCC> by the build and you can notice
+the<00:05:05.160><c> hello</c><00:05:05.400><c> world</c><00:05:05.760><c> message</c></c><c.colorE5E5E5><00:05:06.680><c> finally</c></c><c.colorCCCCCC><00:05:07.680><c> I</c><00:05:08.010><c> go</c></c>
+
+00:05:08.210 --> 00:05:08.220 align:start position:0%
+the hello world message<c.colorE5E5E5> finally</c><c.colorCCCCCC> I go
+ </c>
+
+00:05:08.220 --> 00:05:11.060 align:start position:0%
+the hello world message<c.colorE5E5E5> finally</c><c.colorCCCCCC> I go
+back<00:05:08.430><c> to</c><00:05:08.639><c> project</c><00:05:09.180><c> and</c><00:05:09.419><c> show</c><00:05:09.810><c> you</c><00:05:10.070><c> workspace</c></c>
+
+00:05:11.060 --> 00:05:11.070 align:start position:0%
+back to<c.colorCCCCCC> project and show you workspace
+ </c>
+
+00:05:11.070 --> 00:05:13.850 align:start position:0%
+back to<c.colorCCCCCC> project and show you workspace</c>
+<c.colorE5E5E5>which<00:05:11.940><c> contains</c><00:05:12.419><c> the</c><00:05:12.750><c> content</c><00:05:13.260><c> of</c><00:05:13.440><c> the</c><00:05:13.620><c> github</c></c>
+
+00:05:13.850 --> 00:05:13.860 align:start position:0%
+<c.colorE5E5E5>which contains the content of the github
+ </c>
+
+00:05:13.860 --> 00:05:16.189 align:start position:0%
+<c.colorE5E5E5>which contains the content of the github
+repository</c><c.colorCCCCCC><00:05:14.419><c> set</c><00:05:15.419><c> up</c><00:05:15.630><c> in</c><00:05:15.840><c> the</c><00:05:15.960><c> job</c></c>
+
+00:05:16.189 --> 00:05:16.199 align:start position:0%
+repository<c.colorCCCCCC> set up in the job
+ </c>
+
+00:05:16.199 --> 00:05:18.680 align:start position:0%
+repository<c.colorCCCCCC> set up in the job
+configuration<00:05:17.039><c> I</c><00:05:17.220><c> didn't</c><00:05:17.729><c> create</c><00:05:17.940><c> any</c><00:05:18.300><c> file</c></c>
+
+00:05:18.680 --> 00:05:18.690 align:start position:0%
+configuration<c.colorCCCCCC> I didn't create any file
+ </c>
+
+00:05:18.690 --> 00:05:22.129 align:start position:0%
+configuration<c.colorCCCCCC> I didn't create any file
+or</c><c.colorE5E5E5><00:05:19.020><c> artifact</c><00:05:19.770><c> with</c><00:05:20.010><c> this</c><00:05:20.250><c> build</c></c><c.colorCCCCCC><00:05:20.580><c> but</c><00:05:21.389><c> if</c><00:05:21.690><c> this</c></c>
+
+00:05:22.129 --> 00:05:22.139 align:start position:0%
+or<c.colorE5E5E5> artifact with this build</c><c.colorCCCCCC> but if this
+ </c>
+
+00:05:22.139 --> 00:05:24.290 align:start position:0%
+or<c.colorE5E5E5> artifact with this build</c><c.colorCCCCCC> but if this
+were<00:05:22.380><c> the</c><00:05:22.410><c> case</c><00:05:22.590><c> it</c><00:05:23.160><c> would</c><00:05:23.490><c> be</c><00:05:23.520><c> present</c><00:05:24.030><c> inside</c></c>
+
+00:05:24.290 --> 00:05:24.300 align:start position:0%
+were the<c.colorCCCCCC> case it would be present inside
+ </c>
+
+00:05:24.300 --> 00:05:27.140 align:start position:0%
+were the<c.colorCCCCCC> case it would be present inside</c>
+<c.colorCCCCCC>the<00:05:24.630><c> workspace</c></c><c.colorE5E5E5><00:05:25.470><c> this</c><00:05:26.430><c> is</c><00:05:26.610><c> the</c><00:05:26.759><c> end</c><00:05:26.880><c> of</c><00:05:27.000><c> the</c></c>
+
+00:05:27.140 --> 00:05:27.150 align:start position:0%
+<c.colorCCCCCC>the workspace</c><c.colorE5E5E5> this is the end of the
+ </c>
+
+00:05:27.150 --> 00:05:30.110 align:start position:0%
+<c.colorCCCCCC>the workspace</c><c.colorE5E5E5> this is the end of the
+demo<00:05:27.360><c> for</c><00:05:27.660><c> this</c><00:05:27.780><c> video</c><00:05:28.199><c> now</c><00:05:28.710><c> let's</c><00:05:28.919><c> recap</c><00:05:29.400><c> with</c></c>
+
+00:05:30.110 --> 00:05:30.120 align:start position:0%
+demo for this<c.colorE5E5E5> video now let's recap with
+ </c>
+
+00:05:30.120 --> 00:05:32.570 align:start position:0%
+demo for this<c.colorE5E5E5> video now let's recap with
+some<00:05:30.389><c> cool</c><00:05:30.690><c> terminology</c><00:05:31.470><c> we</c><00:05:31.740><c> encountered</c><00:05:32.340><c> in</c></c>
+
+00:05:32.570 --> 00:05:32.580 align:start position:0%
+some cool terminology we encountered<c.colorE5E5E5> in
+ </c>
+
+00:05:32.580 --> 00:05:35.810 align:start position:0%
+some cool terminology we encountered<c.colorE5E5E5> in
+this<00:05:32.849><c> video</c><00:05:33.240><c> the</c><00:05:34.050><c> workspace</c><00:05:34.650><c> is</c><00:05:34.949><c> a</c><00:05:35.280><c> working</c></c>
+
+00:05:35.810 --> 00:05:35.820 align:start position:0%
+<c.colorE5E5E5>this video the workspace is a working
+ </c>
+
+00:05:35.820 --> 00:05:38.510 align:start position:0%
+<c.colorE5E5E5>this video the workspace is a working
+directory<00:05:36.330><c> where</c><00:05:36.810><c> code</c><00:05:37.139><c> bills</c><00:05:37.620><c> and</c><00:05:37.979><c> other</c></c>
+
+00:05:38.510 --> 00:05:38.520 align:start position:0%
+directory where code bills and other
+ 
+
+00:05:38.520 --> 00:05:40.939 align:start position:0%
+directory where code bills and other
+temporary<c.colorE5E5E5><00:05:38.789><c> files</c><00:05:39.389><c> are</c><00:05:39.720><c> stored</c><00:05:40.050><c> during</c><00:05:40.680><c> a</c><00:05:40.770><c> bill</c></c>
+
+00:05:40.939 --> 00:05:40.949 align:start position:0%
+temporary<c.colorE5E5E5> files are stored during a bill
+ </c>
+
+00:05:40.949 --> 00:05:43.670 align:start position:0%
+temporary<c.colorE5E5E5> files are stored during a bill
+a<00:05:41.220><c> bill</c><00:05:41.820><c> trigger</c><00:05:42.120><c> is</c><00:05:42.360><c> a</c><00:05:42.419><c> criteria</c><00:05:43.349><c> or</c><00:05:43.560><c> a</c></c>
+
+00:05:43.670 --> 00:05:43.680 align:start position:0%
+a bill trigger<c.colorE5E5E5> is a criteria or a
+ </c>
+
+00:05:43.680 --> 00:05:46.550 align:start position:0%
+a bill trigger<c.colorE5E5E5> is a criteria or a
+condition<00:05:44.430><c> for</c><00:05:45.000><c> triggering</c><00:05:45.330><c> a</c><00:05:45.539><c> build</c><00:05:45.780><c> for</c></c>
+
+00:05:46.550 --> 00:05:46.560 align:start position:0%
+condition for triggering<c.colorE5E5E5> a build for
+ </c>
+
+00:05:46.560 --> 00:05:50.420 align:start position:0%
+condition for triggering<c.colorE5E5E5> a build for</c>
+<c.colorCCCCCC>example<00:05:46.949><c> time</c></c><c.colorE5E5E5><00:05:47.280><c> could</c><00:05:48.060><c> change</c><00:05:48.449><c> etc</c></c><c.colorCCCCCC><00:05:48.930><c> a</c><00:05:49.680><c> build</c></c>
+
+00:05:50.420 --> 00:05:50.430 align:start position:0%
+<c.colorCCCCCC>example time</c><c.colorE5E5E5> could change etc</c><c.colorCCCCCC> a build
+ </c>
+
+00:05:50.430 --> 00:05:53.330 align:start position:0%
+<c.colorCCCCCC>example time</c><c.colorE5E5E5> could change etc</c><c.colorCCCCCC> a build
+step</c><c.colorE5E5E5><00:05:50.610><c> is</c><00:05:51.030><c> a</c><00:05:51.270><c> task</c><00:05:51.750><c> executed</c><00:05:52.710><c> during</c><00:05:52.919><c> the</c><00:05:53.159><c> build</c></c>
+
+00:05:53.330 --> 00:05:53.340 align:start position:0%
+step<c.colorE5E5E5> is a task executed during the build
+ </c>
+
+00:05:53.340 --> 00:05:56.210 align:start position:0%
+step<c.colorE5E5E5> is a task executed during the build
+process<00:05:53.580><c> for</c><00:05:54.570><c> example</c><00:05:54.960><c> a</c><00:05:55.050><c> shell</c><00:05:55.349><c> or</c><00:05:55.620><c> a</c><00:05:55.710><c> maven</c></c>
+
+00:05:56.210 --> 00:05:56.220 align:start position:0%
+process<c.colorE5E5E5> for example a shell or a maven
+ </c>
+
+00:05:56.220 --> 00:05:59.149 align:start position:0%
+process<c.colorE5E5E5> for example a shell or a maven
+script<00:05:56.729><c> a</c><00:05:56.970><c> post</c><00:05:57.659><c> build</c><00:05:57.960><c> step</c><00:05:58.380><c> is</c><00:05:58.889><c> an</c></c>
+
+00:05:59.149 --> 00:05:59.159 align:start position:0%
+script<c.colorE5E5E5> a post build step is an
+ </c>
+
+00:05:59.159 --> 00:06:01.310 align:start position:0%
+script<c.colorE5E5E5> a post build step is an
+additional<00:05:59.639><c> task</c><00:05:59.880><c> executed</c><00:06:00.720><c> at</c></c><c.colorCCCCCC><00:06:00.870><c> the</c><00:06:00.990><c> end</c><00:06:01.139><c> of</c></c>
+
+00:06:01.310 --> 00:06:01.320 align:start position:0%
+additional task<c.colorE5E5E5> executed at</c><c.colorCCCCCC> the end of
+ </c>
+
+00:06:01.320 --> 00:06:04.010 align:start position:0%
+additional task<c.colorE5E5E5> executed at</c><c.colorCCCCCC> the end of
+the<00:06:01.470><c> build</c></c><c.colorE5E5E5><00:06:01.710><c> an</c><00:06:02.240><c> artifact</c><00:06:03.240><c> is</c><00:06:03.449><c> an</c><00:06:03.659><c> immutable</c></c>
+
+00:06:04.010 --> 00:06:04.020 align:start position:0%
+the build<c.colorE5E5E5> an artifact is an immutable
+ </c>
+
+00:06:04.020 --> 00:06:06.529 align:start position:0%
+the build<c.colorE5E5E5> an artifact is an immutable
+file<00:06:04.620><c> generated</c><00:06:05.550><c> at</c><00:06:05.789><c> the</c><00:06:05.909><c> end</c><00:06:06.030><c> of</c><00:06:06.180><c> the</c><00:06:06.330><c> build</c></c>
+
+00:06:06.529 --> 00:06:06.539 align:start position:0%
+file generated<c.colorE5E5E5> at the end of the build
+ </c>
+
+00:06:06.539 --> 00:06:10.490 align:start position:0%
+file generated<c.colorE5E5E5> at the end of the build</c>
+<c.colorE5E5E5>for<00:06:07.380><c> example</c><00:06:07.409><c> a</c><00:06:07.830><c> jar</c><00:06:08.130><c> or</c></c><c.colorCCCCCC><00:06:08.639><c> at</c><00:06:08.880><c> zip</c><00:06:09.090><c> file</c></c><c.colorE5E5E5><00:06:09.389><c> this</c><00:06:10.289><c> is</c></c>
+
+00:06:10.490 --> 00:06:10.500 align:start position:0%
+<c.colorE5E5E5>for example a jar or</c><c.colorCCCCCC> at zip file</c><c.colorE5E5E5> this is
+ </c>
+
+00:06:10.500 --> 00:06:12.500 align:start position:0%
+<c.colorE5E5E5>for example a jar or</c><c.colorCCCCCC> at zip file</c><c.colorE5E5E5> this is
+the</c><c.colorCCCCCC><00:06:10.530><c> end</c></c><c.colorE5E5E5><00:06:10.740><c> of</c><00:06:10.889><c> this</c><00:06:11.039><c> video</c><00:06:11.310><c> where</c><00:06:11.940><c> we</c><00:06:12.090><c> looked</c><00:06:12.389><c> at</c></c>
+
+00:06:12.500 --> 00:06:12.510 align:start position:0%
+the<c.colorCCCCCC> end</c><c.colorE5E5E5> of this video where we looked at
+ </c>
+
+00:06:12.510 --> 00:06:15.500 align:start position:0%
+the<c.colorCCCCCC> end</c><c.colorE5E5E5> of this video where we looked at
+job<00:06:12.960><c> configuration</c><00:06:13.830><c> watch</c><00:06:14.820><c> the</c><00:06:15.090><c> next</c><00:06:15.360><c> video</c></c>
+
+00:06:15.500 --> 00:06:15.510 align:start position:0%
+job configuration watch the<c.colorE5E5E5> next video
+ </c>
+
+00:06:15.510 --> 00:06:18.260 align:start position:0%
+job configuration watch the<c.colorE5E5E5> next video
+where<00:06:16.260><c> you</c><00:06:16.560><c> will</c><00:06:16.710><c> create</c></c><c.colorCCCCCC><00:06:16.889><c> your</c><00:06:17.340><c> first</c><00:06:17.580><c> Jenkins</c></c>
+
+00:06:18.260 --> 00:06:18.270 align:start position:0%
+<c.colorE5E5E5>where you will create</c><c.colorCCCCCC> your first Jenkins
+ </c>
+
+00:06:18.270 --> 00:06:20.539 align:start position:0%
+<c.colorE5E5E5>where you will create</c><c.colorCCCCCC> your first Jenkins
+job</c>
+

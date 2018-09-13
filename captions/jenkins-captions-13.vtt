@@ -1,0 +1,2310 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.260 --> 00:00:02.470 align:start position:0%
+ 
+in<00:00:00.650><c> this</c><00:00:01.069><c> video</c><c.colorCCCCCC><00:00:01.310><c> we</c><00:00:01.790><c> are</c><00:00:01.850><c> going</c></c><c.colorE5E5E5><00:00:01.970><c> to</c><00:00:02.149><c> look</c><00:00:02.330><c> at</c></c>
+
+00:00:02.470 --> 00:00:02.480 align:start position:0%
+in this video<c.colorCCCCCC> we are going</c><c.colorE5E5E5> to look at
+ </c>
+
+00:00:02.480 --> 00:00:05.350 align:start position:0%
+in this video<c.colorCCCCCC> we are going</c><c.colorE5E5E5> to look at
+the<00:00:02.570><c> notification</c><00:00:03.260><c> workflow</c><00:00:03.800><c> in</c><00:00:04.790><c> terms</c><00:00:05.150><c> of</c></c>
+
+00:00:05.350 --> 00:00:05.360 align:start position:0%
+the notification workflow in terms of
+ 
+
+00:00:05.360 --> 00:00:07.630 align:start position:0%
+the notification workflow in terms of
+theory<c.colorE5E5E5><00:00:05.810><c> we</c><00:00:06.440><c> will</c><00:00:06.589><c> cover</c><00:00:06.859><c> the</c><00:00:07.009><c> different</c><00:00:07.430><c> types</c></c>
+
+00:00:07.630 --> 00:00:07.640 align:start position:0%
+theory<c.colorE5E5E5> we will cover the different types
+ </c>
+
+00:00:07.640 --> 00:00:09.609 align:start position:0%
+theory<c.colorE5E5E5> we will cover the different types
+of<00:00:07.790><c> notifications</c></c><c.colorCCCCCC><00:00:08.120><c> and</c><00:00:08.900><c> make</c><00:00:09.469><c> the</c></c>
+
+00:00:09.609 --> 00:00:09.619 align:start position:0%
+of notifications<c.colorCCCCCC> and make the
+ </c>
+
+00:00:09.619 --> 00:00:12.029 align:start position:0%
+of notifications<c.colorCCCCCC> and make the
+distinction<00:00:10.039><c> between</c></c><c.colorE5E5E5><00:00:10.449><c> active</c><00:00:11.449><c> and</c></c><c.colorCCCCCC><00:00:11.480><c> passive</c></c>
+
+00:00:12.029 --> 00:00:12.039 align:start position:0%
+distinction between<c.colorE5E5E5> active and</c><c.colorCCCCCC> passive
+ </c>
+
+00:00:12.039 --> 00:00:15.430 align:start position:0%
+distinction between<c.colorE5E5E5> active and</c><c.colorCCCCCC> passive
+notifications</c><c.colorE5E5E5><00:00:13.269><c> we</c><00:00:14.269><c> will</c><00:00:14.419><c> also</c><00:00:14.629><c> look</c><00:00:14.989><c> at</c><00:00:15.139><c> tools</c></c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+notifications<c.colorE5E5E5> we will also look at tools
+ </c>
+
+00:00:15.440 --> 00:00:18.429 align:start position:0%
+notifications<c.colorE5E5E5> we will also look at tools
+and<00:00:15.739><c> techniques</c><00:00:16.190><c> like</c><00:00:16.910><c> information</c><00:00:17.449><c> radiator</c></c>
+
+00:00:18.429 --> 00:00:18.439 align:start position:0%
+and techniques like information<c.colorE5E5E5> radiator
+ </c>
+
+00:00:18.439 --> 00:00:21.820 align:start position:0%
+and techniques like information<c.colorE5E5E5> radiator
+and<00:00:18.800><c> extreme</c><00:00:19.429><c> feedback</c><00:00:19.970><c> in</c><00:00:20.720><c> the</c><00:00:21.019><c> demo</c></c><c.colorCCCCCC><00:00:21.230><c> we'll</c></c>
+
+00:00:21.820 --> 00:00:21.830 align:start position:0%
+<c.colorE5E5E5>and extreme feedback in the demo</c><c.colorCCCCCC> we'll
+ </c>
+
+00:00:21.830 --> 00:00:23.800 align:start position:0%
+<c.colorE5E5E5>and extreme feedback in the demo</c><c.colorCCCCCC> we'll</c>
+<c.colorE5E5E5>implement<00:00:22.310><c> the</c><00:00:22.460><c> notification</c><00:00:23.210><c> part</c><00:00:23.480><c> of</c><00:00:23.689><c> the</c></c>
+
+00:00:23.800 --> 00:00:23.810 align:start position:0%
+<c.colorE5E5E5>implement the notification part of the
+ </c>
+
+00:00:23.810 --> 00:00:26.140 align:start position:0%
+<c.colorE5E5E5>implement the notification part of the
+CI<00:00:24.080><c> workflow</c><00:00:24.679><c> and</c><00:00:24.890><c> we</c><00:00:25.369><c> will</c><00:00:25.519><c> use</c><00:00:25.699><c> a</c></c><c.colorCCCCCC><00:00:25.910><c> build</c></c>
+
+00:00:26.140 --> 00:00:26.150 align:start position:0%
+CI workflow and we will use a<c.colorCCCCCC> build
+ </c>
+
+00:00:26.150 --> 00:00:29.529 align:start position:0%
+CI workflow and we will use a<c.colorCCCCCC> build
+monitor<00:00:26.720><c> and</c><00:00:26.929><c> slack</c><00:00:27.380><c> notifications</c></c><c.colorE5E5E5><00:00:28.539><c> let's</c></c>
+
+00:00:29.529 --> 00:00:29.539 align:start position:0%
+monitor and slack notifications<c.colorE5E5E5> let's
+ </c>
+
+00:00:29.539 --> 00:00:31.229 align:start position:0%
+monitor and slack notifications<c.colorE5E5E5> let's
+start<00:00:29.839><c> by</c><00:00:30.050><c> defining</c><00:00:30.230><c> what</c></c><c.colorCCCCCC><00:00:30.710><c> we</c><00:00:30.980><c> mean</c><00:00:31.130><c> by</c></c>
+
+00:00:31.229 --> 00:00:31.239 align:start position:0%
+start by defining<c.colorE5E5E5> what</c><c.colorCCCCCC> we mean by
+ </c>
+
+00:00:31.239 --> 00:00:34.600 align:start position:0%
+start by defining<c.colorE5E5E5> what</c><c.colorCCCCCC> we mean by
+notifications</c><c.colorE5E5E5><00:00:32.860><c> notifications</c><00:00:33.860><c> are</c><00:00:34.100><c> alerts</c></c>
+
+00:00:34.600 --> 00:00:34.610 align:start position:0%
+notifications<c.colorE5E5E5> notifications are alerts
+ </c>
+
+00:00:34.610 --> 00:00:37.119 align:start position:0%
+notifications<c.colorE5E5E5> notifications are alerts
+sent<00:00:35.210><c> to</c><00:00:35.420><c> members</c><00:00:35.899><c> of</c><00:00:36.079><c> a</c><00:00:36.320><c> development</c><00:00:36.860><c> team</c></c>
+
+00:00:37.119 --> 00:00:37.129 align:start position:0%
+sent to<c.colorE5E5E5> members of a development team
+ </c>
+
+00:00:37.129 --> 00:00:39.670 align:start position:0%
+sent to<c.colorE5E5E5> members of a development team
+and<00:00:37.430><c> informing</c><00:00:38.359><c> them</c></c><c.colorCCCCCC><00:00:38.629><c> that</c><00:00:38.930><c> something</c></c><c.colorE5E5E5><00:00:39.260><c> new</c></c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+<c.colorE5E5E5>and informing them</c><c.colorCCCCCC> that something</c><c.colorE5E5E5> new
+ </c>
+
+00:00:39.680 --> 00:00:42.700 align:start position:0%
+<c.colorE5E5E5>and informing them</c><c.colorCCCCCC> that something</c><c.colorE5E5E5> new
+has<00:00:39.920><c> occurred</c><00:00:40.460><c> for</c></c><c.colorCCCCCC><00:00:41.449><c> example</c><00:00:41.510><c> a</c><00:00:42.020><c> broken</c></c><c.colorE5E5E5><00:00:42.289><c> build</c></c>
+
+00:00:42.700 --> 00:00:42.710 align:start position:0%
+has occurred for<c.colorCCCCCC> example a broken</c><c.colorE5E5E5> build
+ </c>
+
+00:00:42.710 --> 00:00:46.150 align:start position:0%
+has occurred for<c.colorCCCCCC> example a broken</c><c.colorE5E5E5> build
+or<00:00:43.010><c> a</c><00:00:43.070><c> failing</c><00:00:43.609><c> test</c><00:00:44.260><c> ideally</c><00:00:45.260><c> the</c><00:00:45.800><c> CI</c><00:00:46.039><c> server</c></c>
+
+00:00:46.150 --> 00:00:46.160 align:start position:0%
+<c.colorE5E5E5>or a failing test ideally the CI server
+ </c>
+
+00:00:46.160 --> 00:00:49.119 align:start position:0%
+<c.colorE5E5E5>or a failing test ideally the CI server
+should<00:00:46.820><c> inform</c><00:00:47.239><c> rapidly</c><00:00:48.109><c> the</c><00:00:48.320><c> right</c><00:00:48.559><c> people</c></c>
+
+00:00:49.119 --> 00:00:49.129 align:start position:0%
+<c.colorE5E5E5>should inform rapidly the right people
+ </c>
+
+00:00:49.129 --> 00:00:51.970 align:start position:0%
+<c.colorE5E5E5>should inform rapidly the right people
+for<00:00:49.820><c> example</c><00:00:49.910><c> alerting</c><00:00:50.750><c> the</c><00:00:50.930><c> person</c><00:00:51.350><c> who</c></c><c.colorCCCCCC><00:00:51.679><c> last</c></c>
+
+00:00:51.970 --> 00:00:51.980 align:start position:0%
+for example alerting the person who<c.colorCCCCCC> last
+ </c>
+
+00:00:51.980 --> 00:00:54.790 align:start position:0%
+for example alerting the person who<c.colorCCCCCC> last</c>
+<c.colorE5E5E5>committed<00:00:52.519><c> code</c><00:00:52.850><c> that</c><00:00:53.719><c> the</c><00:00:53.870><c> latest</c><00:00:54.289><c> build</c><00:00:54.530><c> is</c></c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+<c.colorE5E5E5>committed code that the latest build is
+ </c>
+
+00:00:54.800 --> 00:00:57.610 align:start position:0%
+<c.colorE5E5E5>committed code that the latest build is
+broken<00:00:55.660><c> notifications</c><00:00:56.660><c> can</c></c><c.colorCCCCCC><00:00:56.840><c> be</c></c><c.colorE5E5E5><00:00:57.019><c> categorized</c></c>
+
+00:00:57.610 --> 00:00:57.620 align:start position:0%
+broken<c.colorE5E5E5> notifications can</c><c.colorCCCCCC> be</c><c.colorE5E5E5> categorized
+ </c>
+
+00:00:57.620 --> 00:01:00.810 align:start position:0%
+broken<c.colorE5E5E5> notifications can</c><c.colorCCCCCC> be</c><c.colorE5E5E5> categorized
+into<00:00:58.039><c> passive</c><00:00:58.760><c> and</c><00:00:59.000><c> active</c><00:00:59.800><c> passive</c></c>
+
+00:01:00.810 --> 00:01:00.820 align:start position:0%
+into passive and active passive
+ 
+
+00:01:00.820 --> 00:01:03.330 align:start position:0%
+into passive and active passive
+notifications<c.colorE5E5E5><00:01:01.820><c> also</c></c><c.colorCCCCCC><00:01:02.449><c> called</c><00:01:02.750><c> the</c><00:01:02.929><c> pool</c></c>
+
+00:01:03.330 --> 00:01:03.340 align:start position:0%
+notifications<c.colorE5E5E5> also</c><c.colorCCCCCC> called the pool
+ </c>
+
+00:01:03.340 --> 00:01:06.760 align:start position:0%
+notifications<c.colorE5E5E5> also</c><c.colorCCCCCC> called the pool
+notifications<00:01:04.340><c> just</c><00:01:05.240><c> inform</c><00:01:05.840><c> that</c></c><c.colorE5E5E5><00:01:06.170><c> something</c></c>
+
+00:01:06.760 --> 00:01:06.770 align:start position:0%
+notifications<c.colorCCCCCC> just inform that</c><c.colorE5E5E5> something
+ </c>
+
+00:01:06.770 --> 00:01:09.150 align:start position:0%
+notifications<c.colorCCCCCC> just inform that</c><c.colorE5E5E5> something
+has<00:01:06.920><c> happened</c><00:01:07.130><c> without</c><00:01:08.060><c> much</c><00:01:08.360><c> detail</c></c>
+
+00:01:09.150 --> 00:01:09.160 align:start position:0%
+has<c.colorE5E5E5> happened without much detail
+ </c>
+
+00:01:09.160 --> 00:01:11.080 align:start position:0%
+has<c.colorE5E5E5> happened without much detail
+therefore<00:01:10.160><c> the</c><00:01:10.280><c> developer</c><00:01:10.730><c> needs</c><00:01:10.940><c> to</c></c>
+
+00:01:11.080 --> 00:01:11.090 align:start position:0%
+<c.colorE5E5E5>therefore the developer needs to
+ </c>
+
+00:01:11.090 --> 00:01:13.750 align:start position:0%
+<c.colorE5E5E5>therefore the developer needs to
+actively<00:01:11.600><c> consult</c><00:01:12.170><c> the</c><00:01:12.470><c> latest</c><00:01:12.800><c> build</c></c><c.colorCCCCCC><00:01:13.100><c> status</c></c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+actively consult the latest<c.colorE5E5E5> build</c><c.colorCCCCCC> status
+ </c>
+
+00:01:13.760 --> 00:01:15.870 align:start position:0%
+actively consult the latest<c.colorE5E5E5> build</c><c.colorCCCCCC> status
+and<00:01:13.970><c> check</c><00:01:14.600><c> what</c><00:01:14.870><c> went</c><00:01:15.200><c> wrong</c></c>
+
+00:01:15.870 --> 00:01:15.880 align:start position:0%
+and check what went wrong
+ 
+
+00:01:15.880 --> 00:01:19.000 align:start position:0%
+and check what went wrong
+conversely<00:01:16.880><c> active</c><00:01:17.840><c> notifications</c><00:01:18.710><c> also</c>
+
+00:01:19.000 --> 00:01:19.010 align:start position:0%
+conversely active notifications also
+ 
+
+00:01:19.010 --> 00:01:22.300 align:start position:0%
+conversely active notifications also
+<c.colorE5E5E5>known<00:01:19.520><c> as</c><00:01:19.700><c> push</c><00:01:20.170><c> notifications</c><00:01:21.310><c> proactively</c></c>
+
+00:01:22.300 --> 00:01:22.310 align:start position:0%
+<c.colorE5E5E5>known as push notifications proactively
+ </c>
+
+00:01:22.310 --> 00:01:24.670 align:start position:0%
+<c.colorE5E5E5>known as push notifications proactively</c>
+<c.colorE5E5E5>alert<00:01:22.790><c> to</c><00:01:22.970><c> the</c><00:01:23.090><c> developer</c><00:01:23.660><c> and</c><00:01:23.870><c> provide</c></c>
+
+00:01:24.670 --> 00:01:24.680 align:start position:0%
+<c.colorE5E5E5>alert to the developer and provide
+ </c>
+
+00:01:24.680 --> 00:01:28.210 align:start position:0%
+<c.colorE5E5E5>alert to the developer and provide</c>
+<c.colorE5E5E5>details<00:01:25.220><c> about</c><00:01:25.430><c> the</c><00:01:25.880><c> root</c><00:01:26.060><c> cause</c><00:01:26.860><c> tools</c><00:01:27.860><c> for</c></c>
+
+00:01:28.210 --> 00:01:28.220 align:start position:0%
+<c.colorE5E5E5>details about the root cause tools for
+ </c>
+
+00:01:28.220 --> 00:01:31.900 align:start position:0%
+<c.colorE5E5E5>details about the root cause tools for
+passive<00:01:28.670><c> notifications</c><00:01:29.570><c> are</c><00:01:29.840><c> emails</c><00:01:30.910><c> RSS</c></c>
+
+00:01:31.900 --> 00:01:31.910 align:start position:0%
+passive notifications are emails RSS
+ 
+
+00:01:31.910 --> 00:01:35.470 align:start position:0%
+passive notifications are emails RSS
+feeds<c.colorE5E5E5><00:01:32.300><c> and</c><00:01:32.630><c> build</c><00:01:33.350><c> monitor</c><00:01:33.860><c> views</c><00:01:34.480><c> active</c></c>
+
+00:01:35.470 --> 00:01:35.480 align:start position:0%
+feeds<c.colorE5E5E5> and build monitor views active
+ </c>
+
+00:01:35.480 --> 00:01:37.450 align:start position:0%
+feeds<c.colorE5E5E5> and build monitor views active
+notifications<00:01:36.290><c> can</c><00:01:36.470><c> be</c><00:01:36.530><c> implemented</c><00:01:37.010><c> via</c></c>
+
+00:01:37.450 --> 00:01:37.460 align:start position:0%
+notifications can<c.colorE5E5E5> be implemented via
+ </c>
+
+00:01:37.460 --> 00:01:40.900 align:start position:0%
+notifications can<c.colorE5E5E5> be implemented via
+emails<00:01:38.060><c> chat</c><00:01:38.930><c> and</c><00:01:39.260><c> instant</c><00:01:39.800><c> messaging</c><00:01:40.700><c> and</c></c>
+
+00:01:40.900 --> 00:01:40.910 align:start position:0%
+emails<c.colorE5E5E5> chat and instant messaging and
+ </c>
+
+00:01:40.910 --> 00:01:45.100 align:start position:0%
+emails<c.colorE5E5E5> chat and instant messaging and
+SMS<00:01:42.010><c> note</c><00:01:43.010><c> that</c><00:01:43.250><c> emails</c><00:01:43.760><c> are</c><00:01:44.060><c> listed</c><00:01:44.750><c> in</c><00:01:44.870><c> both</c></c>
+
+00:01:45.100 --> 00:01:45.110 align:start position:0%
+SMS note that emails are listed in both
+ 
+
+00:01:45.110 --> 00:01:48.310 align:start position:0%
+SMS note that emails are listed in both
+categories<c.colorCCCCCC><00:01:45.410><c> in</c><00:01:46.040><c> fact</c><00:01:46.940><c> it</c><00:01:47.450><c> depends</c><00:01:47.810><c> on</c><00:01:47.990><c> how</c><00:01:48.260><c> you</c></c>
+
+00:01:48.310 --> 00:01:48.320 align:start position:0%
+categories<c.colorCCCCCC> in fact it depends on how you
+ </c>
+
+00:01:48.320 --> 00:01:51.460 align:start position:0%
+categories<c.colorCCCCCC> in fact it depends on how you
+configure<00:01:48.770><c> the</c></c><c.colorE5E5E5><00:01:49.190><c> email</c></c><c.colorCCCCCC><00:01:49.480><c> notification</c><00:01:50.480><c> we</c><00:01:51.320><c> will</c></c>
+
+00:01:51.460 --> 00:01:51.470 align:start position:0%
+configure the<c.colorE5E5E5> email</c><c.colorCCCCCC> notification we will
+ </c>
+
+00:01:51.470 --> 00:01:53.940 align:start position:0%
+configure the<c.colorE5E5E5> email</c><c.colorCCCCCC> notification we will
+see<00:01:51.680><c> an</c><00:01:51.770><c> example</c></c><c.colorE5E5E5><00:01:51.890><c> during</c><00:01:52.520><c> the</c><00:01:52.640><c> demo</c></c>
+
+00:01:53.940 --> 00:01:53.950 align:start position:0%
+see an example<c.colorE5E5E5> during the demo
+ </c>
+
+00:01:53.950 --> 00:01:56.620 align:start position:0%
+see an example<c.colorE5E5E5> during the demo
+information<00:01:54.950><c> radiators</c><00:01:55.610><c> are</c><00:01:55.880><c> another</c><00:01:56.330><c> tool</c></c>
+
+00:01:56.620 --> 00:01:56.630 align:start position:0%
+information radiators are another tool
+ 
+
+00:01:56.630 --> 00:01:58.480 align:start position:0%
+information radiators are another tool
+for<c.colorE5E5E5><00:01:56.660><c> spreading</c><00:01:57.230><c> information</c><00:01:57.650><c> in</c><00:01:58.130><c> the</c><00:01:58.250><c> team</c></c>
+
+00:01:58.480 --> 00:01:58.490 align:start position:0%
+for<c.colorE5E5E5> spreading information in the team
+ </c>
+
+00:01:58.490 --> 00:02:00.970 align:start position:0%
+for<c.colorE5E5E5> spreading information in the team
+and<00:01:58.760><c> are</c><00:01:59.360><c> often</c></c><c.colorCCCCCC><00:01:59.480><c> used</c><00:01:59.690><c> in</c><00:02:00.320><c> agile</c></c>
+
+00:02:00.970 --> 00:02:00.980 align:start position:0%
+and are often<c.colorCCCCCC> used in agile
+ </c>
+
+00:02:00.980 --> 00:02:04.180 align:start position:0%
+and are often<c.colorCCCCCC> used in agile
+methodologies</c><c.colorE5E5E5><00:02:01.790><c> an</c><00:02:02.440><c> information</c><00:02:03.440><c> radiator</c><00:02:03.890><c> is</c></c>
+
+00:02:04.180 --> 00:02:04.190 align:start position:0%
+methodologies<c.colorE5E5E5> an information radiator is
+ </c>
+
+00:02:04.190 --> 00:02:07.270 align:start position:0%
+methodologies<c.colorE5E5E5> an information radiator is
+a<00:02:04.250><c> display</c><00:02:04.940><c> device</c><00:02:05.620><c> located</c><00:02:06.620><c> in</c><00:02:06.740><c> a</c><00:02:06.830><c> prominent</c></c>
+
+00:02:07.270 --> 00:02:07.280 align:start position:0%
+a display device<c.colorE5E5E5> located in a prominent
+ </c>
+
+00:02:07.280 --> 00:02:09.759 align:start position:0%
+a display device<c.colorE5E5E5> located in a prominent</c>
+<c.colorE5E5E5>place<00:02:07.580><c> where</c><00:02:08.030><c> team</c></c><c.colorCCCCCC><00:02:08.269><c> members</c></c><c.colorE5E5E5><00:02:08.780><c> and</c><00:02:08.989><c> passers-by</c></c>
+
+00:02:09.759 --> 00:02:09.769 align:start position:0%
+<c.colorE5E5E5>place where team</c><c.colorCCCCCC> members</c><c.colorE5E5E5> and passers-by
+ </c>
+
+00:02:09.769 --> 00:02:14.200 align:start position:0%
+<c.colorE5E5E5>place where team</c><c.colorCCCCCC> members</c><c.colorE5E5E5> and passers-by</c>
+<c.colorE5E5E5>can<00:02:10.700><c> easily</c><00:02:11.180><c> see</c><00:02:11.450><c> it</c><00:02:11.510><c> in</c><00:02:11.810><c> the</c><00:02:12.590><c> frame</c><00:02:12.829><c> of</c><00:02:12.859><c> CI</c><00:02:13.310><c> it</c></c>
+
+00:02:14.200 --> 00:02:14.210 align:start position:0%
+<c.colorE5E5E5>can easily see it in the frame of CI it
+ </c>
+
+00:02:14.210 --> 00:02:16.360 align:start position:0%
+<c.colorE5E5E5>can easily see it in the frame of CI it
+typically<00:02:14.570><c> displays</c><00:02:14.990><c> a</c><00:02:15.200><c> summary</c></c><c.colorCCCCCC><00:02:15.530><c> of</c></c><c.colorE5E5E5><00:02:15.830><c> the</c><00:02:16.130><c> most</c></c>
+
+00:02:16.360 --> 00:02:16.370 align:start position:0%
+typically displays a summary<c.colorCCCCCC> of</c><c.colorE5E5E5> the most
+ </c>
+
+00:02:16.370 --> 00:02:18.610 align:start position:0%
+typically displays a summary<c.colorCCCCCC> of</c><c.colorE5E5E5> the most
+important<00:02:17.210><c> build</c><00:02:17.420><c> results</c><00:02:18.020><c> and</c><00:02:18.170><c> their</c></c>
+
+00:02:18.610 --> 00:02:18.620 align:start position:0%
+important build results<c.colorE5E5E5> and their
+ </c>
+
+00:02:18.620 --> 00:02:21.760 align:start position:0%
+important build results<c.colorE5E5E5> and their
+current</c><c.colorCCCCCC><00:02:19.010><c> status</c><00:02:19.550><c> information</c><00:02:20.440><c> radiators</c><00:02:21.440><c> are</c></c>
+
+00:02:21.760 --> 00:02:21.770 align:start position:0%
+current<c.colorCCCCCC> status information radiators are
+ </c>
+
+00:02:21.770 --> 00:02:25.000 align:start position:0%
+current<c.colorCCCCCC> status information radiators are
+not<00:02:22.070><c> just</c><00:02:22.280><c> used</c><00:02:22.610><c> for</c><00:02:22.760><c> CIS</c><00:02:23.240><c> CD</c><00:02:23.780><c> and</c><00:02:24.020><c> are</c><00:02:24.680><c> a</c><00:02:24.710><c> great</c></c>
+
+00:02:25.000 --> 00:02:25.010 align:start position:0%
+not just used for<c.colorCCCCCC> CIS CD and are a great
+ </c>
+
+00:02:25.010 --> 00:02:28.480 align:start position:0%
+not just used for<c.colorCCCCCC> CIS CD and are a great</c>
+<c.colorCCCCCC>tool<00:02:25.370><c> for</c><00:02:25.430><c> spreading</c><00:02:25.970><c> a</c><00:02:26.180><c> CI</c><00:02:26.510><c> DevOps</c></c><c.colorE5E5E5><00:02:27.380><c> and</c><00:02:27.800><c> agile</c></c>
+
+00:02:28.480 --> 00:02:28.490 align:start position:0%
+<c.colorCCCCCC>tool for spreading a CI DevOps</c><c.colorE5E5E5> and agile
+ </c>
+
+00:02:28.490 --> 00:02:31.360 align:start position:0%
+<c.colorCCCCCC>tool for spreading a CI DevOps</c><c.colorE5E5E5> and agile
+culture<00:02:29.060><c> in</c><00:02:29.180><c> your</c><00:02:29.360><c> office</c><00:02:29.690><c> in</c><00:02:30.680><c> the</c><00:02:30.920><c> demo</c></c><c.colorCCCCCC><00:02:31.100><c> we</c></c>
+
+00:02:31.360 --> 00:02:31.370 align:start position:0%
+culture in your office in<c.colorE5E5E5> the demo</c><c.colorCCCCCC> we
+ </c>
+
+00:02:31.370 --> 00:02:33.430 align:start position:0%
+culture in your office in<c.colorE5E5E5> the demo</c><c.colorCCCCCC> we
+will<00:02:31.580><c> see</c><00:02:31.760><c> how</c><00:02:31.940><c> to</c><00:02:32.000><c> set</c><00:02:32.420><c> up</c><00:02:32.450><c> a</c><00:02:32.720><c> build</c><00:02:32.930><c> monitor</c></c>
+
+00:02:33.430 --> 00:02:33.440 align:start position:0%
+<c.colorCCCCCC>will see how to set up a build monitor
+ </c>
+
+00:02:33.440 --> 00:02:35.890 align:start position:0%
+<c.colorCCCCCC>will see how to set up a build monitor
+view<00:02:33.680><c> for</c><00:02:34.010><c> the</c><00:02:34.100><c> information</c></c><c.colorE5E5E5><00:02:34.340><c> radiator</c><00:02:35.120><c> using</c></c>
+
+00:02:35.890 --> 00:02:35.900 align:start position:0%
+view for the information<c.colorE5E5E5> radiator using
+ </c>
+
+00:02:35.900 --> 00:02:39.130 align:start position:0%
+view for the information<c.colorE5E5E5> radiator using
+the<00:02:36.050><c> build</c><00:02:36.260><c> monitor</c></c><c.colorCCCCCC><00:02:36.800><c> plugin</c><00:02:37.340><c> in</c><00:02:37.550><c> Jenkins</c><00:02:38.140><c> this</c></c>
+
+00:02:39.130 --> 00:02:39.140 align:start position:0%
+the<c.colorE5E5E5> build monitor</c><c.colorCCCCCC> plugin in Jenkins this
+ </c>
+
+00:02:39.140 --> 00:02:41.680 align:start position:0%
+the<c.colorE5E5E5> build monitor</c><c.colorCCCCCC> plugin in Jenkins this
+is<00:02:39.200><c> an</c><00:02:39.500><c> example</c><00:02:39.860><c> of</c><00:02:40.220><c> information</c></c><c.colorE5E5E5><00:02:40.730><c> radiator</c></c>
+
+00:02:41.680 --> 00:02:41.690 align:start position:0%
+<c.colorCCCCCC>is an example of information</c><c.colorE5E5E5> radiator
+ </c>
+
+00:02:41.690 --> 00:02:44.230 align:start position:0%
+<c.colorCCCCCC>is an example of information</c><c.colorE5E5E5> radiator</c>
+<c.colorCCCCCC>that</c><c.colorE5E5E5><00:02:42.200><c> it's</c><00:02:42.410><c> used</c><00:02:42.650><c> in</c><00:02:42.830><c> my</c><00:02:43.160><c> development</c></c><c.colorCCCCCC><00:02:43.520><c> team</c><00:02:44.060><c> as</c></c>
+
+00:02:44.230 --> 00:02:44.240 align:start position:0%
+<c.colorCCCCCC>that</c><c.colorE5E5E5> it's used in my development</c><c.colorCCCCCC> team as
+ </c>
+
+00:02:44.240 --> 00:02:47.230 align:start position:0%
+<c.colorCCCCCC>that</c><c.colorE5E5E5> it's used in my development</c><c.colorCCCCCC> team as
+we<00:02:45.230><c> have</c><00:02:45.320><c> an</c><00:02:45.440><c> open</c><00:02:45.860><c> office</c><00:02:46.370><c> setting</c><00:02:46.850><c> at</c><00:02:46.970><c> work</c></c>
+
+00:02:47.230 --> 00:02:47.240 align:start position:0%
+we have an open<c.colorCCCCCC> office setting at work
+ </c>
+
+00:02:47.240 --> 00:02:50.140 align:start position:0%
+we have an open<c.colorCCCCCC> office setting at work</c>
+<c.colorE5E5E5>the<00:02:48.170><c> information</c><00:02:48.800><c> radiator</c><00:02:49.220><c> is</c><00:02:49.400><c> located</c><00:02:49.910><c> in</c><00:02:50.060><c> a</c></c>
+
+00:02:50.140 --> 00:02:50.150 align:start position:0%
+<c.colorE5E5E5>the information radiator is located in a
+ </c>
+
+00:02:50.150 --> 00:02:52.750 align:start position:0%
+<c.colorE5E5E5>the information radiator is located in a</c>
+<c.colorCCCCCC>strategic<00:02:50.780><c> place</c><00:02:51.050><c> where</c><00:02:51.500><c> people</c></c><c.colorE5E5E5><00:02:51.680><c> pass</c><00:02:52.130><c> by</c></c><c.colorCCCCCC><00:02:52.160><c> and</c></c>
+
+00:02:52.750 --> 00:02:52.760 align:start position:0%
+<c.colorCCCCCC>strategic place where people</c><c.colorE5E5E5> pass by</c><c.colorCCCCCC> and
+ </c>
+
+00:02:52.760 --> 00:02:55.630 align:start position:0%
+<c.colorCCCCCC>strategic place where people</c><c.colorE5E5E5> pass by</c><c.colorCCCCCC> and
+where<00:02:53.360><c> we</c><00:02:53.570><c> hold</c><00:02:53.810><c> our</c><00:02:54.050><c> daily</c><00:02:54.980><c> stand-up</c></c>
+
+00:02:55.630 --> 00:02:55.640 align:start position:0%
+where we hold our daily stand-up
+ 
+
+00:02:55.640 --> 00:02:58.900 align:start position:0%
+where we hold our daily stand-up
+meetings<c.colorE5E5E5><00:02:56.090><c> an</c><00:02:56.860><c> extension</c><00:02:57.860><c> of</c><00:02:58.010><c> the</c><00:02:58.340><c> information</c></c>
+
+00:02:58.900 --> 00:02:58.910 align:start position:0%
+meetings<c.colorE5E5E5> an extension of the information
+ </c>
+
+00:02:58.910 --> 00:03:01.360 align:start position:0%
+meetings<c.colorE5E5E5> an extension of the information
+radiator</c><c.colorCCCCCC><00:02:59.300><c> is</c><00:02:59.630><c> the</c></c><c.colorE5E5E5><00:03:00.080><c> concept</c><00:03:00.560><c> of</c><00:03:00.680><c> extreme</c></c>
+
+00:03:01.360 --> 00:03:01.370 align:start position:0%
+radiator<c.colorCCCCCC> is the</c><c.colorE5E5E5> concept of extreme
+ </c>
+
+00:03:01.370 --> 00:03:04.000 align:start position:0%
+radiator<c.colorCCCCCC> is the</c><c.colorE5E5E5> concept of extreme
+feedback<00:03:02.050><c> this</c></c><c.colorCCCCCC><00:03:03.050><c> is</c><00:03:03.110><c> a</c><00:03:03.320><c> way</c></c><c.colorE5E5E5><00:03:03.560><c> to</c><00:03:03.620><c> alert</c></c>
+
+00:03:04.000 --> 00:03:04.010 align:start position:0%
+feedback this<c.colorCCCCCC> is a way</c><c.colorE5E5E5> to alert
+ </c>
+
+00:03:04.010 --> 00:03:06.100 align:start position:0%
+feedback this<c.colorCCCCCC> is a way</c><c.colorE5E5E5> to alert
+developers<00:03:04.790><c> of</c><00:03:05.000><c> important</c><00:03:05.750><c> to</c><00:03:05.900><c> build</c></c>
+
+00:03:06.100 --> 00:03:06.110 align:start position:0%
+developers of important to build
+ 
+
+00:03:06.110 --> 00:03:08.950 align:start position:0%
+developers of important to build
+notifications<00:03:06.980><c> using</c><c.colorE5E5E5><00:03:07.550><c> a</c><00:03:07.850><c> creative</c><00:03:08.360><c> physical</c></c>
+
+00:03:08.950 --> 00:03:08.960 align:start position:0%
+notifications using<c.colorE5E5E5> a creative physical
+ </c>
+
+00:03:08.960 --> 00:03:11.470 align:start position:0%
+notifications using<c.colorE5E5E5> a creative physical
+device<00:03:09.290><c> here</c><00:03:10.250><c> the</c><00:03:10.490><c> imagination</c><00:03:11.150><c> is</c><00:03:11.270><c> the</c><00:03:11.300><c> limit</c></c>
+
+00:03:11.470 --> 00:03:11.480 align:start position:0%
+device<c.colorE5E5E5> here the imagination is the limit
+ </c>
+
+00:03:11.480 --> 00:03:14.770 align:start position:0%
+device<c.colorE5E5E5> here the imagination is the limit</c>
+<c.colorE5E5E5>and<00:03:12.190><c> devices</c><00:03:13.190><c> usually</c><00:03:13.460><c> integrate</c></c><c.colorCCCCCC><00:03:14.240><c> catchy</c></c>
+
+00:03:14.770 --> 00:03:14.780 align:start position:0%
+<c.colorE5E5E5>and devices usually integrate</c><c.colorCCCCCC> catchy
+ </c>
+
+00:03:14.780 --> 00:03:18.370 align:start position:0%
+<c.colorE5E5E5>and devices usually integrate</c><c.colorCCCCCC> catchy
+visual<00:03:15.440><c> signals</c><00:03:15.980><c> and</c><00:03:16.340><c> sound</c></c><c.colorE5E5E5><00:03:16.810><c> for</c><00:03:17.810><c> this</c><00:03:17.960><c> check</c></c>
+
+00:03:18.370 --> 00:03:18.380 align:start position:0%
+visual signals and sound<c.colorE5E5E5> for this check
+ </c>
+
+00:03:18.380 --> 00:03:21.340 align:start position:0%
+visual signals and sound<c.colorE5E5E5> for this check
+out<00:03:18.560><c> the</c><00:03:18.770><c> sounds</c><00:03:19.160><c> plug-in</c><00:03:19.550><c> in</c><00:03:19.670><c> Jenkins</c><00:03:20.350><c> here</c></c>
+
+00:03:21.340 --> 00:03:21.350 align:start position:0%
+out the sounds<c.colorE5E5E5> plug-in in Jenkins here
+ </c>
+
+00:03:21.350 --> 00:03:24.220 align:start position:0%
+out the sounds<c.colorE5E5E5> plug-in in Jenkins here
+is<00:03:21.500><c> an</c><00:03:21.620><c> example</c><00:03:21.980><c> of</c><00:03:22.220><c> extreme</c><00:03:22.790><c> feedback</c><00:03:23.450><c> device</c></c>
+
+00:03:24.220 --> 00:03:24.230 align:start position:0%
+is an example of extreme feedback device
+ 
+
+00:03:24.230 --> 00:03:27.240 align:start position:0%
+is an example of extreme feedback device
+using<00:03:24.950><c> a</c><00:03:25.040><c> lamp</c><c.colorE5E5E5><00:03:25.370><c> which</c><00:03:25.970><c> changes</c><00:03:26.810><c> color</c></c>
+
+00:03:27.240 --> 00:03:27.250 align:start position:0%
+using a lamp<c.colorE5E5E5> which changes color
+ </c>
+
+00:03:27.250 --> 00:03:30.280 align:start position:0%
+using a lamp<c.colorE5E5E5> which changes color
+according</c><c.colorCCCCCC><00:03:28.250><c> to</c></c><c.colorE5E5E5><00:03:28.400><c> the</c><00:03:28.490><c> build</c><00:03:28.730><c> status</c></c><c.colorCCCCCC><00:03:29.120><c> and</c><00:03:29.570><c> speaks</c></c>
+
+00:03:30.280 --> 00:03:30.290 align:start position:0%
+<c.colorE5E5E5>according</c><c.colorCCCCCC> to</c><c.colorE5E5E5> the build status</c><c.colorCCCCCC> and speaks
+ </c>
+
+00:03:30.290 --> 00:03:32.730 align:start position:0%
+<c.colorE5E5E5>according</c><c.colorCCCCCC> to</c><c.colorE5E5E5> the build status</c><c.colorCCCCCC> and speaks
+out</c><c.colorE5E5E5><00:03:30.590><c> to</c><00:03:30.980><c> the</c><00:03:31.100><c> name</c><00:03:31.280><c> of</c></c><c.colorCCCCCC><00:03:31.310><c> the</c><00:03:31.520><c> possible</c><00:03:32.120><c> culprit</c></c>
+
+00:03:32.730 --> 00:03:32.740 align:start position:0%
+out<c.colorE5E5E5> to the name of</c><c.colorCCCCCC> the possible culprit
+ </c>
+
+00:03:32.740 --> 00:03:35.500 align:start position:0%
+out<c.colorE5E5E5> to the name of</c><c.colorCCCCCC> the possible culprit</c>
+<c.colorE5E5E5>usually<00:03:33.740><c> the</c><00:03:33.890><c> last</c><00:03:34.070><c> developer</c><00:03:34.700><c> who</c><00:03:34.970><c> committed</c></c>
+
+00:03:35.500 --> 00:03:35.510 align:start position:0%
+<c.colorE5E5E5>usually the last developer who committed
+ </c>
+
+00:03:35.510 --> 00:03:39.130 align:start position:0%
+<c.colorE5E5E5>usually the last developer who committed
+code<00:03:35.810><c> to</c><00:03:36.200><c> the</c><00:03:36.320><c> codebase</c><00:03:37.540><c> extreme</c><00:03:38.540><c> feedback</c></c>
+
+00:03:39.130 --> 00:03:39.140 align:start position:0%
+code to the<c.colorE5E5E5> codebase extreme feedback
+ </c>
+
+00:03:39.140 --> 00:03:42.820 align:start position:0%
+code to the<c.colorE5E5E5> codebase extreme feedback</c>
+<c.colorE5E5E5>devices<00:03:39.950><c> are</c><00:03:40.250><c> great</c><00:03:40.610><c> fun</c><00:03:40.910><c> but</c><00:03:41.750><c> they</c><00:03:42.200><c> also</c><00:03:42.230><c> make</c></c>
+
+00:03:42.820 --> 00:03:42.830 align:start position:0%
+<c.colorE5E5E5>devices are great fun but they also make
+ </c>
+
+00:03:42.830 --> 00:03:45.220 align:start position:0%
+<c.colorE5E5E5>devices are great fun but they also make</c>
+<c.colorCCCCCC>the<00:03:43.010><c> whole</c><00:03:43.220><c> team</c><00:03:43.550><c> aware</c><00:03:43.880><c> of</c><00:03:44.210><c> the</c><00:03:44.510><c> urgency</c></c><c.colorE5E5E5><00:03:44.990><c> of</c></c>
+
+00:03:45.220 --> 00:03:45.230 align:start position:0%
+<c.colorCCCCCC>the whole team aware of the urgency</c><c.colorE5E5E5> of
+ </c>
+
+00:03:45.230 --> 00:03:47.970 align:start position:0%
+<c.colorCCCCCC>the whole team aware of the urgency</c><c.colorE5E5E5> of
+fixing<00:03:45.800><c> broken</c><00:03:46.010><c> bills</c><00:03:46.430><c> and</c><00:03:46.730><c> failing</c><00:03:47.390><c> tests</c></c>
+
+00:03:47.970 --> 00:03:47.980 align:start position:0%
+fixing broken bills<c.colorE5E5E5> and failing tests
+ </c>
+
+00:03:47.980 --> 00:03:50.860 align:start position:0%
+fixing broken bills<c.colorE5E5E5> and failing tests
+there<00:03:48.980><c> isn't</c><00:03:49.310><c> a</c><00:03:49.400><c> bulletproof</c><00:03:49.870><c> notification</c></c>
+
+00:03:50.860 --> 00:03:50.870 align:start position:0%
+there<c.colorE5E5E5> isn't a bulletproof notification
+ </c>
+
+00:03:50.870 --> 00:03:53.050 align:start position:0%
+there<c.colorE5E5E5> isn't a bulletproof notification
+strategy<00:03:51.470><c> and</c><00:03:51.650><c> you</c><00:03:52.070><c> have</c><00:03:52.190><c> to</c><00:03:52.370><c> find</c><00:03:52.610><c> the</c><00:03:52.850><c> best</c></c>
+
+00:03:53.050 --> 00:03:53.060 align:start position:0%
+strategy and you have to find the best
+ 
+
+00:03:53.060 --> 00:03:55.120 align:start position:0%
+strategy and you have to find the best
+one<c.colorCCCCCC><00:03:53.450><c> for</c><00:03:53.690><c> your</c></c><c.colorE5E5E5><00:03:53.840><c> team</c><00:03:53.900><c> according</c></c><c.colorCCCCCC><00:03:54.620><c> to</c><00:03:54.950><c> different</c></c>
+
+00:03:55.120 --> 00:03:55.130 align:start position:0%
+one<c.colorCCCCCC> for your</c><c.colorE5E5E5> team according</c><c.colorCCCCCC> to different
+ </c>
+
+00:03:55.130 --> 00:03:58.000 align:start position:0%
+one<c.colorCCCCCC> for your</c><c.colorE5E5E5> team according</c><c.colorCCCCCC> to different
+factors</c><c.colorE5E5E5><00:03:55.690><c> when</c><00:03:56.690><c> setting</c><00:03:57.050><c> up</c><00:03:57.140><c> notifications</c></c>
+
+00:03:58.000 --> 00:03:58.010 align:start position:0%
+factors<c.colorE5E5E5> when setting up notifications
+ </c>
+
+00:03:58.010 --> 00:04:00.460 align:start position:0%
+factors<c.colorE5E5E5> when setting up notifications</c>
+<c.colorE5E5E5>bear<00:03:58.580><c> in</c><00:03:58.760><c> mind</c><00:03:59.000><c> that</c></c><c.colorCCCCCC><00:03:59.210><c> the</c><00:03:59.420><c> size</c><00:03:59.720><c> of</c></c><c.colorE5E5E5><00:04:00.020><c> your</c><00:04:00.080><c> team</c></c>
+
+00:04:00.460 --> 00:04:00.470 align:start position:0%
+<c.colorE5E5E5>bear in mind that</c><c.colorCCCCCC> the size of</c><c.colorE5E5E5> your team
+ </c>
+
+00:04:00.470 --> 00:04:02.980 align:start position:0%
+<c.colorE5E5E5>bear in mind that</c><c.colorCCCCCC> the size of</c><c.colorE5E5E5> your team
+the<00:04:01.190><c> location</c><00:04:01.850><c> and</c><00:04:02.000><c> the</c><00:04:02.180><c> space</c><00:04:02.570><c> where</c><00:04:02.960><c> the</c></c>
+
+00:04:02.980 --> 00:04:02.990 align:start position:0%
+<c.colorE5E5E5>the location and the space where the
+ </c>
+
+00:04:02.990 --> 00:04:06.220 align:start position:0%
+<c.colorE5E5E5>the location and the space where the</c>
+<c.colorE5E5E5>team<00:04:03.350><c> works</c><00:04:03.650><c> the</c><00:04:04.580><c> tools</c><00:04:04.850><c> already</c><00:04:05.480><c> used</c><00:04:05.900><c> by</c><00:04:06.170><c> the</c></c>
+
+00:04:06.220 --> 00:04:06.230 align:start position:0%
+<c.colorE5E5E5>team works the tools already used by the
+ </c>
+
+00:04:06.230 --> 00:04:08.620 align:start position:0%
+<c.colorE5E5E5>team works the tools already used by the
+development<00:04:06.860><c> team</c><00:04:07.070><c> and</c></c><c.colorCCCCCC><00:04:07.370><c> the</c><00:04:07.850><c> criticality</c><00:04:08.450><c> of</c></c>
+
+00:04:08.620 --> 00:04:08.630 align:start position:0%
+development team<c.colorE5E5E5> and</c><c.colorCCCCCC> the criticality of
+ </c>
+
+00:04:08.630 --> 00:04:11.950 align:start position:0%
+development team<c.colorE5E5E5> and</c><c.colorCCCCCC> the criticality of</c>
+<c.colorCCCCCC>your<00:04:09.110><c> bills</c><00:04:09.410><c> I</c><00:04:09.910><c> recommend</c><00:04:10.910><c> to</c><00:04:11.060><c> use</c><00:04:11.300><c> a</c><00:04:11.330><c> mix</c><00:04:11.750><c> of</c></c>
+
+00:04:11.950 --> 00:04:11.960 align:start position:0%
+<c.colorCCCCCC>your bills I recommend to use a mix of
+ </c>
+
+00:04:11.960 --> 00:04:14.490 align:start position:0%
+<c.colorCCCCCC>your bills I recommend to use a mix of
+active</c><c.colorE5E5E5><00:04:12.560><c> and</c><00:04:12.800><c> passive</c><00:04:13.270><c> notifications</c><00:04:14.270><c> as</c></c>
+
+00:04:14.490 --> 00:04:14.500 align:start position:0%
+active<c.colorE5E5E5> and passive notifications as
+ </c>
+
+00:04:14.500 --> 00:04:17.080 align:start position:0%
+active<c.colorE5E5E5> and passive notifications as
+these<00:04:15.500><c> different</c></c><c.colorCCCCCC><00:04:15.740><c> strategies</c><00:04:16.580><c> are</c><00:04:16.850><c> often</c></c>
+
+00:04:17.080 --> 00:04:17.090 align:start position:0%
+these different<c.colorCCCCCC> strategies are often
+ </c>
+
+00:04:17.090 --> 00:04:20.200 align:start position:0%
+these different<c.colorCCCCCC> strategies are often</c>
+<c.colorE5E5E5>complementary<00:04:17.960><c> now</c><00:04:18.859><c> let's</c><00:04:19.520><c> have</c><00:04:19.730><c> a</c><00:04:19.760><c> look</c><00:04:20.030><c> at</c></c>
+
+00:04:20.200 --> 00:04:20.210 align:start position:0%
+<c.colorE5E5E5>complementary now let's have a look at
+ </c>
+
+00:04:20.210 --> 00:04:22.420 align:start position:0%
+<c.colorE5E5E5>complementary now let's have a look at
+our<00:04:20.359><c> CI</c><00:04:20.690><c> workflow</c><00:04:21.320><c> that</c><00:04:21.710><c> we</c><00:04:21.770><c> started</c></c>
+
+00:04:22.420 --> 00:04:22.430 align:start position:0%
+our CI workflow that<c.colorE5E5E5> we started
+ </c>
+
+00:04:22.430 --> 00:04:24.960 align:start position:0%
+our CI workflow that<c.colorE5E5E5> we started
+implementing<00:04:22.940><c> in</c></c><c.colorCCCCCC><00:04:23.330><c> the</c><00:04:23.780><c> past</c><00:04:23.990><c> videos</c><00:04:24.470><c> and</c></c>
+
+00:04:24.960 --> 00:04:24.970 align:start position:0%
+implementing in<c.colorCCCCCC> the past videos and
+ </c>
+
+00:04:24.970 --> 00:04:27.820 align:start position:0%
+implementing in<c.colorCCCCCC> the past videos and
+completed<00:04:25.970><c> by</c></c><c.colorE5E5E5><00:04:26.110><c> notifications</c></c>
+
+00:04:27.820 --> 00:04:27.830 align:start position:0%
+completed by<c.colorE5E5E5> notifications
+ </c>
+
+00:04:27.830 --> 00:04:30.219 align:start position:0%
+completed by<c.colorE5E5E5> notifications
+I'm<00:04:27.949><c> going</c><00:04:28.520><c> to</c><00:04:28.669><c> briefly</c><00:04:29.150><c> show</c></c><c.colorCCCCCC><00:04:29.509><c> you</c><00:04:29.569><c> how</c><00:04:30.169><c> to</c></c>
+
+00:04:30.219 --> 00:04:30.229 align:start position:0%
+<c.colorE5E5E5>I'm going to briefly show</c><c.colorCCCCCC> you how to
+ </c>
+
+00:04:30.229 --> 00:04:33.129 align:start position:0%
+<c.colorE5E5E5>I'm going to briefly show</c><c.colorCCCCCC> you how to
+configure</c><c.colorE5E5E5><00:04:30.620><c> email</c><00:04:31.310><c> notifications</c><00:04:32.180><c> but</c><00:04:32.720><c> I</c><00:04:32.900><c> will</c></c>
+
+00:04:33.129 --> 00:04:33.139 align:start position:0%
+configure<c.colorE5E5E5> email notifications but I will
+ </c>
+
+00:04:33.139 --> 00:04:35.679 align:start position:0%
+configure<c.colorE5E5E5> email notifications but I will
+mainly<00:04:33.409><c> focus</c></c><c.colorCCCCCC><00:04:33.620><c> on</c><00:04:34.340><c> setting</c></c><c.colorE5E5E5><00:04:34.879><c> up</c><00:04:35.150><c> a</c><00:04:35.360><c> built</c></c>
+
+00:04:35.679 --> 00:04:35.689 align:start position:0%
+mainly focus<c.colorCCCCCC> on setting</c><c.colorE5E5E5> up a built
+ </c>
+
+00:04:35.689 --> 00:04:39.939 align:start position:0%
+mainly focus<c.colorCCCCCC> on setting</c><c.colorE5E5E5> up a built
+monitor<00:04:36.259><c> view</c><00:04:36.560><c> and</c><00:04:36.909><c> slack</c><00:04:37.909><c> notifications</c><00:04:38.949><c> the</c></c>
+
+00:04:39.939 --> 00:04:39.949 align:start position:0%
+monitor view and slack notifications the
+ 
+
+00:04:39.949 --> 00:04:42.189 align:start position:0%
+monitor view and slack notifications the
+only<00:04:40.189><c> prerequisite</c><00:04:40.849><c> to</c><00:04:41.060><c> follow</c><00:04:41.300><c> the</c><00:04:41.509><c> demo</c><c.colorCCCCCC><00:04:41.750><c> are</c></c>
+
+00:04:42.189 --> 00:04:42.199 align:start position:0%
+only prerequisite to follow the demo<c.colorCCCCCC> are
+ </c>
+
+00:04:42.199 --> 00:04:45.040 align:start position:0%
+only prerequisite to follow the demo<c.colorCCCCCC> are
+a<00:04:42.469><c> slack</c><00:04:42.949><c> account</c><00:04:43.400><c> and</c><00:04:43.759><c> the</c><00:04:43.909><c> slack</c><00:04:44.180><c> workspace</c></c>
+
+00:04:45.040 --> 00:04:45.050 align:start position:0%
+a slack account and the slack workspace
+ 
+
+00:04:45.050 --> 00:04:48.219 align:start position:0%
+a slack account and the slack workspace
+<c.colorE5E5E5>if<00:04:46.039><c> you</c><00:04:46.250><c> don't</c><00:04:46.490><c> have</c><00:04:46.699><c> them</c><00:04:46.969><c> already</c><00:04:47.180><c> you</c></c><c.colorCCCCCC><00:04:47.719><c> can</c></c>
+
+00:04:48.219 --> 00:04:48.229 align:start position:0%
+<c.colorE5E5E5>if you don't have them already you</c><c.colorCCCCCC> can
+ </c>
+
+00:04:48.229 --> 00:04:50.679 align:start position:0%
+<c.colorE5E5E5>if you don't have them already you</c><c.colorCCCCCC> can
+sign<00:04:48.469><c> up</c><00:04:48.500><c> for</c></c><c.colorE5E5E5><00:04:48.680><c> free</c></c><c.colorCCCCCC><00:04:48.919><c> on</c><00:04:49.250><c> slack</c></c><c.colorE5E5E5><00:04:49.610><c> at</c><00:04:49.909><c> this</c><00:04:50.330><c> link</c></c>
+
+00:04:50.679 --> 00:04:50.689 align:start position:0%
+sign up for<c.colorE5E5E5> free</c><c.colorCCCCCC> on slack</c><c.colorE5E5E5> at this link
+ </c>
+
+00:04:50.689 --> 00:04:54.700 align:start position:0%
+sign up for<c.colorE5E5E5> free</c><c.colorCCCCCC> on slack</c><c.colorE5E5E5> at this link</c>
+<c.colorCCCCCC>now<00:04:51.969><c> without</c><00:04:52.969><c> any</c></c><c.colorE5E5E5><00:04:53.210><c> further</c><00:04:53.330><c> ado</c><00:04:53.960><c> let's</c><00:04:54.560><c> start</c></c>
+
+00:04:54.700 --> 00:04:54.710 align:start position:0%
+<c.colorCCCCCC>now without any</c><c.colorE5E5E5> further ado let's start
+ </c>
+
+00:04:54.710 --> 00:04:58.869 align:start position:0%
+<c.colorCCCCCC>now without any</c><c.colorE5E5E5> further ado let's start</c>
+<c.colorE5E5E5>the<00:04:55.370><c> practical</c><00:04:55.939><c> part</c><00:04:56.180><c> of</c><00:04:56.360><c> this</c><00:04:56.539><c> video</c><00:04:57.639><c> first</c><00:04:58.639><c> I</c></c>
+
+00:04:58.869 --> 00:04:58.879 align:start position:0%
+<c.colorE5E5E5>the practical part of this video first I
+ </c>
+
+00:04:58.879 --> 00:05:00.909 align:start position:0%
+<c.colorE5E5E5>the practical part of this video first I
+want<00:04:59.180><c> to</c><00:04:59.240><c> show</c><00:04:59.509><c> you</c><00:04:59.569><c> how</c><00:05:00.110><c> to</c><00:05:00.169><c> set</c><00:05:00.560><c> up</c><00:05:00.590><c> email</c></c>
+
+00:05:00.909 --> 00:05:00.919 align:start position:0%
+want to<c.colorE5E5E5> show you how to set up email
+ </c>
+
+00:05:00.919 --> 00:05:03.999 align:start position:0%
+want to<c.colorE5E5E5> show you how to set up email
+notifications</c><c.colorCCCCCC><00:05:01.300><c> as</c><00:05:02.300><c> this</c><00:05:03.139><c> is</c><00:05:03.319><c> the</c><00:05:03.469><c> simplest</c></c>
+
+00:05:03.999 --> 00:05:04.009 align:start position:0%
+<c.colorE5E5E5>notifications</c><c.colorCCCCCC> as this is the simplest
+ </c>
+
+00:05:04.009 --> 00:05:07.360 align:start position:0%
+<c.colorE5E5E5>notifications</c><c.colorCCCCCC> as this is the simplest
+notification<00:05:04.759><c> to</c><00:05:04.940><c> set</c><00:05:05.210><c> up</c><00:05:05.530><c> go</c></c><c.colorE5E5E5><00:05:06.530><c> inside</c><00:05:06.949><c> the</c><00:05:07.129><c> CI</c></c>
+
+00:05:07.360 --> 00:05:07.370 align:start position:0%
+notification to<c.colorCCCCCC> set up go</c><c.colorE5E5E5> inside the CI
+ </c>
+
+00:05:07.370 --> 00:05:09.909 align:start position:0%
+notification to<c.colorCCCCCC> set up go</c><c.colorE5E5E5> inside the CI</c>
+<c.colorE5E5E5>workflow<00:05:07.969><c> project</c><00:05:08.449><c> that</c><00:05:08.810><c> we</c><00:05:08.960><c> created</c><00:05:09.349><c> in</c></c><c.colorCCCCCC><00:05:09.740><c> the</c></c>
+
+00:05:09.909 --> 00:05:09.919 align:start position:0%
+<c.colorE5E5E5>workflow project that we created in</c><c.colorCCCCCC> the
+ </c>
+
+00:05:09.919 --> 00:05:14.260 align:start position:0%
+<c.colorE5E5E5>workflow project that we created in</c><c.colorCCCCCC> the
+past<00:05:10.099><c> videos</c><00:05:10.840><c> click</c><00:05:11.840><c> on</c></c><c.colorE5E5E5><00:05:11.870><c> configure</c><00:05:12.860><c> and</c><00:05:13.270><c> head</c></c>
+
+00:05:14.260 --> 00:05:14.270 align:start position:0%
+past videos click on<c.colorE5E5E5> configure and head
+ </c>
+
+00:05:14.270 --> 00:05:18.040 align:start position:0%
+past videos click on<c.colorE5E5E5> configure and head
+to<00:05:14.539><c> post</c><00:05:14.900><c> build</c><00:05:15.289><c> actions</c><00:05:16.030><c> click</c><00:05:17.030><c> on</c><00:05:17.270><c> add</c><00:05:17.479><c> post</c></c>
+
+00:05:18.040 --> 00:05:18.050 align:start position:0%
+to post build actions<c.colorE5E5E5> click on add post
+ </c>
+
+00:05:18.050 --> 00:05:20.760 align:start position:0%
+to post build actions<c.colorE5E5E5> click on add post
+build<00:05:18.409><c> action</c><00:05:19.039><c> and</c><00:05:19.330><c> select</c><00:05:20.330><c> email</c></c>
+
+00:05:20.760 --> 00:05:20.770 align:start position:0%
+build<c.colorE5E5E5> action and select email
+ </c>
+
+00:05:20.770 --> 00:05:25.629 align:start position:0%
+build<c.colorE5E5E5> action and select email
+notification<00:05:22.810><c> inside</c><00:05:23.810><c> recipients</c><00:05:24.710><c> put</c><00:05:25.430><c> the</c></c>
+
+00:05:25.629 --> 00:05:25.639 align:start position:0%
+notification inside recipients put the
+ 
+
+00:05:25.639 --> 00:05:27.879 align:start position:0%
+notification inside recipients put the
+email<c.colorE5E5E5><00:05:25.789><c> address</c><00:05:26.300><c> you</c></c><c.colorCCCCCC><00:05:26.539><c> want</c><00:05:26.930><c> to</c><00:05:27.080><c> send</c><00:05:27.199><c> the</c></c>
+
+00:05:27.879 --> 00:05:27.889 align:start position:0%
+email<c.colorE5E5E5> address you</c><c.colorCCCCCC> want to send the
+ </c>
+
+00:05:27.889 --> 00:05:30.580 align:start position:0%
+email<c.colorE5E5E5> address you</c><c.colorCCCCCC> want to send the
+notifications<00:05:28.669><c> to</c><00:05:29.060><c> if</c><00:05:29.719><c> you</c><00:05:29.990><c> have</c><00:05:30.080><c> multiple</c></c>
+
+00:05:30.580 --> 00:05:30.590 align:start position:0%
+notifications to if you have multiple
+ 
+
+00:05:30.590 --> 00:05:34.269 align:start position:0%
+notifications to if you have multiple
+<c.colorCCCCCC>addresses</c><c.colorE5E5E5><00:05:31.120><c> separate</c><00:05:32.120><c> them</c><00:05:32.360><c> via</c><00:05:32.719><c> comma</c><00:05:33.279><c> you</c></c>
+
+00:05:34.269 --> 00:05:34.279 align:start position:0%
+<c.colorCCCCCC>addresses</c><c.colorE5E5E5> separate them via comma you
+ </c>
+
+00:05:34.279 --> 00:05:36.369 align:start position:0%
+<c.colorCCCCCC>addresses</c><c.colorE5E5E5> separate them via comma you
+can<00:05:34.430><c> select</c><00:05:34.639><c> your</c><00:05:34.849><c> notification</c><00:05:35.810><c> strategy</c></c>
+
+00:05:36.369 --> 00:05:36.379 align:start position:0%
+can select your notification strategy
+ 
+
+00:05:36.379 --> 00:05:39.339 align:start position:0%
+can select your notification strategy
+for<c.colorE5E5E5><00:05:36.860><c> example</c><00:05:37.250><c> you</c><00:05:37.969><c> can</c><00:05:38.150><c> send</c><00:05:38.449><c> an</c><00:05:38.629><c> email</c><00:05:38.750><c> for</c></c>
+
+00:05:39.339 --> 00:05:39.349 align:start position:0%
+for<c.colorE5E5E5> example you can send an email for
+ </c>
+
+00:05:39.349 --> 00:05:42.399 align:start position:0%
+for<c.colorE5E5E5> example you can send an email for
+every<00:05:39.740><c> unstable</c><00:05:40.430><c> build</c><00:05:40.729><c> if</c><00:05:41.599><c> you</c><00:05:41.840><c> want</c><00:05:42.020><c> to</c><00:05:42.169><c> send</c></c>
+
+00:05:42.399 --> 00:05:42.409 align:start position:0%
+every unstable build if you want to send
+ 
+
+00:05:42.409 --> 00:05:45.369 align:start position:0%
+every unstable build if you want to send
+active<00:05:43.180><c> notifications</c><c.colorE5E5E5><00:05:44.180><c> via</c><00:05:44.270><c> email</c><00:05:44.839><c> with</c></c>
+
+00:05:45.369 --> 00:05:45.379 align:start position:0%
+active notifications<c.colorE5E5E5> via email with
+ </c>
+
+00:05:45.379 --> 00:05:47.800 align:start position:0%
+active notifications<c.colorE5E5E5> via email with
+additional<00:05:46.099><c> details</c></c><c.colorCCCCCC><00:05:46.279><c> about</c></c><c.colorE5E5E5><00:05:46.819><c> the</c><00:05:47.150><c> bill</c><00:05:47.360><c> to</c></c><c.colorCCCCCC><00:05:47.659><c> the</c></c>
+
+00:05:47.800 --> 00:05:47.810 align:start position:0%
+additional details<c.colorCCCCCC> about</c><c.colorE5E5E5> the bill to</c><c.colorCCCCCC> the
+ </c>
+
+00:05:47.810 --> 00:05:50.559 align:start position:0%
+additional details<c.colorCCCCCC> about</c><c.colorE5E5E5> the bill to</c><c.colorCCCCCC> the
+error<00:05:48.020><c> and</c><00:05:48.500><c> the</c><00:05:48.620><c> culprit</c></c><c.colorE5E5E5><00:05:49.159><c> I</c><00:05:49.370><c> recommend</c><00:05:50.210><c> to</c><00:05:50.389><c> use</c></c>
+
+00:05:50.559 --> 00:05:50.569 align:start position:0%
+error and the culprit<c.colorE5E5E5> I recommend to use
+ </c>
+
+00:05:50.569 --> 00:05:54.640 align:start position:0%
+error and the culprit<c.colorE5E5E5> I recommend to use
+the<00:05:50.810><c> editable</c></c><c.colorCCCCCC><00:05:51.409><c> email</c><00:05:52.099><c> notification</c><00:05:53.199><c> add</c><00:05:54.199><c> a</c></c>
+
+00:05:54.640 --> 00:05:54.650 align:start position:0%
+the editable<c.colorCCCCCC> email notification add a
+ </c>
+
+00:05:54.650 --> 00:05:58.029 align:start position:0%
+the editable<c.colorCCCCCC> email notification add a
+post</c><c.colorE5E5E5><00:05:54.949><c> build</c><00:05:55.279><c> action</c><00:05:55.879><c> and</c><00:05:56.089><c> click</c></c><c.colorCCCCCC><00:05:56.990><c> on</c><00:05:57.199><c> editable</c></c>
+
+00:05:58.029 --> 00:05:58.039 align:start position:0%
+post<c.colorE5E5E5> build action and click</c><c.colorCCCCCC> on editable
+ </c>
+
+00:05:58.039 --> 00:06:02.260 align:start position:0%
+post<c.colorE5E5E5> build action and click</c><c.colorCCCCCC> on editable
+email<00:05:58.659><c> notification</c><00:06:00.250><c> this</c><00:06:01.250><c> allows</c><00:06:01.819><c> you</c></c><c.colorE5E5E5><00:06:02.089><c> to</c></c>
+
+00:06:02.260 --> 00:06:02.270 align:start position:0%
+email notification this allows you<c.colorE5E5E5> to
+ </c>
+
+00:06:02.270 --> 00:06:04.570 align:start position:0%
+email notification this allows you<c.colorE5E5E5> to
+send<00:06:02.509><c> more</c><00:06:02.810><c> detail</c><00:06:03.229><c> about</c><00:06:03.349><c> the</c><00:06:03.710><c> build</c></c><c.colorCCCCCC><00:06:03.919><c> does</c></c>
+
+00:06:04.570 --> 00:06:04.580 align:start position:0%
+send<c.colorE5E5E5> more detail about the build</c><c.colorCCCCCC> does
+ </c>
+
+00:06:04.580 --> 00:06:07.029 align:start position:0%
+send<c.colorE5E5E5> more detail about the build</c><c.colorCCCCCC> does
+proactively<00:06:05.389><c> informing</c><00:06:05.990><c> developers</c><00:06:06.560><c> about</c></c>
+
+00:06:07.029 --> 00:06:07.039 align:start position:0%
+proactively informing developers about
+ 
+
+00:06:07.039 --> 00:06:10.629 align:start position:0%
+proactively informing developers about
+<c.colorE5E5E5>what<00:06:07.639><c> went</c><00:06:07.969><c> wrong</c></c><c.colorCCCCCC><00:06:08.300><c> I</c><00:06:08.830><c> let</c><00:06:09.830><c> you</c><00:06:09.979><c> discover</c><00:06:10.400><c> the</c></c>
+
+00:06:10.629 --> 00:06:10.639 align:start position:0%
+<c.colorE5E5E5>what went wrong</c><c.colorCCCCCC> I let you discover the
+ </c>
+
+00:06:10.639 --> 00:06:12.909 align:start position:0%
+<c.colorE5E5E5>what went wrong</c><c.colorCCCCCC> I let you discover the
+options<00:06:11.120><c> at</c><00:06:11.300><c> your</c><00:06:11.479><c> leisure</c><00:06:11.690><c> as</c><00:06:12.080><c> I</c><00:06:12.620><c> want</c><00:06:12.830><c> to</c></c>
+
+00:06:12.909 --> 00:06:12.919 align:start position:0%
+options at<c.colorCCCCCC> your leisure as I want to
+ </c>
+
+00:06:12.919 --> 00:06:14.950 align:start position:0%
+options at<c.colorCCCCCC> your leisure as I want to
+show<00:06:13.069><c> you</c><00:06:13.129><c> other</c><00:06:13.370><c> types</c><00:06:13.729><c> of</c><00:06:13.940><c> notifications</c></c><c.colorE5E5E5><00:06:14.300><c> as</c></c>
+
+00:06:14.950 --> 00:06:14.960 align:start position:0%
+show you other types of notifications<c.colorE5E5E5> as
+ </c>
+
+00:06:14.960 --> 00:06:18.879 align:start position:0%
+show you other types of notifications<c.colorE5E5E5> as</c>
+<c.colorCCCCCC>well</c><c.colorE5E5E5><00:06:16.300><c> remember</c></c><c.colorCCCCCC><00:06:17.300><c> that</c><00:06:17.960><c> in</c><00:06:18.199><c> order</c><00:06:18.379><c> to</c><00:06:18.620><c> send</c></c>
+
+00:06:18.879 --> 00:06:18.889 align:start position:0%
+<c.colorCCCCCC>well</c><c.colorE5E5E5> remember</c><c.colorCCCCCC> that in order to send
+ </c>
+
+00:06:18.889 --> 00:06:21.040 align:start position:0%
+<c.colorCCCCCC>well</c><c.colorE5E5E5> remember</c><c.colorCCCCCC> that in order to send
+emails</c><c.colorE5E5E5><00:06:19.460><c> the</c><00:06:19.849><c> machine</c><00:06:20.240><c> where</c><00:06:20.449><c> Jenkins</c><00:06:20.900><c> is</c></c>
+
+00:06:21.040 --> 00:06:21.050 align:start position:0%
+emails<c.colorE5E5E5> the machine where Jenkins is
+ </c>
+
+00:06:21.050 --> 00:06:23.559 align:start position:0%
+emails<c.colorE5E5E5> the machine where Jenkins is
+deployed<00:06:21.469><c> must</c><00:06:22.129><c> be</c><00:06:22.310><c> configured</c><00:06:22.729><c> to</c><00:06:23.180><c> send</c></c>
+
+00:06:23.559 --> 00:06:23.569 align:start position:0%
+deployed<c.colorE5E5E5> must be configured to send
+ </c>
+
+00:06:23.569 --> 00:06:26.439 align:start position:0%
+deployed<c.colorE5E5E5> must be configured to send</c>
+<c.colorE5E5E5>emails<00:06:24.190><c> this</c><00:06:25.190><c> is</c><00:06:25.400><c> often</c><00:06:25.729><c> configured</c></c><c.colorCCCCCC><00:06:26.150><c> by</c></c>
+
+00:06:26.439 --> 00:06:26.449 align:start position:0%
+<c.colorE5E5E5>emails this is often configured</c><c.colorCCCCCC> by
+ </c>
+
+00:06:26.449 --> 00:06:29.439 align:start position:0%
+<c.colorE5E5E5>emails this is often configured</c><c.colorCCCCCC> by
+default</c><c.colorE5E5E5><00:06:26.509><c> on</c><00:06:27.199><c> a</c><00:06:27.259><c> server</c><00:06:27.729><c> but</c><00:06:28.729><c> the</c><00:06:29.029><c> best</c><00:06:29.180><c> way</c><00:06:29.419><c> to</c></c>
+
+00:06:29.439 --> 00:06:29.449 align:start position:0%
+default<c.colorE5E5E5> on a server but the best way to
+ </c>
+
+00:06:29.449 --> 00:06:34.329 align:start position:0%
+default<c.colorE5E5E5> on a server but the best way to
+check<00:06:29.839><c> it</c><00:06:30.050><c> is</c><00:06:30.229><c> to</c><00:06:30.319><c> help</c><00:06:30.919><c> to</c><00:06:31.190><c> manage</c><00:06:31.460><c> Jenkins</c><00:06:33.339><c> go</c></c>
+
+00:06:34.329 --> 00:06:34.339 align:start position:0%
+check it is<c.colorE5E5E5> to help to manage Jenkins go
+ </c>
+
+00:06:34.339 --> 00:06:37.149 align:start position:0%
+check it is<c.colorE5E5E5> to help to manage Jenkins go
+to<00:06:34.400><c> configure</c><00:06:35.240><c> system</c></c>
+
+00:06:37.149 --> 00:06:37.159 align:start position:0%
+to configure system
+ 
+
+00:06:37.159 --> 00:06:39.969 align:start position:0%
+to configure system
+scroll<00:06:37.909><c> down</c><00:06:37.939><c> to</c><00:06:38.419><c> email</c><00:06:38.869><c> notification</c><00:06:39.770><c> and</c>
+
+00:06:39.969 --> 00:06:39.979 align:start position:0%
+scroll down to email notification and
+ 
+
+00:06:39.979 --> 00:06:43.779 align:start position:0%
+scroll down to email notification and
+tick<00:06:40.849><c> the</c><c.colorCCCCCC><00:06:41.089><c> box</c></c><c.colorE5E5E5><00:06:41.539><c> test</c><00:06:42.279><c> configuration</c><00:06:43.279><c> by</c></c>
+
+00:06:43.779 --> 00:06:43.789 align:start position:0%
+tick the<c.colorCCCCCC> box</c><c.colorE5E5E5> test configuration by
+ </c>
+
+00:06:43.789 --> 00:06:48.459 align:start position:0%
+tick the<c.colorCCCCCC> box</c><c.colorE5E5E5> test configuration by
+sending<00:06:44.330><c> test</c><00:06:44.659><c> email</c><00:06:45.339><c> enter</c><00:06:46.339><c> your</c><00:06:46.550><c> email</c><00:06:47.469><c> and</c></c>
+
+00:06:48.459 --> 00:06:48.469 align:start position:0%
+sending test<c.colorE5E5E5> email enter your email and
+ </c>
+
+00:06:48.469 --> 00:06:52.269 align:start position:0%
+sending test<c.colorE5E5E5> email enter your email and
+click<00:06:48.830><c> on</c><00:06:49.069><c> test</c><00:06:49.659><c> configuration</c><00:06:50.830><c> this</c><00:06:51.830><c> sends</c></c>
+
+00:06:52.269 --> 00:06:52.279 align:start position:0%
+click on test configuration this sends
+ 
+
+00:06:52.279 --> 00:06:54.189 align:start position:0%
+click on test configuration this sends
+<c.colorE5E5E5>the<00:06:52.399><c> email</c><00:06:52.699><c> from</c></c><c.colorCCCCCC><00:06:52.909><c> localhost</c><00:06:53.509><c> but</c><00:06:53.779><c> you</c><00:06:54.050><c> can</c></c>
+
+00:06:54.189 --> 00:06:54.199 align:start position:0%
+<c.colorE5E5E5>the email from</c><c.colorCCCCCC> localhost but you can
+ </c>
+
+00:06:54.199 --> 00:06:57.449 align:start position:0%
+<c.colorE5E5E5>the email from</c><c.colorCCCCCC> localhost but you can
+also<00:06:54.379><c> configure</c></c><c.colorE5E5E5><00:06:54.739><c> a</c><00:06:55.249><c> specific</c><00:06:55.879><c> SMTP</c><00:06:56.809><c> server</c></c>
+
+00:06:57.449 --> 00:06:57.459 align:start position:0%
+also configure<c.colorE5E5E5> a specific SMTP server
+ </c>
+
+00:06:57.459 --> 00:07:02.469 align:start position:0%
+also configure<c.colorE5E5E5> a specific SMTP server
+now<00:06:58.459><c> let's</c><00:06:58.969><c> set</c><00:06:59.389><c> up</c><00:06:59.419><c> a</c></c><c.colorCCCCCC><00:06:59.839><c> build</c><00:07:00.169><c> monitor</c><00:07:00.769><c> view</c><00:07:01.479><c> in</c></c>
+
+00:07:02.469 --> 00:07:02.479 align:start position:0%
+now<c.colorE5E5E5> let's set up a</c><c.colorCCCCCC> build monitor view in
+ </c>
+
+00:07:02.479 --> 00:07:04.419 align:start position:0%
+now<c.colorE5E5E5> let's set up a</c><c.colorCCCCCC> build monitor view in</c>
+<c.colorE5E5E5>order<00:07:02.779><c> to</c><00:07:02.929><c> do</c><00:07:03.080><c> this</c><00:07:03.319><c> we</c></c><c.colorCCCCCC><00:07:03.979><c> need</c><00:07:04.129><c> an</c><00:07:04.309><c> additional</c></c>
+
+00:07:04.419 --> 00:07:04.429 align:start position:0%
+<c.colorE5E5E5>order to do this we</c><c.colorCCCCCC> need an additional
+ </c>
+
+00:07:04.429 --> 00:07:06.790 align:start position:0%
+<c.colorE5E5E5>order to do this we</c><c.colorCCCCCC> need an additional</c>
+<c.colorCCCCCC>plug-in<00:07:05.360><c> that</c></c><c.colorE5E5E5><00:07:05.599><c> might</c><00:07:05.779><c> not</c><00:07:05.959><c> be</c><00:07:06.110><c> installed</c><00:07:06.589><c> by</c></c>
+
+00:07:06.790 --> 00:07:06.800 align:start position:0%
+<c.colorCCCCCC>plug-in that</c><c.colorE5E5E5> might not be installed by
+ </c>
+
+00:07:06.800 --> 00:07:08.019 align:start position:0%
+<c.colorCCCCCC>plug-in that</c><c.colorE5E5E5> might not be installed by
+default<00:07:06.860><c> on</c><00:07:07.399><c> Jenkins</c></c>
+
+00:07:08.019 --> 00:07:08.029 align:start position:0%
+default on Jenkins
+ 
+
+00:07:08.029 --> 00:07:13.449 align:start position:0%
+default on Jenkins
+<c.colorE5E5E5>LT<00:07:08.479><c> s</c><00:07:09.009><c> go</c></c><c.colorCCCCCC><00:07:10.009><c> back</c></c><c.colorE5E5E5><00:07:10.219><c> to</c><00:07:10.369><c> Jenkins</c><00:07:11.769><c> manage</c><00:07:12.769><c> Jenkins</c></c>
+
+00:07:13.449 --> 00:07:13.459 align:start position:0%
+<c.colorE5E5E5>LT s go</c><c.colorCCCCCC> back</c><c.colorE5E5E5> to Jenkins manage Jenkins
+ </c>
+
+00:07:13.459 --> 00:07:18.879 align:start position:0%
+<c.colorE5E5E5>LT s go</c><c.colorCCCCCC> back</c><c.colorE5E5E5> to Jenkins manage Jenkins</c>
+<c.colorE5E5E5>and<00:07:14.499><c> manage</c><00:07:15.499><c> plugins</c><00:07:16.749><c> first</c><00:07:17.749><c> check</c><00:07:18.529><c> on</c><00:07:18.740><c> the</c></c>
+
+00:07:18.879 --> 00:07:18.889 align:start position:0%
+<c.colorE5E5E5>and manage plugins first check on the
+ </c>
+
+00:07:18.889 --> 00:07:21.730 align:start position:0%
+<c.colorE5E5E5>and manage plugins first check on the
+tab<00:07:19.159><c> installed</c><00:07:19.879><c> if</c><00:07:20.179><c> the</c><00:07:20.809><c> plug-in</c></c><c.colorCCCCCC><00:07:21.169><c> named</c><00:07:21.499><c> the</c></c>
+
+00:07:21.730 --> 00:07:21.740 align:start position:0%
+tab<c.colorE5E5E5> installed if the plug-in</c><c.colorCCCCCC> named the
+ </c>
+
+00:07:21.740 --> 00:07:24.719 align:start position:0%
+tab<c.colorE5E5E5> installed if the plug-in</c><c.colorCCCCCC> named the
+build<00:07:22.009><c> monitor</c><00:07:22.580><c> view</c><00:07:22.849><c> is</c><00:07:23.059><c> already</c></c><c.colorE5E5E5><00:07:23.539><c> installed</c></c>
+
+00:07:24.719 --> 00:07:24.729 align:start position:0%
+build monitor view is already<c.colorE5E5E5> installed
+ </c>
+
+00:07:24.729 --> 00:07:28.569 align:start position:0%
+build monitor view is already<c.colorE5E5E5> installed
+if<00:07:25.729><c> not</c><00:07:26.269><c> switch</c><00:07:27.080><c> to</c><00:07:27.110><c> tab</c><00:07:27.649><c> available</c></c><c.colorCCCCCC><00:07:27.889><c> and</c></c>
+
+00:07:28.569 --> 00:07:28.579 align:start position:0%
+<c.colorE5E5E5>if not switch to tab available</c><c.colorCCCCCC> and
+ </c>
+
+00:07:28.579 --> 00:07:31.709 align:start position:0%
+<c.colorE5E5E5>if not switch to tab available</c><c.colorCCCCCC> and
+search<00:07:29.179><c> here</c><00:07:29.599><c> for</c><00:07:29.629><c> build</c><00:07:30.169><c> monitor</c><00:07:30.829><c> view</c></c>
+
+00:07:31.709 --> 00:07:31.719 align:start position:0%
+search here for build monitor view
+ 
+
+00:07:31.719 --> 00:07:35.169 align:start position:0%
+search here for build monitor view
+select<00:07:32.719><c> the</c><c.colorE5E5E5><00:07:32.809><c> plug-in</c></c><c.colorCCCCCC><00:07:33.110><c> and</c><00:07:33.589><c> install</c></c><c.colorE5E5E5><00:07:34.339><c> without</c></c>
+
+00:07:35.169 --> 00:07:35.179 align:start position:0%
+select the<c.colorE5E5E5> plug-in</c><c.colorCCCCCC> and install</c><c.colorE5E5E5> without
+ </c>
+
+00:07:35.179 --> 00:07:38.259 align:start position:0%
+select the<c.colorE5E5E5> plug-in</c><c.colorCCCCCC> and install</c><c.colorE5E5E5> without
+restart</c><c.colorCCCCCC><00:07:35.800><c> we</c><00:07:36.800><c> don't</c></c><c.colorE5E5E5><00:07:36.979><c> need</c><00:07:37.099><c> to</c><00:07:37.249><c> restart</c><00:07:37.729><c> Jenkins</c></c>
+
+00:07:38.259 --> 00:07:38.269 align:start position:0%
+restart<c.colorCCCCCC> we don't</c><c.colorE5E5E5> need to restart Jenkins
+ </c>
+
+00:07:38.269 --> 00:07:41.549 align:start position:0%
+restart<c.colorCCCCCC> we don't</c><c.colorE5E5E5> need to restart Jenkins</c>
+<c.colorE5E5E5>so<00:07:38.779><c> we</c><00:07:38.959><c> can</c><00:07:39.110><c> use</c><00:07:39.289><c> this</c><00:07:39.469><c> plug-in</c></c><c.colorCCCCCC><00:07:39.800><c> straightaway</c></c>
+
+00:07:41.549 --> 00:07:41.559 align:start position:0%
+<c.colorE5E5E5>so we can use this plug-in</c><c.colorCCCCCC> straightaway
+ </c>
+
+00:07:41.559 --> 00:07:45.850 align:start position:0%
+<c.colorE5E5E5>so we can use this plug-in</c><c.colorCCCCCC> straightaway</c>
+<c.colorE5E5E5>go<00:07:42.559><c> back</c><00:07:42.769><c> to</c><00:07:42.919><c> Jenkins</c><00:07:43.399><c> and</c><00:07:44.139><c> in</c><00:07:45.139><c> the</c><00:07:45.289><c> view</c><00:07:45.499><c> tabs</c></c>
+
+00:07:45.850 --> 00:07:45.860 align:start position:0%
+<c.colorE5E5E5>go back to Jenkins and in the view tabs
+ </c>
+
+00:07:45.860 --> 00:07:50.529 align:start position:0%
+<c.colorE5E5E5>go back to Jenkins and in the view tabs</c>
+<c.colorE5E5E5>click<00:07:46.369><c> on</c></c><c.colorCCCCCC><00:07:46.550><c> +</c><00:07:46.909><c> to</c><00:07:47.569><c> add</c></c><c.colorE5E5E5><00:07:47.599><c> a</c><00:07:48.019><c> new</c><00:07:48.379><c> view</c><00:07:48.709><c> a</c><00:07:49.539><c> new</c></c>
+
+00:07:50.529 --> 00:07:50.539 align:start position:0%
+<c.colorE5E5E5>click on</c><c.colorCCCCCC> + to add</c><c.colorE5E5E5> a new view a new
+ </c>
+
+00:07:50.539 --> 00:07:53.949 align:start position:0%
+<c.colorE5E5E5>click on</c><c.colorCCCCCC> + to add</c><c.colorE5E5E5> a new view a new
+option</c><c.colorCCCCCC><00:07:51.229><c> build</c><00:07:51.679><c> monitor</c><00:07:52.459><c> view</c><00:07:52.789><c> has</c><00:07:53.240><c> been</c></c><c.colorE5E5E5><00:07:53.269><c> added</c></c>
+
+00:07:53.949 --> 00:07:53.959 align:start position:0%
+option<c.colorCCCCCC> build monitor view has been</c><c.colorE5E5E5> added
+ </c>
+
+00:07:53.959 --> 00:07:58.629 align:start position:0%
+option<c.colorCCCCCC> build monitor view has been</c><c.colorE5E5E5> added</c>
+<c.colorCCCCCC>to<00:07:54.199><c> so</c><00:07:54.860><c> select</c></c><c.colorE5E5E5><00:07:55.399><c> it</c><00:07:55.689><c> give</c><00:07:56.689><c> it</c></c><c.colorCCCCCC><00:07:56.719><c> a</c><00:07:56.959><c> name</c><00:07:57.199><c> and</c><00:07:57.639><c> the</c></c>
+
+00:07:58.629 --> 00:07:58.639 align:start position:0%
+<c.colorCCCCCC>to so select</c><c.colorE5E5E5> it give it</c><c.colorCCCCCC> a name and the
+ </c>
+
+00:07:58.639 --> 00:08:04.299 align:start position:0%
+<c.colorCCCCCC>to so select</c><c.colorE5E5E5> it give it</c><c.colorCCCCCC> a name and the
+view<00:07:58.999><c> name</c><00:07:59.829><c> and</c><00:08:00.829><c> click</c><00:08:01.189><c> on</c></c><c.colorE5E5E5><00:08:01.369><c> OK</c><00:08:03.309><c> we</c></c>
+
+00:08:04.299 --> 00:08:04.309 align:start position:0%
+view name and click on<c.colorE5E5E5> OK we
+ </c>
+
+00:08:04.309 --> 00:08:05.769 align:start position:0%
+view name and click on<c.colorE5E5E5> OK we
+automatically<00:08:04.879><c> get</c><00:08:05.149><c> inside</c><00:08:05.629><c> the</c></c>
+
+00:08:05.769 --> 00:08:05.779 align:start position:0%
+automatically get inside the
+ 
+
+00:08:05.779 --> 00:08:08.109 align:start position:0%
+automatically get inside the
+configuration<00:08:06.469><c> for</c><00:08:06.679><c> this</c><00:08:06.829><c> view</c><00:08:07.219><c> and</c><00:08:07.429><c> add</c><00:08:08.089><c> a</c>
+
+00:08:08.109 --> 00:08:08.119 align:start position:0%
+configuration for this view and add a
+ 
+
+00:08:08.119 --> 00:08:11.439 align:start position:0%
+configuration for this view and add a
+<c.colorE5E5E5>few<00:08:08.599><c> jobs</c><00:08:08.929><c> to</c><00:08:09.199><c> monitor</c><00:08:09.619><c> the</c><00:08:09.740><c> view</c><00:08:10.269><c> you</c><00:08:11.269><c> can</c></c>
+
+00:08:11.439 --> 00:08:11.449 align:start position:0%
+<c.colorE5E5E5>few jobs to monitor the view you can
+ </c>
+
+00:08:11.449 --> 00:08:12.999 align:start position:0%
+<c.colorE5E5E5>few jobs to monitor the view you can
+play<00:08:11.659><c> with</c><00:08:11.959><c> the</c><00:08:12.139><c> other</c><00:08:12.259><c> options</c><00:08:12.769><c> like</c></c>
+
+00:08:12.999 --> 00:08:13.009 align:start position:0%
+play with the other<c.colorE5E5E5> options like
+ </c>
+
+00:08:13.009 --> 00:08:17.100 align:start position:0%
+play with the other<c.colorE5E5E5> options like</c>
+<c.colorCCCCCC>ordering<00:08:13.669><c> the</c><00:08:13.879><c> bells</c><00:08:14.229><c> adding</c><00:08:15.229><c> committers</c><00:08:15.860><c> etc</c></c>
+
+00:08:17.100 --> 00:08:17.110 align:start position:0%
+<c.colorCCCCCC>ordering the bells adding committers etc
+ </c>
+
+00:08:17.110 --> 00:08:21.939 align:start position:0%
+<c.colorCCCCCC>ordering the bells adding committers etc
+finally</c><c.colorE5E5E5><00:08:18.110><c> click</c></c><c.colorCCCCCC><00:08:18.829><c> on</c></c><c.colorE5E5E5><00:08:18.979><c> OK</c><00:08:19.490><c> and</c><00:08:20.439><c> here</c><00:08:21.439><c> you</c><00:08:21.800><c> have</c><00:08:21.889><c> a</c></c>
+
+00:08:21.939 --> 00:08:21.949 align:start position:0%
+finally<c.colorE5E5E5> click</c><c.colorCCCCCC> on</c><c.colorE5E5E5> OK and here you have a
+ </c>
+
+00:08:21.949 --> 00:08:24.519 align:start position:0%
+finally<c.colorE5E5E5> click</c><c.colorCCCCCC> on</c><c.colorE5E5E5> OK and here you have a
+beautiful</c><c.colorCCCCCC><00:08:22.219><c> build</c><00:08:23.059><c> monitor</c><00:08:23.629><c> view</c></c><c.colorE5E5E5><00:08:23.839><c> then</c><00:08:24.409><c> you</c></c>
+
+00:08:24.519 --> 00:08:24.529 align:start position:0%
+beautiful<c.colorCCCCCC> build monitor view</c><c.colorE5E5E5> then you
+ </c>
+
+00:08:24.529 --> 00:08:27.719 align:start position:0%
+beautiful<c.colorCCCCCC> build monitor view</c><c.colorE5E5E5> then you
+can<00:08:24.709><c> hook</c><00:08:24.979><c> to</c><00:08:25.249><c> a</c><00:08:25.279><c> screen</c><00:08:25.699><c> in</c></c><c.colorCCCCCC><00:08:25.909><c> your</c></c><c.colorE5E5E5><00:08:26.179><c> office</c></c>
+
+00:08:27.719 --> 00:08:27.729 align:start position:0%
+can hook to a screen in<c.colorCCCCCC> your</c><c.colorE5E5E5> office
+ </c>
+
+00:08:27.729 --> 00:08:30.389 align:start position:0%
+can hook to a screen in<c.colorCCCCCC> your</c><c.colorE5E5E5> office
+notice<00:08:28.729><c> that</c><00:08:28.999><c> the</c><00:08:29.179><c> monitor</c></c><c.colorCCCCCC><00:08:29.569><c> view</c><00:08:29.809><c> updates</c></c>
+
+00:08:30.389 --> 00:08:30.399 align:start position:0%
+notice that the monitor<c.colorCCCCCC> view updates
+ </c>
+
+00:08:30.399 --> 00:08:33.339 align:start position:0%
+notice that the monitor<c.colorCCCCCC> view updates
+automatically<00:08:31.399><c> when</c><00:08:31.669><c> something</c><00:08:32.120><c> occurs</c><00:08:32.509><c> no</c></c>
+
+00:08:33.339 --> 00:08:33.349 align:start position:0%
+automatically when something occurs no
+ 
+
+00:08:33.349 --> 00:08:36.339 align:start position:0%
+automatically when something occurs no
+need<00:08:33.589><c> to</c><00:08:33.860><c> refresh</c><c.colorCCCCCC><00:08:34.219><c> the</c><00:08:34.430><c> page</c><00:08:35.019><c> you</c><00:08:36.019><c> can</c><00:08:36.169><c> play</c></c>
+
+00:08:36.339 --> 00:08:36.349 align:start position:0%
+need to refresh<c.colorCCCCCC> the page you can play
+ </c>
+
+00:08:36.349 --> 00:08:38.519 align:start position:0%
+need to refresh<c.colorCCCCCC> the page you can play
+with<00:08:36.529><c> the</c><00:08:36.709><c> settings</c><00:08:36.919><c> by</c><00:08:37.430><c> the</c></c><c.colorE5E5E5><00:08:37.490><c> setting</c><00:08:38.060><c> icon</c></c>
+
+00:08:38.519 --> 00:08:38.529 align:start position:0%
+with the<c.colorCCCCCC> settings by the</c><c.colorE5E5E5> setting icon
+ </c>
+
+00:08:38.529 --> 00:08:41.679 align:start position:0%
+with the<c.colorCCCCCC> settings by the</c><c.colorE5E5E5> setting icon
+for<00:08:39.529><c> example</c><00:08:39.949><c> increase</c><00:08:40.729><c> or</c><00:08:41.089><c> decrease</c><00:08:41.269><c> the</c></c>
+
+00:08:41.679 --> 00:08:41.689 align:start position:0%
+for example increase or decrease<c.colorE5E5E5> the
+ </c>
+
+00:08:41.689 --> 00:08:43.750 align:start position:0%
+for example increase or decrease<c.colorE5E5E5> the
+font<00:08:41.870><c> size</c></c>
+
+00:08:43.750 --> 00:08:43.760 align:start position:0%
+font<c.colorE5E5E5> size
+ </c>
+
+00:08:43.760 --> 00:08:46.120 align:start position:0%
+font<c.colorE5E5E5> size
+go<00:08:44.060><c> back</c><00:08:44.240><c> to</c><00:08:44.389><c> Jenkins</c><00:08:44.870><c> and</c><00:08:45.079><c> you</c><00:08:45.620><c> can</c><00:08:45.769><c> notice</c></c>
+
+00:08:46.120 --> 00:08:46.130 align:start position:0%
+go back to Jenkins<c.colorE5E5E5> and you can notice
+ </c>
+
+00:08:46.130 --> 00:08:48.040 align:start position:0%
+go back to Jenkins<c.colorE5E5E5> and you can notice
+that<00:08:46.370><c> the</c><00:08:46.519><c> built</c><00:08:46.760><c> monitor</c><00:08:47.240><c> view</c><00:08:47.510><c> has</c><00:08:47.779><c> been</c></c>
+
+00:08:48.040 --> 00:08:48.050 align:start position:0%
+<c.colorE5E5E5>that the built monitor view has been
+ </c>
+
+00:08:48.050 --> 00:08:51.579 align:start position:0%
+<c.colorE5E5E5>that the built monitor view has been</c>
+<c.colorE5E5E5>added<00:08:48.769><c> to</c><00:08:48.980><c> the</c></c><c.colorCCCCCC><00:08:49.220><c> View</c><00:08:49.459><c> tab</c></c><c.colorE5E5E5><00:08:49.699><c> now</c><00:08:50.600><c> let's</c><00:08:51.170><c> set</c><00:08:51.560><c> up</c></c>
+
+00:08:51.579 --> 00:08:51.589 align:start position:0%
+<c.colorE5E5E5>added to the</c><c.colorCCCCCC> View tab</c><c.colorE5E5E5> now let's set up
+ </c>
+
+00:08:51.589 --> 00:08:55.000 align:start position:0%
+<c.colorE5E5E5>added to the</c><c.colorCCCCCC> View tab</c><c.colorE5E5E5> now let's set up
+the<00:08:52.010><c> slack</c><00:08:52.279><c> notification</c><00:08:53.180><c> I</c><00:08:53.709><c> assume</c><00:08:54.709><c> you</c></c>
+
+00:08:55.000 --> 00:08:55.010 align:start position:0%
+the slack notification<c.colorE5E5E5> I assume you
+ </c>
+
+00:08:55.010 --> 00:08:56.740 align:start position:0%
+the slack notification<c.colorE5E5E5> I assume you
+already<00:08:55.130><c> have</c><00:08:55.579><c> a</c><00:08:55.610><c> slack</c><00:08:55.940><c> account</c><00:08:56.389><c> and</c></c>
+
+00:08:56.740 --> 00:08:56.750 align:start position:0%
+already have a slack account and
+ 
+
+00:08:56.750 --> 00:09:00.910 align:start position:0%
+already have a slack account and
+workspace<c.colorE5E5E5><00:08:57.639><c> here</c><00:08:58.639><c> I'm</c><00:08:58.820><c> showing</c></c><c.colorCCCCCC><00:08:59.449><c> you</c><00:08:59.810><c> mine</c></c><c.colorE5E5E5><00:09:00.170><c> via</c></c>
+
+00:09:00.910 --> 00:09:00.920 align:start position:0%
+workspace<c.colorE5E5E5> here I'm showing</c><c.colorCCCCCC> you mine</c><c.colorE5E5E5> via
+ </c>
+
+00:09:00.920 --> 00:09:04.240 align:start position:0%
+workspace<c.colorE5E5E5> here I'm showing</c><c.colorCCCCCC> you mine</c><c.colorE5E5E5> via
+a<00:09:01.190><c> slack</c><00:09:01.519><c> app</c><00:09:01.820><c> I</c><00:09:02.209><c> have</c><00:09:02.420><c> installed</c><00:09:03.220><c> you</c><00:09:04.220><c> can</c></c>
+
+00:09:04.240 --> 00:09:04.250 align:start position:0%
+<c.colorE5E5E5>a slack app I have installed you can
+ </c>
+
+00:09:04.250 --> 00:09:07.110 align:start position:0%
+<c.colorE5E5E5>a slack app I have installed you can</c>
+<c.colorCCCCCC>also<00:09:04.519><c> use</c><00:09:04.820><c> the</c><00:09:05.029><c> web</c><00:09:05.240><c> version</c><00:09:05.570><c> if</c><00:09:06.019><c> you</c></c><c.colorE5E5E5><00:09:06.050><c> prefer</c></c>
+
+00:09:07.110 --> 00:09:07.120 align:start position:0%
+<c.colorCCCCCC>also use the web version if you</c><c.colorE5E5E5> prefer
+ </c>
+
+00:09:07.120 --> 00:09:10.990 align:start position:0%
+<c.colorCCCCCC>also use the web version if you</c><c.colorE5E5E5> prefer
+this<00:09:08.120><c> is</c><00:09:08.329><c> my</c><00:09:08.570><c> slack</c><00:09:08.870><c> workspace</c></c><c.colorCCCCCC><00:09:09.560><c> named</c></c><c.colorE5E5E5><00:09:10.220><c> hands</c></c>
+
+00:09:10.990 --> 00:09:11.000 align:start position:0%
+this<c.colorE5E5E5> is my slack workspace</c><c.colorCCCCCC> named</c><c.colorE5E5E5> hands
+ </c>
+
+00:09:11.000 --> 00:09:14.319 align:start position:0%
+this<c.colorE5E5E5> is my slack workspace</c><c.colorCCCCCC> named</c><c.colorE5E5E5> hands
+on<00:09:11.149><c> Jenkins</c><00:09:11.480><c> and</c><00:09:12.310><c> this</c></c><c.colorCCCCCC><00:09:13.310><c> is</c><00:09:13.550><c> the</c><00:09:13.699><c> channel</c></c><c.colorE5E5E5><00:09:14.000><c> where</c></c>
+
+00:09:14.319 --> 00:09:14.329 align:start position:0%
+on Jenkins<c.colorE5E5E5> and this</c><c.colorCCCCCC> is the channel</c><c.colorE5E5E5> where
+ </c>
+
+00:09:14.329 --> 00:09:16.509 align:start position:0%
+on Jenkins<c.colorE5E5E5> and this</c><c.colorCCCCCC> is the channel</c><c.colorE5E5E5> where</c>
+<c.colorCCCCCC>I<00:09:14.630><c> want</c></c><c.colorE5E5E5><00:09:14.930><c> to</c><00:09:15.050><c> send</c><00:09:15.320><c> the</c><00:09:15.470><c> build</c><00:09:15.709><c> notifications</c></c>
+
+00:09:16.509 --> 00:09:16.519 align:start position:0%
+<c.colorCCCCCC>I want</c><c.colorE5E5E5> to send the build notifications
+ </c>
+
+00:09:16.519 --> 00:09:21.160 align:start position:0%
+<c.colorCCCCCC>I want</c><c.colorE5E5E5> to send the build notifications
+to<00:09:17.920><c> now</c><00:09:18.920><c> open</c></c><c.colorCCCCCC><00:09:19.459><c> your</c><00:09:19.940><c> favorite</c><00:09:20.209><c> browser</c><00:09:20.449><c> and</c></c>
+
+00:09:21.160 --> 00:09:21.170 align:start position:0%
+to now open<c.colorCCCCCC> your favorite browser and
+ </c>
+
+00:09:21.170 --> 00:09:25.780 align:start position:0%
+to now open<c.colorCCCCCC> your favorite browser and
+head<00:09:21.529><c> to</c><00:09:21.740><c> the</c></c><c.colorE5E5E5><00:09:21.769><c> URL</c><00:09:22.190><c> my</c><00:09:23.060><c> dot</c><00:09:23.600><c> slash</c><00:09:24.110><c> comm</c><00:09:24.790><c> slash</c></c>
+
+00:09:25.780 --> 00:09:25.790 align:start position:0%
+head to the<c.colorE5E5E5> URL my dot slash comm slash
+ </c>
+
+00:09:25.790 --> 00:09:31.829 align:start position:0%
+head to the<c.colorE5E5E5> URL my dot slash comm slash</c>
+<c.colorE5E5E5>services<00:09:26.589><c> slash</c><00:09:27.589><c> new</c><00:09:28.190><c> slash</c><00:09:29.029><c> Jenkins</c><00:09:29.810><c> -</c><00:09:30.079><c> see</c><00:09:30.500><c> I</c></c>
+
+00:09:31.829 --> 00:09:31.839 align:start position:0%
+<c.colorE5E5E5>services slash new slash Jenkins - see I
+ </c>
+
+00:09:31.839 --> 00:09:35.259 align:start position:0%
+<c.colorE5E5E5>services slash new slash Jenkins - see I
+enter<00:09:32.839><c> the</c><00:09:32.959><c> workspace</c><00:09:33.529><c> URL</c><00:09:34.100><c> this</c></c><c.colorCCCCCC><00:09:34.880><c> is</c><00:09:34.940><c> my</c></c>
+
+00:09:35.259 --> 00:09:35.269 align:start position:0%
+enter the workspace URL this<c.colorCCCCCC> is my
+ </c>
+
+00:09:35.269 --> 00:09:38.949 align:start position:0%
+enter the workspace URL this<c.colorCCCCCC> is my</c>
+<c.colorE5E5E5>workspace</c><c.colorCCCCCC><00:09:35.720><c> I</c><00:09:36.079><c> just</c><00:09:36.320><c> showed</c><00:09:36.680><c> you</c><00:09:36.920><c> on</c><00:09:37.070><c> slack</c><00:09:37.959><c> and</c></c>
+
+00:09:38.949 --> 00:09:38.959 align:start position:0%
+<c.colorE5E5E5>workspace</c><c.colorCCCCCC> I just showed you on slack and
+ </c>
+
+00:09:38.959 --> 00:09:41.949 align:start position:0%
+<c.colorE5E5E5>workspace</c><c.colorCCCCCC> I just showed you on slack and
+click<00:09:39.290><c> on</c></c><c.colorE5E5E5><00:09:39.470><c> continue</c><00:09:40.360><c> sign</c><00:09:41.360><c> in</c></c><c.colorCCCCCC><00:09:41.660><c> to</c></c><c.colorE5E5E5><00:09:41.839><c> your</c></c>
+
+00:09:41.949 --> 00:09:41.959 align:start position:0%
+click on<c.colorE5E5E5> continue sign in</c><c.colorCCCCCC> to</c><c.colorE5E5E5> your
+ </c>
+
+00:09:41.959 --> 00:09:45.480 align:start position:0%
+click on<c.colorE5E5E5> continue sign in</c><c.colorCCCCCC> to</c><c.colorE5E5E5> your
+workspace<00:09:42.620><c> using</c><00:09:43.459><c> your</c></c><c.colorCCCCCC><00:09:43.970><c> slack</c><00:09:44.329><c> credentials</c><00:09:45.079><c> I</c></c>
+
+00:09:45.480 --> 00:09:45.490 align:start position:0%
+workspace using<c.colorE5E5E5> your</c><c.colorCCCCCC> slack credentials I
+ </c>
+
+00:09:45.490 --> 00:09:48.069 align:start position:0%
+workspace using<c.colorE5E5E5> your</c><c.colorCCCCCC> slack credentials I
+assume<00:09:46.490><c> you</c><00:09:46.790><c> already</c></c><c.colorE5E5E5><00:09:46.910><c> have</c><00:09:47.269><c> a</c><00:09:47.300><c> slack</c><00:09:47.630><c> account</c></c>
+
+00:09:48.069 --> 00:09:48.079 align:start position:0%
+assume you already<c.colorE5E5E5> have a slack account
+ </c>
+
+00:09:48.079 --> 00:09:52.879 align:start position:0%
+assume you already<c.colorE5E5E5> have a slack account
+and<00:09:49.120><c> click</c><00:09:50.120><c> on</c></c><c.colorCCCCCC><00:09:50.149><c> sign</c></c><c.colorE5E5E5><00:09:50.810><c> in</c></c>
+
+00:09:52.879 --> 00:09:52.889 align:start position:0%
+and click on<c.colorCCCCCC> sign</c><c.colorE5E5E5> in
+ </c>
+
+00:09:52.889 --> 00:09:55.220 align:start position:0%
+and click on<c.colorCCCCCC> sign</c><c.colorE5E5E5> in
+you<00:09:53.879><c> are</c><00:09:53.999><c> directed</c></c><c.colorCCCCCC><00:09:54.569><c> to</c><00:09:54.720><c> the</c><00:09:54.749><c> setup</c></c>
+
+00:09:55.220 --> 00:09:55.230 align:start position:0%
+<c.colorE5E5E5>you are directed</c><c.colorCCCCCC> to the setup
+ </c>
+
+00:09:55.230 --> 00:09:57.139 align:start position:0%
+<c.colorE5E5E5>you are directed</c><c.colorCCCCCC> to the setup</c>
+<c.colorE5E5E5>instructions</c><c.colorCCCCCC><00:09:55.529><c> and</c><00:09:56.129><c> you</c><00:09:56.609><c> can</c><00:09:56.730><c> see</c><00:09:56.879><c> that</c><00:09:57.029><c> the</c></c>
+
+00:09:57.139 --> 00:09:57.149 align:start position:0%
+<c.colorE5E5E5>instructions</c><c.colorCCCCCC> and you can see that the
+ </c>
+
+00:09:57.149 --> 00:10:00.289 align:start position:0%
+<c.colorE5E5E5>instructions</c><c.colorCCCCCC> and you can see that the
+base</c><c.colorE5E5E5><00:09:57.359><c> URL</c><00:09:57.779><c> and</c></c><c.colorCCCCCC><00:09:58.230><c> an</c></c><c.colorE5E5E5><00:09:58.769><c> integration</c><00:09:59.429><c> token</c><00:09:59.879><c> have</c></c>
+
+00:10:00.289 --> 00:10:00.299 align:start position:0%
+base<c.colorE5E5E5> URL and</c><c.colorCCCCCC> an</c><c.colorE5E5E5> integration token have
+ </c>
+
+00:10:00.299 --> 00:10:03.129 align:start position:0%
+base<c.colorE5E5E5> URL and</c><c.colorCCCCCC> an</c><c.colorE5E5E5> integration token have
+been<00:10:00.569><c> generated</c></c><c.colorCCCCCC><00:10:00.989><c> for</c><00:10:01.319><c> your</c><00:10:01.499><c> slack</c><00:10:01.769><c> workspace</c></c>
+
+00:10:03.129 --> 00:10:03.139 align:start position:0%
+been generated<c.colorCCCCCC> for your slack workspace
+ </c>
+
+00:10:03.139 --> 00:10:05.929 align:start position:0%
+been generated<c.colorCCCCCC> for your slack workspace</c>
+<c.colorE5E5E5>we<00:10:04.139><c> will</c><00:10:04.290><c> use</c><00:10:04.439><c> this</c><00:10:04.679><c> values</c><00:10:05.220><c> to</c><00:10:05.459><c> configure</c></c>
+
+00:10:05.929 --> 00:10:05.939 align:start position:0%
+<c.colorE5E5E5>we will use this values to configure
+ </c>
+
+00:10:05.939 --> 00:10:08.449 align:start position:0%
+<c.colorE5E5E5>we will use this values to configure
+Jenkins<00:10:06.480><c> in</c><00:10:06.929><c> order</c><00:10:07.290><c> to</c><00:10:07.410><c> interact</c><00:10:07.920><c> with</c><00:10:08.040><c> slack</c></c>
+
+00:10:08.449 --> 00:10:08.459 align:start position:0%
+Jenkins<c.colorE5E5E5> in order to interact with slack
+ </c>
+
+00:10:08.459 --> 00:10:12.679 align:start position:0%
+Jenkins<c.colorE5E5E5> in order to interact with slack</c>
+<c.colorCCCCCC>so<00:10:09.059><c> keep</c><00:10:09.419><c> this</c><00:10:09.660><c> tab</c></c><c.colorE5E5E5><00:10:10.019><c> open</c><00:10:10.970><c> the</c><00:10:11.970><c> next</c><00:10:12.239><c> step</c><00:10:12.449><c> is</c></c>
+
+00:10:12.679 --> 00:10:12.689 align:start position:0%
+<c.colorCCCCCC>so keep this tab</c><c.colorE5E5E5> open the next step is
+ </c>
+
+00:10:12.689 --> 00:10:14.809 align:start position:0%
+<c.colorCCCCCC>so keep this tab</c><c.colorE5E5E5> open the next step is
+to<00:10:12.929><c> install</c></c><c.colorCCCCCC><00:10:13.169><c> the</c><00:10:13.829><c> slack</c><00:10:14.100><c> notification</c></c>
+
+00:10:14.809 --> 00:10:14.819 align:start position:0%
+to install<c.colorCCCCCC> the slack notification
+ </c>
+
+00:10:14.819 --> 00:10:19.519 align:start position:0%
+to install<c.colorCCCCCC> the slack notification
+plug-in</c><c.colorE5E5E5><00:10:15.829><c> go</c><00:10:16.829><c> back</c><00:10:17.009><c> to</c><00:10:17.189><c> Jenkins</c><00:10:18.379><c> click</c><00:10:19.379><c> on</c></c>
+
+00:10:19.519 --> 00:10:19.529 align:start position:0%
+<c.colorCCCCCC>plug-in</c><c.colorE5E5E5> go back to Jenkins click on
+ </c>
+
+00:10:19.529 --> 00:10:22.970 align:start position:0%
+<c.colorCCCCCC>plug-in</c><c.colorE5E5E5> go back to Jenkins click on</c>
+<c.colorE5E5E5>manage<00:10:19.919><c> Jenkins</c><00:10:20.459><c> and</c><00:10:20.989><c> then</c><00:10:21.989><c> on</c><00:10:22.199><c> manage</c></c>
+
+00:10:22.970 --> 00:10:22.980 align:start position:0%
+<c.colorE5E5E5>manage Jenkins and then on manage
+ </c>
+
+00:10:22.980 --> 00:10:26.359 align:start position:0%
+<c.colorE5E5E5>manage Jenkins and then on manage</c>
+<c.colorCCCCCC>plugins<00:10:23.809><c> click</c><00:10:24.809><c> on</c><00:10:24.929><c> the</c><00:10:25.199><c> tab</c><00:10:25.410><c> available</c></c><c.colorE5E5E5><00:10:26.069><c> and</c></c>
+
+00:10:26.359 --> 00:10:26.369 align:start position:0%
+<c.colorCCCCCC>plugins click on the tab available</c><c.colorE5E5E5> and
+ </c>
+
+00:10:26.369 --> 00:10:28.659 align:start position:0%
+<c.colorCCCCCC>plugins click on the tab available</c><c.colorE5E5E5> and
+search<00:10:26.939><c> for</c><00:10:27.209><c> the</c><00:10:27.299><c> plug-in</c><00:10:27.540><c> called</c><00:10:27.989><c> slack</c></c>
+
+00:10:28.659 --> 00:10:28.669 align:start position:0%
+search for the<c.colorE5E5E5> plug-in called slack
+ </c>
+
+00:10:28.669 --> 00:10:34.460 align:start position:0%
+search for the<c.colorE5E5E5> plug-in called slack
+notification<00:10:32.179><c> select</c><00:10:33.179><c> it</c><00:10:33.389><c> and</c><00:10:33.569><c> click</c></c><c.colorCCCCCC><00:10:34.230><c> on</c></c>
+
+00:10:34.460 --> 00:10:34.470 align:start position:0%
+notification select it<c.colorE5E5E5> and click</c><c.colorCCCCCC> on
+ </c>
+
+00:10:34.470 --> 00:10:38.090 align:start position:0%
+notification select it<c.colorE5E5E5> and click</c><c.colorCCCCCC> on
+install</c><c.colorE5E5E5><00:10:34.919><c> without</c><00:10:35.549><c> restart</c><00:10:36.179><c> and</c><00:10:36.449><c> wait</c><00:10:37.439><c> until</c></c>
+
+00:10:38.090 --> 00:10:38.100 align:start position:0%
+install<c.colorE5E5E5> without restart and wait until
+ </c>
+
+00:10:38.100 --> 00:10:41.350 align:start position:0%
+install<c.colorE5E5E5> without restart and wait until
+the<00:10:38.309><c> installation</c><00:10:38.429><c> finishes</c></c>
+
+00:10:41.350 --> 00:10:41.360 align:start position:0%
+the installation<c.colorE5E5E5> finishes
+ </c>
+
+00:10:41.360 --> 00:10:43.720 align:start position:0%
+ 
+although<00:10:42.230><c> it</c><00:10:42.500><c> says</c><00:10:42.829><c> that</c><00:10:43.070><c> you</c><00:10:43.220><c> can</c><00:10:43.399><c> start</c>
+
+00:10:43.720 --> 00:10:43.730 align:start position:0%
+although it says that you can start
+ 
+
+00:10:43.730 --> 00:10:45.639 align:start position:0%
+although it says that you can start
+using<00:10:44.000><c> this</c><c.colorCCCCCC><00:10:44.300><c> plug-in</c><00:10:44.630><c> right</c><00:10:45.050><c> away</c></c>
+
+00:10:45.639 --> 00:10:45.649 align:start position:0%
+using this<c.colorCCCCCC> plug-in right away
+ </c>
+
+00:10:45.649 --> 00:10:49.269 align:start position:0%
+using this<c.colorCCCCCC> plug-in right away
+sometimes<00:10:46.519><c> I</c></c><c.colorE5E5E5><00:10:46.760><c> experience</c><00:10:47.360><c> with</c><00:10:47.930><c> errors</c><00:10:48.589><c> so</c></c>
+
+00:10:49.269 --> 00:10:49.279 align:start position:0%
+sometimes I<c.colorE5E5E5> experience with errors so
+ </c>
+
+00:10:49.279 --> 00:10:52.850 align:start position:0%
+sometimes I<c.colorE5E5E5> experience with errors so
+this<00:10:49.700><c> time</c><00:10:50.000><c> I</c><00:10:50.029><c> prefer</c><00:10:50.360><c> to</c><00:10:50.660><c> restart</c><00:10:51.230><c> Jenkins</c></c>
+
+00:10:52.850 --> 00:10:52.860 align:start position:0%
+this time I prefer<c.colorE5E5E5> to restart Jenkins
+ </c>
+
+00:10:52.860 --> 00:10:55.990 align:start position:0%
+this time I prefer<c.colorE5E5E5> to restart Jenkins</c>
+<c.colorE5E5E5>wait<00:10:53.790><c> until</c><00:10:53.970><c> Jenkins</c><00:10:54.660><c> has</c><00:10:54.810><c> been</c><00:10:55.020><c> restarted</c></c>
+
+00:10:55.990 --> 00:10:56.000 align:start position:0%
+<c.colorE5E5E5>wait until Jenkins has been restarted
+ </c>
+
+00:10:56.000 --> 00:11:00.770 align:start position:0%
+<c.colorE5E5E5>wait until Jenkins has been restarted</c>
+<c.colorE5E5E5>then<00:10:57.000><c> go</c><00:10:57.420><c> back</c></c><c.colorCCCCCC><00:10:57.630><c> to</c><00:10:57.840><c> manage</c><00:10:58.470><c> engines</c></c><c.colorE5E5E5><00:10:59.010><c> and</c><00:10:59.780><c> head</c></c>
+
+00:11:00.770 --> 00:11:00.780 align:start position:0%
+<c.colorE5E5E5>then go back</c><c.colorCCCCCC> to manage engines</c><c.colorE5E5E5> and head
+ </c>
+
+00:11:00.780 --> 00:11:03.500 align:start position:0%
+<c.colorE5E5E5>then go back</c><c.colorCCCCCC> to manage engines</c><c.colorE5E5E5> and head
+to<00:11:01.050><c> configure</c><00:11:01.710><c> system</c></c>
+
+00:11:03.500 --> 00:11:03.510 align:start position:0%
+to configure system
+ 
+
+00:11:03.510 --> 00:11:07.759 align:start position:0%
+to configure system
+in<00:11:03.680><c> here</c><c.colorE5E5E5><00:11:04.680><c> search</c></c><c.colorCCCCCC><00:11:05.310><c> for</c><00:11:05.639><c> slack</c><00:11:06.000><c> notifier</c><00:11:06.769><c> we</c></c>
+
+00:11:07.759 --> 00:11:07.769 align:start position:0%
+in here<c.colorE5E5E5> search</c><c.colorCCCCCC> for slack notifier we
+ </c>
+
+00:11:07.769 --> 00:11:10.970 align:start position:0%
+in here<c.colorE5E5E5> search</c><c.colorCCCCCC> for slack notifier we
+start<00:11:08.070><c> by</c><00:11:08.250><c> setting</c><00:11:08.519><c> up</c><00:11:08.820><c> the</c><00:11:09.060><c> base</c></c><c.colorE5E5E5><00:11:09.269><c> URL</c><00:11:09.800><c> we</c><00:11:10.800><c> can</c></c>
+
+00:11:10.970 --> 00:11:10.980 align:start position:0%
+start by setting<c.colorCCCCCC> up the base</c><c.colorE5E5E5> URL we can
+ </c>
+
+00:11:10.980 --> 00:11:12.889 align:start position:0%
+start by setting<c.colorCCCCCC> up the base</c><c.colorE5E5E5> URL we can
+find<00:11:11.250><c> this</c><00:11:11.459><c> value</c><00:11:11.910><c> in</c><00:11:12.120><c> the</c><00:11:12.269><c> slack</c><00:11:12.540><c> integration</c></c>
+
+00:11:12.889 --> 00:11:12.899 align:start position:0%
+find this value in the slack integration
+ 
+
+00:11:12.899 --> 00:11:17.650 align:start position:0%
+find this value in the slack integration
+<c.colorE5E5E5>page<00:11:13.560><c> we</c><00:11:13.949><c> saw</c><00:11:14.190><c> before</c></c><c.colorCCCCCC><00:11:14.600><c> copy</c><00:11:15.600><c> the</c><00:11:15.779><c> URL</c><00:11:16.230><c> and</c></c>
+
+00:11:17.650 --> 00:11:17.660 align:start position:0%
+<c.colorE5E5E5>page we saw before</c><c.colorCCCCCC> copy the URL and
+ </c>
+
+00:11:17.660 --> 00:11:22.490 align:start position:0%
+<c.colorE5E5E5>page we saw before</c><c.colorCCCCCC> copy the URL and</c>
+<c.colorCCCCCC>paste<00:11:18.660><c> it</c><00:11:18.959><c> under</c><00:11:19.110><c> base</c><00:11:19.560><c> URL</c><00:11:21.500><c> inside</c></c>
+
+00:11:22.490 --> 00:11:22.500 align:start position:0%
+<c.colorCCCCCC>paste it under base URL inside
+ </c>
+
+00:11:22.500 --> 00:11:25.340 align:start position:0%
+<c.colorCCCCCC>paste it under base URL inside
+integration<00:11:23.370><c> token</c><00:11:23.790><c> you</c><00:11:24.420><c> could</c></c><c.colorE5E5E5><00:11:24.630><c> also</c><00:11:24.810><c> copy</c></c>
+
+00:11:25.340 --> 00:11:25.350 align:start position:0%
+integration token you could<c.colorE5E5E5> also copy
+ </c>
+
+00:11:25.350 --> 00:11:27.199 align:start position:0%
+integration token you could<c.colorE5E5E5> also copy
+paste<00:11:25.740><c> the</c><00:11:26.190><c> token</c><00:11:26.610><c> from</c><00:11:26.760><c> the</c><00:11:26.970><c> slack</c></c>
+
+00:11:27.199 --> 00:11:27.209 align:start position:0%
+<c.colorE5E5E5>paste the token from the slack
+ </c>
+
+00:11:27.209 --> 00:11:30.530 align:start position:0%
+<c.colorE5E5E5>paste the token from the slack
+integration</c><c.colorCCCCCC><00:11:27.620><c> but</c><00:11:28.620><c> a</c><00:11:28.800><c> more</c><00:11:29.100><c> secure</c><00:11:29.610><c> way</c><00:11:29.880><c> to</c></c><c.colorE5E5E5><00:11:30.180><c> use</c></c>
+
+00:11:30.530 --> 00:11:30.540 align:start position:0%
+integration<c.colorCCCCCC> but a more secure way to</c><c.colorE5E5E5> use
+ </c>
+
+00:11:30.540 --> 00:11:32.990 align:start position:0%
+integration<c.colorCCCCCC> but a more secure way to</c><c.colorE5E5E5> use</c>
+<c.colorCCCCCC>it<00:11:30.779><c> is</c><00:11:30.959><c> to</c></c><c.colorE5E5E5><00:11:31.350><c> store</c><00:11:32.010><c> it</c><00:11:32.160><c> as</c><00:11:32.370><c> an</c><00:11:32.550><c> integration</c></c>
+
+00:11:32.990 --> 00:11:33.000 align:start position:0%
+<c.colorCCCCCC>it is to</c><c.colorE5E5E5> store it as an integration
+ </c>
+
+00:11:33.000 --> 00:11:37.160 align:start position:0%
+<c.colorCCCCCC>it is to</c><c.colorE5E5E5> store it as an integration</c>
+<c.colorE5E5E5>token<00:11:33.690><c> credential</c><00:11:34.350><c> ID</c><00:11:35.360><c> click</c><00:11:36.360><c> on</c></c><c.colorCCCCCC><00:11:36.389><c> add</c><00:11:36.720><c> and</c></c>
+
+00:11:37.160 --> 00:11:37.170 align:start position:0%
+<c.colorE5E5E5>token credential ID click on</c><c.colorCCCCCC> add and
+ </c>
+
+00:11:37.170 --> 00:11:40.050 align:start position:0%
+<c.colorE5E5E5>token credential ID click on</c><c.colorCCCCCC> add and
+then<00:11:37.529><c> on</c></c><c.colorE5E5E5><00:11:37.769><c> Jenkins</c></c>
+
+00:11:40.050 --> 00:11:40.060 align:start position:0%
+then on<c.colorE5E5E5> Jenkins
+ </c>
+
+00:11:40.060 --> 00:11:45.930 align:start position:0%
+then on<c.colorE5E5E5> Jenkins
+in<00:11:40.870><c> kind</c><00:11:41.820><c> select</c><00:11:42.820><c> secret</c><00:11:43.540><c> text</c><00:11:44.260><c> and</c><00:11:44.940><c> the</c></c>
+
+00:11:45.930 --> 00:11:45.940 align:start position:0%
+in kind<c.colorE5E5E5> select secret text and the
+ </c>
+
+00:11:45.940 --> 00:11:50.240 align:start position:0%
+in kind<c.colorE5E5E5> select secret text and the
+secret</c><c.colorCCCCCC><00:11:46.410><c> copy-paste</c><00:11:47.410><c> the</c><00:11:47.770><c> integration</c><00:11:48.400><c> token</c></c>
+
+00:11:50.240 --> 00:11:50.250 align:start position:0%
+secret<c.colorCCCCCC> copy-paste the integration token
+ </c>
+
+00:11:50.250 --> 00:11:53.720 align:start position:0%
+secret<c.colorCCCCCC> copy-paste the integration token</c>
+<c.colorE5E5E5>then<00:11:51.150><c> type</c><00:11:51.510><c> an</c><00:11:51.750><c> ID</c><00:11:51.990><c> and</c><00:11:52.440><c> description</c><00:11:53.430><c> for</c><00:11:53.640><c> your</c></c>
+
+00:11:53.720 --> 00:11:53.730 align:start position:0%
+<c.colorE5E5E5>then type an ID and description for your
+ </c>
+
+00:11:53.730 --> 00:11:57.410 align:start position:0%
+<c.colorE5E5E5>then type an ID and description for your
+token<00:11:54.180><c> finally</c><00:11:55.080><c> click</c><00:11:55.500><c> on</c><00:11:55.530><c> add</c><00:11:56.240><c> once</c><00:11:57.240><c> the</c></c>
+
+00:11:57.410 --> 00:11:57.420 align:start position:0%
+token<c.colorE5E5E5> finally click on add once the
+ </c>
+
+00:11:57.420 --> 00:11:59.750 align:start position:0%
+token<c.colorE5E5E5> finally click on add once the
+integration<00:11:57.990><c> token</c><00:11:58.350><c> credential</c><00:11:58.920><c> ID</c><00:11:59.160><c> has</c><00:11:59.520><c> been</c></c>
+
+00:11:59.750 --> 00:11:59.760 align:start position:0%
+integration token credential ID has been
+ 
+
+00:11:59.760 --> 00:12:02.270 align:start position:0%
+integration token credential ID has been
+created<00:12:00.330><c> you</c><c.colorCCCCCC><00:12:00.540><c> can</c><00:12:01.050><c> select</c></c><c.colorE5E5E5><00:12:01.320><c> it</c><00:12:01.650><c> from</c><00:12:01.860><c> the</c><00:12:02.070><c> drop</c></c>
+
+00:12:02.270 --> 00:12:02.280 align:start position:0%
+created you<c.colorCCCCCC> can select</c><c.colorE5E5E5> it from the drop
+ </c>
+
+00:12:02.280 --> 00:12:06.560 align:start position:0%
+created you<c.colorCCCCCC> can select</c><c.colorE5E5E5> it from the drop
+down<00:12:02.310><c> menu</c><00:12:03.120><c> in</c></c><c.colorCCCCCC><00:12:03.800><c> team</c></c><c.colorE5E5E5><00:12:04.800><c> sub-domain</c><00:12:05.580><c> type</c><00:12:06.360><c> the</c></c>
+
+00:12:06.560 --> 00:12:06.570 align:start position:0%
+<c.colorE5E5E5>down menu in</c><c.colorCCCCCC> team</c><c.colorE5E5E5> sub-domain type the
+ </c>
+
+00:12:06.570 --> 00:12:09.650 align:start position:0%
+<c.colorE5E5E5>down menu in</c><c.colorCCCCCC> team</c><c.colorE5E5E5> sub-domain type the</c>
+<c.colorE5E5E5>name<00:12:06.750><c> of</c></c><c.colorCCCCCC><00:12:06.780><c> the</c><00:12:07.080><c> slack</c><00:12:07.350><c> workspace</c><00:12:08.040><c> on</c><00:12:08.660><c> the</c></c>
+
+00:12:09.650 --> 00:12:09.660 align:start position:0%
+<c.colorE5E5E5>name of</c><c.colorCCCCCC> the slack workspace on the
+ </c>
+
+00:12:09.660 --> 00:12:12.050 align:start position:0%
+<c.colorE5E5E5>name of</c><c.colorCCCCCC> the slack workspace on the
+channel<00:12:10.110><c> type</c><00:12:10.860><c> the</c><00:12:11.100><c> name</c><00:12:11.280><c> of</c></c><c.colorE5E5E5><00:12:11.460><c> the</c></c><c.colorCCCCCC><00:12:11.550><c> slack</c></c>
+
+00:12:12.050 --> 00:12:12.060 align:start position:0%
+channel<c.colorCCCCCC> type the name of</c><c.colorE5E5E5> the</c><c.colorCCCCCC> slack
+ </c>
+
+00:12:12.060 --> 00:12:13.690 align:start position:0%
+channel<c.colorCCCCCC> type the name of</c><c.colorE5E5E5> the</c><c.colorCCCCCC> slack</c>
+<c.colorE5E5E5>channel<00:12:12.660><c> you</c><00:12:12.900><c> want</c><00:12:13.140><c> to</c><00:12:13.200><c> send</c><00:12:13.560><c> notifications</c></c>
+
+00:12:13.690 --> 00:12:13.700 align:start position:0%
+<c.colorE5E5E5>channel you want to send notifications
+ </c>
+
+00:12:13.700 --> 00:12:17.330 align:start position:0%
+<c.colorE5E5E5>channel you want to send notifications</c>
+<c.colorCCCCCC>to<00:12:14.700><c> and</c></c><c.colorE5E5E5><00:12:15.120><c> remember</c><00:12:16.050><c> to</c><00:12:16.200><c> prefix</c><00:12:16.620><c> it</c><00:12:16.890><c> with</c><00:12:16.920><c> the</c></c>
+
+00:12:17.330 --> 00:12:17.340 align:start position:0%
+<c.colorCCCCCC>to and</c><c.colorE5E5E5> remember to prefix it with the
+ </c>
+
+00:12:17.340 --> 00:12:19.369 align:start position:0%
+<c.colorCCCCCC>to and</c><c.colorE5E5E5> remember to prefix it with the</c>
+<c.colorCCCCCC>ashtag</c>
+
+00:12:19.369 --> 00:12:19.379 align:start position:0%
+<c.colorCCCCCC>ashtag
+ </c>
+
+00:12:19.379 --> 00:12:21.409 align:start position:0%
+<c.colorCCCCCC>ashtag
+you<00:12:20.099><c> can</c><00:12:20.279><c> test</c><00:12:20.519><c> the</c><00:12:20.699><c> connection</c></c><c.colorE5E5E5><00:12:20.729><c> between</c></c>
+
+00:12:21.409 --> 00:12:21.419 align:start position:0%
+you can test the connection<c.colorE5E5E5> between
+ </c>
+
+00:12:21.419 --> 00:12:24.609 align:start position:0%
+you can test the connection<c.colorE5E5E5> between
+Jenkins<00:12:22.139><c> and</c><00:12:22.349><c> slack</c><00:12:22.649><c> by</c><00:12:23.339><c> clicking</c><00:12:23.819><c> on</c><00:12:23.939><c> test</c></c>
+
+00:12:24.609 --> 00:12:24.619 align:start position:0%
+Jenkins<c.colorE5E5E5> and slack by clicking on test
+ </c>
+
+00:12:24.619 --> 00:12:26.620 align:start position:0%
+Jenkins<c.colorE5E5E5> and slack by clicking on test
+connection</c>
+
+00:12:26.620 --> 00:12:26.630 align:start position:0%
+<c.colorE5E5E5>connection
+ </c>
+
+00:12:26.630 --> 00:12:28.870 align:start position:0%
+<c.colorE5E5E5>connection
+this<00:12:27.260><c> should</c><00:12:27.470><c> return</c><00:12:27.800><c> a</c><00:12:27.860><c> successful</c><00:12:28.610><c> message</c></c>
+
+00:12:28.870 --> 00:12:28.880 align:start position:0%
+this should return<c.colorE5E5E5> a successful message
+ </c>
+
+00:12:28.880 --> 00:12:32.140 align:start position:0%
+this should return<c.colorE5E5E5> a successful message</c>
+<c.colorE5E5E5>and<00:12:29.390><c> you</c><00:12:30.110><c> should</c><00:12:30.320><c> see</c><00:12:30.560><c> a</c><00:12:30.770><c> test</c><00:12:31.190><c> message</c></c><c.colorCCCCCC><00:12:31.460><c> in</c><00:12:31.940><c> the</c></c>
+
+00:12:32.140 --> 00:12:32.150 align:start position:0%
+<c.colorE5E5E5>and you should see a test message</c><c.colorCCCCCC> in the
+ </c>
+
+00:12:32.150 --> 00:12:34.410 align:start position:0%
+<c.colorE5E5E5>and you should see a test message</c><c.colorCCCCCC> in the
+slack<00:12:32.420><c> Channel</c></c>
+
+00:12:34.410 --> 00:12:34.420 align:start position:0%
+slack<c.colorCCCCCC> Channel
+ </c>
+
+00:12:34.420 --> 00:12:38.110 align:start position:0%
+slack<c.colorCCCCCC> Channel
+finally<00:12:35.420><c> click</c><00:12:35.899><c> on</c><00:12:35.959><c> save</c></c><c.colorE5E5E5><00:12:36.490><c> let's</c><00:12:37.490><c> go</c><00:12:37.759><c> back</c><00:12:37.940><c> to</c></c>
+
+00:12:38.110 --> 00:12:38.120 align:start position:0%
+finally click<c.colorCCCCCC> on save</c><c.colorE5E5E5> let's go back to
+ </c>
+
+00:12:38.120 --> 00:12:40.420 align:start position:0%
+finally click<c.colorCCCCCC> on save</c><c.colorE5E5E5> let's go back to
+the</c><c.colorCCCCCC><00:12:38.240><c> configuration</c><00:12:38.930><c> on</c><00:12:39.050><c> the</c></c><c.colorE5E5E5><00:12:39.079><c> CI</c><00:12:39.410><c> workflow</c><00:12:40.100><c> job</c></c>
+
+00:12:40.420 --> 00:12:40.430 align:start position:0%
+the<c.colorCCCCCC> configuration on the</c><c.colorE5E5E5> CI workflow job
+ </c>
+
+00:12:40.430 --> 00:12:44.530 align:start position:0%
+the<c.colorCCCCCC> configuration on the</c><c.colorE5E5E5> CI workflow job
+and<00:12:40.899><c> head</c><00:12:41.899><c> to</c><00:12:42.139><c> post</c><00:12:42.410><c> build</c><00:12:42.740><c> actions</c><00:12:43.339><c> are</c><00:12:44.060><c> the</c></c>
+
+00:12:44.530 --> 00:12:44.540 align:start position:0%
+and head to post build<c.colorE5E5E5> actions are the
+ </c>
+
+00:12:44.540 --> 00:12:47.340 align:start position:0%
+and head to post build<c.colorE5E5E5> actions are the
+possible<00:12:45.019><c> action</c><00:12:45.649><c> and</c><00:12:45.829><c> select</c><00:12:46.670><c> slack</c></c>
+
+00:12:47.340 --> 00:12:47.350 align:start position:0%
+possible action and select<c.colorE5E5E5> slack
+ </c>
+
+00:12:47.350 --> 00:12:51.550 align:start position:0%
+possible action and select<c.colorE5E5E5> slack
+notifications<00:12:49.120><c> here</c><00:12:50.120><c> you</c><00:12:50.569><c> can</c><00:12:50.779><c> select</c></c><c.colorCCCCCC><00:12:50.990><c> when</c></c>
+
+00:12:51.550 --> 00:12:51.560 align:start position:0%
+notifications here you can select<c.colorCCCCCC> when
+ </c>
+
+00:12:51.560 --> 00:12:53.800 align:start position:0%
+notifications here you can select<c.colorCCCCCC> when
+to<00:12:51.829><c> send</c><00:12:52.129><c> a</c><00:12:52.220><c> notification</c></c><c.colorE5E5E5><00:12:52.490><c> to</c><00:12:53.029><c> slack</c><00:12:53.300><c> for</c></c>
+
+00:12:53.800 --> 00:12:53.810 align:start position:0%
+to send a notification<c.colorE5E5E5> to slack for
+ </c>
+
+00:12:53.810 --> 00:12:56.019 align:start position:0%
+to send a notification<c.colorE5E5E5> to slack for
+example<00:12:54.259><c> let's</c><00:12:54.769><c> send</c><00:12:54.980><c> notifications</c><00:12:55.670><c> upon</c></c>
+
+00:12:56.019 --> 00:12:56.029 align:start position:0%
+example<c.colorE5E5E5> let's send notifications upon
+ </c>
+
+00:12:56.029 --> 00:13:01.540 align:start position:0%
+example<c.colorE5E5E5> let's send notifications upon
+success<00:12:56.600><c> failure</c><00:12:57.470><c> and</c><00:12:57.819><c> unstable</c><00:13:00.399><c> click</c><00:13:01.399><c> on</c></c>
+
+00:13:01.540 --> 00:13:01.550 align:start position:0%
+success<c.colorE5E5E5> failure and unstable click on
+ </c>
+
+00:13:01.550 --> 00:13:03.819 align:start position:0%
+success<c.colorE5E5E5> failure and unstable click on
+advanced<00:13:02.329><c> and</c></c><c.colorCCCCCC><00:13:02.420><c> you</c><00:13:02.509><c> can</c><00:13:03.470><c> see</c><00:13:03.620><c> other</c></c>
+
+00:13:03.819 --> 00:13:03.829 align:start position:0%
+advanced and<c.colorCCCCCC> you can see other
+ </c>
+
+00:13:03.829 --> 00:13:06.490 align:start position:0%
+advanced and<c.colorCCCCCC> you can see other
+configuration<00:13:04.639><c> options</c><00:13:05.199><c> you</c></c><c.colorE5E5E5><00:13:06.199><c> can</c><00:13:06.350><c> also</c></c>
+
+00:13:06.490 --> 00:13:06.500 align:start position:0%
+configuration options you<c.colorE5E5E5> can also
+ </c>
+
+00:13:06.500 --> 00:13:08.740 align:start position:0%
+configuration options you<c.colorE5E5E5> can also
+override<00:13:07.069><c> the</c><00:13:07.310><c> slack</c><00:13:07.550><c> configuration</c><00:13:08.329><c> we</c><00:13:08.540><c> set</c></c>
+
+00:13:08.740 --> 00:13:08.750 align:start position:0%
+override the slack configuration we<c.colorE5E5E5> set
+ </c>
+
+00:13:08.750 --> 00:13:11.139 align:start position:0%
+override the slack configuration we<c.colorE5E5E5> set
+up<00:13:08.779><c> globally</c><00:13:09.470><c> for</c><00:13:10.160><c> example</c><00:13:10.550><c> if</c><00:13:10.699><c> you</c><00:13:10.879><c> want</c><00:13:11.060><c> to</c></c>
+
+00:13:11.139 --> 00:13:11.149 align:start position:0%
+<c.colorE5E5E5>up globally for example if you want to
+ </c>
+
+00:13:11.149 --> 00:13:13.600 align:start position:0%
+<c.colorE5E5E5>up globally for example if you want to
+send<00:13:11.360><c> notifications</c></c><c.colorCCCCCC><00:13:11.449><c> for</c></c><c.colorE5E5E5><00:13:12.439><c> this</c><00:13:12.620><c> job</c><00:13:13.069><c> to</c></c>
+
+00:13:13.600 --> 00:13:13.610 align:start position:0%
+send notifications<c.colorCCCCCC> for</c><c.colorE5E5E5> this job to
+ </c>
+
+00:13:13.610 --> 00:13:17.380 align:start position:0%
+send notifications<c.colorCCCCCC> for</c><c.colorE5E5E5> this job to
+another<00:13:14.089><c> channel</c><00:13:14.720><c> click</c><00:13:15.649><c> on</c><00:13:15.829><c> save</c></c>
+
+00:13:17.380 --> 00:13:17.390 align:start position:0%
+another<c.colorE5E5E5> channel click on save
+ </c>
+
+00:13:17.390 --> 00:13:22.270 align:start position:0%
+another<c.colorE5E5E5> channel click on save
+and<00:13:17.480><c> build</c><00:13:18.470><c> the</c><00:13:18.770><c> CI</c><00:13:19.010><c> workflow</c><00:13:19.610><c> job</c></c>
+
+00:13:22.270 --> 00:13:22.280 align:start position:0%
+ 
+ 
+
+00:13:22.280 --> 00:13:25.030 align:start position:0%
+ 
+get<00:13:23.060><c> inside</c><c.colorE5E5E5><00:13:23.450><c> the</c><00:13:23.600><c> console</c><00:13:24.050><c> output</c></c><c.colorCCCCCC><00:13:24.200><c> and</c><00:13:24.680><c> wait</c></c>
+
+00:13:25.030 --> 00:13:25.040 align:start position:0%
+get inside<c.colorE5E5E5> the console output</c><c.colorCCCCCC> and wait
+ </c>
+
+00:13:25.040 --> 00:13:27.810 align:start position:0%
+get inside<c.colorE5E5E5> the console output</c><c.colorCCCCCC> and wait</c>
+<c.colorE5E5E5>until<00:13:25.490><c> the</c><00:13:25.670><c> job</c></c><c.colorCCCCCC><00:13:25.910><c> successfully</c><00:13:26.600><c> completes</c></c>
+
+00:13:27.810 --> 00:13:27.820 align:start position:0%
+<c.colorE5E5E5>until the job</c><c.colorCCCCCC> successfully completes
+ </c>
+
+00:13:27.820 --> 00:13:31.270 align:start position:0%
+<c.colorE5E5E5>until the job</c><c.colorCCCCCC> successfully completes
+finally<00:13:28.820><c> go</c><00:13:29.570><c> to</c><00:13:29.600><c> slack</c></c><c.colorE5E5E5><00:13:30.080><c> and</c><00:13:30.440><c> see</c><00:13:30.950><c> that</c><00:13:31.160><c> the</c></c>
+
+00:13:31.270 --> 00:13:31.280 align:start position:0%
+finally go to slack<c.colorE5E5E5> and see that the
+ </c>
+
+00:13:31.280 --> 00:13:35.430 align:start position:0%
+finally go to slack<c.colorE5E5E5> and see that the</c>
+<c.colorCCCCCC>notification</c><c.colorE5E5E5><00:13:32.030><c> has</c><00:13:32.210><c> been</c><00:13:32.540><c> successfully</c><00:13:33.440><c> sent</c></c>
+
+00:13:35.430 --> 00:13:35.440 align:start position:0%
+<c.colorCCCCCC>notification</c><c.colorE5E5E5> has been successfully sent
+ </c>
+
+00:13:35.440 --> 00:13:38.170 align:start position:0%
+<c.colorCCCCCC>notification</c><c.colorE5E5E5> has been successfully sent
+congratulations<00:13:36.440><c> you</c><00:13:36.980><c> just</c></c><c.colorCCCCCC><00:13:37.040><c> set</c><00:13:37.520><c> up</c><00:13:37.760><c> slack</c></c>
+
+00:13:38.170 --> 00:13:38.180 align:start position:0%
+congratulations<c.colorE5E5E5> you just</c><c.colorCCCCCC> set up slack
+ </c>
+
+00:13:38.180 --> 00:13:41.650 align:start position:0%
+congratulations<c.colorE5E5E5> you just</c><c.colorCCCCCC> set up slack
+notifications<00:13:39.790><c> this</c></c><c.colorE5E5E5><00:13:40.790><c> is</c><00:13:41.000><c> the</c><00:13:41.180><c> end</c><00:13:41.330><c> of</c><00:13:41.480><c> the</c></c>
+
+00:13:41.650 --> 00:13:41.660 align:start position:0%
+notifications this<c.colorE5E5E5> is the end of the
+ </c>
+
+00:13:41.660 --> 00:13:44.170 align:start position:0%
+notifications this<c.colorE5E5E5> is the end of the
+demo<00:13:41.870><c> for</c><00:13:42.380><c> this</c><00:13:42.530><c> video</c><00:13:42.860><c> and</c></c><c.colorCCCCCC><00:13:43.160><c> the</c><00:13:43.250><c> end</c><00:13:43.910><c> of</c></c>
+
+00:13:44.170 --> 00:13:44.180 align:start position:0%
+demo for<c.colorE5E5E5> this video and</c><c.colorCCCCCC> the end of
+ </c>
+
+00:13:44.180 --> 00:13:48.160 align:start position:0%
+demo for<c.colorE5E5E5> this video and</c><c.colorCCCCCC> the end of
+section<00:13:45.050><c> 3</c></c><c.colorE5E5E5><00:13:45.670><c> let's</c><00:13:46.670><c> recap</c><00:13:47.210><c> what</c><00:13:47.540><c> you</c><00:13:47.780><c> learn</c><00:13:47.960><c> in</c></c>
+
+00:13:48.160 --> 00:13:48.170 align:start position:0%
+section<c.colorCCCCCC> 3</c><c.colorE5E5E5> let's recap what you learn in
+ </c>
+
+00:13:48.170 --> 00:13:51.130 align:start position:0%
+section<c.colorCCCCCC> 3</c><c.colorE5E5E5> let's recap what you learn in</c>
+<c.colorE5E5E5>this<00:13:48.350><c> section</c><00:13:48.620><c> in</c></c><c.colorCCCCCC><00:13:49.550><c> terms</c><00:13:49.880><c> of</c><00:13:50.060><c> theory</c></c><c.colorE5E5E5><00:13:50.540><c> we</c></c>
+
+00:13:51.130 --> 00:13:51.140 align:start position:0%
+<c.colorE5E5E5>this section in</c><c.colorCCCCCC> terms of theory</c><c.colorE5E5E5> we
+ </c>
+
+00:13:51.140 --> 00:13:52.870 align:start position:0%
+<c.colorE5E5E5>this section in</c><c.colorCCCCCC> terms of theory</c><c.colorE5E5E5> we
+describe<00:13:51.590><c> what</c><00:13:51.980><c> continuous</c><00:13:52.580><c> integration</c></c>
+
+00:13:52.870 --> 00:13:52.880 align:start position:0%
+<c.colorE5E5E5>describe what continuous integration
+ </c>
+
+00:13:52.880 --> 00:13:55.840 align:start position:0%
+<c.colorE5E5E5>describe what continuous integration
+continuous</c><c.colorCCCCCC><00:13:53.570><c> delivery</c></c><c.colorE5E5E5><00:13:54.440><c> and</c><00:13:54.950><c> continuous</c></c>
+
+00:13:55.840 --> 00:13:55.850 align:start position:0%
+continuous<c.colorCCCCCC> delivery</c><c.colorE5E5E5> and continuous
+ </c>
+
+00:13:55.850 --> 00:13:58.870 align:start position:0%
+continuous<c.colorCCCCCC> delivery</c><c.colorE5E5E5> and continuous
+deployment</c><c.colorCCCCCC><00:13:56.060><c> are</c><00:13:56.680><c> we</c><00:13:57.680><c> explored</c><00:13:58.190><c> the</c><00:13:58.310><c> Maven</c></c>
+
+00:13:58.870 --> 00:13:58.880 align:start position:0%
+deployment<c.colorCCCCCC> are we explored the Maven
+ </c>
+
+00:13:58.880 --> 00:14:01.510 align:start position:0%
+deployment<c.colorCCCCCC> are we explored the Maven
+build<00:13:59.180><c> tool</c></c><c.colorE5E5E5><00:13:59.510><c> and</c><00:13:59.840><c> described</c><00:14:00.710><c> different</c><00:14:01.280><c> types</c></c>
+
+00:14:01.510 --> 00:14:01.520 align:start position:0%
+build tool<c.colorE5E5E5> and described different types
+ </c>
+
+00:14:01.520 --> 00:14:04.390 align:start position:0%
+build tool<c.colorE5E5E5> and described different types
+of<00:14:01.820><c> tests</c><00:14:02.360><c> and</c><00:14:02.570><c> notifications</c></c><c.colorCCCCCC><00:14:03.530><c> in</c><00:14:03.860><c> the</c></c>
+
+00:14:04.390 --> 00:14:04.400 align:start position:0%
+of tests<c.colorE5E5E5> and notifications</c><c.colorCCCCCC> in the
+ </c>
+
+00:14:04.400 --> 00:14:07.180 align:start position:0%
+of tests<c.colorE5E5E5> and notifications</c><c.colorCCCCCC> in the</c>
+<c.colorCCCCCC>practical</c><c.colorE5E5E5><00:14:05.000><c> part</c><00:14:05.270><c> we</c><00:14:05.900><c> implemented</c><00:14:06.500><c> a</c><00:14:06.590><c> full</c><00:14:06.860><c> CI</c></c>
+
+00:14:07.180 --> 00:14:07.190 align:start position:0%
+<c.colorCCCCCC>practical</c><c.colorE5E5E5> part we implemented a full CI
+ </c>
+
+00:14:07.190 --> 00:14:11.020 align:start position:0%
+<c.colorCCCCCC>practical</c><c.colorE5E5E5> part we implemented a full CI
+workflow<00:14:07.820><c> using</c></c><c.colorCCCCCC><00:14:08.330><c> github</c><00:14:08.950><c> jenkins</c><00:14:09.950><c> maven</c></c><c.colorE5E5E5><00:14:10.910><c> and</c></c>
+
+00:14:11.020 --> 00:14:11.030 align:start position:0%
+workflow using<c.colorCCCCCC> github jenkins maven</c><c.colorE5E5E5> and
+ </c>
+
+00:14:11.030 --> 00:14:14.620 align:start position:0%
+workflow using<c.colorCCCCCC> github jenkins maven</c><c.colorE5E5E5> and
+slack<00:14:11.630><c> so</c><00:14:12.410><c> now</c></c><c.colorCCCCCC><00:14:13.010><c> that's</c></c><c.colorE5E5E5><00:14:13.490><c> what</c><00:14:13.820><c> you</c><00:14:14.030><c> learned</c><00:14:14.330><c> in</c></c>
+
+00:14:14.620 --> 00:14:14.630 align:start position:0%
+slack<c.colorE5E5E5> so now</c><c.colorCCCCCC> that's</c><c.colorE5E5E5> what you learned in
+ </c>
+
+00:14:14.630 --> 00:14:16.780 align:start position:0%
+slack<c.colorE5E5E5> so now</c><c.colorCCCCCC> that's</c><c.colorE5E5E5> what you learned in
+this<00:14:14.750><c> section</c><00:14:15.260><c> by</c><00:14:15.560><c> heading</c><00:14:15.980><c> to</c><00:14:16.010><c> the</c><00:14:16.250><c> companion</c></c>
+
+00:14:16.780 --> 00:14:16.790 align:start position:0%
+this<c.colorE5E5E5> section by heading to the companion
+ </c>
+
+00:14:16.790 --> 00:14:19.990 align:start position:0%
+this<c.colorE5E5E5> section by heading to the companion
+github<00:14:17.300><c> repository</c><00:14:18.080><c> in</c><00:14:18.350><c> here</c><00:14:19.160><c> you</c><00:14:19.640><c> will</c><00:14:19.790><c> find</c></c>
+
+00:14:19.990 --> 00:14:20.000 align:start position:0%
+github repository<c.colorE5E5E5> in here you will find
+ </c>
+
+00:14:20.000 --> 00:14:22.300 align:start position:0%
+github repository<c.colorE5E5E5> in here you will find</c>
+<c.colorE5E5E5>a<00:14:20.210><c> few</c><00:14:20.510><c> questions</c></c><c.colorCCCCCC><00:14:20.780><c> to</c></c><c.colorE5E5E5><00:14:21.380><c> test</c><00:14:21.620><c> your</c><00:14:21.860><c> Jenkins</c></c>
+
+00:14:22.300 --> 00:14:22.310 align:start position:0%
+<c.colorE5E5E5>a few questions</c><c.colorCCCCCC> to</c><c.colorE5E5E5> test your Jenkins
+ </c>
+
+00:14:22.310 --> 00:14:25.300 align:start position:0%
+<c.colorE5E5E5>a few questions</c><c.colorCCCCCC> to</c><c.colorE5E5E5> test your Jenkins
+knowledge<00:14:22.730><c> and</c><00:14:22.910><c> the</c><00:14:23.390><c> practical</c><00:14:23.870><c> exercise</c><00:14:24.380><c> you</c></c>
+
+00:14:25.300 --> 00:14:25.310 align:start position:0%
+knowledge and the practical exercise<c.colorE5E5E5> you
+ </c>
+
+00:14:25.310 --> 00:14:27.310 align:start position:0%
+knowledge and the practical exercise<c.colorE5E5E5> you
+will<00:14:25.400><c> also</c><00:14:25.580><c> find</c></c><c.colorCCCCCC><00:14:25.910><c> some</c><00:14:26.150><c> suggested</c><00:14:26.750><c> solutions</c></c>
+
+00:14:27.310 --> 00:14:27.320 align:start position:0%
+will<c.colorE5E5E5> also find</c><c.colorCCCCCC> some suggested solutions
+ </c>
+
+00:14:27.320 --> 00:14:30.550 align:start position:0%
+will<c.colorE5E5E5> also find</c><c.colorCCCCCC> some suggested solutions
+to<00:14:27.470><c> the</c></c><c.colorE5E5E5><00:14:27.590><c> exercises</c><00:14:28.340><c> and</c><00:14:28.550><c> if</c><00:14:29.150><c> you</c><00:14:29.450><c> want</c><00:14:29.720><c> you</c><00:14:30.410><c> can</c></c>
+
+00:14:30.550 --> 00:14:30.560 align:start position:0%
+to the<c.colorE5E5E5> exercises and if you want you can
+ </c>
+
+00:14:30.560 --> 00:14:33.910 align:start position:0%
+to the<c.colorE5E5E5> exercises and if you want you can
+interact<00:14:30.980><c> with</c><00:14:31.250><c> me</c><00:14:31.580><c> by</c><00:14:31.940><c> a</c><00:14:31.970><c> github</c></c><c.colorCCCCCC><00:14:32.540><c> in</c><00:14:32.870><c> the</c><00:14:33.650><c> next</c></c>
+
+00:14:33.910 --> 00:14:33.920 align:start position:0%
+interact<c.colorE5E5E5> with me by a github</c><c.colorCCCCCC> in the next
+ </c>
+
+00:14:33.920 --> 00:14:35.350 align:start position:0%
+interact<c.colorE5E5E5> with me by a github</c><c.colorCCCCCC> in the next
+section<00:14:34.310><c> we</c><00:14:34.760><c> are</c></c><c.colorE5E5E5><00:14:34.790><c> going</c></c><c.colorCCCCCC><00:14:34.880><c> to</c><00:14:35.150><c> learn</c></c><c.colorE5E5E5><00:14:35.300><c> what</c></c>
+
+00:14:35.350 --> 00:14:35.360 align:start position:0%
+section we are<c.colorE5E5E5> going</c><c.colorCCCCCC> to learn</c><c.colorE5E5E5> what
+ </c>
+
+00:14:35.360 --> 00:14:38.410 align:start position:0%
+section we are<c.colorE5E5E5> going</c><c.colorCCCCCC> to learn</c><c.colorE5E5E5> what
+pipeline<00:14:36.260><c> is</c><00:14:36.500><c> code</c><00:14:36.800><c> means</c><00:14:37.190><c> and</c><00:14:37.550><c> start</c></c>
+
+00:14:38.410 --> 00:14:38.420 align:start position:0%
+<c.colorE5E5E5>pipeline is code means and start
+ </c>
+
+00:14:38.420 --> 00:14:42.580 align:start position:0%
+<c.colorE5E5E5>pipeline is code means and start
+building<00:14:38.690><c> pipelines</c><00:14:39.230><c> with</c></c><c.colorCCCCCC><00:14:39.950><c> Jenkins</c></c>
+

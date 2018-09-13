@@ -1,0 +1,846 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.280 --> 00:00:02.520 align:start position:0%
+ 
+in<00:00:00.669><c> this</c><00:00:01.060><c> video</c><00:00:01.480><c> we</c><00:00:01.959><c> are</c><00:00:02.020><c> going</c><c.colorE5E5E5><00:00:02.170><c> to</c><00:00:02.350><c> install</c></c>
+
+00:00:02.520 --> 00:00:02.530 align:start position:0%
+in this video we are going<c.colorE5E5E5> to install
+ </c>
+
+00:00:02.530 --> 00:00:06.059 align:start position:0%
+in this video we are going<c.colorE5E5E5> to install</c>
+<c.colorE5E5E5>Jenkins<00:00:03.310><c> on</c><00:00:03.580><c> Linux</c><00:00:04.350><c> you</c><00:00:05.350><c> will</c><00:00:05.500><c> learn</c><00:00:05.680><c> how</c><00:00:06.040><c> to</c></c>
+
+00:00:06.059 --> 00:00:06.069 align:start position:0%
+<c.colorE5E5E5>Jenkins on Linux you will learn how to
+ </c>
+
+00:00:06.069 --> 00:00:09.690 align:start position:0%
+<c.colorE5E5E5>Jenkins on Linux you will learn how to
+install<00:00:06.430><c> Jenkins</c><00:00:07.180><c> on</c><00:00:07.450><c> both</c><00:00:07.839><c> Debian</c><00:00:08.559><c> and</c></c><c.colorCCCCCC><00:00:08.710><c> rpm</c></c>
+
+00:00:09.690 --> 00:00:09.700 align:start position:0%
+install Jenkins<c.colorE5E5E5> on both Debian and</c><c.colorCCCCCC> rpm
+ </c>
+
+00:00:09.700 --> 00:00:12.839 align:start position:0%
+install Jenkins<c.colorE5E5E5> on both Debian and</c><c.colorCCCCCC> rpm
+like<00:00:10.030><c> Linux</c><00:00:10.660><c> distributions</c><00:00:11.469><c> the</c><00:00:12.280><c> practical</c></c>
+
+00:00:12.839 --> 00:00:12.849 align:start position:0%
+like Linux distributions the practical
+ 
+
+00:00:12.849 --> 00:00:15.509 align:start position:0%
+like Linux distributions the practical
+<c.colorE5E5E5>part<00:00:13.120><c> of</c><00:00:13.330><c> this</c><00:00:13.480><c> video</c><00:00:13.929><c> is</c><00:00:14.259><c> to</c><00:00:14.679><c> install</c><00:00:14.980><c> Jenkins</c></c>
+
+00:00:15.509 --> 00:00:15.519 align:start position:0%
+<c.colorE5E5E5>part of this video is to install Jenkins
+ </c>
+
+00:00:15.519 --> 00:00:19.380 align:start position:0%
+<c.colorE5E5E5>part of this video is to install Jenkins</c>
+<c.colorE5E5E5>on<00:00:15.820><c> Ubuntu</c><00:00:16.800><c> the</c><00:00:17.800><c> only</c><00:00:18.100><c> prerequisite</c><00:00:18.850><c> is</c><00:00:19.119><c> to</c></c>
+
+00:00:19.380 --> 00:00:19.390 align:start position:0%
+<c.colorE5E5E5>on Ubuntu the only prerequisite is to
+ </c>
+
+00:00:19.390 --> 00:00:21.050 align:start position:0%
+<c.colorE5E5E5>on Ubuntu the only prerequisite is to
+have<00:00:19.480><c> Java</c></c><c.colorCCCCCC><00:00:19.810><c> installed</c><00:00:20.439><c> on</c><00:00:20.680><c> your</c><00:00:20.859><c> machine</c></c>
+
+00:00:21.050 --> 00:00:21.060 align:start position:0%
+have Java<c.colorCCCCCC> installed on your machine
+ </c>
+
+00:00:21.060 --> 00:00:25.050 align:start position:0%
+have Java<c.colorCCCCCC> installed on your machine</c>
+<c.colorE5E5E5>either<00:00:22.060><c> the</c><00:00:22.480><c> Java</c><00:00:22.869><c> Runtime</c><00:00:23.560><c> environment</c><00:00:24.060><c> JRE</c></c>
+
+00:00:25.050 --> 00:00:25.060 align:start position:0%
+<c.colorE5E5E5>either the Java Runtime environment JRE
+ </c>
+
+00:00:25.060 --> 00:00:28.830 align:start position:0%
+<c.colorE5E5E5>either the Java Runtime environment JRE</c>
+<c.colorE5E5E5>for<00:00:25.840><c> the</c><00:00:26.019><c> Java</c><00:00:26.260><c> development</c><00:00:26.740><c> kit</c></c><c.colorCCCCCC><00:00:27.570><c> JDK</c></c>
+
+00:00:28.830 --> 00:00:28.840 align:start position:0%
+<c.colorE5E5E5>for the Java development kit</c><c.colorCCCCCC> JDK
+ </c>
+
+00:00:28.840 --> 00:00:32.609 align:start position:0%
+<c.colorE5E5E5>for the Java development kit</c><c.colorCCCCCC> JDK
+I<00:00:28.869><c> recommend</c><00:00:29.619><c> to</c></c><c.colorE5E5E5><00:00:29.740><c> use</c><00:00:29.920><c> Java</c><00:00:30.310><c> 8</c><00:00:30.609><c> if</c><00:00:31.090><c> possible</c><00:00:31.840><c> if</c></c>
+
+00:00:32.609 --> 00:00:32.619 align:start position:0%
+I recommend to<c.colorE5E5E5> use Java 8 if possible if
+ </c>
+
+00:00:32.619 --> 00:00:35.340 align:start position:0%
+I recommend to<c.colorE5E5E5> use Java 8 if possible if
+you<00:00:32.860><c> don't</c><00:00:33.040><c> have</c><00:00:33.219><c> Java</c><00:00:33.489><c> installed</c><00:00:33.730><c> yet</c><00:00:34.450><c> here</c></c>
+
+00:00:35.340 --> 00:00:35.350 align:start position:0%
+you don't have Java installed<c.colorE5E5E5> yet here
+ </c>
+
+00:00:35.350 --> 00:00:38.490 align:start position:0%
+you don't have Java installed<c.colorE5E5E5> yet here
+are<00:00:35.440><c> some</c><00:00:35.680><c> commands</c><00:00:36.130><c> to</c><00:00:36.670><c> install</c><00:00:37.090><c> open</c><00:00:37.570><c> JDK</c><00:00:37.809><c> 8</c></c>
+
+00:00:38.490 --> 00:00:38.500 align:start position:0%
+are<c.colorE5E5E5> some commands to install open JDK 8
+ </c>
+
+00:00:38.500 --> 00:00:42.900 align:start position:0%
+are<c.colorE5E5E5> some commands to install open JDK 8
+on<00:00:39.219><c> debian</c><00:00:39.820><c> like</c><00:00:40.059><c> distros</c><00:00:40.780><c> such</c><00:00:41.320><c> as</c></c><c.colorCCCCCC><00:00:41.530><c> Ubuntu</c></c><c.colorE5E5E5><00:00:41.920><c> we</c></c>
+
+00:00:42.900 --> 00:00:42.910 align:start position:0%
+on<c.colorE5E5E5> debian like distros such as</c><c.colorCCCCCC> Ubuntu</c><c.colorE5E5E5> we
+ </c>
+
+00:00:42.910 --> 00:00:44.639 align:start position:0%
+on<c.colorE5E5E5> debian like distros such as</c><c.colorCCCCCC> Ubuntu</c><c.colorE5E5E5> we
+will<00:00:43.030><c> not</c><00:00:43.210><c> go</c><00:00:43.420><c> into</c><00:00:43.690><c> the</c><00:00:43.960><c> Java</c><00:00:44.230><c> installation</c></c>
+
+00:00:44.639 --> 00:00:44.649 align:start position:0%
+will not go into the Java installation
+ 
+
+00:00:44.649 --> 00:00:46.799 align:start position:0%
+will not go into the Java installation
+during<c.colorE5E5E5><00:00:45.309><c> the</c><00:00:45.489><c> practical</c><00:00:46.059><c> part</c><00:00:46.270><c> of</c><00:00:46.510><c> the</c><00:00:46.660><c> video</c></c>
+
+00:00:46.799 --> 00:00:46.809 align:start position:0%
+during<c.colorE5E5E5> the practical part of the video
+ </c>
+
+00:00:46.809 --> 00:00:49.049 align:start position:0%
+during<c.colorE5E5E5> the practical part of the video</c>
+<c.colorCCCCCC>but<00:00:47.260><c> do</c><00:00:47.440><c> check</c><00:00:47.469><c> that</c></c><c.colorE5E5E5><00:00:48.010><c> you</c></c><c.colorCCCCCC><00:00:48.309><c> have</c><00:00:48.430><c> Java</c></c><c.colorE5E5E5><00:00:48.730><c> 8</c></c>
+
+00:00:49.049 --> 00:00:49.059 align:start position:0%
+<c.colorCCCCCC>but do check that</c><c.colorE5E5E5> you</c><c.colorCCCCCC> have Java</c><c.colorE5E5E5> 8
+ </c>
+
+00:00:49.059 --> 00:00:52.500 align:start position:0%
+<c.colorCCCCCC>but do check that</c><c.colorE5E5E5> you</c><c.colorCCCCCC> have Java</c><c.colorE5E5E5> 8
+installed<00:00:49.809><c> before</c><00:00:50.469><c> you</c><00:00:50.590><c> start</c><00:00:50.980><c> here</c><00:00:51.969><c> are</c><00:00:52.180><c> some</c></c>
+
+00:00:52.500 --> 00:00:52.510 align:start position:0%
+installed<c.colorE5E5E5> before you start here are some
+ </c>
+
+00:00:52.510 --> 00:00:55.380 align:start position:0%
+installed<c.colorE5E5E5> before you start here are some
+commands<00:00:52.930><c> to</c><00:00:53.260><c> install</c><00:00:53.620><c> Jenkins</c><00:00:54.160><c> on</c></c><c.colorCCCCCC><00:00:54.430><c> rpm</c><00:00:55.090><c> based</c></c>
+
+00:00:55.380 --> 00:00:55.390 align:start position:0%
+commands to install Jenkins on<c.colorCCCCCC> rpm based
+ </c>
+
+00:00:55.390 --> 00:00:58.680 align:start position:0%
+commands to install Jenkins on<c.colorCCCCCC> rpm based</c>
+<c.colorE5E5E5>Linux<00:00:56.020><c> distributions</c><00:00:56.920><c> like</c><00:00:57.640><c> red</c><00:00:58.090><c> head</c><00:00:58.390><c> and</c></c>
+
+00:00:58.680 --> 00:00:58.690 align:start position:0%
+<c.colorE5E5E5>Linux distributions like red head and
+ </c>
+
+00:00:58.690 --> 00:01:02.459 align:start position:0%
+<c.colorE5E5E5>Linux distributions like red head and
+Santos<00:00:59.609><c> again</c><00:01:00.609><c> will</c><00:01:01.090><c> not</c><00:01:01.270><c> show</c><00:01:01.539><c> this</c><00:01:01.809><c> during</c></c>
+
+00:01:02.459 --> 00:01:02.469 align:start position:0%
+Santos again will<c.colorE5E5E5> not show this during
+ </c>
+
+00:01:02.469 --> 00:01:04.530 align:start position:0%
+Santos again will<c.colorE5E5E5> not show this during
+the<00:01:02.590><c> practical</c><00:01:03.070><c> part</c><00:01:03.309><c> of</c><00:01:03.520><c> the</c><00:01:03.670><c> video</c></c><c.colorCCCCCC><00:01:04.000><c> but</c><00:01:04.330><c> if</c></c>
+
+00:01:04.530 --> 00:01:04.540 align:start position:0%
+the practical<c.colorE5E5E5> part of the video</c><c.colorCCCCCC> but if
+ </c>
+
+00:01:04.540 --> 00:01:06.960 align:start position:0%
+the practical<c.colorE5E5E5> part of the video</c><c.colorCCCCCC> but if
+you</c><c.colorE5E5E5><00:01:04.570><c> use</c><00:01:04.900><c> this</c><00:01:05.110><c> Linux</c><00:01:05.560><c> distros</c><00:01:06.189><c> you</c><00:01:06.640><c> should</c><00:01:06.880><c> be</c></c>
+
+00:01:06.960 --> 00:01:06.970 align:start position:0%
+you<c.colorE5E5E5> use this Linux distros you should be
+ </c>
+
+00:01:06.970 --> 00:01:08.670 align:start position:0%
+you<c.colorE5E5E5> use this Linux distros you should be
+able<00:01:07.060><c> to</c><00:01:07.210><c> follow</c><00:01:07.510><c> the</c><00:01:07.840><c> video</c><00:01:08.020><c> with</c><00:01:08.470><c> these</c></c>
+
+00:01:08.670 --> 00:01:08.680 align:start position:0%
+able<c.colorE5E5E5> to follow the video with these
+ </c>
+
+00:01:08.680 --> 00:01:11.850 align:start position:0%
+able<c.colorE5E5E5> to follow the video with these
+commands<00:01:09.600><c> finally</c><00:01:10.600><c> these</c><00:01:11.140><c> are</c></c><c.colorCCCCCC><00:01:11.200><c> the</c><00:01:11.530><c> commands</c></c>
+
+00:01:11.850 --> 00:01:11.860 align:start position:0%
+<c.colorE5E5E5>commands finally these are</c><c.colorCCCCCC> the commands
+ </c>
+
+00:01:11.860 --> 00:01:14.609 align:start position:0%
+<c.colorE5E5E5>commands finally these are</c><c.colorCCCCCC> the commands</c>
+<c.colorCCCCCC>to<00:01:12.100><c> install</c><00:01:12.430><c> Jenkins</c><00:01:12.970><c> on</c><00:01:13.210><c> Ubuntu</c><00:01:13.930><c> and</c><00:01:14.110><c> this</c><00:01:14.470><c> is</c></c>
+
+00:01:14.609 --> 00:01:14.619 align:start position:0%
+<c.colorCCCCCC>to install Jenkins on Ubuntu and this is
+ </c>
+
+00:01:14.619 --> 00:01:16.320 align:start position:0%
+<c.colorCCCCCC>to install Jenkins on Ubuntu and this is
+what<00:01:14.860><c> I'm</c><00:01:15.100><c> going</c></c><c.colorE5E5E5><00:01:15.280><c> to</c><00:01:15.400><c> show</c><00:01:15.700><c> you</c></c><c.colorCCCCCC><00:01:15.729><c> during</c><00:01:16.210><c> the</c></c>
+
+00:01:16.320 --> 00:01:16.330 align:start position:0%
+what I'm going<c.colorE5E5E5> to show you</c><c.colorCCCCCC> during the
+ </c>
+
+00:01:16.330 --> 00:01:19.620 align:start position:0%
+what I'm going<c.colorE5E5E5> to show you</c><c.colorCCCCCC> during the
+demo<00:01:16.540><c> in</c><00:01:17.290><c> a</c><00:01:17.530><c> nutshell</c><00:01:17.770><c> we'll</c><00:01:18.670><c> add</c><00:01:18.880><c> the</c><00:01:19.270><c> PPA</c></c>
+
+00:01:19.620 --> 00:01:19.630 align:start position:0%
+demo in a nutshell<c.colorCCCCCC> we'll add the PPA
+ </c>
+
+00:01:19.630 --> 00:01:22.649 align:start position:0%
+demo in a nutshell<c.colorCCCCCC> we'll add the PPA
+repository<00:01:20.470><c> for</c><00:01:20.860><c> Jenkins</c><00:01:21.280><c> long-term</c><00:01:22.060><c> support</c></c>
+
+00:01:22.649 --> 00:01:22.659 align:start position:0%
+repository for Jenkins long-term support
+ 
+
+00:01:22.659 --> 00:01:26.310 align:start position:0%
+repository for Jenkins long-term support
+<c.colorCCCCCC>LDS<00:01:23.619><c> which</c><00:01:24.250><c> I</c><00:01:24.400><c> recommend</c></c><c.colorE5E5E5><00:01:24.850><c> to</c><00:01:25.030><c> use</c><00:01:25.320><c> install</c></c>
+
+00:01:26.310 --> 00:01:26.320 align:start position:0%
+<c.colorCCCCCC>LDS which I recommend</c><c.colorE5E5E5> to use install
+ </c>
+
+00:01:26.320 --> 00:01:30.060 align:start position:0%
+<c.colorCCCCCC>LDS which I recommend</c><c.colorE5E5E5> to use install</c>
+<c.colorE5E5E5>Jenkins<00:01:26.920><c> via</c><00:01:27.220><c> up.get</c><00:01:27.850><c> and</c><00:01:28.380><c> enable</c><00:01:29.380><c> Jenkins</c><00:01:29.890><c> to</c></c>
+
+00:01:30.060 --> 00:01:30.070 align:start position:0%
+<c.colorE5E5E5>Jenkins via up.get and enable Jenkins to
+ </c>
+
+00:01:30.070 --> 00:01:32.819 align:start position:0%
+<c.colorE5E5E5>Jenkins via up.get and enable Jenkins to
+start<00:01:30.400><c> as</c><00:01:30.640><c> a</c><00:01:30.700><c> service</c><00:01:31.270><c> at</c><00:01:31.450><c> boot</c><00:01:31.750><c> time</c><00:01:31.780><c> I</c><00:01:32.320><c> will</c></c>
+
+00:01:32.819 --> 00:01:32.829 align:start position:0%
+start as a service at boot time I will
+ 
+
+00:01:32.829 --> 00:01:36.510 align:start position:0%
+start as a service at boot time I will
+use<00:01:32.979><c> Ubuntu</c><00:01:33.430><c> 1604</c><c.colorE5E5E5><00:01:34.360><c> but</c><00:01:35.320><c> this</c><00:01:35.710><c> instruction</c></c>
+
+00:01:36.510 --> 00:01:36.520 align:start position:0%
+use Ubuntu 1604<c.colorE5E5E5> but this instruction
+ </c>
+
+00:01:36.520 --> 00:01:39.420 align:start position:0%
+use Ubuntu 1604<c.colorE5E5E5> but this instruction
+should<00:01:36.970><c> work</c><00:01:37.210><c> on</c><00:01:37.420><c> any</c><00:01:37.659><c> recent</c><00:01:38.290><c> Ubuntu</c><00:01:38.950><c> distro</c></c>
+
+00:01:39.420 --> 00:01:39.430 align:start position:0%
+should work on any recent<c.colorE5E5E5> Ubuntu distro
+ </c>
+
+00:01:39.430 --> 00:01:42.090 align:start position:0%
+should work on any recent<c.colorE5E5E5> Ubuntu distro</c>
+<c.colorE5E5E5>note<00:01:40.000><c> that</c><00:01:40.420><c> these</c><00:01:40.600><c> instructions</c></c><c.colorCCCCCC><00:01:41.079><c> should</c><00:01:41.920><c> also</c></c>
+
+00:01:42.090 --> 00:01:42.100 align:start position:0%
+<c.colorE5E5E5>note that these instructions</c><c.colorCCCCCC> should also
+ </c>
+
+00:01:42.100 --> 00:01:44.969 align:start position:0%
+<c.colorE5E5E5>note that these instructions</c><c.colorCCCCCC> should also
+work<00:01:42.490><c> if</c><00:01:42.790><c> you</c></c><c.colorE5E5E5><00:01:43.000><c> use</c><00:01:43.210><c> Windows</c><00:01:43.509><c> and</c><00:01:44.049><c> installed</c></c>
+
+00:01:44.969 --> 00:01:44.979 align:start position:0%
+work if you<c.colorE5E5E5> use Windows and installed
+ </c>
+
+00:01:44.979 --> 00:01:48.300 align:start position:0%
+work if you<c.colorE5E5E5> use Windows and installed
+the</c><c.colorCCCCCC><00:01:45.310><c> windows</c><00:01:45.759><c> subsystem</c></c><c.colorE5E5E5><00:01:46.090><c> for</c><00:01:46.869><c> Linux</c><00:01:47.310><c> refer</c></c>
+
+00:01:48.300 --> 00:01:48.310 align:start position:0%
+the<c.colorCCCCCC> windows subsystem</c><c.colorE5E5E5> for Linux refer
+ </c>
+
+00:01:48.310 --> 00:01:52.200 align:start position:0%
+the<c.colorCCCCCC> windows subsystem</c><c.colorE5E5E5> for Linux refer
+back</c><c.colorCCCCCC><00:01:48.549><c> to</c><00:01:48.970><c> video</c><00:01:49.270><c> 1.3</c><00:01:50.700><c> without</c><00:01:51.700><c> any</c><00:01:51.970><c> further</c></c>
+
+00:01:52.200 --> 00:01:52.210 align:start position:0%
+back<c.colorCCCCCC> to video 1.3 without any further
+ </c>
+
+00:01:52.210 --> 00:01:55.920 align:start position:0%
+back<c.colorCCCCCC> to video 1.3 without any further
+ado<00:01:52.600><c> let's</c><00:01:52.840><c> install</c><00:01:53.409><c> Jenkins</c></c><c.colorE5E5E5><00:01:54.009><c> on</c><00:01:54.250><c> Ubuntu</c><00:01:55.119><c> the</c></c>
+
+00:01:55.920 --> 00:01:55.930 align:start position:0%
+ado let's install Jenkins<c.colorE5E5E5> on Ubuntu the
+ </c>
+
+00:01:55.930 --> 00:01:58.859 align:start position:0%
+ado let's install Jenkins<c.colorE5E5E5> on Ubuntu the
+first<00:01:56.290><c> let's</c><00:01:56.829><c> check</c><00:01:57.280><c> that</c><00:01:57.670><c> Java</c><00:01:58.030><c> is</c><00:01:58.270><c> correctly</c></c>
+
+00:01:58.859 --> 00:01:58.869 align:start position:0%
+first let's check that Java is<c.colorE5E5E5> correctly
+ </c>
+
+00:01:58.869 --> 00:02:01.819 align:start position:0%
+first let's check that Java is<c.colorE5E5E5> correctly
+installed<00:01:59.530><c> with</c><00:02:00.130><c> the</c><00:02:00.340><c> Java</c><00:02:00.640><c> version</c><00:02:00.939><c> command</c></c>
+
+00:02:01.819 --> 00:02:01.829 align:start position:0%
+<c.colorE5E5E5>installed with the Java version command
+ </c>
+
+00:02:01.829 --> 00:02:06.929 align:start position:0%
+<c.colorE5E5E5>installed with the Java version command
+here</c><c.colorCCCCCC><00:02:02.829><c> I'm</c><00:02:02.979><c> running</c><00:02:03.579><c> Java</c><00:02:03.850><c> 8</c><00:02:04.119><c> o</c><00:02:04.829><c> 1.8</c><00:02:05.829><c> so</c></c><c.colorE5E5E5><00:02:06.460><c> it's</c></c>
+
+00:02:06.929 --> 00:02:06.939 align:start position:0%
+here<c.colorCCCCCC> I'm running Java 8 o 1.8 so</c><c.colorE5E5E5> it's
+ </c>
+
+00:02:06.939 --> 00:02:08.419 align:start position:0%
+here<c.colorCCCCCC> I'm running Java 8 o 1.8 so</c><c.colorE5E5E5> it's
+fine</c>
+
+00:02:08.419 --> 00:02:08.429 align:start position:0%
+fine
+ 
+
+00:02:08.429 --> 00:02:12.110 align:start position:0%
+fine
+then<00:02:08.849><c> with</c><00:02:09.390><c> this</c><c.colorCCCCCC><00:02:09.659><c> w</c><00:02:10.259><c> get</c><00:02:10.469><c> an</c><00:02:10.739><c> up</c><00:02:11.099><c> key</c><00:02:11.459><c> commands</c></c>
+
+00:02:12.110 --> 00:02:12.120 align:start position:0%
+then with this<c.colorCCCCCC> w get an up key commands
+ </c>
+
+00:02:12.120 --> 00:02:15.289 align:start position:0%
+then with this<c.colorCCCCCC> w get an up key commands</c>
+<c.colorE5E5E5>we<00:02:12.810><c> add</c><00:02:13.019><c> the</c><00:02:13.260><c> key</c><00:02:13.469><c> for</c><00:02:13.739><c> the</c></c><c.colorCCCCCC><00:02:13.829><c> PPA</c></c><c.colorE5E5E5><00:02:14.299><c> repository</c></c>
+
+00:02:15.289 --> 00:02:15.299 align:start position:0%
+<c.colorE5E5E5>we add the key for the</c><c.colorCCCCCC> PPA</c><c.colorE5E5E5> repository
+ </c>
+
+00:02:15.299 --> 00:02:16.369 align:start position:0%
+<c.colorE5E5E5>we add the key for the</c><c.colorCCCCCC> PPA</c><c.colorE5E5E5> repository
+for<00:02:15.719><c> Jenkins</c></c>
+
+00:02:16.369 --> 00:02:16.379 align:start position:0%
+<c.colorE5E5E5>for Jenkins
+ </c>
+
+00:02:16.379 --> 00:02:21.170 align:start position:0%
+<c.colorE5E5E5>for Jenkins
+LTS<00:02:17.810><c> this</c><00:02:18.810><c> requires</c></c><c.colorCCCCCC><00:02:19.469><c> pseudo</c><00:02:20.099><c> permissions</c></c><c.colorE5E5E5><00:02:20.700><c> so</c></c>
+
+00:02:21.170 --> 00:02:21.180 align:start position:0%
+LTS this requires<c.colorCCCCCC> pseudo permissions</c><c.colorE5E5E5> so
+ </c>
+
+00:02:21.180 --> 00:02:24.289 align:start position:0%
+LTS this requires<c.colorCCCCCC> pseudo permissions</c><c.colorE5E5E5> so
+I<00:02:21.420><c> need</c><00:02:21.599><c> to</c><00:02:21.750><c> enter</c></c><c.colorCCCCCC><00:02:22.049><c> my</c><00:02:22.200><c> password</c><00:02:22.230><c> I</c><00:02:23.150><c> get</c><00:02:24.150><c> an</c></c>
+
+00:02:24.289 --> 00:02:24.299 align:start position:0%
+I need to<c.colorE5E5E5> enter</c><c.colorCCCCCC> my password I get an
+ </c>
+
+00:02:24.299 --> 00:02:28.129 align:start position:0%
+I need to<c.colorE5E5E5> enter</c><c.colorCCCCCC> my password I get an</c>
+<c.colorE5E5E5>okay<00:02:24.569><c> so</c><00:02:25.019><c> that's</c><00:02:25.260><c> fine</c><00:02:26.000><c> now</c><00:02:27.000><c> we</c><00:02:27.569><c> add</c><00:02:27.689><c> the</c><00:02:27.959><c> new</c></c>
+
+00:02:28.129 --> 00:02:28.139 align:start position:0%
+<c.colorE5E5E5>okay so that's fine now we add the new
+ </c>
+
+00:02:28.139 --> 00:02:32.080 align:start position:0%
+<c.colorE5E5E5>okay so that's fine now we add the new
+PPA<00:02:28.680><c> to</c></c><c.colorCCCCCC><00:02:29.040><c> our</c><00:02:29.219><c> list</c><00:02:29.579><c> of</c><00:02:29.790><c> PPA</c><00:02:30.269><c> repositories</c></c>
+
+00:02:32.080 --> 00:02:32.090 align:start position:0%
+PPA<c.colorE5E5E5> to</c><c.colorCCCCCC> our list of PPA repositories
+ </c>
+
+00:02:32.090 --> 00:02:35.660 align:start position:0%
+PPA<c.colorE5E5E5> to</c><c.colorCCCCCC> our list of PPA repositories
+finally</c><c.colorE5E5E5><00:02:33.090><c> we</c><00:02:33.599><c> update</c><00:02:33.989><c> our</c><00:02:34.019><c> list</c><00:02:34.500><c> of</c><00:02:34.680><c> PPA</c><00:02:35.040><c> repos</c></c>
+
+00:02:35.660 --> 00:02:35.670 align:start position:0%
+finally<c.colorE5E5E5> we update our list of PPA repos
+ </c>
+
+00:02:35.670 --> 00:02:39.709 align:start position:0%
+finally<c.colorE5E5E5> we update our list of PPA repos
+with<00:02:35.969><c> the</c></c><c.colorCCCCCC><00:02:36.569><c> up.get</c><00:02:37.049><c> update</c><00:02:37.769><c> command</c></c><c.colorE5E5E5><00:02:38.719><c> this</c></c>
+
+00:02:39.709 --> 00:02:39.719 align:start position:0%
+with the<c.colorCCCCCC> up.get update command</c><c.colorE5E5E5> this
+ </c>
+
+00:02:39.719 --> 00:02:41.929 align:start position:0%
+with the<c.colorCCCCCC> up.get update command</c><c.colorE5E5E5> this
+might<00:02:40.170><c> take</c><00:02:40.379><c> a</c><00:02:40.590><c> little</c><00:02:40.620><c> while</c><00:02:41.069><c> depending</c><00:02:41.430><c> on</c></c>
+
+00:02:41.929 --> 00:02:41.939 align:start position:0%
+might<c.colorE5E5E5> take a little while depending on
+ </c>
+
+00:02:41.939 --> 00:02:44.330 align:start position:0%
+might<c.colorE5E5E5> take a little while depending on
+your<00:02:42.239><c> internet</c><00:02:42.870><c> connection</c></c><c.colorCCCCCC><00:02:42.930><c> and</c></c><c.colorE5E5E5><00:02:43.590><c> the</c><00:02:44.010><c> list</c><00:02:44.189><c> of</c></c>
+
+00:02:44.330 --> 00:02:44.340 align:start position:0%
+your<c.colorE5E5E5> internet connection</c><c.colorCCCCCC> and</c><c.colorE5E5E5> the list of
+ </c>
+
+00:02:44.340 --> 00:02:47.360 align:start position:0%
+your<c.colorE5E5E5> internet connection</c><c.colorCCCCCC> and</c><c.colorE5E5E5> the list of
+PPA<00:02:44.780><c> repositories</c><00:02:45.780><c> but</c><00:02:45.810><c> you</c><00:02:46.530><c> can</c><00:02:46.709><c> see</c><00:02:47.010><c> on</c><00:02:47.159><c> the</c></c>
+
+00:02:47.360 --> 00:02:47.370 align:start position:0%
+PPA repositories but<c.colorE5E5E5> you can see on the
+ </c>
+
+00:02:47.370 --> 00:02:50.330 align:start position:0%
+PPA repositories but<c.colorE5E5E5> you can see on the
+first<00:02:47.549><c> line</c><00:02:48.000><c> that</c><00:02:48.629><c> the</c><00:02:48.810><c> PPA</c><00:02:49.169><c> repo</c><00:02:49.769><c> for</c><00:02:50.040><c> Jenkins</c></c>
+
+00:02:50.330 --> 00:02:50.340 align:start position:0%
+first<c.colorE5E5E5> line that the PPA repo for Jenkins
+ </c>
+
+00:02:50.340 --> 00:02:54.559 align:start position:0%
+first<c.colorE5E5E5> line that the PPA repo for Jenkins</c>
+<c.colorE5E5E5>has<00:02:50.760><c> been</c><00:02:51.120><c> updated</c><00:02:51.689><c> I</c><00:02:52.549><c> move</c><00:02:53.549><c> forward</c></c><c.colorCCCCCC><00:02:53.909><c> here</c><00:02:54.450><c> and</c></c>
+
+00:02:54.559 --> 00:02:54.569 align:start position:0%
+<c.colorE5E5E5>has been updated I move forward</c><c.colorCCCCCC> here and
+ </c>
+
+00:02:54.569 --> 00:02:57.500 align:start position:0%
+<c.colorE5E5E5>has been updated I move forward</c><c.colorCCCCCC> here and</c>
+<c.colorE5E5E5>install<00:02:55.409><c> Jenkins</c><00:02:55.980><c> with</c><00:02:56.189><c> the</c><00:02:56.370><c> up</c><00:02:56.519><c> get</c><00:02:56.879><c> install</c></c>
+
+00:02:57.500 --> 00:02:57.510 align:start position:0%
+<c.colorE5E5E5>install Jenkins with the up get install
+ </c>
+
+00:02:57.510 --> 00:03:00.830 align:start position:0%
+<c.colorE5E5E5>install Jenkins with the up get install
+command<00:02:58.280><c> we</c><00:02:59.280><c> are</c><00:02:59.340><c> asked</c><00:02:59.819><c> for</c></c><c.colorCCCCCC><00:02:59.879><c> a</c><00:03:00.030><c> confirmation</c></c>
+
+00:03:00.830 --> 00:03:00.840 align:start position:0%
+command<c.colorE5E5E5> we are asked for</c><c.colorCCCCCC> a confirmation
+ </c>
+
+00:03:00.840 --> 00:03:03.860 align:start position:0%
+command<c.colorE5E5E5> we are asked for</c><c.colorCCCCCC> a confirmation
+and<00:03:00.989><c> the</c><00:03:01.799><c> why</c></c><c.colorE5E5E5><00:03:02.040><c> to</c><00:03:02.099><c> confirm</c><00:03:02.819><c> and</c><00:03:03.060><c> installation</c></c>
+
+00:03:03.860 --> 00:03:03.870 align:start position:0%
+and the<c.colorCCCCCC> why</c><c.colorE5E5E5> to confirm and installation
+ </c>
+
+00:03:03.870 --> 00:03:06.860 align:start position:0%
+and the<c.colorCCCCCC> why</c><c.colorE5E5E5> to confirm and installation
+starts<00:03:04.639><c> this</c><00:03:05.639><c> might</c><00:03:05.909><c> require</c><00:03:06.239><c> some</c><00:03:06.299><c> time</c></c>
+
+00:03:06.860 --> 00:03:06.870 align:start position:0%
+starts this might<c.colorE5E5E5> require some time
+ </c>
+
+00:03:06.870 --> 00:03:09.170 align:start position:0%
+starts this might<c.colorE5E5E5> require some time
+depending</c><c.colorCCCCCC><00:03:07.200><c> on</c><00:03:07.560><c> your</c><00:03:07.739><c> internet</c><00:03:08.099><c> connection</c></c><c.colorE5E5E5><00:03:08.250><c> so</c></c>
+
+00:03:09.170 --> 00:03:09.180 align:start position:0%
+depending<c.colorCCCCCC> on your internet connection</c><c.colorE5E5E5> so
+ </c>
+
+00:03:09.180 --> 00:03:11.300 align:start position:0%
+depending<c.colorCCCCCC> on your internet connection</c><c.colorE5E5E5> so
+I'm<00:03:09.419><c> moving</c><00:03:09.629><c> forward</c><00:03:10.290><c> to</c><00:03:10.590><c> the</c></c><c.colorCCCCCC><00:03:10.620><c> end</c><00:03:10.889><c> of</c><00:03:11.129><c> the</c></c>
+
+00:03:11.300 --> 00:03:11.310 align:start position:0%
+I'm moving forward to the<c.colorCCCCCC> end of the
+ </c>
+
+00:03:11.310 --> 00:03:13.280 align:start position:0%
+I'm moving forward to the<c.colorCCCCCC> end of the
+installation<00:03:11.669><c> where</c><00:03:12.569><c> we</c><00:03:12.750><c> can</c><00:03:12.930><c> see</c><00:03:13.139><c> the</c></c>
+
+00:03:13.280 --> 00:03:13.290 align:start position:0%
+installation<c.colorCCCCCC> where we can see the
+ </c>
+
+00:03:13.290 --> 00:03:15.680 align:start position:0%
+installation<c.colorCCCCCC> where we can see the
+notification<00:03:14.099><c> that</c><00:03:14.250><c> Jenkins</c><00:03:14.790><c> has</c><00:03:15.060><c> been</c><00:03:15.359><c> set</c></c>
+
+00:03:15.680 --> 00:03:15.690 align:start position:0%
+notification<c.colorCCCCCC> that Jenkins has been set
+ </c>
+
+00:03:15.690 --> 00:03:19.339 align:start position:0%
+notification<c.colorCCCCCC> that Jenkins has been set
+up</c><c.colorE5E5E5><00:03:16.129><c> now</c><00:03:17.129><c> we</c><00:03:17.699><c> start</c><00:03:17.970><c> Jenkins</c><00:03:18.479><c> as</c><00:03:18.659><c> a</c><00:03:18.690><c> service</c></c>
+
+00:03:19.339 --> 00:03:19.349 align:start position:0%
+up<c.colorE5E5E5> now we start Jenkins as a service
+ </c>
+
+00:03:19.349 --> 00:03:22.189 align:start position:0%
+up<c.colorE5E5E5> now we start Jenkins as a service
+using<00:03:19.829><c> this</c><00:03:20.010><c> system</c></c><c.colorCCCCCC><00:03:20.430><c> D</c><00:03:20.879><c> command</c></c><c.colorE5E5E5><00:03:21.180><c> and</c><00:03:21.629><c> we</c></c>
+
+00:03:22.189 --> 00:03:22.199 align:start position:0%
+using this system<c.colorCCCCCC> D command</c><c.colorE5E5E5> and we
+ </c>
+
+00:03:22.199 --> 00:03:24.890 align:start position:0%
+using this system<c.colorCCCCCC> D command</c><c.colorE5E5E5> and we
+enable<00:03:22.560><c> Jenkins</c><00:03:23.129><c> to</c><00:03:23.400><c> start</c><00:03:23.729><c> as</c><00:03:23.939><c> a</c><00:03:24.000><c> service</c><00:03:24.659><c> at</c></c>
+
+00:03:24.890 --> 00:03:24.900 align:start position:0%
+enable Jenkins to start as a service at
+ 
+
+00:03:24.900 --> 00:03:28.129 align:start position:0%
+enable Jenkins to start as a service at
+boot<00:03:25.260><c> time</c><c.colorCCCCCC><00:03:25.290><c> with</c><00:03:26.069><c> the</c><00:03:26.250><c> system</c><00:03:26.760><c> CTL</c><00:03:27.510><c> enabled</c></c>
+
+00:03:28.129 --> 00:03:28.139 align:start position:0%
+boot time<c.colorCCCCCC> with the system CTL enabled
+ </c>
+
+00:03:28.139 --> 00:03:30.589 align:start position:0%
+boot time<c.colorCCCCCC> with the system CTL enabled
+command<00:03:28.579><c> you</c><00:03:29.579><c> may</c><00:03:29.699><c> see</c><00:03:29.760><c> a</c><00:03:29.939><c> message</c></c><c.colorE5E5E5><00:03:30.000><c> like</c><00:03:30.540><c> this</c></c>
+
+00:03:30.589 --> 00:03:30.599 align:start position:0%
+command you may see a message<c.colorE5E5E5> like this
+ </c>
+
+00:03:30.599 --> 00:03:34.190 align:start position:0%
+command you may see a message<c.colorE5E5E5> like this</c>
+<c.colorE5E5E5>one<00:03:30.840><c> but</c><00:03:31.290><c> that's</c><00:03:31.739><c> fine</c></c>
+
+00:03:34.190 --> 00:03:34.200 align:start position:0%
+ 
+ 
+
+00:03:34.200 --> 00:03:36.440 align:start position:0%
+ 
+the<c.colorE5E5E5><00:03:34.290><c> Jenkins</c><00:03:34.739><c> is</c><00:03:35.010><c> running</c><00:03:35.489><c> using</c><00:03:35.730><c> the</c><00:03:36.060><c> PS</c></c>
+
+00:03:36.440 --> 00:03:36.450 align:start position:0%
+the<c.colorE5E5E5> Jenkins is running using the PS
+ </c>
+
+00:03:36.450 --> 00:03:37.960 align:start position:0%
+the<c.colorE5E5E5> Jenkins is running using the PS</c>
+<c.colorCCCCCC>command</c>
+
+00:03:37.960 --> 00:03:37.970 align:start position:0%
+<c.colorCCCCCC>command
+ </c>
+
+00:03:37.970 --> 00:03:41.449 align:start position:0%
+<c.colorCCCCCC>command
+now</c><c.colorE5E5E5><00:03:38.970><c> open</c><00:03:39.540><c> your</c><00:03:39.720><c> favorite</c><00:03:39.989><c> browser</c><00:03:40.260><c> and</c><00:03:40.920><c> head</c></c>
+
+00:03:41.449 --> 00:03:41.459 align:start position:0%
+now<c.colorE5E5E5> open your favorite browser and head
+ </c>
+
+00:03:41.459 --> 00:03:45.440 align:start position:0%
+now<c.colorE5E5E5> open your favorite browser and head
+to<00:03:41.760><c> localhost</c><00:03:42.420><c> colon</c><00:03:42.870><c> 8080</c></c><c.colorCCCCCC><00:03:43.760><c> to</c><00:03:44.760><c> see</c><00:03:44.940><c> Jenkins</c></c>
+
+00:03:45.440 --> 00:03:45.450 align:start position:0%
+to<c.colorE5E5E5> localhost colon 8080</c><c.colorCCCCCC> to see Jenkins
+ </c>
+
+00:03:45.450 --> 00:03:48.890 align:start position:0%
+to<c.colorE5E5E5> localhost colon 8080</c><c.colorCCCCCC> to see Jenkins
+running<00:03:46.190><c> we</c></c><c.colorE5E5E5><00:03:47.190><c> are</c><00:03:47.310><c> asked</c><00:03:47.730><c> to</c><00:03:47.760><c> unlock</c><00:03:48.239><c> Jenkins</c></c>
+
+00:03:48.890 --> 00:03:48.900 align:start position:0%
+running we<c.colorE5E5E5> are asked to unlock Jenkins
+ </c>
+
+00:03:48.900 --> 00:03:51.229 align:start position:0%
+running we<c.colorE5E5E5> are asked to unlock Jenkins</c>
+<c.colorE5E5E5>using<00:03:49.800><c> the</c><00:03:49.920><c> temporary</c><00:03:50.340><c> administrator</c></c>
+
+00:03:51.229 --> 00:03:51.239 align:start position:0%
+<c.colorE5E5E5>using the temporary administrator
+ </c>
+
+00:03:51.239 --> 00:03:55.070 align:start position:0%
+<c.colorE5E5E5>using the temporary administrator
+password<00:03:51.599><c> stored</c><00:03:52.410><c> locally</c><00:03:53.150><c> copy</c><00:03:54.150><c> the</c><00:03:54.390><c> path</c><00:03:54.630><c> to</c></c>
+
+00:03:55.070 --> 00:03:55.080 align:start position:0%
+password stored locally<c.colorE5E5E5> copy the path to
+ </c>
+
+00:03:55.080 --> 00:03:57.410 align:start position:0%
+password stored locally<c.colorE5E5E5> copy the path to
+the<00:03:55.200><c> file</c><00:03:55.470><c> and</c><00:03:55.739><c> open</c><00:03:56.340><c> the</c><00:03:56.610><c> file</c><00:03:56.849><c> with</c><00:03:57.239><c> your</c></c>
+
+00:03:57.410 --> 00:03:57.420 align:start position:0%
+the file and open<c.colorE5E5E5> the file with your
+ </c>
+
+00:03:57.420 --> 00:04:01.039 align:start position:0%
+the file and open<c.colorE5E5E5> the file with your
+favorite<00:03:57.900><c> editor</c><00:03:58.730><c> my</c></c><c.colorCCCCCC><00:03:59.730><c> need</c></c><c.colorE5E5E5><00:04:00.030><c> sudo</c></c><c.colorCCCCCC><00:04:00.510><c> rights</c><00:04:00.720><c> to</c></c>
+
+00:04:01.039 --> 00:04:01.049 align:start position:0%
+favorite<c.colorE5E5E5> editor my</c><c.colorCCCCCC> need</c><c.colorE5E5E5> sudo</c><c.colorCCCCCC> rights to
+ </c>
+
+00:04:01.049 --> 00:04:04.150 align:start position:0%
+favorite<c.colorE5E5E5> editor my</c><c.colorCCCCCC> need</c><c.colorE5E5E5> sudo</c><c.colorCCCCCC> rights to
+open<00:04:01.380><c> it</c></c><c.colorE5E5E5><00:04:01.580><c> copy</c><00:04:02.580><c> the</c><00:04:02.790><c> temporary</c><00:04:03.120><c> password</c></c>
+
+00:04:04.150 --> 00:04:04.160 align:start position:0%
+open it<c.colorE5E5E5> copy the temporary password
+ </c>
+
+00:04:04.160 --> 00:04:07.130 align:start position:0%
+open it<c.colorE5E5E5> copy the temporary password</c>
+<c.colorE5E5E5>paste<00:04:05.160><c> it</c><00:04:05.489><c> under</c><00:04:05.840><c> administrator</c><00:04:06.840><c> password</c></c>
+
+00:04:07.130 --> 00:04:07.140 align:start position:0%
+<c.colorE5E5E5>paste it under administrator password
+ </c>
+
+00:04:07.140 --> 00:04:10.979 align:start position:0%
+<c.colorE5E5E5>paste it under administrator password
+and<00:04:07.739><c> click</c><00:04:08.700><c> on</c><00:04:08.730><c> continue</c></c>
+
+00:04:10.979 --> 00:04:10.989 align:start position:0%
+and click on<c.colorE5E5E5> continue
+ </c>
+
+00:04:10.989 --> 00:04:14.429 align:start position:0%
+and click on<c.colorE5E5E5> continue
+we<00:04:11.620><c> are</c><00:04:11.709><c> now</c><00:04:11.890><c> asked</c><00:04:12.430><c> to</c><00:04:12.640><c> customize</c><00:04:13.239><c> Jenkins</c><00:04:13.900><c> by</c></c>
+
+00:04:14.429 --> 00:04:14.439 align:start position:0%
+we are now asked<c.colorE5E5E5> to customize Jenkins by
+ </c>
+
+00:04:14.439 --> 00:04:17.400 align:start position:0%
+we are now asked<c.colorE5E5E5> to customize Jenkins by</c>
+<c.colorCCCCCC>installing<00:04:14.980><c> plugins</c></c><c.colorE5E5E5><00:04:15.630><c> if</c><00:04:16.630><c> you</c><00:04:16.780><c> know</c><00:04:16.900><c> exactly</c></c>
+
+00:04:17.400 --> 00:04:17.410 align:start position:0%
+<c.colorCCCCCC>installing plugins</c><c.colorE5E5E5> if you know exactly
+ </c>
+
+00:04:17.410 --> 00:04:19.949 align:start position:0%
+<c.colorCCCCCC>installing plugins</c><c.colorE5E5E5> if you know exactly
+which<00:04:17.680><c> plugins</c><00:04:18.039><c> you</c><00:04:18.430><c> need</c><00:04:18.639><c> click</c><00:04:19.329><c> on</c><00:04:19.509><c> select</c></c>
+
+00:04:19.949 --> 00:04:19.959 align:start position:0%
+which plugins<c.colorE5E5E5> you need click on select
+ </c>
+
+00:04:19.959 --> 00:04:22.350 align:start position:0%
+which plugins<c.colorE5E5E5> you need click on select
+plugins<00:04:20.289><c> to</c><00:04:20.650><c> install</c><00:04:21.100><c> and</c><00:04:21.430><c> choose</c><00:04:22.150><c> your</c></c>
+
+00:04:22.350 --> 00:04:22.360 align:start position:0%
+plugins<c.colorE5E5E5> to install and choose your
+ </c>
+
+00:04:22.360 --> 00:04:25.890 align:start position:0%
+plugins<c.colorE5E5E5> to install and choose your
+plugins<00:04:23.009><c> otherwise</c><00:04:24.180><c> install</c><00:04:25.180><c> the</c><00:04:25.360><c> suggested</c></c>
+
+00:04:25.890 --> 00:04:25.900 align:start position:0%
+plugins<c.colorE5E5E5> otherwise install the suggested
+ </c>
+
+00:04:25.900 --> 00:04:26.730 align:start position:0%
+plugins<c.colorE5E5E5> otherwise install the suggested
+plugins</c>
+
+00:04:26.730 --> 00:04:26.740 align:start position:0%
+plugins
+ 
+
+00:04:26.740 --> 00:04:29.249 align:start position:0%
+plugins
+I<00:04:26.820><c> recommend</c><00:04:27.820><c> this</c><00:04:27.970><c> option</c><c.colorE5E5E5><00:04:28.210><c> if</c><00:04:28.720><c> you</c></c><c.colorCCCCCC><00:04:29.110><c> are</c></c>
+
+00:04:29.249 --> 00:04:29.259 align:start position:0%
+I recommend this option<c.colorE5E5E5> if you</c><c.colorCCCCCC> are
+ </c>
+
+00:04:29.259 --> 00:04:32.580 align:start position:0%
+I recommend this option<c.colorE5E5E5> if you</c><c.colorCCCCCC> are</c>
+<c.colorE5E5E5>starting<00:04:29.740><c> with</c></c><c.colorCCCCCC><00:04:29.800><c> Jenkins</c></c><c.colorE5E5E5><00:04:31.020><c> this</c><00:04:32.020><c> takes</c><00:04:32.350><c> a</c></c>
+
+00:04:32.580 --> 00:04:32.590 align:start position:0%
+<c.colorE5E5E5>starting with</c><c.colorCCCCCC> Jenkins</c><c.colorE5E5E5> this takes a
+ </c>
+
+00:04:32.590 --> 00:04:34.560 align:start position:0%
+<c.colorE5E5E5>starting with</c><c.colorCCCCCC> Jenkins</c><c.colorE5E5E5> this takes a
+little<00:04:32.800><c> while</c><00:04:33.100><c> depending</c><00:04:33.400><c> on</c><00:04:33.850><c> your</c><00:04:34.060><c> internet</c></c>
+
+00:04:34.560 --> 00:04:34.570 align:start position:0%
+<c.colorE5E5E5>little while depending on your internet
+ </c>
+
+00:04:34.570 --> 00:04:37.230 align:start position:0%
+<c.colorE5E5E5>little while depending on your internet
+connection</c><c.colorCCCCCC><00:04:34.800><c> so</c><00:04:35.800><c> I'm</c><00:04:36.100><c> moving</c></c><c.colorE5E5E5><00:04:36.310><c> forward</c><00:04:36.850><c> a</c><00:04:36.970><c> bit</c></c>
+
+00:04:37.230 --> 00:04:37.240 align:start position:0%
+connection<c.colorCCCCCC> so I'm moving</c><c.colorE5E5E5> forward a bit
+ </c>
+
+00:04:37.240 --> 00:04:39.390 align:start position:0%
+connection<c.colorCCCCCC> so I'm moving</c><c.colorE5E5E5> forward a bit
+until<00:04:37.780><c> we</c></c><c.colorCCCCCC><00:04:37.810><c> get</c></c><c.colorE5E5E5><00:04:38.139><c> to</c><00:04:38.590><c> plugins</c><00:04:39.039><c> installation</c></c>
+
+00:04:39.390 --> 00:04:39.400 align:start position:0%
+until we<c.colorCCCCCC> get</c><c.colorE5E5E5> to plugins installation
+ </c>
+
+00:04:39.400 --> 00:04:43.499 align:start position:0%
+until we<c.colorCCCCCC> get</c><c.colorE5E5E5> to plugins installation</c>
+<c.colorCCCCCC>green<00:04:40.120><c> as</c></c><c.colorE5E5E5><00:04:41.070><c> last</c></c><c.colorCCCCCC><00:04:42.070><c> step</c><00:04:42.400><c> we</c><00:04:43.030><c> are</c></c><c.colorE5E5E5><00:04:43.090><c> asked</c></c><c.colorCCCCCC><00:04:43.449><c> to</c></c>
+
+00:04:43.499 --> 00:04:43.509 align:start position:0%
+<c.colorCCCCCC>green as</c><c.colorE5E5E5> last</c><c.colorCCCCCC> step we are</c><c.colorE5E5E5> asked</c><c.colorCCCCCC> to
+ </c>
+
+00:04:43.509 --> 00:04:46.620 align:start position:0%
+<c.colorCCCCCC>green as</c><c.colorE5E5E5> last</c><c.colorCCCCCC> step we are</c><c.colorE5E5E5> asked</c><c.colorCCCCCC> to
+create</c><c.colorE5E5E5><00:04:43.690><c> the</c><00:04:44.139><c> first</c><00:04:44.349><c> admin</c><00:04:44.919><c> user</c><00:04:45.220><c> enter</c><00:04:46.180><c> a</c></c><c.colorCCCCCC><00:04:46.330><c> user</c></c>
+
+00:04:46.620 --> 00:04:46.630 align:start position:0%
+create<c.colorE5E5E5> the first admin user enter a</c><c.colorCCCCCC> user
+ </c>
+
+00:04:46.630 --> 00:04:51.650 align:start position:0%
+create<c.colorE5E5E5> the first admin user enter a</c><c.colorCCCCCC> user
+name<00:04:46.720><c> a</c><00:04:47.229><c> strong</c><00:04:48.220><c> password</c></c><c.colorE5E5E5><00:04:49.500><c> full</c></c><c.colorCCCCCC><00:04:50.500><c> name</c><00:04:50.800><c> and</c></c>
+
+00:04:51.650 --> 00:04:51.660 align:start position:0%
+<c.colorCCCCCC>name a strong password</c><c.colorE5E5E5> full</c><c.colorCCCCCC> name and
+ </c>
+
+00:04:51.660 --> 00:04:55.379 align:start position:0%
+<c.colorCCCCCC>name a strong password</c><c.colorE5E5E5> full</c><c.colorCCCCCC> name and
+email<00:04:52.660><c> address</c><00:04:53.160><c> and</c><00:04:54.160><c> click</c><00:04:54.430><c> on</c><00:04:54.669><c> save</c><00:04:55.120><c> and</c></c>
+
+00:04:55.379 --> 00:04:55.389 align:start position:0%
+email address<c.colorCCCCCC> and click on save and
+ </c>
+
+00:04:55.389 --> 00:04:59.939 align:start position:0%
+email address<c.colorCCCCCC> and click on save and</c>
+<c.colorCCCCCC>finish<00:04:56.880><c> Jenkins</c></c><c.colorE5E5E5><00:04:57.880><c> is</c><00:04:58.060><c> now</c></c><c.colorCCCCCC><00:04:58.330><c> set</c><00:04:58.690><c> up</c></c><c.colorE5E5E5><00:04:58.720><c> so</c><00:04:59.500><c> start</c></c>
+
+00:04:59.939 --> 00:04:59.949 align:start position:0%
+<c.colorCCCCCC>finish Jenkins</c><c.colorE5E5E5> is now</c><c.colorCCCCCC> set up</c><c.colorE5E5E5> so start
+ </c>
+
+00:04:59.949 --> 00:05:01.860 align:start position:0%
+<c.colorCCCCCC>finish Jenkins</c><c.colorE5E5E5> is now</c><c.colorCCCCCC> set up</c><c.colorE5E5E5> so start
+using<00:05:00.160><c> it</c><00:05:00.490><c> well</c><00:05:01.419><c> done</c></c>
+
+00:05:01.860 --> 00:05:01.870 align:start position:0%
+using<c.colorE5E5E5> it well done
+ </c>
+
+00:05:01.870 --> 00:05:04.290 align:start position:0%
+using<c.colorE5E5E5> it well done
+Jenkins<00:05:02.770><c> is</c><00:05:02.949><c> now</c><00:05:03.190><c> installed</c><00:05:03.699><c> on</c><00:05:03.940><c> your</c><00:05:04.090><c> system</c></c>
+
+00:05:04.290 --> 00:05:04.300 align:start position:0%
+Jenkins<c.colorE5E5E5> is now installed on your system
+ </c>
+
+00:05:04.300 --> 00:05:07.439 align:start position:0%
+Jenkins<c.colorE5E5E5> is now installed on your system</c>
+<c.colorCCCCCC>and<00:05:04.750><c> ready</c><00:05:05.229><c> to</c></c><c.colorE5E5E5><00:05:05.349><c> be</c><00:05:05.590><c> put</c><00:05:05.800><c> to</c><00:05:06.009><c> work</c><00:05:06.090><c> this</c><00:05:07.090><c> is</c><00:05:07.300><c> the</c></c>
+
+00:05:07.439 --> 00:05:07.449 align:start position:0%
+<c.colorCCCCCC>and ready to</c><c.colorE5E5E5> be put to work this is the
+ </c>
+
+00:05:07.449 --> 00:05:09.990 align:start position:0%
+<c.colorCCCCCC>and ready to</c><c.colorE5E5E5> be put to work this is the
+end<00:05:07.599><c> of</c><00:05:07.780><c> this</c><00:05:07.960><c> video</c><00:05:08.229><c> where</c><00:05:09.039><c> we</c><00:05:09.250><c> installed</c></c><c.colorCCCCCC><00:05:09.550><c> and</c></c>
+
+00:05:09.990 --> 00:05:10.000 align:start position:0%
+end of this video<c.colorE5E5E5> where we installed</c><c.colorCCCCCC> and
+ </c>
+
+00:05:10.000 --> 00:05:13.110 align:start position:0%
+end of this video<c.colorE5E5E5> where we installed</c><c.colorCCCCCC> and
+set<00:05:10.330><c> up</c><00:05:10.539><c> Jenkins</c><00:05:11.020><c> on</c></c><c.colorE5E5E5><00:05:11.199><c> Linux</c><00:05:11.620><c> watch</c><00:05:12.610><c> the</c><00:05:12.910><c> next</c></c>
+
+00:05:13.110 --> 00:05:13.120 align:start position:0%
+<c.colorCCCCCC>set up Jenkins on</c><c.colorE5E5E5> Linux watch the next
+ </c>
+
+00:05:13.120 --> 00:05:15.270 align:start position:0%
+<c.colorCCCCCC>set up Jenkins on</c><c.colorE5E5E5> Linux watch the next</c>
+<c.colorCCCCCC>video<00:05:13.570><c> where</c><00:05:14.229><c> we</c><00:05:14.560><c> will</c></c><c.colorE5E5E5><00:05:14.590><c> be</c><00:05:14.889><c> installing</c></c>
+
+00:05:15.270 --> 00:05:15.280 align:start position:0%
+<c.colorCCCCCC>video where we will</c><c.colorE5E5E5> be installing
+ </c>
+
+00:05:15.280 --> 00:05:18.720 align:start position:0%
+<c.colorCCCCCC>video where we will</c><c.colorE5E5E5> be installing
+Jenkins<00:05:16.030><c> with</c><00:05:16.449><c> docker</c></c>
+

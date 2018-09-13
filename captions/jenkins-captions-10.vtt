@@ -1,0 +1,1158 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.299 --> 00:00:03.169 align:start position:0%
+ 
+welcome<00:00:01.199><c> to</c><00:00:01.439><c> the</c><00:00:01.560><c> third</c><00:00:01.770><c> section</c><c.colorCCCCCC><00:00:01.800><c> of</c></c><c.colorE5E5E5><00:00:02.580><c> hands-on</c></c>
+
+00:00:03.169 --> 00:00:03.179 align:start position:0%
+welcome to the third section<c.colorCCCCCC> of</c><c.colorE5E5E5> hands-on
+ </c>
+
+00:00:03.179 --> 00:00:05.539 align:start position:0%
+welcome to the third section<c.colorCCCCCC> of</c><c.colorE5E5E5> hands-on
+continuous<00:00:03.750><c> integration</c><00:00:04.020><c> and</c><00:00:04.649><c> automation</c></c>
+
+00:00:05.539 --> 00:00:05.549 align:start position:0%
+continuous integration and<c.colorE5E5E5> automation
+ </c>
+
+00:00:05.549 --> 00:00:08.720 align:start position:0%
+continuous integration and<c.colorE5E5E5> automation
+with<00:00:05.999><c> Jenkins</c><00:00:06.289><c> in</c><00:00:07.289><c> this</c><00:00:07.680><c> section</c><00:00:07.979><c> we</c><00:00:08.700><c> are</c></c>
+
+00:00:08.720 --> 00:00:08.730 align:start position:0%
+with Jenkins<c.colorE5E5E5> in this section we are
+ </c>
+
+00:00:08.730 --> 00:00:10.970 align:start position:0%
+with Jenkins<c.colorE5E5E5> in this section we are
+going<00:00:08.820><c> to</c><00:00:09.059><c> look</c><00:00:09.210><c> at</c><00:00:09.389><c> key</c><00:00:09.690><c> DevOps</c><00:00:10.259><c> concepts</c></c>
+
+00:00:10.970 --> 00:00:10.980 align:start position:0%
+going<c.colorE5E5E5> to look at key DevOps concepts
+ </c>
+
+00:00:10.980 --> 00:00:13.779 align:start position:0%
+going<c.colorE5E5E5> to look at key DevOps concepts</c>
+<c.colorE5E5E5>like<00:00:11.490><c> continuous</c><00:00:12.299><c> integration</c></c><c.colorCCCCCC><00:00:12.679><c> CI</c></c>
+
+00:00:13.779 --> 00:00:13.789 align:start position:0%
+<c.colorE5E5E5>like continuous integration</c><c.colorCCCCCC> CI
+ </c>
+
+00:00:13.789 --> 00:00:17.089 align:start position:0%
+<c.colorE5E5E5>like continuous integration</c><c.colorCCCCCC> CI
+continuous<00:00:14.789><c> delivery</c></c><c.colorE5E5E5><00:00:15.049><c> CD</c><00:00:16.049><c> and</c><00:00:16.260><c> continuous</c></c>
+
+00:00:17.089 --> 00:00:17.099 align:start position:0%
+continuous delivery<c.colorE5E5E5> CD and continuous
+ </c>
+
+00:00:17.099 --> 00:00:19.970 align:start position:0%
+continuous delivery<c.colorE5E5E5> CD and continuous
+deployment<00:00:17.250><c> and</c><00:00:17.960><c> explore</c><00:00:18.960><c> differences</c><00:00:19.710><c> and</c></c>
+
+00:00:19.970 --> 00:00:19.980 align:start position:0%
+deployment<c.colorE5E5E5> and explore differences and
+ </c>
+
+00:00:19.980 --> 00:00:22.939 align:start position:0%
+deployment<c.colorE5E5E5> and explore differences and
+similarities<00:00:20.250><c> between</c><00:00:21.090><c> them</c><00:00:21.599><c> the</c><00:00:22.529><c> practical</c></c>
+
+00:00:22.939 --> 00:00:22.949 align:start position:0%
+similarities between them the practical
+ 
+
+00:00:22.949 --> 00:00:25.160 align:start position:0%
+similarities between them the practical
+part<00:00:23.279><c> of</c><00:00:23.519><c> this</c><c.colorE5E5E5><00:00:23.670><c> section</c></c><c.colorCCCCCC><00:00:24.150><c> is</c><00:00:24.570><c> to</c><00:00:24.630><c> build</c><00:00:24.990><c> a</c></c>
+
+00:00:25.160 --> 00:00:25.170 align:start position:0%
+part of this<c.colorE5E5E5> section</c><c.colorCCCCCC> is to build a
+ </c>
+
+00:00:25.170 --> 00:00:27.380 align:start position:0%
+part of this<c.colorE5E5E5> section</c><c.colorCCCCCC> is to build a
+continuous<00:00:25.619><c> integration</c><00:00:25.890><c> workflow</c><00:00:26.849><c> using</c></c>
+
+00:00:27.380 --> 00:00:27.390 align:start position:0%
+continuous<c.colorCCCCCC> integration workflow using
+ </c>
+
+00:00:27.390 --> 00:00:31.400 align:start position:0%
+continuous<c.colorCCCCCC> integration workflow using</c>
+<c.colorCCCCCC>github<00:00:27.890><c> Jenkins</c></c><c.colorE5E5E5><00:00:28.890><c> and</c><00:00:29.070><c> slack</c><00:00:29.779><c> let's</c><00:00:30.779><c> start</c><00:00:31.109><c> by</c></c>
+
+00:00:31.400 --> 00:00:31.410 align:start position:0%
+<c.colorCCCCCC>github Jenkins</c><c.colorE5E5E5> and slack let's start by
+ </c>
+
+00:00:31.410 --> 00:00:34.850 align:start position:0%
+<c.colorCCCCCC>github Jenkins</c><c.colorE5E5E5> and slack let's start by
+looking<00:00:31.589><c> at</c><00:00:31.919><c> CI</c><00:00:32.220><c> and</c><00:00:32.610><c> CD</c><00:00:33.180><c> in</c><00:00:33.390><c> this</c><00:00:34.140><c> video</c><00:00:34.560><c> we</c></c>
+
+00:00:34.850 --> 00:00:34.860 align:start position:0%
+looking<c.colorE5E5E5> at CI and CD in this video we
+ </c>
+
+00:00:34.860 --> 00:00:36.260 align:start position:0%
+looking<c.colorE5E5E5> at CI and CD in this video we
+will<00:00:34.980><c> learn</c></c><c.colorCCCCCC><00:00:35.190><c> what</c><00:00:35.490><c> continuous</c><00:00:36.000><c> integration</c></c>
+
+00:00:36.260 --> 00:00:36.270 align:start position:0%
+will learn<c.colorCCCCCC> what continuous integration
+ </c>
+
+00:00:36.270 --> 00:00:40.310 align:start position:0%
+will learn<c.colorCCCCCC> what continuous integration</c>
+<c.colorE5E5E5>CI<00:00:37.220><c> continuous</c><00:00:38.220><c> delivery</c><00:00:38.370><c> CD</c><00:00:39.300><c> and</c><00:00:39.510><c> continuous</c></c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+<c.colorE5E5E5>CI continuous delivery CD and continuous
+ </c>
+
+00:00:40.320 --> 00:00:42.620 align:start position:0%
+<c.colorE5E5E5>CI continuous delivery CD and continuous
+deployment</c><c.colorCCCCCC><00:00:40.500><c> are</c><00:00:41.220><c> and</c><00:00:41.550><c> we</c><00:00:41.910><c> will</c></c><c.colorE5E5E5><00:00:42.000><c> compare</c><00:00:42.450><c> and</c></c>
+
+00:00:42.620 --> 00:00:42.630 align:start position:0%
+deployment<c.colorCCCCCC> are and we will</c><c.colorE5E5E5> compare and
+ </c>
+
+00:00:42.630 --> 00:00:44.660 align:start position:0%
+deployment<c.colorCCCCCC> are and we will</c><c.colorE5E5E5> compare and</c>
+<c.colorE5E5E5>contrast<00:00:42.960><c> them</c><00:00:43.530><c> in</c><00:00:44.010><c> order</c><00:00:44.250><c> to</c><00:00:44.340><c> better</c></c>
+
+00:00:44.660 --> 00:00:44.670 align:start position:0%
+<c.colorE5E5E5>contrast them in order to better
+ </c>
+
+00:00:44.670 --> 00:00:47.420 align:start position:0%
+<c.colorE5E5E5>contrast them in order to better
+understand<00:00:45.390><c> these</c><00:00:45.780><c> concepts</c></c><c.colorCCCCCC><00:00:46.380><c> we'll</c><00:00:47.190><c> also</c></c>
+
+00:00:47.420 --> 00:00:47.430 align:start position:0%
+understand<c.colorE5E5E5> these concepts</c><c.colorCCCCCC> we'll also
+ </c>
+
+00:00:47.430 --> 00:00:50.720 align:start position:0%
+understand<c.colorE5E5E5> these concepts</c><c.colorCCCCCC> we'll also
+look</c><c.colorE5E5E5><00:00:47.790><c> at</c></c><c.colorCCCCCC><00:00:48.090><c> the</c><00:00:48.240><c> main</c><00:00:48.450><c> benefits</c><00:00:49.080><c> of</c><00:00:49.230><c> CI</c><00:00:49.890><c> and</c><00:00:50.310><c> CD</c></c>
+
+00:00:50.720 --> 00:00:50.730 align:start position:0%
+look<c.colorE5E5E5> at</c><c.colorCCCCCC> the main benefits of CI and CD
+ </c>
+
+00:00:50.730 --> 00:00:53.180 align:start position:0%
+look<c.colorE5E5E5> at</c><c.colorCCCCCC> the main benefits of CI and CD
+so<00:00:51.390><c> that</c><00:00:51.540><c> you</c><00:00:51.660><c> can</c><00:00:51.840><c> convince</c></c><c.colorE5E5E5><00:00:52.170><c> your</c><00:00:52.470><c> manager</c><00:00:52.950><c> to</c></c>
+
+00:00:53.180 --> 00:00:53.190 align:start position:0%
+so that you can convince<c.colorE5E5E5> your manager to
+ </c>
+
+00:00:53.190 --> 00:00:55.160 align:start position:0%
+so that you can convince<c.colorE5E5E5> your manager to
+give<00:00:53.370><c> you</c><00:00:53.520><c> time</c><00:00:53.790><c> and</c><00:00:54.060><c> resources</c></c><c.colorCCCCCC><00:00:54.600><c> to</c><00:00:54.930><c> implement</c></c>
+
+00:00:55.160 --> 00:00:55.170 align:start position:0%
+give you time and resources<c.colorCCCCCC> to implement
+ </c>
+
+00:00:55.170 --> 00:00:58.280 align:start position:0%
+give you time and resources<c.colorCCCCCC> to implement</c>
+<c.colorE5E5E5>these<00:00:55.800><c> DevOps</c><00:00:56.340><c> processes</c><00:00:57.030><c> there</c><00:00:57.870><c> is</c></c><c.colorCCCCCC><00:00:57.990><c> no</c></c>
+
+00:00:58.280 --> 00:00:58.290 align:start position:0%
+<c.colorE5E5E5>these DevOps processes there is</c><c.colorCCCCCC> no
+ </c>
+
+00:00:58.290 --> 00:01:01.130 align:start position:0%
+<c.colorE5E5E5>these DevOps processes there is</c><c.colorCCCCCC> no
+practical<00:00:58.950><c> part</c><00:00:59.250><c> in</c><00:00:59.490><c> this</c><00:00:59.640><c> video</c></c><c.colorE5E5E5><00:00:59.910><c> but</c><00:01:00.750><c> we</c><00:01:00.960><c> will</c></c>
+
+00:01:01.130 --> 00:01:01.140 align:start position:0%
+<c.colorCCCCCC>practical part in this video</c><c.colorE5E5E5> but we will
+ </c>
+
+00:01:01.140 --> 00:01:03.470 align:start position:0%
+<c.colorCCCCCC>practical part in this video</c><c.colorE5E5E5> but we will
+soon<00:01:01.500><c> put</c><00:01:01.950><c> into</c><00:01:02.280><c> practice</c></c><c.colorCCCCCC><00:01:02.790><c> what</c><00:01:02.970><c> we</c><00:01:03.210><c> learn</c></c>
+
+00:01:03.470 --> 00:01:03.480 align:start position:0%
+soon put<c.colorE5E5E5> into practice</c><c.colorCCCCCC> what we learn
+ </c>
+
+00:01:03.480 --> 00:01:06.349 align:start position:0%
+soon put<c.colorE5E5E5> into practice</c><c.colorCCCCCC> what we learn</c>
+<c.colorCCCCCC>here</c><c.colorE5E5E5><00:01:04.019><c> in</c><00:01:04.289><c> the</c><00:01:04.679><c> next</c><00:01:04.920><c> videos</c><00:01:05.280><c> of</c><00:01:05.429><c> this</c><00:01:05.850><c> section</c></c>
+
+00:01:06.349 --> 00:01:06.359 align:start position:0%
+<c.colorCCCCCC>here</c><c.colorE5E5E5> in the next videos of this section
+ </c>
+
+00:01:06.359 --> 00:01:08.840 align:start position:0%
+<c.colorCCCCCC>here</c><c.colorE5E5E5> in the next videos of this section
+let's<00:01:07.229><c> start</c><00:01:07.590><c> with</c><00:01:07.979><c> continuous</c><00:01:08.579><c> integration</c></c>
+
+00:01:08.840 --> 00:01:08.850 align:start position:0%
+let's start with continuous<c.colorE5E5E5> integration
+ </c>
+
+00:01:08.850 --> 00:01:13.730 align:start position:0%
+let's start with continuous<c.colorE5E5E5> integration
+continuous<00:01:09.710><c> integration</c><00:01:11.030><c> OC</c><00:01:12.030><c> I</c><00:01:12.060><c> ensured</c><00:01:12.869><c> can</c></c>
+
+00:01:13.730 --> 00:01:13.740 align:start position:0%
+continuous integration<c.colorE5E5E5> OC I ensured can
+ </c>
+
+00:01:13.740 --> 00:01:15.560 align:start position:0%
+continuous integration<c.colorE5E5E5> OC I ensured can
+be<00:01:13.890><c> defined</c><00:01:14.310><c> as</c><00:01:14.579><c> a</c><00:01:14.609><c> software</c><00:01:15.149><c> development</c></c>
+
+00:01:15.560 --> 00:01:15.570 align:start position:0%
+be defined as a software development
+ 
+
+00:01:15.570 --> 00:01:18.219 align:start position:0%
+be defined as a software development
+practice<00:01:15.920><c> whereby</c><00:01:16.920><c> members</c><c.colorE5E5E5><00:01:17.429><c> of</c><00:01:17.850><c> a</c><00:01:17.939><c> team</c></c>
+
+00:01:18.219 --> 00:01:18.229 align:start position:0%
+practice whereby members<c.colorE5E5E5> of a team
+ </c>
+
+00:01:18.229 --> 00:01:21.679 align:start position:0%
+practice whereby members<c.colorE5E5E5> of a team</c>
+<c.colorE5E5E5>integrate<00:01:19.229><c> build</c><00:01:20.039><c> and</c><00:01:20.340><c> test</c><00:01:20.939><c> their</c><00:01:21.420><c> code</c></c>
+
+00:01:21.679 --> 00:01:21.689 align:start position:0%
+<c.colorE5E5E5>integrate build and test their code
+ </c>
+
+00:01:21.689 --> 00:01:24.370 align:start position:0%
+<c.colorE5E5E5>integrate build and test their code
+frequently<00:01:22.439><c> in</c><00:01:22.799><c> a</c><00:01:23.009><c> development</c><00:01:23.579><c> environment</c></c>
+
+00:01:24.370 --> 00:01:24.380 align:start position:0%
+frequently<c.colorE5E5E5> in a development environment
+ </c>
+
+00:01:24.380 --> 00:01:27.980 align:start position:0%
+frequently<c.colorE5E5E5> in a development environment</c>
+<c.colorCCCCCC>this</c><c.colorE5E5E5><00:01:25.380><c> diagram</c><00:01:26.039><c> taken</c><00:01:26.729><c> from</c></c><c.colorCCCCCC><00:01:26.909><c> martin</c><00:01:27.420><c> fowler's</c></c>
+
+00:01:27.980 --> 00:01:27.990 align:start position:0%
+<c.colorCCCCCC>this</c><c.colorE5E5E5> diagram taken from</c><c.colorCCCCCC> martin fowler's
+ </c>
+
+00:01:27.990 --> 00:01:31.399 align:start position:0%
+<c.colorCCCCCC>this</c><c.colorE5E5E5> diagram taken from</c><c.colorCCCCCC> martin fowler's
+website<00:01:28.649><c> who</c><00:01:29.369><c> contributed</c><00:01:30.270><c> to</c><00:01:30.630><c> popularized</c></c>
+
+00:01:31.399 --> 00:01:31.409 align:start position:0%
+website who contributed<c.colorCCCCCC> to popularized
+ </c>
+
+00:01:31.409 --> 00:01:33.730 align:start position:0%
+website who contributed<c.colorCCCCCC> to popularized
+the<00:01:31.710><c> term</c></c><c.colorE5E5E5><00:01:31.740><c> continuous</c></c><c.colorCCCCCC><00:01:32.520><c> integration</c></c>
+
+00:01:33.730 --> 00:01:33.740 align:start position:0%
+the term<c.colorE5E5E5> continuous</c><c.colorCCCCCC> integration
+ </c>
+
+00:01:33.740 --> 00:01:36.739 align:start position:0%
+the term<c.colorE5E5E5> continuous</c><c.colorCCCCCC> integration
+illustrates<00:01:34.740><c> three</c><00:01:35.310><c> main</c><00:01:35.609><c> principles</c><00:01:35.939><c> of</c><00:01:36.600><c> a</c></c>
+
+00:01:36.739 --> 00:01:36.749 align:start position:0%
+illustrates three main principles<c.colorCCCCCC> of a
+ </c>
+
+00:01:36.749 --> 00:01:40.609 align:start position:0%
+illustrates three main principles<c.colorCCCCCC> of a
+CI<00:01:37.020><c> workflow</c><00:01:37.740><c> first</c><00:01:38.929><c> developers</c><00:01:39.929><c> work</c><00:01:40.350><c> on</c><00:01:40.590><c> a</c></c>
+
+00:01:40.609 --> 00:01:40.619 align:start position:0%
+CI workflow first developers work on a
+ 
+
+00:01:40.619 --> 00:01:42.559 align:start position:0%
+CI workflow first developers work on a
+shared<00:01:41.009><c> code</c><00:01:41.369><c> base</c><c.colorE5E5E5><00:01:41.670><c> under</c><00:01:42.179><c> version</c><00:01:42.359><c> control</c></c>
+
+00:01:42.559 --> 00:01:42.569 align:start position:0%
+shared code base<c.colorE5E5E5> under version control
+ </c>
+
+00:01:42.569 --> 00:01:46.309 align:start position:0%
+shared code base<c.colorE5E5E5> under version control</c>
+<c.colorE5E5E5>and</c><c.colorCCCCCC><00:01:43.170><c> commit</c><00:01:43.889><c> frequently</c><00:01:44.539><c> ideally</c><00:01:45.539><c> once</c><00:01:45.899><c> a</c><00:01:46.139><c> day</c></c>
+
+00:01:46.309 --> 00:01:46.319 align:start position:0%
+<c.colorE5E5E5>and</c><c.colorCCCCCC> commit frequently ideally once a day
+ </c>
+
+00:01:46.319 --> 00:01:49.160 align:start position:0%
+<c.colorE5E5E5>and</c><c.colorCCCCCC> commit frequently ideally once a day
+second<00:01:47.280><c> a</c><00:01:47.460><c> commit</c><00:01:48.119><c> triggers</c><00:01:48.780><c> an</c><00:01:48.990><c> automatic</c></c>
+
+00:01:49.160 --> 00:01:49.170 align:start position:0%
+second a commit triggers an automatic
+ 
+
+00:01:49.170 --> 00:01:53.059 align:start position:0%
+second a commit triggers an automatic
+build<00:01:49.859><c> and</c><00:01:50.189><c> test</c><00:01:50.609><c> process</c><00:01:51.409><c> third</c><c.colorE5E5E5><00:01:52.409><c> if</c></c>
+
+00:01:53.059 --> 00:01:53.069 align:start position:0%
+build and test process third<c.colorE5E5E5> if
+ </c>
+
+00:01:53.069 --> 00:01:56.059 align:start position:0%
+build and test process third<c.colorE5E5E5> if
+something<00:01:53.639><c> fails</c><00:01:53.939><c> or</c><00:01:54.359><c> breaks</c><00:01:54.689><c> it</c><00:01:55.259><c> is</c><00:01:55.619><c> fixed</c></c>
+
+00:01:56.059 --> 00:01:56.069 align:start position:0%
+something fails or breaks<c.colorE5E5E5> it is fixed
+ </c>
+
+00:01:56.069 --> 00:01:58.609 align:start position:0%
+something fails or breaks<c.colorE5E5E5> it is fixed
+quickly<00:01:56.429><c> by</c><00:01:57.090><c> whoever</c><00:01:57.569><c> broke</c><00:01:57.929><c> the</c><00:01:58.109><c> build</c></c><c.colorCCCCCC><00:01:58.319><c> or</c></c>
+
+00:01:58.609 --> 00:01:58.619 align:start position:0%
+quickly<c.colorE5E5E5> by whoever broke the build</c><c.colorCCCCCC> or
+ </c>
+
+00:01:58.619 --> 00:02:01.069 align:start position:0%
+quickly<c.colorE5E5E5> by whoever broke the build</c><c.colorCCCCCC> or
+the<00:01:58.679><c> test</c><00:01:59.130><c> suite</c><00:01:59.310><c> this</c><00:02:00.060><c> diagram</c><00:02:00.659><c> shows</c><00:02:00.840><c> a</c></c>
+
+00:02:01.069 --> 00:02:01.079 align:start position:0%
+the<c.colorCCCCCC> test suite this diagram shows a
+ </c>
+
+00:02:01.079 --> 00:02:04.399 align:start position:0%
+the<c.colorCCCCCC> test suite this diagram shows a
+typical<00:02:01.409><c> CI</c><00:02:01.979><c> workflow</c></c><c.colorE5E5E5><00:02:02.639><c> the</c><00:02:03.329><c> process</c><00:02:03.780><c> starts</c></c>
+
+00:02:04.399 --> 00:02:04.409 align:start position:0%
+typical CI workflow<c.colorE5E5E5> the process starts
+ </c>
+
+00:02:04.409 --> 00:02:06.319 align:start position:0%
+typical CI workflow<c.colorE5E5E5> the process starts
+from<00:02:04.499><c> a</c><00:02:04.740><c> commit</c><00:02:05.130><c> into</c></c><c.colorCCCCCC><00:02:05.399><c> the</c><00:02:05.700><c> source</c><00:02:05.969><c> control</c></c>
+
+00:02:06.319 --> 00:02:06.329 align:start position:0%
+from a commit<c.colorE5E5E5> into</c><c.colorCCCCCC> the source control
+ </c>
+
+00:02:06.329 --> 00:02:10.190 align:start position:0%
+from a commit<c.colorE5E5E5> into</c><c.colorCCCCCC> the source control</c>
+<c.colorE5E5E5>system<00:02:07.130><c> this</c><00:02:08.130><c> change</c><00:02:08.580><c> initiates</c><00:02:09.570><c> a</c><00:02:09.840><c> CI</c></c>
+
+00:02:10.190 --> 00:02:10.200 align:start position:0%
+<c.colorE5E5E5>system this change initiates a CI
+ </c>
+
+00:02:10.200 --> 00:02:13.430 align:start position:0%
+<c.colorE5E5E5>system this change initiates a CI
+process</c><c.colorCCCCCC><00:02:10.860><c> and</c><00:02:11.100><c> triggers</c><00:02:11.880><c> a</c><00:02:11.910><c> CI</c><00:02:12.330><c> server</c><00:02:12.780><c> like</c></c>
+
+00:02:13.430 --> 00:02:13.440 align:start position:0%
+process<c.colorCCCCCC> and triggers a CI server like
+ </c>
+
+00:02:13.440 --> 00:02:14.360 align:start position:0%
+process<c.colorCCCCCC> and triggers a CI server like
+Jenkins</c>
+
+00:02:14.360 --> 00:02:14.370 align:start position:0%
+Jenkins
+ 
+
+00:02:14.370 --> 00:02:18.050 align:start position:0%
+Jenkins
+the<00:02:15.030><c> CI</c><00:02:15.300><c> server</c><c.colorE5E5E5><00:02:15.420><c> starts</c><00:02:16.410><c> a</c></c><c.colorCCCCCC><00:02:16.530><c> build</c><00:02:16.790><c> runs</c><00:02:17.790><c> the</c></c>
+
+00:02:18.050 --> 00:02:18.060 align:start position:0%
+the CI server<c.colorE5E5E5> starts a</c><c.colorCCCCCC> build runs the
+ </c>
+
+00:02:18.060 --> 00:02:20.809 align:start position:0%
+the CI server<c.colorE5E5E5> starts a</c><c.colorCCCCCC> build runs the</c>
+<c.colorE5E5E5>test<00:02:18.300><c> suite</c><00:02:18.660><c> and</c><00:02:19.250><c> reports</c><00:02:20.250><c> back</c><00:02:20.459><c> to</c></c><c.colorCCCCCC><00:02:20.520><c> the</c></c>
+
+00:02:20.809 --> 00:02:20.819 align:start position:0%
+<c.colorE5E5E5>test suite and reports back to</c><c.colorCCCCCC> the
+ </c>
+
+00:02:20.819 --> 00:02:22.760 align:start position:0%
+<c.colorE5E5E5>test suite and reports back to</c><c.colorCCCCCC> the</c>
+<c.colorE5E5E5>development<00:02:21.390><c> team</c><00:02:21.480><c> via</c><00:02:22.020><c> a</c><00:02:22.349><c> notification</c></c>
+
+00:02:22.760 --> 00:02:22.770 align:start position:0%
+<c.colorE5E5E5>development team via a notification
+ </c>
+
+00:02:22.770 --> 00:02:26.960 align:start position:0%
+<c.colorE5E5E5>development team via a notification
+email<00:02:23.780><c> chat</c><00:02:24.780><c> channel</c><00:02:25.380><c> shared</c><00:02:26.130><c> build</c><00:02:26.430><c> monitor</c></c>
+
+00:02:26.960 --> 00:02:26.970 align:start position:0%
+email<c.colorE5E5E5> chat channel shared build monitor
+ </c>
+
+00:02:26.970 --> 00:02:30.589 align:start position:0%
+email<c.colorE5E5E5> chat channel shared build monitor
+etc<00:02:27.720><c> then</c><00:02:28.620><c> the</c><00:02:28.950><c> process</c><00:02:29.340><c> starts</c></c><c.colorCCCCCC><00:02:29.489><c> again</c><00:02:30.330><c> with</c></c>
+
+00:02:30.589 --> 00:02:30.599 align:start position:0%
+etc then the process starts<c.colorCCCCCC> again with
+ </c>
+
+00:02:30.599 --> 00:02:32.960 align:start position:0%
+etc then the process starts<c.colorCCCCCC> again with</c>
+<c.colorCCCCCC>another<00:02:31.319><c> commit</c><00:02:31.769><c> into</c></c><c.colorE5E5E5><00:02:32.040><c> the</c><00:02:32.310><c> source</c><00:02:32.580><c> control</c></c>
+
+00:02:32.960 --> 00:02:32.970 align:start position:0%
+<c.colorCCCCCC>another commit into</c><c.colorE5E5E5> the source control
+ </c>
+
+00:02:32.970 --> 00:02:36.229 align:start position:0%
+<c.colorCCCCCC>another commit into</c><c.colorE5E5E5> the source control
+system<00:02:33.650><c> either</c><00:02:34.650><c> to</c><00:02:35.099><c> develop</c><00:02:35.519><c> a</c><00:02:35.670><c> new</c><00:02:35.940><c> feature</c></c>
+
+00:02:36.229 --> 00:02:36.239 align:start position:0%
+system either<c.colorE5E5E5> to develop a new feature
+ </c>
+
+00:02:36.239 --> 00:02:38.690 align:start position:0%
+system either<c.colorE5E5E5> to develop a new feature</c>
+<c.colorE5E5E5>or<00:02:36.870><c> to</c><00:02:37.080><c> fix</c><00:02:37.319><c> a</c><00:02:37.440><c> broken</c><00:02:37.620><c> build</c><00:02:38.099><c> or</c><00:02:38.310><c> a</c><00:02:38.340><c> failing</c></c>
+
+00:02:38.690 --> 00:02:38.700 align:start position:0%
+<c.colorE5E5E5>or to fix a broken build or a failing
+ </c>
+
+00:02:38.700 --> 00:02:41.380 align:start position:0%
+<c.colorE5E5E5>or to fix a broken build or a failing
+test<00:02:38.959><c> resulting</c><00:02:39.959><c> from</c><00:02:40.200><c> the</c><00:02:40.319><c> previous</c><00:02:40.680><c> process</c></c>
+
+00:02:41.380 --> 00:02:41.390 align:start position:0%
+test<c.colorE5E5E5> resulting from the previous process
+ </c>
+
+00:02:41.390 --> 00:02:43.670 align:start position:0%
+test<c.colorE5E5E5> resulting from the previous process
+here<00:02:42.390><c> are</c><00:02:42.480><c> some</c><00:02:42.720><c> benefits</c><00:02:42.900><c> of</c><00:02:43.349><c> using</c></c>
+
+00:02:43.670 --> 00:02:43.680 align:start position:0%
+here are some benefits<c.colorE5E5E5> of using
+ </c>
+
+00:02:43.680 --> 00:02:45.680 align:start position:0%
+here are some benefits<c.colorE5E5E5> of using
+continuous<00:02:44.310><c> integration</c><00:02:44.580><c> for</c><00:02:45.269><c> software</c></c>
+
+00:02:45.680 --> 00:02:45.690 align:start position:0%
+continuous integration<c.colorE5E5E5> for software
+ </c>
+
+00:02:45.690 --> 00:02:49.250 align:start position:0%
+continuous integration<c.colorE5E5E5> for software</c>
+<c.colorE5E5E5>development<00:02:46.319><c> in</c><00:02:46.620><c> terms</c><00:02:47.280><c> of</c><00:02:47.549><c> code</c><00:02:47.819><c> quality</c></c><c.colorCCCCCC><00:02:48.390><c> ci</c></c>
+
+00:02:49.250 --> 00:02:49.260 align:start position:0%
+<c.colorE5E5E5>development in terms of code quality</c><c.colorCCCCCC> ci
+ </c>
+
+00:02:49.260 --> 00:02:51.590 align:start position:0%
+<c.colorE5E5E5>development in terms of code quality</c><c.colorCCCCCC> ci
+allows<00:02:49.830><c> to</c><00:02:50.130><c> spot</c><00:02:50.400><c> bugs</c><00:02:50.730><c> as</c><00:02:51.000><c> soon</c><00:02:51.269><c> as</c><00:02:51.420><c> they</c><00:02:51.569><c> are</c></c>
+
+00:02:51.590 --> 00:02:51.600 align:start position:0%
+allows to spot bugs<c.colorCCCCCC> as soon as they are
+ </c>
+
+00:02:51.600 --> 00:02:54.350 align:start position:0%
+allows to spot bugs<c.colorCCCCCC> as soon as they are</c>
+<c.colorCCCCCC>spotted<00:02:52.290><c> and</c><00:02:52.530><c> hence</c><00:02:53.190><c> to</c><00:02:53.370><c> fix</c><00:02:53.700><c> them</c></c><c.colorE5E5E5><00:02:53.940><c> more</c></c>
+
+00:02:54.350 --> 00:02:54.360 align:start position:0%
+<c.colorCCCCCC>spotted and hence to fix them</c><c.colorE5E5E5> more
+ </c>
+
+00:02:54.360 --> 00:02:57.470 align:start position:0%
+<c.colorCCCCCC>spotted and hence to fix them</c><c.colorE5E5E5> more
+quickly<00:02:54.690><c> in</c><00:02:55.500><c> terms</c><00:02:55.830><c> of</c><00:02:55.980><c> integration</c></c><c.colorCCCCCC><00:02:56.480><c> CI</c></c>
+
+00:02:57.470 --> 00:02:57.480 align:start position:0%
+quickly<c.colorE5E5E5> in terms of integration</c><c.colorCCCCCC> CI
+ </c>
+
+00:02:57.480 --> 00:03:00.650 align:start position:0%
+quickly<c.colorE5E5E5> in terms of integration</c><c.colorCCCCCC> CI
+reduces<00:02:58.200><c> risks</c></c><c.colorE5E5E5><00:02:58.709><c> time</c><00:02:59.370><c> and</c><00:02:59.640><c> costs</c><00:03:00.269><c> generally</c></c>
+
+00:03:00.650 --> 00:03:00.660 align:start position:0%
+reduces risks<c.colorE5E5E5> time and costs generally
+ </c>
+
+00:03:00.660 --> 00:03:03.620 align:start position:0%
+reduces risks<c.colorE5E5E5> time and costs generally</c>
+<c.colorE5E5E5>due<00:03:01.410><c> to</c><00:03:01.650><c> complex</c><00:03:02.160><c> integration</c><00:03:02.910><c> with</c><00:03:03.450><c> other</c></c>
+
+00:03:03.620 --> 00:03:03.630 align:start position:0%
+<c.colorE5E5E5>due to complex integration with other
+ </c>
+
+00:03:03.630 --> 00:03:06.830 align:start position:0%
+<c.colorE5E5E5>due to complex integration with other
+systems<00:03:03.860><c> in</c><00:03:04.860><c> terms</c><00:03:04.920><c> of</c></c><c.colorCCCCCC><00:03:05.340><c> automation</c><00:03:05.940><c> ci</c></c>
+
+00:03:06.830 --> 00:03:06.840 align:start position:0%
+systems<c.colorE5E5E5> in terms of</c><c.colorCCCCCC> automation ci
+ </c>
+
+00:03:06.840 --> 00:03:09.830 align:start position:0%
+systems<c.colorE5E5E5> in terms of</c><c.colorCCCCCC> automation ci
+removes<00:03:07.530><c> manual</c><00:03:08.099><c> steps</c><00:03:08.459><c> makes</c><00:03:09.420><c> the</c><00:03:09.660><c> build</c></c>
+
+00:03:09.830 --> 00:03:09.840 align:start position:0%
+removes manual steps makes the build
+ 
+
+00:03:09.840 --> 00:03:12.229 align:start position:0%
+removes manual steps makes the build
+process<00:03:10.049><c> faster</c><c.colorCCCCCC><00:03:10.860><c> and</c><00:03:11.069><c> less</c><00:03:11.340><c> error-prone</c></c><c.colorE5E5E5><00:03:11.640><c> and</c></c>
+
+00:03:12.229 --> 00:03:12.239 align:start position:0%
+process faster<c.colorCCCCCC> and less error-prone</c><c.colorE5E5E5> and
+ </c>
+
+00:03:12.239 --> 00:03:15.259 align:start position:0%
+process faster<c.colorCCCCCC> and less error-prone</c><c.colorE5E5E5> and
+avoids<00:03:12.959><c> the</c><00:03:13.140><c> classic</c><00:03:13.739><c> but</c><00:03:14.370><c> a</c><00:03:14.519><c> work</c><00:03:14.849><c> on</c><00:03:15.060><c> my</c></c>
+
+00:03:15.259 --> 00:03:15.269 align:start position:0%
+avoids the<c.colorE5E5E5> classic but a work on my
+ </c>
+
+00:03:15.269 --> 00:03:18.319 align:start position:0%
+avoids the<c.colorE5E5E5> classic but a work on my
+machine<00:03:15.450><c> issue</c><00:03:16.200><c> and</c><00:03:16.739><c> other</c><00:03:17.430><c> dependency</c></c>
+
+00:03:18.319 --> 00:03:18.329 align:start position:0%
+machine<c.colorE5E5E5> issue and other dependency
+ </c>
+
+00:03:18.329 --> 00:03:20.750 align:start position:0%
+machine<c.colorE5E5E5> issue and other dependency
+problems<00:03:18.870><c> that</c><00:03:19.170><c> many</c><00:03:19.380><c> developers</c><00:03:19.760><c> experience</c></c>
+
+00:03:20.750 --> 00:03:20.760 align:start position:0%
+problems that many<c.colorE5E5E5> developers experience
+ </c>
+
+00:03:20.760 --> 00:03:22.789 align:start position:0%
+problems that many<c.colorE5E5E5> developers experience
+when<00:03:21.060><c> they</c><00:03:21.209><c> integrate</c><00:03:21.720><c> their</c><00:03:22.049><c> code</c><00:03:22.320><c> on</c><00:03:22.560><c> a</c></c>
+
+00:03:22.789 --> 00:03:22.799 align:start position:0%
+when they integrate their code on a
+ 
+
+00:03:22.799 --> 00:03:27.289 align:start position:0%
+when they integrate their code on a
+shared<00:03:23.220><c> system</c><c.colorE5E5E5><00:03:23.840><c> now</c><00:03:24.840><c> let's</c><00:03:25.260><c> move</c><00:03:25.500><c> to</c><00:03:25.560><c> CD</c><00:03:26.299><c> this</c></c>
+
+00:03:27.289 --> 00:03:27.299 align:start position:0%
+shared system<c.colorE5E5E5> now let's move to CD this
+ </c>
+
+00:03:27.299 --> 00:03:29.420 align:start position:0%
+shared system<c.colorE5E5E5> now let's move to CD this
+acronym<00:03:27.810><c> is</c><00:03:28.109><c> usually</c><00:03:28.680><c> assigned</c><00:03:29.190><c> to</c></c>
+
+00:03:29.420 --> 00:03:29.430 align:start position:0%
+acronym<c.colorE5E5E5> is usually assigned to
+ </c>
+
+00:03:29.430 --> 00:03:31.910 align:start position:0%
+acronym<c.colorE5E5E5> is usually assigned to
+continuous<00:03:30.000><c> delivery</c><00:03:30.180><c> but</c><00:03:31.170><c> can</c><00:03:31.500><c> also</c><00:03:31.620><c> be</c></c><c.colorCCCCCC><00:03:31.799><c> used</c></c>
+
+00:03:31.910 --> 00:03:31.920 align:start position:0%
+continuous delivery<c.colorE5E5E5> but can also be</c><c.colorCCCCCC> used
+ </c>
+
+00:03:31.920 --> 00:03:34.610 align:start position:0%
+continuous delivery<c.colorE5E5E5> but can also be</c><c.colorCCCCCC> used
+to</c><c.colorE5E5E5><00:03:32.310><c> define</c><00:03:32.519><c> continuous</c><00:03:33.299><c> deployment</c></c><c.colorCCCCCC><00:03:33.480><c> which</c><00:03:34.380><c> is</c></c>
+
+00:03:34.610 --> 00:03:34.620 align:start position:0%
+<c.colorCCCCCC>to</c><c.colorE5E5E5> define continuous deployment</c><c.colorCCCCCC> which is
+ </c>
+
+00:03:34.620 --> 00:03:37.819 align:start position:0%
+<c.colorCCCCCC>to</c><c.colorE5E5E5> define continuous deployment</c><c.colorCCCCCC> which is
+as<00:03:34.980><c> we</c><00:03:35.670><c> will</c><00:03:35.819><c> see</c></c><c.colorE5E5E5><00:03:36.000><c> very</c></c><c.colorCCCCCC><00:03:36.150><c> soon</c></c><c.colorE5E5E5><00:03:36.480><c> an</c><00:03:36.750><c> extension</c><00:03:37.739><c> of</c></c>
+
+00:03:37.819 --> 00:03:37.829 align:start position:0%
+as we will see<c.colorE5E5E5> very</c><c.colorCCCCCC> soon</c><c.colorE5E5E5> an extension of
+ </c>
+
+00:03:37.829 --> 00:03:40.430 align:start position:0%
+as we will see<c.colorE5E5E5> very</c><c.colorCCCCCC> soon</c><c.colorE5E5E5> an extension of
+continuous<00:03:38.549><c> delivery</c><00:03:38.900><c> by</c><00:03:39.900><c> continuous</c></c>
+
+00:03:40.430 --> 00:03:40.440 align:start position:0%
+continuous delivery by continuous
+ 
+
+00:03:40.440 --> 00:03:42.410 align:start position:0%
+continuous delivery by continuous
+delivery<c.colorCCCCCC><00:03:40.650><c> we</c><00:03:41.430><c> define</c><00:03:41.760><c> a</c><00:03:41.790><c> software</c></c>
+
+00:03:42.410 --> 00:03:42.420 align:start position:0%
+delivery<c.colorCCCCCC> we define a software
+ </c>
+
+00:03:42.420 --> 00:03:44.870 align:start position:0%
+delivery<c.colorCCCCCC> we define a software
+development<00:03:42.780><c> practice</c><00:03:43.100><c> whereby</c><00:03:44.100><c> a</c><00:03:44.519><c> team</c></c>
+
+00:03:44.870 --> 00:03:44.880 align:start position:0%
+development<c.colorCCCCCC> practice whereby a team
+ </c>
+
+00:03:44.880 --> 00:03:48.050 align:start position:0%
+development<c.colorCCCCCC> practice whereby a team
+builds<00:03:45.540><c> a</c><00:03:45.660><c> software</c><00:03:46.350><c> in</c><00:03:46.500><c> such</c><00:03:46.920><c> a</c><00:03:46.950><c> way</c><00:03:47.280><c> that</c></c><c.colorE5E5E5><00:03:47.549><c> it</c></c>
+
+00:03:48.050 --> 00:03:48.060 align:start position:0%
+builds a software in such a way that<c.colorE5E5E5> it
+ </c>
+
+00:03:48.060 --> 00:03:49.879 align:start position:0%
+builds a software in such a way that<c.colorE5E5E5> it
+can</c><c.colorCCCCCC><00:03:48.209><c> be</c><00:03:48.329><c> released</c></c><c.colorE5E5E5><00:03:48.660><c> to</c><00:03:48.870><c> production</c></c><c.colorCCCCCC><00:03:49.049><c> at</c></c><c.colorE5E5E5><00:03:49.560><c> any</c></c>
+
+00:03:49.879 --> 00:03:49.889 align:start position:0%
+can<c.colorCCCCCC> be released</c><c.colorE5E5E5> to production</c><c.colorCCCCCC> at</c><c.colorE5E5E5> any
+ </c>
+
+00:03:49.889 --> 00:03:53.150 align:start position:0%
+can<c.colorCCCCCC> be released</c><c.colorE5E5E5> to production</c><c.colorCCCCCC> at</c><c.colorE5E5E5> any
+time<00:03:50.340><c> in</c><00:03:51.299><c> other</c><00:03:51.510><c> words</c><00:03:51.810><c> the</c><00:03:52.440><c> software</c><00:03:52.920><c> is</c></c>
+
+00:03:53.150 --> 00:03:53.160 align:start position:0%
+time in other words the software is
+ 
+
+00:03:53.160 --> 00:03:55.809 align:start position:0%
+time in other words the software is
+automatically<00:03:53.910><c> built</c><c.colorE5E5E5><00:03:54.440><c> tested</c><00:03:55.440><c> and</c></c>
+
+00:03:55.809 --> 00:03:55.819 align:start position:0%
+automatically built<c.colorE5E5E5> tested and
+ </c>
+
+00:03:55.819 --> 00:03:58.520 align:start position:0%
+automatically built<c.colorE5E5E5> tested and
+integrated<00:03:56.819><c> in</c><00:03:57.000><c> a</c><00:03:57.150><c> production</c><00:03:57.510><c> like</c><00:03:57.900><c> system</c></c>
+
+00:03:58.520 --> 00:03:58.530 align:start position:0%
+integrated in a production<c.colorE5E5E5> like system
+ </c>
+
+00:03:58.530 --> 00:04:02.360 align:start position:0%
+integrated in a production<c.colorE5E5E5> like system</c>
+<c.colorE5E5E5>it<00:03:58.859><c> is</c><00:03:59.400><c> always</c><00:03:59.790><c> in</c><00:04:00.030><c> a</c><00:04:00.150><c> shippable</c></c><c.colorCCCCCC><00:04:00.660><c> state</c><00:04:01.049><c> and</c><00:04:01.410><c> is</c></c>
+
+00:04:02.360 --> 00:04:02.370 align:start position:0%
+<c.colorE5E5E5>it is always in a shippable</c><c.colorCCCCCC> state and is
+ </c>
+
+00:04:02.370 --> 00:04:04.789 align:start position:0%
+<c.colorE5E5E5>it is always in a shippable</c><c.colorCCCCCC> state and is
+only</c><c.colorE5E5E5><00:04:02.730><c> a</c><00:04:02.910><c> step</c><00:04:03.299><c> away</c><00:04:03.329><c> from</c><00:04:03.690><c> a</c><00:04:04.019><c> real</c><00:04:04.200><c> deployment</c></c>
+
+00:04:04.789 --> 00:04:04.799 align:start position:0%
+only<c.colorE5E5E5> a step away from a real deployment
+ </c>
+
+00:04:04.799 --> 00:04:07.520 align:start position:0%
+only<c.colorE5E5E5> a step away from a real deployment
+to<00:04:04.920><c> production</c></c><c.colorCCCCCC><00:04:05.450><c> in</c><00:04:06.450><c> continuous</c><00:04:06.959><c> delivery</c><00:04:07.079><c> the</c></c>
+
+00:04:07.520 --> 00:04:07.530 align:start position:0%
+to production<c.colorCCCCCC> in continuous delivery the
+ </c>
+
+00:04:07.530 --> 00:04:09.860 align:start position:0%
+to production<c.colorCCCCCC> in continuous delivery the
+deployment<00:04:08.040><c> to</c><00:04:08.069><c> production</c></c><c.colorE5E5E5><00:04:08.160><c> is</c><00:04:09.150><c> usually</c><00:04:09.690><c> done</c></c>
+
+00:04:09.860 --> 00:04:09.870 align:start position:0%
+deployment to<c.colorCCCCCC> production</c><c.colorE5E5E5> is usually done
+ </c>
+
+00:04:09.870 --> 00:04:12.470 align:start position:0%
+deployment to<c.colorCCCCCC> production</c><c.colorE5E5E5> is usually done
+on<00:04:10.109><c> demand</c><00:04:10.590><c> when</c><00:04:11.340><c> business</c><00:04:11.790><c> requirements</c></c>
+
+00:04:12.470 --> 00:04:12.480 align:start position:0%
+on demand when business requirements
+ 
+
+00:04:12.480 --> 00:04:15.199 align:start position:0%
+on demand when business requirements
+request<00:04:13.019><c> a</c><00:04:13.290><c> new</c><00:04:13.530><c> release</c><00:04:13.859><c> as</c><00:04:14.190><c> you</c><c.colorE5E5E5><00:04:14.700><c> can</c><00:04:14.970><c> see</c><00:04:15.120><c> in</c></c>
+
+00:04:15.199 --> 00:04:15.209 align:start position:0%
+request a new release as you<c.colorE5E5E5> can see in
+ </c>
+
+00:04:15.209 --> 00:04:17.599 align:start position:0%
+request a new release as you<c.colorE5E5E5> can see in
+the</c><c.colorCCCCCC><00:04:15.329><c> diagram</c><00:04:15.870><c> the</c><00:04:16.380><c> last</c><00:04:16.620><c> step</c><00:04:17.220><c> of</c><00:04:17.250><c> the</c><00:04:17.579><c> process</c></c>
+
+00:04:17.599 --> 00:04:17.609 align:start position:0%
+the<c.colorCCCCCC> diagram the last step of the process
+ </c>
+
+00:04:17.609 --> 00:04:19.640 align:start position:0%
+the<c.colorCCCCCC> diagram the last step of the process</c>
+<c.colorE5E5E5>is<00:04:18.180><c> the</c><00:04:18.479><c> only</c><00:04:18.630><c> difference</c><00:04:19.350><c> between</c></c>
+
+00:04:19.640 --> 00:04:19.650 align:start position:0%
+<c.colorE5E5E5>is the only difference between
+ </c>
+
+00:04:19.650 --> 00:04:21.860 align:start position:0%
+<c.colorE5E5E5>is the only difference between
+continuous<00:04:20.430><c> delivery</c><00:04:20.639><c> and</c><00:04:21.090><c> continuous</c></c>
+
+00:04:21.860 --> 00:04:21.870 align:start position:0%
+continuous delivery<c.colorE5E5E5> and continuous
+ </c>
+
+00:04:21.870 --> 00:04:24.710 align:start position:0%
+continuous delivery<c.colorE5E5E5> and continuous
+deployment<00:04:22.049><c> in</c><00:04:22.710><c> fact</c><00:04:23.669><c> continuous</c><00:04:24.539><c> deployment</c></c>
+
+00:04:24.710 --> 00:04:24.720 align:start position:0%
+deployment<c.colorE5E5E5> in fact continuous deployment
+ </c>
+
+00:04:24.720 --> 00:04:27.409 align:start position:0%
+deployment<c.colorE5E5E5> in fact continuous deployment
+can<00:04:25.409><c> be</c><00:04:25.530><c> considered</c><00:04:26.159><c> as</c><00:04:26.400><c> continuous</c><00:04:27.270><c> delivery</c></c>
+
+00:04:27.409 --> 00:04:27.419 align:start position:0%
+can be considered as continuous delivery
+ 
+
+00:04:27.419 --> 00:04:28.280 align:start position:0%
+can be considered as continuous delivery
+on
+
+00:04:28.280 --> 00:04:28.290 align:start position:0%
+on
+ 
+
+00:04:28.290 --> 00:04:31.280 align:start position:0%
+on
+<c.colorCCCCCC>roads</c><c.colorE5E5E5><00:04:28.700><c> every</c><00:04:29.700><c> change</c><00:04:30.060><c> that</c><00:04:30.420><c> creates</c><00:04:30.810><c> a</c><00:04:30.960><c> fully</c></c>
+
+00:04:31.280 --> 00:04:31.290 align:start position:0%
+<c.colorCCCCCC>roads</c><c.colorE5E5E5> every change that creates a fully
+ </c>
+
+00:04:31.290 --> 00:04:34.130 align:start position:0%
+<c.colorCCCCCC>roads</c><c.colorE5E5E5> every change that creates a fully
+shippable<00:04:31.920><c> build</c><00:04:32.250><c> gets</c><00:04:33.140><c> automatically</c></c>
+
+00:04:34.130 --> 00:04:34.140 align:start position:0%
+shippable build gets automatically
+ 
+
+00:04:34.140 --> 00:04:36.470 align:start position:0%
+shippable build gets automatically
+pushed<00:04:34.410><c> to</c><c.colorCCCCCC><00:04:34.560><c> production</c><00:04:35.160><c> thus</c><00:04:35.790><c> generating</c></c>
+
+00:04:36.470 --> 00:04:36.480 align:start position:0%
+pushed to<c.colorCCCCCC> production thus generating
+ </c>
+
+00:04:36.480 --> 00:04:38.750 align:start position:0%
+pushed to<c.colorCCCCCC> production thus generating</c>
+<c.colorCCCCCC>every<00:04:36.870><c> day</c><00:04:37.050><c> many</c><00:04:37.650><c> deployments</c><00:04:38.280><c> to</c><00:04:38.400><c> production</c></c>
+
+00:04:38.750 --> 00:04:38.760 align:start position:0%
+<c.colorCCCCCC>every day many deployments to production
+ </c>
+
+00:04:38.760 --> 00:04:41.660 align:start position:0%
+<c.colorCCCCCC>every day many deployments to production</c>
+<c.colorE5E5E5>the<00:04:39.720><c> full</c><00:04:39.990><c> software</c><00:04:40.680><c> lifecycle</c><00:04:41.010><c> is</c></c>
+
+00:04:41.660 --> 00:04:41.670 align:start position:0%
+<c.colorE5E5E5>the full software lifecycle is
+ </c>
+
+00:04:41.670 --> 00:04:44.540 align:start position:0%
+<c.colorE5E5E5>the full software lifecycle is
+completely<00:04:42.540><c> automated</c></c><c.colorCCCCCC><00:04:42.930><c> if</c><00:04:43.890><c> you</c><00:04:44.220><c> need</c><00:04:44.370><c> to</c></c>
+
+00:04:44.540 --> 00:04:44.550 align:start position:0%
+completely automated<c.colorCCCCCC> if you need to
+ </c>
+
+00:04:44.550 --> 00:04:47.570 align:start position:0%
+completely automated<c.colorCCCCCC> if you need to</c>
+<c.colorE5E5E5>convince<00:04:44.910><c> your</c><00:04:45.090><c> manager</c><00:04:45.690><c> to</c><00:04:45.900><c> move</c></c><c.colorCCCCCC><00:04:46.110><c> to</c><00:04:46.290><c> CD</c><00:04:46.800><c> here</c></c>
+
+00:04:47.570 --> 00:04:47.580 align:start position:0%
+<c.colorE5E5E5>convince your manager to move</c><c.colorCCCCCC> to CD here
+ </c>
+
+00:04:47.580 --> 00:04:50.330 align:start position:0%
+<c.colorE5E5E5>convince your manager to move</c><c.colorCCCCCC> to CD here
+are<00:04:47.700><c> some</c><00:04:47.880><c> benefits</c><00:04:48.150><c> of</c><00:04:48.840><c> CD</c><00:04:49.440><c> that</c><00:04:49.980><c> are</c><00:04:50.100><c> very</c></c>
+
+00:04:50.330 --> 00:04:50.340 align:start position:0%
+are some benefits of CD that are very
+ 
+
+00:04:50.340 --> 00:04:52.280 align:start position:0%
+are some benefits of CD that are very
+appealing<c.colorE5E5E5><00:04:50.730><c> for</c><00:04:51.090><c> both</c><00:04:51.330><c> technical</c><00:04:52.110><c> and</c></c>
+
+00:04:52.280 --> 00:04:52.290 align:start position:0%
+appealing<c.colorE5E5E5> for both technical and
+ </c>
+
+00:04:52.290 --> 00:04:55.250 align:start position:0%
+appealing<c.colorE5E5E5> for both technical and
+non-technical<00:04:52.830><c> people</c><00:04:53.550><c> in</c><00:04:54.480><c> terms</c><00:04:55.080><c> of</c></c>
+
+00:04:55.250 --> 00:04:55.260 align:start position:0%
+non-technical people<c.colorE5E5E5> in terms of
+ </c>
+
+00:04:55.260 --> 00:04:58.280 align:start position:0%
+non-technical people<c.colorE5E5E5> in terms of
+business<00:04:55.770><c> CD</c><00:04:56.700><c> allows</c><00:04:57.090><c> to</c><00:04:57.360><c> release</c><00:04:57.660><c> a</c><00:04:57.690><c> product</c></c>
+
+00:04:58.280 --> 00:04:58.290 align:start position:0%
+business CD<c.colorE5E5E5> allows to release a product
+ </c>
+
+00:04:58.290 --> 00:05:01.640 align:start position:0%
+business CD<c.colorE5E5E5> allows to release a product
+or<00:04:58.530><c> a</c><00:04:58.830><c> new</c><00:04:59.010><c> feature</c></c><c.colorCCCCCC><00:04:59.460><c> to</c><00:05:00.330><c> market</c><00:05:00.930><c> much</c><00:05:01.350><c> more</c></c>
+
+00:05:01.640 --> 00:05:01.650 align:start position:0%
+or a new<c.colorE5E5E5> feature</c><c.colorCCCCCC> to market much more
+ </c>
+
+00:05:01.650 --> 00:05:03.530 align:start position:0%
+or a new<c.colorE5E5E5> feature</c><c.colorCCCCCC> to market much more
+quickly<00:05:01.950><c> than</c><00:05:02.130><c> traditional</c><00:05:02.970><c> deployment</c></c>
+
+00:05:03.530 --> 00:05:03.540 align:start position:0%
+quickly than traditional deployment
+ 
+
+00:05:03.540 --> 00:05:07.580 align:start position:0%
+quickly than traditional deployment
+practices<c.colorE5E5E5><00:05:04.670><c> this</c><00:05:05.670><c> allows</c><00:05:06.120><c> to</c><00:05:06.420><c> react</c><00:05:06.720><c> faster</c><00:05:07.410><c> to</c></c>
+
+00:05:07.580 --> 00:05:07.590 align:start position:0%
+practices<c.colorE5E5E5> this allows to react faster to
+ </c>
+
+00:05:07.590 --> 00:05:10.100 align:start position:0%
+practices<c.colorE5E5E5> this allows to react faster to
+changes<00:05:08.130><c> in</c><00:05:08.160><c> the</c><00:05:08.460><c> market</c></c><c.colorCCCCCC><00:05:08.490><c> and</c><00:05:09.090><c> to</c><00:05:09.120><c> adapt</c><00:05:09.840><c> to</c></c>
+
+00:05:10.100 --> 00:05:10.110 align:start position:0%
+changes in<c.colorE5E5E5> the market</c><c.colorCCCCCC> and to adapt to
+ </c>
+
+00:05:10.110 --> 00:05:13.640 align:start position:0%
+changes in<c.colorE5E5E5> the market</c><c.colorCCCCCC> and to adapt to
+changing<00:05:10.710><c> user</c><00:05:11.010><c> and</c><00:05:11.370><c> business</c><00:05:11.820><c> needs</c><00:05:12.650><c> for</c></c>
+
+00:05:13.640 --> 00:05:13.650 align:start position:0%
+changing user and business needs for
+ 
+
+00:05:13.650 --> 00:05:15.920 align:start position:0%
+changing user and business needs for
+software<00:05:14.100><c> engineers</c><c.colorCCCCCC><00:05:14.640><c> City</c><00:05:15.330><c> provides</c><00:05:15.780><c> a</c></c>
+
+00:05:15.920 --> 00:05:15.930 align:start position:0%
+software engineers<c.colorCCCCCC> City provides a
+ </c>
+
+00:05:15.930 --> 00:05:18.320 align:start position:0%
+software engineers<c.colorCCCCCC> City provides a
+faster<00:05:16.470><c> software</c><00:05:17.040><c> lifecycle</c><00:05:17.330><c> process</c></c>
+
+00:05:18.320 --> 00:05:18.330 align:start position:0%
+faster software<c.colorCCCCCC> lifecycle process
+ </c>
+
+00:05:18.330 --> 00:05:21.170 align:start position:0%
+faster software<c.colorCCCCCC> lifecycle process
+allowing</c><c.colorE5E5E5><00:05:19.110><c> to</c><00:05:19.620><c> see</c><00:05:19.890><c> a</c><00:05:20.100><c> new</c><00:05:20.310><c> feature</c><00:05:20.580><c> ship</c><00:05:21.000><c> to</c></c>
+
+00:05:21.170 --> 00:05:21.180 align:start position:0%
+allowing<c.colorE5E5E5> to see a new feature ship to
+ </c>
+
+00:05:21.180 --> 00:05:24.530 align:start position:0%
+allowing<c.colorE5E5E5> to see a new feature ship to
+production</c><c.colorCCCCCC><00:05:21.570><c> in</c><00:05:21.930><c> a</c><00:05:22.230><c> shorter</c></c><c.colorE5E5E5><00:05:22.710><c> timeframe</c><00:05:23.540><c> CD</c></c>
+
+00:05:24.530 --> 00:05:24.540 align:start position:0%
+production<c.colorCCCCCC> in a shorter</c><c.colorE5E5E5> timeframe CD
+ </c>
+
+00:05:24.540 --> 00:05:26.900 align:start position:0%
+production<c.colorCCCCCC> in a shorter</c><c.colorE5E5E5> timeframe CD
+also<00:05:24.780><c> produces</c><00:05:25.470><c> software</c><00:05:25.710><c> which</c><00:05:26.490><c> is</c><00:05:26.670><c> always</c></c>
+
+00:05:26.900 --> 00:05:26.910 align:start position:0%
+also produces software<c.colorE5E5E5> which is always
+ </c>
+
+00:05:26.910 --> 00:05:29.780 align:start position:0%
+also produces software<c.colorE5E5E5> which is always
+ready<00:05:27.360><c> to</c><00:05:27.480><c> be</c><00:05:27.750><c> shipped</c></c><c.colorCCCCCC><00:05:28.050><c> to</c><00:05:28.440><c> production</c></c><c.colorE5E5E5><00:05:28.830><c> it</c></c>
+
+00:05:29.780 --> 00:05:29.790 align:start position:0%
+ready to<c.colorE5E5E5> be shipped</c><c.colorCCCCCC> to production</c><c.colorE5E5E5> it
+ </c>
+
+00:05:29.790 --> 00:05:32.060 align:start position:0%
+ready to<c.colorE5E5E5> be shipped</c><c.colorCCCCCC> to production</c><c.colorE5E5E5> it
+also<00:05:29.970><c> avoids</c><00:05:30.180><c> the</c><00:05:30.690><c> risks</c><00:05:31.170><c> associated</c><00:05:31.650><c> with</c></c>
+
+00:05:32.060 --> 00:05:32.070 align:start position:0%
+also avoids the risks associated with
+ 
+
+00:05:32.070 --> 00:05:35.570 align:start position:0%
+also avoids the risks associated with
+<c.colorE5E5E5>big<00:05:32.640><c> bang</c><00:05:32.940><c> releases</c><00:05:33.660><c> when</c><00:05:34.350><c> lots</c><00:05:34.800><c> of</c><00:05:34.980><c> big</c></c>
+
+00:05:35.570 --> 00:05:35.580 align:start position:0%
+<c.colorE5E5E5>big bang releases when lots of big
+ </c>
+
+00:05:35.580 --> 00:05:39.680 align:start position:0%
+<c.colorE5E5E5>big bang releases when lots of big
+changes<00:05:36.270><c> are</c><00:05:36.450><c> made</c><00:05:36.660><c> as</c><00:05:36.990><c> a</c><00:05:37.680><c> result</c><00:05:38.130><c> risk</c><00:05:38.880><c> time</c></c>
+
+00:05:39.680 --> 00:05:39.690 align:start position:0%
+changes are made as a result<c.colorE5E5E5> risk time
+ </c>
+
+00:05:39.690 --> 00:05:42.530 align:start position:0%
+changes are made as a result<c.colorE5E5E5> risk time
+and<00:05:40.050><c> cost</c><00:05:40.680><c> of</c><00:05:40.920><c> deployment</c><00:05:41.640><c> to</c><00:05:41.790><c> production</c><00:05:41.820><c> are</c></c>
+
+00:05:42.530 --> 00:05:42.540 align:start position:0%
+and cost of<c.colorE5E5E5> deployment to production are
+ </c>
+
+00:05:42.540 --> 00:05:45.260 align:start position:0%
+and cost of<c.colorE5E5E5> deployment to production are
+reduced<00:05:43.050><c> not</c><00:05:43.890><c> to</c><00:05:44.100><c> mention</c><00:05:44.280><c> the</c><00:05:44.580><c> peace</c></c><c.colorCCCCCC><00:05:44.760><c> of</c><00:05:44.940><c> mind</c></c>
+
+00:05:45.260 --> 00:05:45.270 align:start position:0%
+reduced<c.colorE5E5E5> not to mention the peace</c><c.colorCCCCCC> of mind
+ </c>
+
+00:05:45.270 --> 00:05:48.800 align:start position:0%
+reduced<c.colorE5E5E5> not to mention the peace</c><c.colorCCCCCC> of mind
+of<00:05:45.540><c> an</c><00:05:45.690><c> easy</c><00:05:45.840><c> deployment</c><00:05:46.460><c> so</c><00:05:47.460><c> how</c><00:05:47.790><c> do</c><00:05:47.850><c> CI</c><00:05:48.330><c> and</c></c>
+
+00:05:48.800 --> 00:05:48.810 align:start position:0%
+of an easy deployment<c.colorCCCCCC> so how do CI and
+ </c>
+
+00:05:48.810 --> 00:05:51.560 align:start position:0%
+of an easy deployment<c.colorCCCCCC> so how do CI and
+CD<00:05:49.320><c> compare</c><00:05:49.890><c> these</c><00:05:50.370><c> concepts</c></c><c.colorE5E5E5><00:05:50.970><c> are</c><00:05:51.180><c> closely</c></c>
+
+00:05:51.560 --> 00:05:51.570 align:start position:0%
+CD compare these concepts<c.colorE5E5E5> are closely
+ </c>
+
+00:05:51.570 --> 00:05:54.010 align:start position:0%
+CD compare these concepts<c.colorE5E5E5> are closely
+related</c><c.colorCCCCCC><00:05:51.840><c> and</c></c><c.colorE5E5E5><00:05:52.530><c> can</c><00:05:53.010><c> be</c><00:05:53.130><c> conceptually</c></c>
+
+00:05:54.010 --> 00:05:54.020 align:start position:0%
+related<c.colorCCCCCC> and</c><c.colorE5E5E5> can be conceptually
+ </c>
+
+00:05:54.020 --> 00:05:57.860 align:start position:0%
+related<c.colorCCCCCC> and</c><c.colorE5E5E5> can be conceptually
+represented<00:05:55.020><c> with</c><00:05:55.380><c> nested</c><00:05:55.950><c> circles</c><00:05:56.870><c> the</c></c>
+
+00:05:57.860 --> 00:05:57.870 align:start position:0%
+represented with nested circles the
+ 
+
+00:05:57.870 --> 00:05:59.870 align:start position:0%
+represented with nested circles the
+starting<00:05:58.320><c> point</c><00:05:58.620><c> is</c><00:05:58.920><c> continuous</c><00:05:59.580><c> integration</c>
+
+00:05:59.870 --> 00:05:59.880 align:start position:0%
+starting point is continuous integration
+ 
+
+00:05:59.880 --> 00:06:02.600 align:start position:0%
+starting point is continuous integration
+<c.colorE5E5E5>this<00:06:00.720><c> is</c></c><c.colorCCCCCC><00:06:00.780><c> the</c><00:06:01.170><c> base</c></c><c.colorE5E5E5><00:06:01.440><c> of</c><00:06:01.800><c> the</c><00:06:02.160><c> other</c><00:06:02.280><c> two</c></c>
+
+00:06:02.600 --> 00:06:02.610 align:start position:0%
+<c.colorE5E5E5>this is</c><c.colorCCCCCC> the base</c><c.colorE5E5E5> of the other two
+ </c>
+
+00:06:02.610 --> 00:06:05.810 align:start position:0%
+<c.colorE5E5E5>this is</c><c.colorCCCCCC> the base</c><c.colorE5E5E5> of the other two
+processes<00:06:03.270><c> in</c><00:06:04.140><c> other</c><00:06:04.320><c> words</c><00:06:04.620><c> a</c><00:06:04.860><c> software</c><00:06:05.640><c> team</c></c>
+
+00:06:05.810 --> 00:06:05.820 align:start position:0%
+processes in other words<c.colorE5E5E5> a software team
+ </c>
+
+00:06:05.820 --> 00:06:08.360 align:start position:0%
+processes in other words<c.colorE5E5E5> a software team
+cannot<00:06:06.390><c> do</c><00:06:06.630><c> continuous</c><00:06:07.140><c> delivery</c><00:06:07.380><c> if</c><00:06:07.920><c> it</c></c>
+
+00:06:08.360 --> 00:06:08.370 align:start position:0%
+cannot do continuous<c.colorE5E5E5> delivery if it
+ </c>
+
+00:06:08.370 --> 00:06:10.040 align:start position:0%
+cannot do continuous<c.colorE5E5E5> delivery if it
+doesn't<00:06:08.730><c> implement</c><00:06:09.210><c> continuous</c><00:06:09.540><c> integration</c></c>
+
+00:06:10.040 --> 00:06:10.050 align:start position:0%
+doesn't<c.colorE5E5E5> implement continuous integration
+ </c>
+
+00:06:10.050 --> 00:06:13.550 align:start position:0%
+doesn't<c.colorE5E5E5> implement continuous integration
+first<00:06:11.240><c> the</c><00:06:12.240><c> same</c><00:06:12.450><c> stands</c><00:06:13.080><c> for</c><00:06:13.320><c> continuous</c></c>
+
+00:06:13.550 --> 00:06:13.560 align:start position:0%
+<c.colorE5E5E5>first the same stands for continuous
+ </c>
+
+00:06:13.560 --> 00:06:16.460 align:start position:0%
+<c.colorE5E5E5>first the same stands for continuous</c>
+<c.colorE5E5E5>deployment</c><c.colorCCCCCC><00:06:14.000><c> the</c><00:06:15.000><c> team</c><00:06:15.270><c> first</c><00:06:15.810><c> needs</c><00:06:16.080><c> to</c></c>
+
+00:06:16.460 --> 00:06:16.470 align:start position:0%
+<c.colorE5E5E5>deployment</c><c.colorCCCCCC> the team first needs to
+ </c>
+
+00:06:16.470 --> 00:06:18.500 align:start position:0%
+<c.colorE5E5E5>deployment</c><c.colorCCCCCC> the team first needs to
+implement<00:06:16.680><c> continuous</c></c><c.colorE5E5E5><00:06:17.190><c> delivery</c><00:06:17.580><c> and</c><00:06:18.090><c> can</c></c>
+
+00:06:18.500 --> 00:06:18.510 align:start position:0%
+implement continuous<c.colorE5E5E5> delivery and can
+ </c>
+
+00:06:18.510 --> 00:06:20.330 align:start position:0%
+implement continuous<c.colorE5E5E5> delivery and can
+then<00:06:18.660><c> move</c></c><c.colorCCCCCC><00:06:18.840><c> to</c><00:06:19.050><c> continuous</c><00:06:19.590><c> deployment</c></c><c.colorE5E5E5><00:06:19.770><c> as</c></c>
+
+00:06:20.330 --> 00:06:20.340 align:start position:0%
+then move<c.colorCCCCCC> to continuous deployment</c><c.colorE5E5E5> as
+ </c>
+
+00:06:20.340 --> 00:06:23.120 align:start position:0%
+then move<c.colorCCCCCC> to continuous deployment</c><c.colorE5E5E5> as
+you<00:06:21.030><c> can</c><00:06:21.180><c> see</c><00:06:21.420><c> this</c><00:06:21.960><c> is</c><00:06:22.170><c> a</c><00:06:22.200><c> gradual</c><00:06:22.770><c> journey</c></c>
+
+00:06:23.120 --> 00:06:23.130 align:start position:0%
+you can see this is a gradual journey
+ 
+
+00:06:23.130 --> 00:06:25.400 align:start position:0%
+you can see this is a gradual journey
+<c.colorCCCCCC>you<00:06:23.940><c> can't</c><00:06:24.210><c> just</c><00:06:24.420><c> start</c><00:06:24.660><c> with</c><00:06:24.930><c> continuous</c></c>
+
+00:06:25.400 --> 00:06:25.410 align:start position:0%
+<c.colorCCCCCC>you can't just start with continuous
+ </c>
+
+00:06:25.410 --> 00:06:28.610 align:start position:0%
+<c.colorCCCCCC>you can't just start with continuous
+deployment</c><c.colorE5E5E5><00:06:26.450><c> this</c></c><c.colorCCCCCC><00:06:27.450><c> is</c><00:06:27.510><c> the</c><00:06:27.840><c> end</c></c><c.colorE5E5E5><00:06:27.960><c> of</c><00:06:28.110><c> this</c><00:06:28.290><c> video</c></c>
+
+00:06:28.610 --> 00:06:28.620 align:start position:0%
+deployment<c.colorE5E5E5> this</c><c.colorCCCCCC> is the end</c><c.colorE5E5E5> of this video
+ </c>
+
+00:06:28.620 --> 00:06:31.580 align:start position:0%
+deployment<c.colorE5E5E5> this</c><c.colorCCCCCC> is the end</c><c.colorE5E5E5> of this video</c>
+<c.colorE5E5E5>where<00:06:29.370><c> we</c><00:06:29.550><c> learned</c><00:06:29.850><c> key</c><00:06:30.180><c> concepts</c><00:06:30.810><c> like</c><00:06:31.140><c> CI</c></c>
+
+00:06:31.580 --> 00:06:31.590 align:start position:0%
+<c.colorE5E5E5>where we learned key concepts like CI
+ </c>
+
+00:06:31.590 --> 00:06:34.400 align:start position:0%
+<c.colorE5E5E5>where we learned key concepts like CI</c>
+<c.colorE5E5E5>and<00:06:32.010><c> CD</c><00:06:32.640><c> and</c><00:06:32.850><c> look</c><00:06:33.360><c> at</c><00:06:33.510><c> the</c><00:06:33.660><c> differences</c></c>
+
+00:06:34.400 --> 00:06:34.410 align:start position:0%
+<c.colorE5E5E5>and CD and look at the differences
+ </c>
+
+00:06:34.410 --> 00:06:38.120 align:start position:0%
+<c.colorE5E5E5>and CD and look at the differences
+similarities</c><c.colorCCCCCC><00:06:35.070><c> and</c><00:06:35.880><c> benefits</c><00:06:36.620><c> watch</c><00:06:37.620><c> the</c><00:06:37.890><c> next</c></c>
+
+00:06:38.120 --> 00:06:38.130 align:start position:0%
+similarities<c.colorCCCCCC> and benefits watch the next
+ </c>
+
+00:06:38.130 --> 00:06:40.970 align:start position:0%
+similarities<c.colorCCCCCC> and benefits watch the next
+video<00:06:38.340><c> where</c><00:06:39.180><c> we</c><00:06:39.570><c> will</c><00:06:39.600><c> start</c><00:06:40.050><c> setting</c><00:06:40.620><c> up</c><00:06:40.740><c> a</c></c>
+
+00:06:40.970 --> 00:06:40.980 align:start position:0%
+video where we will start setting up a
+ 
+
+00:06:40.980 --> 00:06:44.090 align:start position:0%
+video where we will start setting up a
+CI<00:06:41.370><c> workflow</c>
+

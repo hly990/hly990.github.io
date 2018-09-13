@@ -1,0 +1,1830 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.290 --> 00:00:02.500 align:start position:0%
+ 
+in<00:00:00.710><c> this</c><00:00:00.980><c> video</c><c.colorCCCCCC><00:00:01.219><c> we</c><00:00:01.819><c> are</c></c><c.colorE5E5E5><00:00:01.880><c> going</c><00:00:02.060><c> to</c><00:00:02.209><c> continue</c></c>
+
+00:00:02.500 --> 00:00:02.510 align:start position:0%
+in this video<c.colorCCCCCC> we are</c><c.colorE5E5E5> going to continue
+ </c>
+
+00:00:02.510 --> 00:00:05.590 align:start position:0%
+in this video<c.colorCCCCCC> we are</c><c.colorE5E5E5> going to continue</c>
+<c.colorCCCCCC>building<00:00:02.690><c> our</c><00:00:03.320><c> CD</c><00:00:03.889><c> pipeline</c></c><c.colorE5E5E5><00:00:04.400><c> by</c><00:00:04.940><c> testing</c><00:00:05.450><c> the</c></c>
+
+00:00:05.590 --> 00:00:05.600 align:start position:0%
+<c.colorCCCCCC>building our CD pipeline</c><c.colorE5E5E5> by testing the
+ </c>
+
+00:00:05.600 --> 00:00:08.079 align:start position:0%
+<c.colorCCCCCC>building our CD pipeline</c><c.colorE5E5E5> by testing the
+web<00:00:05.750><c> application</c><00:00:06.440><c> and</c><00:00:06.620><c> deploying</c><00:00:07.400><c> to</c><00:00:08.059><c> a</c></c>
+
+00:00:08.079 --> 00:00:08.089 align:start position:0%
+web application and deploying<c.colorE5E5E5> to a
+ </c>
+
+00:00:08.089 --> 00:00:10.659 align:start position:0%
+web application and deploying<c.colorE5E5E5> to a
+staging<00:00:08.419><c> environment</c></c><c.colorCCCCCC><00:00:08.860><c> this</c><00:00:09.860><c> video</c><00:00:10.249><c> is</c><00:00:10.459><c> mainly</c></c>
+
+00:00:10.659 --> 00:00:10.669 align:start position:0%
+staging environment<c.colorCCCCCC> this video is mainly
+ </c>
+
+00:00:10.669 --> 00:00:13.509 align:start position:0%
+staging environment<c.colorCCCCCC> this video is mainly
+practical<00:00:11.419><c> as</c><00:00:11.599><c> we</c><00:00:12.139><c> will</c><00:00:12.289><c> expand</c><00:00:12.799><c> the</c><00:00:13.129><c> CD</c></c>
+
+00:00:13.509 --> 00:00:13.519 align:start position:0%
+practical as we will expand the CD
+ 
+
+00:00:13.519 --> 00:00:15.489 align:start position:0%
+practical as we will expand the CD
+pipeline<00:00:13.999><c> we</c><00:00:14.209><c> started</c><00:00:14.749><c> building</c><00:00:14.929><c> in</c><00:00:15.409><c> the</c>
+
+00:00:15.489 --> 00:00:15.499 align:start position:0%
+pipeline we started building in the
+ 
+
+00:00:15.499 --> 00:00:18.249 align:start position:0%
+pipeline we started building in the
+previous<00:00:15.860><c> video</c><c.colorE5E5E5><00:00:16.010><c> in</c><00:00:16.369><c> particular</c><00:00:16.990><c> we'll</c><00:00:17.990><c> add</c></c><c.colorCCCCCC><00:00:18.199><c> a</c></c>
+
+00:00:18.249 --> 00:00:18.259 align:start position:0%
+previous video<c.colorE5E5E5> in particular we'll add</c><c.colorCCCCCC> a
+ </c>
+
+00:00:18.259 --> 00:00:21.099 align:start position:0%
+previous video<c.colorE5E5E5> in particular we'll add</c><c.colorCCCCCC> a
+unit<00:00:18.800><c> test</c><00:00:19.099><c> to</c><00:00:19.460><c> test</c><00:00:19.669><c> the</c><00:00:19.910><c> Python</c><00:00:20.359><c> code</c><00:00:20.660><c> of</c><00:00:20.929><c> the</c></c>
+
+00:00:21.099 --> 00:00:21.109 align:start position:0%
+unit test to test the Python code of the
+ 
+
+00:00:21.109 --> 00:00:23.079 align:start position:0%
+unit test to test the Python code of the
+web<00:00:21.259><c> application</c><00:00:21.980><c> deploy</c><c.colorE5E5E5><00:00:22.759><c> the</c><00:00:22.970><c> application</c></c>
+
+00:00:23.079 --> 00:00:23.089 align:start position:0%
+web application deploy<c.colorE5E5E5> the application
+ </c>
+
+00:00:23.089 --> 00:00:26.409 align:start position:0%
+web application deploy<c.colorE5E5E5> the application
+to<00:00:23.660><c> a</c><00:00:23.900><c> staging</c><00:00:24.230><c> environment</c><00:00:24.470><c> and</c><00:00:25.249><c> test</c><00:00:26.179><c> the</c></c>
+
+00:00:26.409 --> 00:00:26.419 align:start position:0%
+to<c.colorE5E5E5> a staging environment and test the
+ </c>
+
+00:00:26.419 --> 00:00:28.569 align:start position:0%
+to<c.colorE5E5E5> a staging environment and test the
+successful<00:00:27.079><c> deployments</c></c><c.colorCCCCCC><00:00:27.769><c> to</c><00:00:28.070><c> both</c><00:00:28.310><c> the</c></c>
+
+00:00:28.569 --> 00:00:28.579 align:start position:0%
+successful deployments<c.colorCCCCCC> to both the
+ </c>
+
+00:00:28.579 --> 00:00:31.419 align:start position:0%
+successful deployments<c.colorCCCCCC> to both the
+development</c><c.colorE5E5E5><00:00:28.999><c> and</c><00:00:29.390><c> staging</c><00:00:30.079><c> environments</c><00:00:30.769><c> via</c></c>
+
+00:00:31.419 --> 00:00:31.429 align:start position:0%
+development<c.colorE5E5E5> and staging environments via
+ </c>
+
+00:00:31.429 --> 00:00:34.209 align:start position:0%
+development<c.colorE5E5E5> and staging environments via
+user<00:00:31.970><c> acceptance</c><00:00:32.599><c> test</c></c><c.colorCCCCCC><00:00:32.960><c> in</c><00:00:33.289><c> the</c><00:00:33.530><c> demo</c><00:00:33.739><c> part</c></c><c.colorE5E5E5><00:00:33.980><c> of</c></c>
+
+00:00:34.209 --> 00:00:34.219 align:start position:0%
+user acceptance<c.colorE5E5E5> test</c><c.colorCCCCCC> in the demo part</c><c.colorE5E5E5> of
+ </c>
+
+00:00:34.219 --> 00:00:36.910 align:start position:0%
+user acceptance<c.colorE5E5E5> test</c><c.colorCCCCCC> in the demo part</c><c.colorE5E5E5> of
+this<00:00:34.370><c> video</c><00:00:34.670><c> we</c></c><c.colorCCCCCC><00:00:35.059><c> are</c><00:00:35.420><c> going</c></c><c.colorE5E5E5><00:00:35.629><c> to</c><00:00:35.840><c> add</c><00:00:36.050><c> stages</c><00:00:36.739><c> to</c></c>
+
+00:00:36.910 --> 00:00:36.920 align:start position:0%
+this video<c.colorE5E5E5> we</c><c.colorCCCCCC> are going</c><c.colorE5E5E5> to add stages to
+ </c>
+
+00:00:36.920 --> 00:00:40.180 align:start position:0%
+this video<c.colorE5E5E5> we</c><c.colorCCCCCC> are going</c><c.colorE5E5E5> to add stages to
+the</c><c.colorCCCCCC><00:00:37.039><c> jenkins</c><00:00:37.489><c> file</c><00:00:37.820><c> in</c><00:00:38.480><c> order</c></c><c.colorE5E5E5><00:00:38.690><c> to</c><00:00:39.079><c> test</c><00:00:39.949><c> the</c></c>
+
+00:00:40.180 --> 00:00:40.190 align:start position:0%
+the<c.colorCCCCCC> jenkins file in order</c><c.colorE5E5E5> to test the
+ </c>
+
+00:00:40.190 --> 00:00:42.849 align:start position:0%
+the<c.colorCCCCCC> jenkins file in order</c><c.colorE5E5E5> to test the</c>
+<c.colorCCCCCC>python<00:00:40.609><c> code</c><00:00:40.940><c> with</c><00:00:41.510><c> unit</c></c><c.colorE5E5E5><00:00:41.899><c> tests</c></c><c.colorCCCCCC><00:00:42.170><c> test</c><00:00:42.620><c> the</c></c>
+
+00:00:42.849 --> 00:00:42.859 align:start position:0%
+<c.colorCCCCCC>python code with unit</c><c.colorE5E5E5> tests</c><c.colorCCCCCC> test the
+ </c>
+
+00:00:42.859 --> 00:00:44.830 align:start position:0%
+<c.colorCCCCCC>python code with unit</c><c.colorE5E5E5> tests</c><c.colorCCCCCC> test the
+deployment</c><c.colorE5E5E5><00:00:43.489><c> to</c><00:00:43.760><c> the</c><00:00:43.910><c> development</c><00:00:44.539><c> and</c></c>
+
+00:00:44.830 --> 00:00:44.840 align:start position:0%
+deployment<c.colorE5E5E5> to the development and
+ </c>
+
+00:00:44.840 --> 00:00:46.900 align:start position:0%
+deployment<c.colorE5E5E5> to the development and
+staging<00:00:45.440><c> environments</c><00:00:46.160><c> with</c><00:00:46.519><c> user</c></c>
+
+00:00:46.900 --> 00:00:46.910 align:start position:0%
+staging environments with user
+ 
+
+00:00:46.910 --> 00:00:49.420 align:start position:0%
+staging environments with user
+acceptance<c.colorCCCCCC><00:00:47.600><c> tests</c><00:00:47.989><c> deploy</c></c><c.colorE5E5E5><00:00:48.800><c> to</c><00:00:49.070><c> a</c><00:00:49.129><c> staging</c></c>
+
+00:00:49.420 --> 00:00:49.430 align:start position:0%
+acceptance<c.colorCCCCCC> tests deploy</c><c.colorE5E5E5> to a staging
+ </c>
+
+00:00:49.430 --> 00:00:51.669 align:start position:0%
+acceptance<c.colorCCCCCC> tests deploy</c><c.colorE5E5E5> to a staging
+environment</c><c.colorCCCCCC><00:00:49.640><c> on</c><00:00:50.329><c> localhost</c><00:00:50.960><c> using</c><00:00:51.590><c> a</c></c>
+
+00:00:51.669 --> 00:00:51.679 align:start position:0%
+environment<c.colorCCCCCC> on localhost using a
+ </c>
+
+00:00:51.679 --> 00:00:54.130 align:start position:0%
+environment<c.colorCCCCCC> on localhost using a</c>
+<c.colorE5E5E5>different<00:00:52.100><c> pool</c><00:00:52.399><c> we</c><00:00:53.179><c> will</c></c><c.colorCCCCCC><00:00:53.359><c> also</c><00:00:53.840><c> write</c><00:00:54.109><c> a</c></c>
+
+00:00:54.130 --> 00:00:54.140 align:start position:0%
+<c.colorE5E5E5>different pool we will</c><c.colorCCCCCC> also write a
+ </c>
+
+00:00:54.140 --> 00:00:57.459 align:start position:0%
+<c.colorE5E5E5>different pool we will</c><c.colorCCCCCC> also write a
+simple<00:00:54.710><c> unit</c></c><c.colorE5E5E5><00:00:55.190><c> test</c><00:00:55.460><c> in</c></c><c.colorCCCCCC><00:00:55.699><c> Python</c><00:00:56.269><c> and</c></c><c.colorE5E5E5><00:00:56.420><c> the</c><00:00:57.230><c> user</c></c>
+
+00:00:57.459 --> 00:00:57.469 align:start position:0%
+simple<c.colorCCCCCC> unit</c><c.colorE5E5E5> test in</c><c.colorCCCCCC> Python and</c><c.colorE5E5E5> the user
+ </c>
+
+00:00:57.469 --> 00:00:59.770 align:start position:0%
+simple<c.colorCCCCCC> unit</c><c.colorE5E5E5> test in</c><c.colorCCCCCC> Python and</c><c.colorE5E5E5> the user
+acceptance<00:00:58.129><c> test</c><00:00:58.550><c> them</c><00:00:58.879><c> so</c></c><c.colorCCCCCC><00:00:59.030><c> that</c><00:00:59.329><c> we</c></c><c.colorE5E5E5><00:00:59.449><c> can</c><00:00:59.600><c> run</c></c>
+
+00:00:59.770 --> 00:00:59.780 align:start position:0%
+acceptance test them<c.colorE5E5E5> so</c><c.colorCCCCCC> that we</c><c.colorE5E5E5> can run
+ </c>
+
+00:00:59.780 --> 00:01:02.079 align:start position:0%
+acceptance test them<c.colorE5E5E5> so</c><c.colorCCCCCC> that we</c><c.colorE5E5E5> can run
+these<00:01:00.230><c> tests</c><00:01:00.739><c> in</c><00:01:00.890><c> the</c><00:01:01.100><c> relevant</c><00:01:01.399><c> stages</c></c>
+
+00:01:02.079 --> 00:01:02.089 align:start position:0%
+these tests<c.colorE5E5E5> in the relevant stages
+ </c>
+
+00:01:02.089 --> 00:01:05.170 align:start position:0%
+these tests<c.colorE5E5E5> in the relevant stages
+without<00:01:02.660><c> any</c><00:01:03.109><c> further</c><00:01:03.379><c> ado</c><00:01:03.859><c> let's</c></c><c.colorCCCCCC><00:01:04.070><c> start</c><00:01:04.850><c> with</c></c>
+
+00:01:05.170 --> 00:01:05.180 align:start position:0%
+without<c.colorE5E5E5> any further ado let's</c><c.colorCCCCCC> start with
+ </c>
+
+00:01:05.180 --> 00:01:07.780 align:start position:0%
+without<c.colorE5E5E5> any further ado let's</c><c.colorCCCCCC> start with
+the</c><c.colorE5E5E5><00:01:05.330><c> Jenkins</c><00:01:05.750><c> file</c><00:01:06.020><c> this</c><00:01:06.950><c> is</c><00:01:07.160><c> the</c><00:01:07.310><c> Jenkins</c></c>
+
+00:01:07.780 --> 00:01:07.790 align:start position:0%
+the<c.colorE5E5E5> Jenkins file this is the Jenkins
+ </c>
+
+00:01:07.790 --> 00:01:10.300 align:start position:0%
+the<c.colorE5E5E5> Jenkins file this is the Jenkins
+file<00:01:08.090><c> from</c><00:01:08.450><c> the</c><00:01:08.630><c> previous</c></c><c.colorCCCCCC><00:01:08.660><c> video</c><00:01:09.170><c> with</c><00:01:09.950><c> some</c></c>
+
+00:01:10.300 --> 00:01:10.310 align:start position:0%
+file from the previous<c.colorCCCCCC> video with some
+ </c>
+
+00:01:10.310 --> 00:01:13.660 align:start position:0%
+file from the previous<c.colorCCCCCC> video with some
+additional<00:01:10.820><c> stages</c></c><c.colorE5E5E5><00:01:11.210><c> in</c><00:01:11.660><c> particular</c></c><c.colorCCCCCC><00:01:12.410><c> I</c><00:01:12.890><c> added</c></c>
+
+00:01:13.660 --> 00:01:13.670 align:start position:0%
+additional stages<c.colorE5E5E5> in particular</c><c.colorCCCCCC> I added
+ </c>
+
+00:01:13.670 --> 00:01:16.780 align:start position:0%
+additional stages<c.colorE5E5E5> in particular</c><c.colorCCCCCC> I added
+a<00:01:13.790><c> stage</c></c><c.colorE5E5E5><00:01:14.120><c> test</c><00:01:14.690><c> unit</c></c><c.colorCCCCCC><00:01:15.320><c> test</c></c><c.colorE5E5E5><00:01:15.620><c> which</c><00:01:16.100><c> invokes</c><00:01:16.490><c> the</c></c>
+
+00:01:16.780 --> 00:01:16.790 align:start position:0%
+a stage<c.colorE5E5E5> test unit</c><c.colorCCCCCC> test</c><c.colorE5E5E5> which invokes the
+ </c>
+
+00:01:16.790 --> 00:01:19.750 align:start position:0%
+a stage<c.colorE5E5E5> test unit</c><c.colorCCCCCC> test</c><c.colorE5E5E5> which invokes the
+function<00:01:17.330><c> run</c><00:01:17.750><c> unit</c><00:01:18.170><c> tests</c><00:01:18.560><c> and</c><00:01:18.830><c> the</c><00:01:19.490><c> stage</c></c>
+
+00:01:19.750 --> 00:01:19.760 align:start position:0%
+function run unit tests<c.colorE5E5E5> and the stage
+ </c>
+
+00:01:19.760 --> 00:01:23.800 align:start position:0%
+function run unit tests<c.colorE5E5E5> and the stage</c>
+<c.colorCCCCCC>test<00:01:20.360><c> UAT</c></c><c.colorE5E5E5><00:01:21.110><c> dev</c><00:01:22.180><c> straight</c><00:01:23.180><c> after</c><00:01:23.690><c> the</c></c>
+
+00:01:23.800 --> 00:01:23.810 align:start position:0%
+<c.colorCCCCCC>test UAT</c><c.colorE5E5E5> dev straight after the
+ </c>
+
+00:01:23.810 --> 00:01:27.130 align:start position:0%
+<c.colorCCCCCC>test UAT</c><c.colorE5E5E5> dev straight after the
+deployment<00:01:24.050><c> to</c><00:01:24.770><c> the</c><00:01:24.890><c> dev</c></c><c.colorCCCCCC><00:01:25.100><c> environment</c><00:01:26.140><c> this</c></c>
+
+00:01:27.130 --> 00:01:27.140 align:start position:0%
+deployment<c.colorE5E5E5> to the dev</c><c.colorCCCCCC> environment this
+ </c>
+
+00:01:27.140 --> 00:01:31.090 align:start position:0%
+deployment<c.colorE5E5E5> to the dev</c><c.colorCCCCCC> environment this
+stage<00:01:27.530><c> invokes</c><00:01:28.220><c> the</c><00:01:28.490><c> function</c><00:01:29.000><c> run</c><00:01:29.420><c> UAT</c></c><c.colorE5E5E5><00:01:30.100><c> to</c></c>
+
+00:01:31.090 --> 00:01:31.100 align:start position:0%
+stage invokes the function run<c.colorCCCCCC> UAT</c><c.colorE5E5E5> to
+ </c>
+
+00:01:31.100 --> 00:01:33.220 align:start position:0%
+stage invokes the function run<c.colorCCCCCC> UAT</c><c.colorE5E5E5> to
+run<00:01:31.280><c> user</c><00:01:31.760><c> acceptance</c><00:01:32.420><c> tests</c><00:01:32.900><c> on</c><00:01:33.080><c> the</c></c>
+
+00:01:33.220 --> 00:01:33.230 align:start position:0%
+run user acceptance<c.colorE5E5E5> tests on the
+ </c>
+
+00:01:33.230 --> 00:01:36.400 align:start position:0%
+run user acceptance<c.colorE5E5E5> tests on the
+development<00:01:33.800><c> environment</c></c><c.colorCCCCCC><00:01:34.540><c> finally</c><00:01:35.540><c> I</c><00:01:35.720><c> added</c></c>
+
+00:01:36.400 --> 00:01:36.410 align:start position:0%
+development environment<c.colorCCCCCC> finally I added
+ </c>
+
+00:01:36.410 --> 00:01:39.970 align:start position:0%
+development environment<c.colorCCCCCC> finally I added</c>
+<c.colorCCCCCC>the<00:01:36.680><c> stage</c><00:01:37.040><c> deploy</c><00:01:37.670><c> stage</c><00:01:38.300><c> which</c><00:01:39.290><c> invokes</c><00:01:39.680><c> the</c></c>
+
+00:01:39.970 --> 00:01:39.980 align:start position:0%
+<c.colorCCCCCC>the stage deploy stage which invokes the
+ </c>
+
+00:01:39.980 --> 00:01:43.600 align:start position:0%
+<c.colorCCCCCC>the stage deploy stage which invokes the
+function<00:01:40.490><c> deploy</c><00:01:40.880><c> and</c><00:01:41.650><c> another</c><00:01:42.650><c> stage</c></c><c.colorE5E5E5><00:01:43.070><c> run</c></c>
+
+00:01:43.600 --> 00:01:43.610 align:start position:0%
+function deploy and another stage<c.colorE5E5E5> run
+ </c>
+
+00:01:43.610 --> 00:01:47.200 align:start position:0%
+function deploy and another stage<c.colorE5E5E5> run</c>
+<c.colorCCCCCC>UAT<00:01:44.120><c> stage</c></c><c.colorE5E5E5><00:01:44.740><c> calling</c><00:01:45.740><c> the</c><00:01:45.890><c> function</c><00:01:46.100><c> run</c></c><c.colorCCCCCC><00:01:46.730><c> UAT</c></c>
+
+00:01:47.200 --> 00:01:47.210 align:start position:0%
+<c.colorCCCCCC>UAT stage</c><c.colorE5E5E5> calling the function run</c><c.colorCCCCCC> UAT
+ </c>
+
+00:01:47.210 --> 00:01:50.380 align:start position:0%
+<c.colorCCCCCC>UAT stage</c><c.colorE5E5E5> calling the function run</c><c.colorCCCCCC> UAT</c>
+<c.colorE5E5E5>to<00:01:48.170><c> run</c><00:01:48.350><c> acceptance</c><00:01:49.010><c> tests</c><00:01:49.430><c> on</c><00:01:49.640><c> the</c><00:01:49.820><c> staging</c></c>
+
+00:01:50.380 --> 00:01:50.390 align:start position:0%
+<c.colorE5E5E5>to run acceptance tests on the staging
+ </c>
+
+00:01:50.390 --> 00:01:53.890 align:start position:0%
+<c.colorE5E5E5>to run acceptance tests on the staging
+environment<00:01:51.020><c> as</c><00:01:51.490><c> you</c><00:01:52.490><c> can</c><00:01:52.670><c> see</c><00:01:52.880><c> we</c><00:01:53.690><c> now</c><00:01:53.870><c> have</c></c>
+
+00:01:53.890 --> 00:01:53.900 align:start position:0%
+environment<c.colorE5E5E5> as you can see we now have
+ </c>
+
+00:01:53.900 --> 00:01:58.150 align:start position:0%
+environment<c.colorE5E5E5> as you can see we now have</c>
+<c.colorE5E5E5>six<00:01:54.770><c> stages</c><00:01:55.220><c> in</c><00:01:55.730><c> our</c><00:01:56.000><c> CD</c><00:01:56.480><c> pipeline</c><00:01:57.160><c> let's</c></c>
+
+00:01:58.150 --> 00:01:58.160 align:start position:0%
+<c.colorE5E5E5>six stages in our CD pipeline let's
+ </c>
+
+00:01:58.160 --> 00:02:00.910 align:start position:0%
+<c.colorE5E5E5>six stages in our CD pipeline let's
+start<00:01:58.490><c> by</c><00:01:58.730><c> analyzing</c><00:01:59.030><c> the</c><00:01:59.660><c> stage</c><00:01:59.960><c> test</c><00:02:00.500><c> unit</c></c>
+
+00:02:00.910 --> 00:02:00.920 align:start position:0%
+start by analyzing the stage<c.colorE5E5E5> test unit
+ </c>
+
+00:02:00.920 --> 00:02:04.990 align:start position:0%
+start by analyzing the stage<c.colorE5E5E5> test unit</c>
+<c.colorCCCCCC>tests</c><c.colorE5E5E5><00:02:01.750><c> first</c><00:02:02.890><c> notice</c><00:02:03.890><c> that</c><00:02:03.920><c> outside</c><00:02:04.790><c> the</c></c>
+
+00:02:04.990 --> 00:02:05.000 align:start position:0%
+<c.colorCCCCCC>tests</c><c.colorE5E5E5> first notice that outside the
+ </c>
+
+00:02:05.000 --> 00:02:07.570 align:start position:0%
+<c.colorCCCCCC>tests</c><c.colorE5E5E5> first notice that outside the
+stage<00:02:05.300><c> is</c><00:02:05.510><c> directive</c><00:02:06.200><c> we</c><00:02:06.920><c> added</c><00:02:07.430><c> an</c></c>
+
+00:02:07.570 --> 00:02:07.580 align:start position:0%
+stage is directive we added an
+ 
+
+00:02:07.580 --> 00:02:10.779 align:start position:0%
+stage is directive we added an
+environment<00:02:08.420><c> directive</c><c.colorE5E5E5><00:02:09.039><c> this</c><00:02:10.039><c> allows</c><00:02:10.459><c> to</c></c>
+
+00:02:10.779 --> 00:02:10.789 align:start position:0%
+environment directive<c.colorE5E5E5> this allows to
+ </c>
+
+00:02:10.789 --> 00:02:13.270 align:start position:0%
+environment directive<c.colorE5E5E5> this allows to
+inject<00:02:11.269><c> an</c><00:02:11.480><c> environment</c><00:02:12.019><c> variable</c><00:02:12.099><c> into</c><00:02:13.099><c> all</c></c>
+
+00:02:13.270 --> 00:02:13.280 align:start position:0%
+inject an environment variable<c.colorE5E5E5> into all
+ </c>
+
+00:02:13.280 --> 00:02:14.080 align:start position:0%
+inject an environment variable<c.colorE5E5E5> into all
+the<00:02:13.549><c> stage</c></c>
+
+00:02:14.080 --> 00:02:14.090 align:start position:0%
+the stage
+ 
+
+00:02:14.090 --> 00:02:17.500 align:start position:0%
+the stage
+of<00:02:14.269><c> the</c><00:02:14.450><c> pipeline</c><c.colorCCCCCC><00:02:14.959><c> in</c><00:02:15.489><c> particular</c></c><c.colorE5E5E5><00:02:16.489><c> here</c><00:02:17.330><c> we</c></c>
+
+00:02:17.500 --> 00:02:17.510 align:start position:0%
+of the pipeline<c.colorCCCCCC> in particular</c><c.colorE5E5E5> here we
+ </c>
+
+00:02:17.510 --> 00:02:19.000 align:start position:0%
+of the pipeline<c.colorCCCCCC> in particular</c><c.colorE5E5E5> here we</c>
+<c.colorE5E5E5>added<00:02:17.870><c> the</c><00:02:17.989><c> environment</c><00:02:18.530><c> variable</c></c>
+
+00:02:19.000 --> 00:02:19.010 align:start position:0%
+<c.colorE5E5E5>added the environment variable
+ </c>
+
+00:02:19.010 --> 00:02:20.040 align:start position:0%
+<c.colorE5E5E5>added the environment variable</c>
+<c.colorCCCCCC>pythonpath</c>
+
+00:02:20.040 --> 00:02:20.050 align:start position:0%
+<c.colorCCCCCC>pythonpath
+ </c>
+
+00:02:20.050 --> 00:02:22.869 align:start position:0%
+<c.colorCCCCCC>pythonpath
+this</c><c.colorE5E5E5><00:02:21.050><c> is</c><00:02:21.260><c> a</c><00:02:21.290><c> variable</c><00:02:21.890><c> to</c><00:02:22.069><c> make</c></c><c.colorCCCCCC><00:02:22.129><c> Python</c></c>
+
+00:02:22.869 --> 00:02:22.879 align:start position:0%
+this<c.colorE5E5E5> is a variable to make</c><c.colorCCCCCC> Python
+ </c>
+
+00:02:22.879 --> 00:02:26.170 align:start position:0%
+this<c.colorE5E5E5> is a variable to make</c><c.colorCCCCCC> Python
+modules<00:02:23.330><c> available</c><00:02:23.959><c> from</c><00:02:24.319><c> import</c><00:02:24.980><c> from</c></c><c.colorE5E5E5><00:02:25.849><c> any</c></c>
+
+00:02:26.170 --> 00:02:26.180 align:start position:0%
+modules<c.colorCCCCCC> available from import from</c><c.colorE5E5E5> any
+ </c>
+
+00:02:26.180 --> 00:02:29.949 align:start position:0%
+modules<c.colorCCCCCC> available from import from</c><c.colorE5E5E5> any
+Python<00:02:26.810><c> script</c><00:02:27.550><c> we</c><00:02:28.550><c> set</c><00:02:28.790><c> the</c><00:02:28.940><c> Python</c><00:02:29.360><c> path</c><00:02:29.629><c> to</c></c>
+
+00:02:29.949 --> 00:02:29.959 align:start position:0%
+<c.colorE5E5E5>Python script we set the Python path to
+ </c>
+
+00:02:29.959 --> 00:02:33.100 align:start position:0%
+<c.colorE5E5E5>Python script we set the Python path to
+the</c><c.colorCCCCCC><00:02:30.080><c> directory</c><00:02:30.620><c> where</c></c><c.colorE5E5E5><00:02:31.190><c> our</c><00:02:31.250><c> file</c></c><c.colorCCCCCC><00:02:31.879><c> app</c><00:02:32.239><c> dot</c><00:02:32.780><c> PI</c></c>
+
+00:02:33.100 --> 00:02:33.110 align:start position:0%
+the<c.colorCCCCCC> directory where</c><c.colorE5E5E5> our file</c><c.colorCCCCCC> app dot PI
+ </c>
+
+00:02:33.110 --> 00:02:37.150 align:start position:0%
+the<c.colorCCCCCC> directory where</c><c.colorE5E5E5> our file</c><c.colorCCCCCC> app dot PI
+is<00:02:33.440><c> stored</c><00:02:33.980><c> inside</c><00:02:34.580><c> the</c><00:02:35.000><c> workspace</c><00:02:35.599><c> in</c><00:02:36.160><c> fact</c></c>
+
+00:02:37.150 --> 00:02:37.160 align:start position:0%
+is stored inside<c.colorCCCCCC> the workspace in fact
+ </c>
+
+00:02:37.160 --> 00:02:39.699 align:start position:0%
+is stored inside<c.colorCCCCCC> the workspace in fact
+when<00:02:37.790><c> the</c><00:02:37.940><c> code</c><00:02:38.120><c> is</c><00:02:38.150><c> pulled</c></c><c.colorE5E5E5><00:02:38.660><c> from</c><00:02:38.930><c> github</c></c><c.colorCCCCCC><00:02:39.200><c> it</c></c>
+
+00:02:39.699 --> 00:02:39.709 align:start position:0%
+when the code is pulled<c.colorE5E5E5> from github</c><c.colorCCCCCC> it
+ </c>
+
+00:02:39.709 --> 00:02:42.130 align:start position:0%
+when the code is pulled<c.colorE5E5E5> from github</c><c.colorCCCCCC> it
+is<00:02:40.220><c> automatically</c><00:02:40.879><c> stored</c><00:02:41.450><c> by</c></c><c.colorE5E5E5><00:02:41.840><c> Jenkins</c></c>
+
+00:02:42.130 --> 00:02:42.140 align:start position:0%
+is automatically<c.colorCCCCCC> stored by</c><c.colorE5E5E5> Jenkins
+ </c>
+
+00:02:42.140 --> 00:02:45.190 align:start position:0%
+is automatically<c.colorCCCCCC> stored by</c><c.colorE5E5E5> Jenkins</c>
+<c.colorCCCCCC>inside<00:02:42.890><c> the</c><00:02:43.069><c> workspace</c></c><c.colorE5E5E5><00:02:43.670><c> we</c><00:02:44.480><c> need</c><00:02:44.660><c> a</c><00:02:44.690><c> reference</c></c>
+
+00:02:45.190 --> 00:02:45.200 align:start position:0%
+<c.colorCCCCCC>inside the workspace</c><c.colorE5E5E5> we need a reference
+ </c>
+
+00:02:45.200 --> 00:02:48.970 align:start position:0%
+<c.colorCCCCCC>inside the workspace</c><c.colorE5E5E5> we need a reference
+to</c><c.colorCCCCCC><00:02:45.379><c> app</c><00:02:45.709><c> dot</c></c><c.colorE5E5E5><00:02:46.099><c> pi</c><00:02:46.400><c> so</c><00:02:47.239><c> that</c><00:02:47.780><c> we</c><00:02:48.049><c> can</c><00:02:48.230><c> import</c><00:02:48.620><c> it</c></c>
+
+00:02:48.970 --> 00:02:48.980 align:start position:0%
+to<c.colorCCCCCC> app dot</c><c.colorE5E5E5> pi so that we can import it
+ </c>
+
+00:02:48.980 --> 00:02:51.850 align:start position:0%
+to<c.colorCCCCCC> app dot</c><c.colorE5E5E5> pi so that we can import it
+inside<00:02:49.579><c> the</c><00:02:49.760><c> unit</c><00:02:50.090><c> test</c><00:02:50.390><c> using</c><00:02:51.319><c> the</c><00:02:51.440><c> Python</c></c>
+
+00:02:51.850 --> 00:02:51.860 align:start position:0%
+inside the unit<c.colorE5E5E5> test using the Python
+ </c>
+
+00:02:51.860 --> 00:02:56.050 align:start position:0%
+inside the unit<c.colorE5E5E5> test using the Python
+path<00:02:52.180><c> we</c><00:02:53.180><c> will</c><00:02:53.329><c> see</c><00:02:53.569><c> this</c><00:02:53.780><c> in</c><00:02:54.110><c> a</c></c><c.colorCCCCCC><00:02:54.260><c> minute</c></c><c.colorE5E5E5><00:02:54.730><c> so</c><00:02:55.730><c> we</c></c>
+
+00:02:56.050 --> 00:02:56.060 align:start position:0%
+path we will see this in a<c.colorCCCCCC> minute</c><c.colorE5E5E5> so we
+ </c>
+
+00:02:56.060 --> 00:02:59.050 align:start position:0%
+path we will see this in a<c.colorCCCCCC> minute</c><c.colorE5E5E5> so we
+create<00:02:56.360><c> a</c><00:02:56.390><c> stage</c><00:02:56.870><c> test</c><00:02:57.410><c> unit</c><00:02:57.890><c> test</c><00:02:58.160><c> which</c></c>
+
+00:02:59.050 --> 00:02:59.060 align:start position:0%
+create a stage<c.colorE5E5E5> test unit test which
+ </c>
+
+00:02:59.060 --> 00:03:01.449 align:start position:0%
+create a stage<c.colorE5E5E5> test unit test which
+contains<00:02:59.599><c> a</c><00:02:59.870><c> step</c><00:03:00.319><c> invoking</c><00:03:00.980><c> the</c><00:03:01.250><c> function</c></c>
+
+00:03:01.449 --> 00:03:01.459 align:start position:0%
+contains a step invoking the function
+ 
+
+00:03:01.459 --> 00:03:04.839 align:start position:0%
+contains a step invoking the function
+<c.colorE5E5E5>run<00:03:02.239><c> unit</c><00:03:02.629><c> tests</c><00:03:03.260><c> let's</c><00:03:04.160><c> have</c><00:03:04.370><c> a</c><00:03:04.430><c> look</c><00:03:04.610><c> at</c><00:03:04.730><c> this</c></c>
+
+00:03:04.839 --> 00:03:04.849 align:start position:0%
+<c.colorE5E5E5>run unit tests let's have a look at this
+ </c>
+
+00:03:04.849 --> 00:03:06.720 align:start position:0%
+<c.colorE5E5E5>run unit tests let's have a look at this</c>
+<c.colorCCCCCC>function</c>
+
+00:03:06.720 --> 00:03:06.730 align:start position:0%
+<c.colorCCCCCC>function
+ </c>
+
+00:03:06.730 --> 00:03:10.470 align:start position:0%
+<c.colorCCCCCC>function
+the<00:03:07.360><c> function</c></c><c.colorE5E5E5><00:03:07.810><c> run</c><00:03:08.260><c> unit</c><00:03:08.590><c> tests</c><00:03:09.240><c> contain</c><00:03:10.240><c> a</c></c>
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+the function<c.colorE5E5E5> run unit tests contain a
+ </c>
+
+00:03:10.480 --> 00:03:13.080 align:start position:0%
+the function<c.colorE5E5E5> run unit tests contain a
+shell<00:03:10.870><c> command</c><00:03:11.130><c> executing</c><00:03:12.130><c> a</c><00:03:12.220><c> Python</c><00:03:12.730><c> test</c></c>
+
+00:03:13.080 --> 00:03:13.090 align:start position:0%
+shell command<c.colorE5E5E5> executing a Python test
+ </c>
+
+00:03:13.090 --> 00:03:17.760 align:start position:0%
+shell command<c.colorE5E5E5> executing a Python test
+called<00:03:13.930><c> test</c><00:03:14.440><c> flask</c></c><c.colorCCCCCC><00:03:14.980><c> up</c><00:03:15.430><c> dot</c><00:03:16.060><c> pi</c></c><c.colorE5E5E5><00:03:16.360><c> and</c><00:03:16.770><c> stored</c></c>
+
+00:03:17.760 --> 00:03:17.770 align:start position:0%
+called test<c.colorE5E5E5> flask</c><c.colorCCCCCC> up dot pi</c><c.colorE5E5E5> and stored
+ </c>
+
+00:03:17.770 --> 00:03:21.059 align:start position:0%
+called test<c.colorE5E5E5> flask</c><c.colorCCCCCC> up dot pi</c><c.colorE5E5E5> and stored
+in<00:03:18.010><c> the</c><00:03:18.040><c> test</c><00:03:18.400><c> directory</c><00:03:19.290><c> let's</c><00:03:20.290><c> analyze</c><00:03:20.770><c> the</c></c>
+
+00:03:21.059 --> 00:03:21.069 align:start position:0%
+in the<c.colorE5E5E5> test directory let's analyze the
+ </c>
+
+00:03:21.069 --> 00:03:25.410 align:start position:0%
+in the<c.colorE5E5E5> test directory let's analyze the
+unit<00:03:21.400><c> test</c><00:03:21.670><c> test</c><00:03:22.239><c> flask</c></c><c.colorCCCCCC><00:03:22.840><c> up</c><00:03:23.200><c> dot</c><00:03:23.739><c> pi</c><00:03:24.180><c> this</c><00:03:25.180><c> is</c><00:03:25.239><c> a</c></c>
+
+00:03:25.410 --> 00:03:25.420 align:start position:0%
+unit test test flask<c.colorCCCCCC> up dot pi this is a
+ </c>
+
+00:03:25.420 --> 00:03:27.780 align:start position:0%
+unit test test flask<c.colorCCCCCC> up dot pi this is a
+simple<00:03:26.020><c> Python</c><00:03:26.319><c> test</c><00:03:26.860><c> for</c><00:03:27.280><c> our</c><00:03:27.430><c> flask</c></c>
+
+00:03:27.780 --> 00:03:27.790 align:start position:0%
+simple Python test for<c.colorCCCCCC> our flask
+ </c>
+
+00:03:27.790 --> 00:03:31.050 align:start position:0%
+simple Python test for<c.colorCCCCCC> our flask</c>
+<c.colorCCCCCC>application<00:03:28.590><c> it</c><00:03:29.590><c> imports</c><00:03:30.220><c> some</c></c><c.colorE5E5E5><00:03:30.580><c> Python</c></c>
+
+00:03:31.050 --> 00:03:31.060 align:start position:0%
+<c.colorCCCCCC>application it imports some</c><c.colorE5E5E5> Python
+ </c>
+
+00:03:31.060 --> 00:03:33.960 align:start position:0%
+<c.colorCCCCCC>application it imports some</c><c.colorE5E5E5> Python
+modules<00:03:31.510><c> namely</c><00:03:32.410><c> unique</c></c><c.colorCCCCCC><00:03:32.800><c> tests</c><00:03:33.190><c> for</c><00:03:33.489><c> writing</c></c>
+
+00:03:33.960 --> 00:03:33.970 align:start position:0%
+modules<c.colorE5E5E5> namely unique</c><c.colorCCCCCC> tests for writing
+ </c>
+
+00:03:33.970 --> 00:03:37.350 align:start position:0%
+modules<c.colorE5E5E5> namely unique</c><c.colorCCCCCC> tests for writing
+unit<00:03:34.300><c> tests</c></c><c.colorE5E5E5><00:03:34.569><c> in</c><00:03:34.720><c> Python</c><00:03:35.260><c> it</c><00:03:36.220><c> also</c><00:03:36.430><c> imports</c><00:03:37.120><c> our</c></c>
+
+00:03:37.350 --> 00:03:37.360 align:start position:0%
+unit tests<c.colorE5E5E5> in Python it also imports our
+ </c>
+
+00:03:37.360 --> 00:03:39.750 align:start position:0%
+unit tests<c.colorE5E5E5> in Python it also imports our
+upper<00:03:37.900><c> module</c><00:03:38.349><c> this</c><00:03:39.190><c> is</c></c><c.colorCCCCCC><00:03:39.250><c> the</c></c><c.colorE5E5E5><00:03:39.430><c> flask</c></c>
+
+00:03:39.750 --> 00:03:39.760 align:start position:0%
+upper<c.colorE5E5E5> module this is</c><c.colorCCCCCC> the</c><c.colorE5E5E5> flask
+ </c>
+
+00:03:39.760 --> 00:03:41.400 align:start position:0%
+upper<c.colorE5E5E5> module this is</c><c.colorCCCCCC> the</c><c.colorE5E5E5> flask</c>
+<c.colorCCCCCC>application<00:03:40.450><c> we</c><00:03:40.630><c> wrote</c><00:03:40.930><c> in</c><00:03:41.110><c> the</c></c><c.colorE5E5E5><00:03:41.200><c> previous</c></c>
+
+00:03:41.400 --> 00:03:41.410 align:start position:0%
+<c.colorCCCCCC>application we wrote in the</c><c.colorE5E5E5> previous
+ </c>
+
+00:03:41.410 --> 00:03:44.729 align:start position:0%
+<c.colorCCCCCC>application we wrote in the</c><c.colorE5E5E5> previous
+videos<00:03:42.269><c> this</c></c><c.colorCCCCCC><00:03:43.269><c> is</c><00:03:43.330><c> the</c><00:03:43.569><c> reason</c><00:03:43.870><c> why</c><00:03:44.110><c> we</c><00:03:44.350><c> had</c><00:03:44.560><c> to</c></c>
+
+00:03:44.729 --> 00:03:44.739 align:start position:0%
+videos this<c.colorCCCCCC> is the reason why we had to
+ </c>
+
+00:03:44.739 --> 00:03:46.920 align:start position:0%
+videos this<c.colorCCCCCC> is the reason why we had to
+set<00:03:44.980><c> up</c><00:03:45.010><c> the</c><00:03:45.190><c> environment</c><00:03:45.880><c> variable</c><00:03:46.330><c> Python</c></c>
+
+00:03:46.920 --> 00:03:46.930 align:start position:0%
+set up<c.colorCCCCCC> the environment variable Python
+ </c>
+
+00:03:46.930 --> 00:03:50.070 align:start position:0%
+set up<c.colorCCCCCC> the environment variable Python
+path<00:03:47.230><c> in</c><00:03:47.560><c> the</c><00:03:47.769><c> Jenkins</c><00:03:48.100><c> file</c><00:03:48.459><c> without</c><00:03:49.390><c> Python</c></c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+path in the Jenkins file without Python
+ 
+
+00:03:50.080 --> 00:03:52.470 align:start position:0%
+path in the Jenkins file without Python
+path<c.colorE5E5E5><00:03:50.319><c> this</c><00:03:51.040><c> unit</c></c><c.colorCCCCCC><00:03:51.370><c> test</c></c><c.colorE5E5E5><00:03:51.610><c> won't</c><00:03:51.940><c> be</c><00:03:52.120><c> able</c></c><c.colorCCCCCC><00:03:52.239><c> to</c></c>
+
+00:03:52.470 --> 00:03:52.480 align:start position:0%
+path<c.colorE5E5E5> this unit</c><c.colorCCCCCC> test</c><c.colorE5E5E5> won't be able</c><c.colorCCCCCC> to
+ </c>
+
+00:03:52.480 --> 00:03:55.680 align:start position:0%
+path<c.colorE5E5E5> this unit</c><c.colorCCCCCC> test</c><c.colorE5E5E5> won't be able</c><c.colorCCCCCC> to
+find<00:03:52.780><c> the</c><00:03:53.140><c> flask</c><00:03:53.440><c> application</c><00:03:54.310><c> and</c><00:03:54.540><c> execute</c><00:03:55.540><c> a</c></c>
+
+00:03:55.680 --> 00:03:55.690 align:start position:0%
+find the flask<c.colorCCCCCC> application and execute a
+ </c>
+
+00:03:55.690 --> 00:03:58.500 align:start position:0%
+find the flask<c.colorCCCCCC> application and execute a
+test<00:03:55.900><c> on</c><00:03:56.200><c> it</c></c><c.colorE5E5E5><00:03:56.319><c> these</c><00:03:57.069><c> lines</c><00:03:57.459><c> define</c><00:03:58.090><c> the</c><00:03:58.299><c> class</c></c>
+
+00:03:58.500 --> 00:03:58.510 align:start position:0%
+test on it<c.colorE5E5E5> these lines define the class
+ </c>
+
+00:03:58.510 --> 00:04:01.830 align:start position:0%
+test on it<c.colorE5E5E5> these lines define the class</c>
+<c.colorE5E5E5>basic<00:03:59.440><c> test</c><00:03:59.769><c> which</c><00:04:00.489><c> is</c><00:04:00.640><c> used</c><00:04:00.850><c> to</c><00:04:01.030><c> write</c><00:04:01.209><c> tests</c></c>
+
+00:04:01.830 --> 00:04:01.840 align:start position:0%
+<c.colorE5E5E5>basic test which is used to write tests
+ </c>
+
+00:04:01.840 --> 00:04:04.039 align:start position:0%
+<c.colorE5E5E5>basic test which is used to write tests
+using<00:04:02.290><c> the</c><00:04:02.410><c> unit</c><00:04:02.739><c> test</c><00:04:02.950><c> framework</c></c><c.colorCCCCCC><00:04:03.220><c> in</c></c>
+
+00:04:04.039 --> 00:04:04.049 align:start position:0%
+<c.colorE5E5E5>using the unit test framework</c><c.colorCCCCCC> in
+ </c>
+
+00:04:04.049 --> 00:04:07.590 align:start position:0%
+<c.colorE5E5E5>using the unit test framework</c><c.colorCCCCCC> in
+particular<00:04:05.049><c> we</c><00:04:05.739><c> have</c><00:04:05.830><c> a</c></c><c.colorE5E5E5><00:04:05.890><c> setup</c></c><c.colorCCCCCC><00:04:06.250><c> method</c></c><c.colorE5E5E5><00:04:06.970><c> that</c></c>
+
+00:04:07.590 --> 00:04:07.600 align:start position:0%
+particular we have a<c.colorE5E5E5> setup</c><c.colorCCCCCC> method</c><c.colorE5E5E5> that
+ </c>
+
+00:04:07.600 --> 00:04:10.559 align:start position:0%
+particular we have a<c.colorE5E5E5> setup</c><c.colorCCCCCC> method</c><c.colorE5E5E5> that
+is<00:04:07.750><c> executed</c></c><c.colorCCCCCC><00:04:08.380><c> before</c><00:04:08.799><c> each</c><00:04:09.069><c> test</c></c><c.colorE5E5E5><00:04:09.580><c> to</c><00:04:10.030><c> mock</c><00:04:10.299><c> a</c></c>
+
+00:04:10.559 --> 00:04:10.569 align:start position:0%
+is executed<c.colorCCCCCC> before each test</c><c.colorE5E5E5> to mock a
+ </c>
+
+00:04:10.569 --> 00:04:14.370 align:start position:0%
+is executed<c.colorCCCCCC> before each test</c><c.colorE5E5E5> to mock a
+flask<00:04:11.049><c> application</c><00:04:11.940><c> the</c><00:04:12.940><c> teardown</c></c><c.colorCCCCCC><00:04:13.209><c> method</c><00:04:13.450><c> is</c></c>
+
+00:04:14.370 --> 00:04:14.380 align:start position:0%
+flask application<c.colorE5E5E5> the teardown</c><c.colorCCCCCC> method is
+ </c>
+
+00:04:14.380 --> 00:04:17.880 align:start position:0%
+flask application<c.colorE5E5E5> the teardown</c><c.colorCCCCCC> method is
+executed<00:04:14.769><c> after</c></c><c.colorE5E5E5><00:04:15.250><c> each</c><00:04:15.970><c> test</c><00:04:16.650><c> these</c><00:04:17.650><c> are</c></c>
+
+00:04:17.880 --> 00:04:17.890 align:start position:0%
+executed<c.colorCCCCCC> after</c><c.colorE5E5E5> each test these are
+ </c>
+
+00:04:17.890 --> 00:04:20.250 align:start position:0%
+executed<c.colorCCCCCC> after</c><c.colorE5E5E5> each test these are
+common<00:04:18.250><c> methods</c><00:04:18.700><c> in</c><00:04:18.970><c> testing</c><00:04:19.479><c> frameworks</c><00:04:19.989><c> and</c></c>
+
+00:04:20.250 --> 00:04:20.260 align:start position:0%
+common methods in testing frameworks<c.colorE5E5E5> and
+ </c>
+
+00:04:20.260 --> 00:04:23.100 align:start position:0%
+common methods in testing frameworks<c.colorE5E5E5> and
+they<00:04:20.799><c> used</c><00:04:21.070><c> to</c><00:04:21.220><c> initialize</c><00:04:21.880><c> mock</c><00:04:22.300><c> objects</c><00:04:22.990><c> or</c></c>
+
+00:04:23.100 --> 00:04:23.110 align:start position:0%
+they used to initialize mock objects<c.colorE5E5E5> or
+ </c>
+
+00:04:23.110 --> 00:04:26.070 align:start position:0%
+they used to initialize mock objects<c.colorE5E5E5> or
+tasks<00:04:23.740><c> and</c><00:04:23.919><c> clean</c><00:04:24.400><c> up</c><00:04:24.580><c> the</c><00:04:24.729><c> environment</c></c><c.colorCCCCCC><00:04:25.080><c> after</c></c>
+
+00:04:26.070 --> 00:04:26.080 align:start position:0%
+tasks<c.colorE5E5E5> and clean up the environment</c><c.colorCCCCCC> after
+ </c>
+
+00:04:26.080 --> 00:04:30.029 align:start position:0%
+tasks<c.colorE5E5E5> and clean up the environment</c><c.colorCCCCCC> after
+a<00:04:26.110><c> test</c></c><c.colorE5E5E5><00:04:26.470><c> is</c><00:04:26.770><c> executed</c><00:04:28.080><c> the</c><00:04:29.080><c> real</c><00:04:29.289><c> test</c><00:04:29.710><c> is</c></c>
+
+00:04:30.029 --> 00:04:30.039 align:start position:0%
+a test<c.colorE5E5E5> is executed the real test is
+ </c>
+
+00:04:30.039 --> 00:04:32.550 align:start position:0%
+a test<c.colorE5E5E5> is executed the real test is
+defined<00:04:30.700><c> in</c><00:04:31.030><c> the</c><00:04:31.300><c> method</c><00:04:31.690><c> tests</c><00:04:32.289><c> the</c><00:04:32.380><c> main</c></c>
+
+00:04:32.550 --> 00:04:32.560 align:start position:0%
+defined in the method<c.colorE5E5E5> tests the main
+ </c>
+
+00:04:32.560 --> 00:04:36.659 align:start position:0%
+defined in the method<c.colorE5E5E5> tests the main
+page<00:04:33.419><c> this</c><00:04:34.419><c> method</c><00:04:34.990><c> gets</c><00:04:35.650><c> the</c><00:04:35.770><c> mocked</c><00:04:36.190><c> flask</c></c>
+
+00:04:36.659 --> 00:04:36.669 align:start position:0%
+page this method gets the mocked<c.colorE5E5E5> flask
+ </c>
+
+00:04:36.669 --> 00:04:39.690 align:start position:0%
+page this method gets the mocked<c.colorE5E5E5> flask
+application<00:04:36.940><c> and</c><00:04:37.720><c> checks</c><00:04:38.530><c> that</c><00:04:39.010><c> the</c><00:04:39.190><c> root</c><00:04:39.460><c> of</c></c>
+
+00:04:39.690 --> 00:04:39.700 align:start position:0%
+application<c.colorE5E5E5> and checks that the root of
+ </c>
+
+00:04:39.700 --> 00:04:43.200 align:start position:0%
+application<c.colorE5E5E5> and checks that the root of
+the<00:04:39.820><c> application</c><00:04:40.600><c> see</c><00:04:41.169><c> the</c><00:04:41.320><c> slash</c><00:04:41.940><c> returns</c><00:04:42.940><c> a</c></c>
+
+00:04:43.200 --> 00:04:43.210 align:start position:0%
+the application see the slash returns a
+ 
+
+00:04:43.210 --> 00:04:47.520 align:start position:0%
+the application see the slash returns a
+200<00:04:43.930><c> HTTP</c><00:04:44.830><c> status</c><00:04:45.190><c> code</c><00:04:45.700><c> in</c><00:04:46.390><c> other</c><00:04:46.600><c> words</c><c.colorE5E5E5><00:04:46.900><c> the</c></c>
+
+00:04:47.520 --> 00:04:47.530 align:start position:0%
+200 HTTP status code in other words<c.colorE5E5E5> the
+ </c>
+
+00:04:47.530 --> 00:04:50.159 align:start position:0%
+200 HTTP status code in other words<c.colorE5E5E5> the
+tester<00:04:47.950><c> pings</c></c><c.colorCCCCCC><00:04:48.220><c> a</c><00:04:48.580><c> mocked</c><00:04:49.180><c> version</c><00:04:49.840><c> of</c><00:04:49.960><c> the</c></c>
+
+00:04:50.159 --> 00:04:50.169 align:start position:0%
+tester pings<c.colorCCCCCC> a mocked version of the
+ </c>
+
+00:04:50.169 --> 00:04:52.740 align:start position:0%
+tester pings<c.colorCCCCCC> a mocked version of the</c>
+<c.colorCCCCCC>application<00:04:50.830><c> and</c><00:04:50.979><c> makes</c><00:04:51.610><c> sure</c><00:04:51.910><c> that</c></c><c.colorE5E5E5><00:04:51.940><c> the</c><00:04:52.479><c> page</c></c>
+
+00:04:52.740 --> 00:04:52.750 align:start position:0%
+<c.colorCCCCCC>application and makes sure that</c><c.colorE5E5E5> the page
+ </c>
+
+00:04:52.750 --> 00:04:56.760 align:start position:0%
+<c.colorCCCCCC>application and makes sure that</c><c.colorE5E5E5> the page
+is<00:04:52.780><c> found</c><00:04:53.640><c> finally</c><00:04:54.640><c> the</c><00:04:55.270><c> main</c><00:04:55.510><c> method</c><00:04:56.020><c> starts</c></c>
+
+00:04:56.760 --> 00:04:56.770 align:start position:0%
+is found<c.colorE5E5E5> finally the main method starts
+ </c>
+
+00:04:56.770 --> 00:04:59.940 align:start position:0%
+is found<c.colorE5E5E5> finally the main method starts
+the<00:04:57.010><c> unit</c><00:04:57.340><c> tests</c><00:04:57.789><c> as</c><00:04:57.940><c> you</c><00:04:58.900><c> can</c><00:04:59.080><c> see</c><00:04:59.289><c> it</c><00:04:59.500><c> is</c><00:04:59.919><c> a</c></c>
+
+00:04:59.940 --> 00:04:59.950 align:start position:0%
+the unit tests as you can see it is a
+ 
+
+00:04:59.950 --> 00:05:03.060 align:start position:0%
+the unit tests as you can see it is a
+simple<c.colorE5E5E5><00:05:00.310><c> unit</c><00:05:00.789><c> test</c><00:05:01.060><c> but</c><00:05:01.510><c> it</c><00:05:01.750><c> fits</c><00:05:02.260><c> our</c><00:05:02.410><c> purpose</c></c>
+
+00:05:03.060 --> 00:05:03.070 align:start position:0%
+simple<c.colorE5E5E5> unit test but it fits our purpose
+ </c>
+
+00:05:03.070 --> 00:05:05.730 align:start position:0%
+simple<c.colorE5E5E5> unit test but it fits our purpose
+to<00:05:03.310><c> test</c><00:05:03.550><c> the</c><00:05:03.910><c> application</c></c><c.colorCCCCCC><00:05:04.410><c> before</c><00:05:05.410><c> the</c></c>
+
+00:05:05.730 --> 00:05:05.740 align:start position:0%
+to test the application<c.colorCCCCCC> before the
+ </c>
+
+00:05:05.740 --> 00:05:08.700 align:start position:0%
+to test the application<c.colorCCCCCC> before the
+pipeline<00:05:06.250><c> builds</c><00:05:06.729><c> it</c><00:05:06.910><c> and</c><00:05:07.000><c> deploys</c><00:05:07.840><c> it</c><00:05:08.139><c> to</c><00:05:08.590><c> an</c></c>
+
+00:05:08.700 --> 00:05:08.710 align:start position:0%
+pipeline builds<c.colorCCCCCC> it and deploys it to an
+ </c>
+
+00:05:08.710 --> 00:05:11.870 align:start position:0%
+pipeline builds<c.colorCCCCCC> it and deploys it to an</c>
+<c.colorCCCCCC>environment</c><c.colorE5E5E5><00:05:09.430><c> now</c></c><c.colorCCCCCC><00:05:10.410><c> let's</c><00:05:11.410><c> go</c></c>
+
+00:05:11.870 --> 00:05:11.880 align:start position:0%
+<c.colorCCCCCC>environment</c><c.colorE5E5E5> now</c><c.colorCCCCCC> let's go
+ </c>
+
+00:05:11.880 --> 00:05:14.240 align:start position:0%
+<c.colorCCCCCC>environment</c><c.colorE5E5E5> now</c><c.colorCCCCCC> let's go</c>
+<c.colorE5E5E5>to<00:05:12.090><c> the</c><00:05:12.210><c> Jenkins</c><00:05:12.600><c> file</c></c>
+
+00:05:14.240 --> 00:05:14.250 align:start position:0%
+<c.colorE5E5E5>to the Jenkins file
+ </c>
+
+00:05:14.250 --> 00:05:16.730 align:start position:0%
+<c.colorE5E5E5>to the Jenkins file
+once<00:05:14.730><c> the</c><00:05:14.970><c> stage</c></c><c.colorCCCCCC><00:05:15.300><c> tests</c><00:05:15.900><c> the</c><00:05:15.990><c> unit</c><00:05:16.320><c> tests</c></c>
+
+00:05:16.730 --> 00:05:16.740 align:start position:0%
+once the stage<c.colorCCCCCC> tests the unit tests
+ </c>
+
+00:05:16.740 --> 00:05:20.000 align:start position:0%
+once the stage<c.colorCCCCCC> tests the unit tests</c>
+<c.colorE5E5E5>passes<00:05:17.280><c> successfully</c><00:05:18.030><c> the</c><00:05:18.840><c> pipeline</c><00:05:19.380><c> builds</c></c>
+
+00:05:20.000 --> 00:05:20.010 align:start position:0%
+<c.colorE5E5E5>passes successfully the pipeline builds
+ </c>
+
+00:05:20.010 --> 00:05:23.450 align:start position:0%
+<c.colorE5E5E5>passes successfully the pipeline builds
+the<00:05:20.130><c> application</c><00:05:20.820><c> and</c><00:05:21.590><c> deploys</c><00:05:22.590><c> it</c><00:05:22.920><c> to</c><00:05:23.310><c> the</c></c>
+
+00:05:23.450 --> 00:05:23.460 align:start position:0%
+the application and deploys it<c.colorE5E5E5> to the
+ </c>
+
+00:05:23.460 --> 00:05:26.510 align:start position:0%
+the application and deploys it<c.colorE5E5E5> to the
+dev<00:05:23.670><c> environment</c></c><c.colorCCCCCC><00:05:24.470><c> we</c><00:05:25.470><c> saw</c><00:05:25.620><c> these</c><00:05:25.830><c> steps</c></c><c.colorE5E5E5><00:05:26.220><c> in</c></c>
+
+00:05:26.510 --> 00:05:26.520 align:start position:0%
+dev environment<c.colorCCCCCC> we saw these steps</c><c.colorE5E5E5> in
+ </c>
+
+00:05:26.520 --> 00:05:29.330 align:start position:0%
+dev environment<c.colorCCCCCC> we saw these steps</c><c.colorE5E5E5> in
+the<00:05:26.820><c> previous</c><00:05:27.150><c> video</c><00:05:27.680><c> after</c><00:05:28.680><c> deployment</c><00:05:29.190><c> to</c></c>
+
+00:05:29.330 --> 00:05:29.340 align:start position:0%
+the previous<c.colorE5E5E5> video after deployment to
+ </c>
+
+00:05:29.340 --> 00:05:33.770 align:start position:0%
+the previous<c.colorE5E5E5> video after deployment to
+death</c><c.colorCCCCCC><00:05:29.580><c> we</c><00:05:30.090><c> add</c><00:05:30.300><c> the</c><00:05:30.690><c> stage</c><00:05:30.960><c> test</c><00:05:31.410><c> UAT</c><00:05:32.040><c> dev</c><00:05:32.780><c> this</c></c>
+
+00:05:33.770 --> 00:05:33.780 align:start position:0%
+death<c.colorCCCCCC> we add the stage test UAT dev this
+ </c>
+
+00:05:33.780 --> 00:05:36.190 align:start position:0%
+death<c.colorCCCCCC> we add the stage test UAT dev this
+invokes<00:05:34.170><c> the</c><00:05:34.380><c> function</c></c><c.colorE5E5E5><00:05:34.830><c> run</c><00:05:35.160><c> the</c><00:05:35.310><c> u18</c><00:05:35.910><c> and</c></c>
+
+00:05:36.190 --> 00:05:36.200 align:start position:0%
+invokes the function<c.colorE5E5E5> run the u18 and
+ </c>
+
+00:05:36.200 --> 00:05:38.660 align:start position:0%
+invokes the function<c.colorE5E5E5> run the u18 and
+passes<00:05:37.200><c> the</c><00:05:37.380><c> port</c><00:05:37.650><c> where</c></c><c.colorCCCCCC><00:05:38.310><c> the</c><00:05:38.490><c> dev</c></c>
+
+00:05:38.660 --> 00:05:38.670 align:start position:0%
+passes the port where<c.colorCCCCCC> the dev
+ </c>
+
+00:05:38.670 --> 00:05:43.280 align:start position:0%
+passes the port where<c.colorCCCCCC> the dev</c>
+<c.colorCCCCCC>environment<00:05:38.850><c> is</c><00:05:39.480><c> deployed</c><00:05:41.120><c> 8888</c><00:05:42.290><c> let's</c></c>
+
+00:05:43.280 --> 00:05:43.290 align:start position:0%
+<c.colorCCCCCC>environment is deployed 8888 let's
+ </c>
+
+00:05:43.290 --> 00:05:47.210 align:start position:0%
+<c.colorCCCCCC>environment is deployed 8888 let's
+analyze<00:05:43.800><c> the</c><00:05:44.070><c> function</c><00:05:44.280><c> run</c><00:05:44.880><c> UAT</c></c><c.colorE5E5E5><00:05:46.220><c> the</c></c>
+
+00:05:47.210 --> 00:05:47.220 align:start position:0%
+analyze the function<c.colorCCCCCC> run UAT</c><c.colorE5E5E5> the
+ </c>
+
+00:05:47.220 --> 00:05:49.220 align:start position:0%
+analyze the function<c.colorCCCCCC> run UAT</c><c.colorE5E5E5> the
+function<00:05:47.640><c> receives</c><00:05:48.270><c> the</c><00:05:48.570><c> port</c><00:05:48.870><c> as</c><00:05:49.170><c> a</c></c>
+
+00:05:49.220 --> 00:05:49.230 align:start position:0%
+function receives the port as a
+ 
+
+00:05:49.230 --> 00:05:51.920 align:start position:0%
+function receives the port as a
+parameter<c.colorE5E5E5><00:05:49.620><c> and</c><00:05:50.180><c> executes</c><00:05:51.180><c> this</c><00:05:51.570><c> shell</c></c>
+
+00:05:51.920 --> 00:05:51.930 align:start position:0%
+parameter<c.colorE5E5E5> and executes this shell
+ </c>
+
+00:05:51.930 --> 00:05:56.150 align:start position:0%
+parameter<c.colorE5E5E5> and executes this shell
+command<00:05:52.880><c> this</c><00:05:53.880><c> is</c></c><c.colorCCCCCC><00:05:53.940><c> a</c><00:05:54.120><c> bash</c><00:05:54.450><c> script</c><00:05:55.020><c> named</c></c><c.colorE5E5E5><00:05:55.770><c> run</c></c>
+
+00:05:56.150 --> 00:05:56.160 align:start position:0%
+command this<c.colorE5E5E5> is</c><c.colorCCCCCC> a bash script named</c><c.colorE5E5E5> run
+ </c>
+
+00:05:56.160 --> 00:05:59.750 align:start position:0%
+command this<c.colorE5E5E5> is</c><c.colorCCCCCC> a bash script named</c><c.colorE5E5E5> run</c>
+<c.colorCCCCCC>ua<00:05:56.430><c> t</c><00:05:56.580><c> dot</c><00:05:57.030><c> s</c><00:05:57.270><c> age</c><00:05:57.540><c> and</c><00:05:57.900><c> stored</c><00:05:58.830><c> in</c></c><c.colorE5E5E5><00:05:59.070><c> the</c><00:05:59.280><c> tests</c></c>
+
+00:05:59.750 --> 00:05:59.760 align:start position:0%
+<c.colorCCCCCC>ua t dot s age and stored in</c><c.colorE5E5E5> the tests
+ </c>
+
+00:05:59.760 --> 00:06:02.690 align:start position:0%
+<c.colorCCCCCC>ua t dot s age and stored in</c><c.colorE5E5E5> the tests
+directory<00:06:00.360><c> the</c><00:06:01.080><c> port</c><00:06:01.380><c> is</c><00:06:01.650><c> passed</c><00:06:02.130><c> to</c></c><c.colorCCCCCC><00:06:02.340><c> the</c><00:06:02.520><c> bash</c></c>
+
+00:06:02.690 --> 00:06:02.700 align:start position:0%
+directory the port is passed to<c.colorCCCCCC> the bash
+ </c>
+
+00:06:02.700 --> 00:06:06.170 align:start position:0%
+directory the port is passed to<c.colorCCCCCC> the bash
+script<00:06:03.470><c> let's</c><00:06:04.470><c> look</c><00:06:04.740><c> at</c><00:06:04.920><c> the</c><00:06:05.010><c> bash</c><00:06:05.190><c> script</c></c><c.colorE5E5E5><00:06:05.760><c> run</c></c>
+
+00:06:06.170 --> 00:06:06.180 align:start position:0%
+script let's look at the bash script<c.colorE5E5E5> run
+ </c>
+
+00:06:06.180 --> 00:06:09.980 align:start position:0%
+script let's look at the bash script<c.colorE5E5E5> run
+you</c><c.colorCCCCCC><00:06:06.450><c> $80</c><00:06:07.260><c> H</c><00:06:07.530><c> stored</c><00:06:08.490><c> in</c><00:06:08.760><c> the</c><00:06:09.030><c> test</c><00:06:09.270><c> directory</c></c>
+
+00:06:09.980 --> 00:06:09.990 align:start position:0%
+<c.colorE5E5E5>you</c><c.colorCCCCCC> $80 H stored in the test directory
+ </c>
+
+00:06:09.990 --> 00:06:13.280 align:start position:0%
+<c.colorE5E5E5>you</c><c.colorCCCCCC> $80 H stored in the test directory
+this</c><c.colorE5E5E5><00:06:10.830><c> is</c><00:06:11.040><c> a</c><00:06:11.070><c> simple</c><00:06:11.610><c> bash</c><00:06:11.790><c> script</c><00:06:12.330><c> that</c></c><c.colorCCCCCC><00:06:12.780><c> runs</c><00:06:13.050><c> a</c></c>
+
+00:06:13.280 --> 00:06:13.290 align:start position:0%
+this<c.colorE5E5E5> is a simple bash script that</c><c.colorCCCCCC> runs a
+ </c>
+
+00:06:13.290 --> 00:06:16.159 align:start position:0%
+this<c.colorE5E5E5> is a simple bash script that</c><c.colorCCCCCC> runs a
+user<00:06:13.560><c> acceptance</c><00:06:14.160><c> test</c></c><c.colorE5E5E5><00:06:14.520><c> as</c><00:06:14.790><c> you</c></c><c.colorCCCCCC><00:06:15.600><c> may</c></c><c.colorE5E5E5><00:06:15.870><c> remember</c></c>
+
+00:06:16.159 --> 00:06:16.169 align:start position:0%
+user acceptance test<c.colorE5E5E5> as you</c><c.colorCCCCCC> may</c><c.colorE5E5E5> remember
+ </c>
+
+00:06:16.169 --> 00:06:19.280 align:start position:0%
+user acceptance test<c.colorE5E5E5> as you</c><c.colorCCCCCC> may</c><c.colorE5E5E5> remember
+from<00:06:16.410><c> section</c></c><c.colorCCCCCC><00:06:17.100><c> 3</c></c><c.colorE5E5E5><00:06:17.400><c> a</c><00:06:17.610><c> user</c><00:06:18.240><c> acceptance</c><00:06:18.870><c> test</c></c>
+
+00:06:19.280 --> 00:06:19.290 align:start position:0%
+from section<c.colorCCCCCC> 3</c><c.colorE5E5E5> a user acceptance test
+ </c>
+
+00:06:19.290 --> 00:06:22.220 align:start position:0%
+from section<c.colorCCCCCC> 3</c><c.colorE5E5E5> a user acceptance test
+checks<00:06:20.160><c> that</c><00:06:20.430><c> the</c><00:06:20.520><c> feature</c><00:06:20.790><c> or</c><00:06:21.180><c> a</c><00:06:21.240><c> use</c><00:06:21.600><c> case</c><00:06:21.900><c> is</c></c>
+
+00:06:22.220 --> 00:06:22.230 align:start position:0%
+checks<c.colorE5E5E5> that the feature or a use case is
+ </c>
+
+00:06:22.230 --> 00:06:25.370 align:start position:0%
+checks<c.colorE5E5E5> that the feature or a use case is</c>
+<c.colorE5E5E5>correctly<00:06:22.800><c> implemented</c><00:06:23.690><c> this</c><00:06:24.690><c> is</c><00:06:24.870><c> also</c><00:06:25.169><c> known</c></c>
+
+00:06:25.370 --> 00:06:25.380 align:start position:0%
+<c.colorE5E5E5>correctly implemented this is also known
+ </c>
+
+00:06:25.380 --> 00:06:28.310 align:start position:0%
+<c.colorE5E5E5>correctly implemented this is also known</c>
+<c.colorE5E5E5>as<00:06:25.620><c> an</c><00:06:25.770><c> end-to-end</c><00:06:26.040><c> test</c><00:06:26.510><c> because</c><00:06:27.510><c> it</c><00:06:27.750><c> tests</c></c>
+
+00:06:28.310 --> 00:06:28.320 align:start position:0%
+<c.colorE5E5E5>as an end-to-end test because it tests
+ </c>
+
+00:06:28.320 --> 00:06:30.440 align:start position:0%
+<c.colorE5E5E5>as an end-to-end test because it tests
+that<00:06:28.560><c> something</c><00:06:29.010><c> works</c><00:06:29.250><c> without</c><00:06:29.520><c> caring</c><00:06:30.180><c> too</c></c>
+
+00:06:30.440 --> 00:06:30.450 align:start position:0%
+that something works without caring too
+ 
+
+00:06:30.450 --> 00:06:33.260 align:start position:0%
+that something works without caring too
+much<00:06:30.479><c> about</c><c.colorE5E5E5><00:06:30.690><c> how</c><00:06:31.530><c> it</c><00:06:31.800><c> works</c><00:06:32.220><c> internally</c><00:06:32.790><c> in</c></c>
+
+00:06:33.260 --> 00:06:33.270 align:start position:0%
+much about<c.colorE5E5E5> how it works internally in
+ </c>
+
+00:06:33.270 --> 00:06:35.719 align:start position:0%
+much about<c.colorE5E5E5> how it works internally in
+this<00:06:34.229><c> case</c><00:06:34.470><c> we</c><00:06:35.010><c> are</c><00:06:35.040><c> testing</c></c><c.colorCCCCCC><00:06:35.490><c> that</c><00:06:35.640><c> the</c></c>
+
+00:06:35.719 --> 00:06:35.729 align:start position:0%
+this case we are testing<c.colorCCCCCC> that the
+ </c>
+
+00:06:35.729 --> 00:06:37.909 align:start position:0%
+this case we are testing<c.colorCCCCCC> that the
+environment<00:06:36.270><c> deployed</c><00:06:36.660><c> on</c></c><c.colorE5E5E5><00:06:36.960><c> localhost</c><00:06:37.560><c> at</c><00:06:37.800><c> a</c></c>
+
+00:06:37.909 --> 00:06:37.919 align:start position:0%
+environment deployed on<c.colorE5E5E5> localhost at a
+ </c>
+
+00:06:37.919 --> 00:06:41.300 align:start position:0%
+environment deployed on<c.colorE5E5E5> localhost at a
+given<00:06:38.220><c> port</c><00:06:38.490><c> is</c><00:06:38.700><c> reachable</c></c><c.colorCCCCCC><00:06:39.860><c> let's</c></c><c.colorE5E5E5><00:06:40.860><c> analyze</c></c>
+
+00:06:41.300 --> 00:06:41.310 align:start position:0%
+given port is reachable<c.colorCCCCCC> let's</c><c.colorE5E5E5> analyze
+ </c>
+
+00:06:41.310 --> 00:06:43.750 align:start position:0%
+given port is reachable<c.colorCCCCCC> let's</c><c.colorE5E5E5> analyze
+the<00:06:41.550><c> user</c><00:06:41.760><c> acceptance</c><00:06:42.390><c> test</c><00:06:42.780><c> line</c><00:06:43.290><c> by</c><00:06:43.560><c> line</c></c>
+
+00:06:43.750 --> 00:06:43.760 align:start position:0%
+the user acceptance test<c.colorE5E5E5> line by line
+ </c>
+
+00:06:43.760 --> 00:06:47.480 align:start position:0%
+the user acceptance test<c.colorE5E5E5> line by line
+these<00:06:44.760><c> lines</c><00:06:45.120><c> said</c><00:06:45.810><c> the</c><00:06:45.990><c> variables</c><00:06:46.650><c> hostname</c></c>
+
+00:06:47.480 --> 00:06:47.490 align:start position:0%
+these lines<c.colorE5E5E5> said the variables hostname
+ </c>
+
+00:06:47.490 --> 00:06:51.469 align:start position:0%
+these lines<c.colorE5E5E5> said the variables hostname
+and<00:06:47.820><c> port</c><00:06:48.890><c> hostname</c><00:06:49.940><c> defaults</c><00:06:50.940><c> to</c><00:06:51.090><c> localhost</c></c>
+
+00:06:51.469 --> 00:06:51.479 align:start position:0%
+and port<c.colorE5E5E5> hostname defaults to localhost
+ </c>
+
+00:06:51.479 --> 00:06:54.230 align:start position:0%
+and port<c.colorE5E5E5> hostname defaults to localhost</c>
+<c.colorCCCCCC>as<00:06:51.960><c> we</c><00:06:52.710><c> are</c><00:06:52.800><c> developing</c><00:06:52.919><c> on</c><00:06:53.580><c> our</c><00:06:53.940><c> local</c></c>
+
+00:06:54.230 --> 00:06:54.240 align:start position:0%
+<c.colorCCCCCC>as we are developing on our local
+ </c>
+
+00:06:54.240 --> 00:06:56.840 align:start position:0%
+<c.colorCCCCCC>as we are developing on our local</c>
+<c.colorE5E5E5>machine</c><c.colorCCCCCC><00:06:54.390><c> the</c><00:06:55.350><c> port</c></c><c.colorE5E5E5><00:06:55.620><c> is</c><00:06:55.890><c> passed</c><00:06:56.370><c> as</c><00:06:56.700><c> an</c></c>
+
+00:06:56.840 --> 00:06:56.850 align:start position:0%
+<c.colorE5E5E5>machine</c><c.colorCCCCCC> the port</c><c.colorE5E5E5> is passed as an
+ </c>
+
+00:06:56.850 --> 00:06:59.270 align:start position:0%
+<c.colorE5E5E5>machine</c><c.colorCCCCCC> the port</c><c.colorE5E5E5> is passed as an
+argument<00:06:57.000><c> to</c></c><c.colorCCCCCC><00:06:57.419><c> the</c><00:06:57.600><c> shell</c><00:06:57.870><c> script</c><00:06:58.050><c> and</c><00:06:58.470><c> it</c><00:06:59.130><c> is</c></c>
+
+00:06:59.270 --> 00:06:59.280 align:start position:0%
+argument to<c.colorCCCCCC> the shell script and it is
+ </c>
+
+00:06:59.280 --> 00:07:03.290 align:start position:0%
+argument to<c.colorCCCCCC> the shell script and it is
+accessed<00:06:59.880><c> using</c><00:07:00.479><c> dollar</c><00:07:01.020><c> one</c><00:07:01.530><c> in</c><00:07:02.280><c> bash</c><00:07:02.760><c> this</c></c>
+
+00:07:03.290 --> 00:07:03.300 align:start position:0%
+accessed using dollar<c.colorCCCCCC> one in bash this
+ </c>
+
+00:07:03.300 --> 00:07:06.140 align:start position:0%
+accessed using dollar<c.colorCCCCCC> one in bash this
+means<00:07:03.630><c> the</c><00:07:03.930><c> first</c><00:07:04.200><c> argument</c><00:07:05.130><c> passed</c><00:07:05.729><c> to</c><00:07:05.970><c> the</c></c>
+
+00:07:06.140 --> 00:07:06.150 align:start position:0%
+means the first<c.colorCCCCCC> argument passed to the
+ </c>
+
+00:07:06.150 --> 00:07:10.070 align:start position:0%
+means the first<c.colorCCCCCC> argument passed to the
+script<00:07:06.410><c> the</c><00:07:07.410><c> port</c><00:07:07.710><c> number</c></c><c.colorE5E5E5><00:07:08.220><c> in</c><00:07:08.490><c> our</c><00:07:08.700><c> case</c><00:07:09.080><c> for</c></c>
+
+00:07:10.070 --> 00:07:10.080 align:start position:0%
+script<c.colorCCCCCC> the port number</c><c.colorE5E5E5> in our case for
+ </c>
+
+00:07:10.080 --> 00:07:12.469 align:start position:0%
+script<c.colorCCCCCC> the port number</c><c.colorE5E5E5> in our case for
+sake<00:07:10.320><c> of</c><00:07:10.350><c> simplicity</c><00:07:10.740><c> we</c></c><c.colorCCCCCC><00:07:11.430><c> assume</c><00:07:11.729><c> that</c></c><c.colorE5E5E5><00:07:12.090><c> only</c></c>
+
+00:07:12.469 --> 00:07:12.479 align:start position:0%
+sake of<c.colorE5E5E5> simplicity we</c><c.colorCCCCCC> assume that</c><c.colorE5E5E5> only
+ </c>
+
+00:07:12.479 --> 00:07:14.990 align:start position:0%
+sake of<c.colorE5E5E5> simplicity we</c><c.colorCCCCCC> assume that</c><c.colorE5E5E5> only
+one<00:07:12.810><c> argument</c><00:07:13.169><c> is</c><00:07:13.470><c> passed</c><00:07:13.830><c> and</c><00:07:14.220><c> it</c><00:07:14.700><c> is</c><00:07:14.970><c> a</c></c>
+
+00:07:14.990 --> 00:07:15.000 align:start position:0%
+<c.colorE5E5E5>one argument is passed and it is a
+ </c>
+
+00:07:15.000 --> 00:07:17.450 align:start position:0%
+<c.colorE5E5E5>one argument is passed and it is a
+numeric<00:07:15.540><c> value</c><00:07:15.950><c> to</c><00:07:16.950><c> make</c><00:07:17.100><c> the</c><00:07:17.250><c> code</c><00:07:17.430><c> more</c></c>
+
+00:07:17.450 --> 00:07:17.460 align:start position:0%
+numeric value<c.colorE5E5E5> to make the code more
+ </c>
+
+00:07:17.460 --> 00:07:19.520 align:start position:0%
+numeric value<c.colorE5E5E5> to make the code more
+robust<00:07:18.120><c> we</c><00:07:18.540><c> will</c><00:07:18.690><c> need</c><00:07:18.840><c> to</c><00:07:18.990><c> check</c><00:07:19.260><c> this</c></c>
+
+00:07:19.520 --> 00:07:19.530 align:start position:0%
+robust we will need to check<c.colorE5E5E5> this
+ </c>
+
+00:07:19.530 --> 00:07:22.400 align:start position:0%
+robust we will need to check<c.colorE5E5E5> this
+assumption<00:07:20.220><c> with</c><00:07:20.700><c> some</c><00:07:20.940><c> input</c><00:07:21.150><c> checking</c><00:07:21.780><c> it</c></c>
+
+00:07:22.400 --> 00:07:22.410 align:start position:0%
+assumption<c.colorE5E5E5> with some input checking it
+ </c>
+
+00:07:22.410 --> 00:07:24.380 align:start position:0%
+assumption<c.colorE5E5E5> with some input checking it
+is<00:07:22.680><c> a</c><00:07:22.710><c> good</c></c><c.colorCCCCCC><00:07:23.039><c> practice</c><00:07:23.550><c> to</c><00:07:23.580><c> assume</c><00:07:24.120><c> that</c></c><c.colorE5E5E5><00:07:24.300><c> the</c></c>
+
+00:07:24.380 --> 00:07:24.390 align:start position:0%
+is a good<c.colorCCCCCC> practice to assume that</c><c.colorE5E5E5> the
+ </c>
+
+00:07:24.390 --> 00:07:26.900 align:start position:0%
+is a good<c.colorCCCCCC> practice to assume that</c><c.colorE5E5E5> the
+input<00:07:24.570><c> could</c></c><c.colorCCCCCC><00:07:25.110><c> be</c><00:07:25.320><c> incorrect</c></c>
+
+00:07:26.900 --> 00:07:26.910 align:start position:0%
+input could<c.colorCCCCCC> be incorrect
+ </c>
+
+00:07:26.910 --> 00:07:31.510 align:start position:0%
+input could<c.colorCCCCCC> be incorrect
+in<00:07:26.970><c> this</c><00:07:27.750><c> line</c><00:07:28.850><c> we</c><00:07:29.850><c> wait</c></c><c.colorE5E5E5><00:07:30.120><c> five</c><00:07:30.540><c> seconds</c></c><c.colorCCCCCC><00:07:31.110><c> I</c></c>
+
+00:07:31.510 --> 00:07:31.520 align:start position:0%
+in this line<c.colorCCCCCC> we wait</c><c.colorE5E5E5> five seconds</c><c.colorCCCCCC> I
+ </c>
+
+00:07:31.520 --> 00:07:34.070 align:start position:0%
+in this line<c.colorCCCCCC> we wait</c><c.colorE5E5E5> five seconds</c><c.colorCCCCCC> I
+noticed</c><c.colorE5E5E5><00:07:32.520><c> that</c><00:07:32.700><c> the</c><00:07:32.820><c> flask</c><00:07:33.090><c> application</c><00:07:33.300><c> may</c></c>
+
+00:07:34.070 --> 00:07:34.080 align:start position:0%
+noticed<c.colorE5E5E5> that the flask application may
+ </c>
+
+00:07:34.080 --> 00:07:36.230 align:start position:0%
+noticed<c.colorE5E5E5> that the flask application may
+take<00:07:34.320><c> few</c><00:07:34.740><c> seconds</c><00:07:35.220><c> to</c><00:07:35.400><c> be</c><00:07:35.520><c> fully</c><00:07:35.820><c> up</c></c><c.colorCCCCCC><00:07:36.030><c> and</c></c>
+
+00:07:36.230 --> 00:07:36.240 align:start position:0%
+take few seconds<c.colorE5E5E5> to be fully up</c><c.colorCCCCCC> and
+ </c>
+
+00:07:36.240 --> 00:07:38.600 align:start position:0%
+take few seconds<c.colorE5E5E5> to be fully up</c><c.colorCCCCCC> and
+running</c><c.colorE5E5E5><00:07:36.570><c> after</c><00:07:36.860><c> deployment</c><00:07:37.860><c> and</c><00:07:38.070><c> sometimes</c></c>
+
+00:07:38.600 --> 00:07:38.610 align:start position:0%
+<c.colorCCCCCC>running</c><c.colorE5E5E5> after deployment and sometimes
+ </c>
+
+00:07:38.610 --> 00:07:41.210 align:start position:0%
+<c.colorCCCCCC>running</c><c.colorE5E5E5> after deployment and sometimes
+this<00:07:38.940><c> test</c><00:07:39.420><c> failed</c><00:07:39.900><c> simply</c><00:07:40.800><c> because</c><00:07:41.070><c> the</c></c>
+
+00:07:41.210 --> 00:07:41.220 align:start position:0%
+<c.colorE5E5E5>this test failed simply because the
+ </c>
+
+00:07:41.220 --> 00:07:44.240 align:start position:0%
+<c.colorE5E5E5>this test failed simply because the
+flask<00:07:41.460><c> application</c><00:07:41.670><c> wasn't</c><00:07:42.450><c> yet</c></c><c.colorCCCCCC><00:07:42.780><c> ready</c><00:07:43.250><c> this</c></c>
+
+00:07:44.240 --> 00:07:44.250 align:start position:0%
+flask application<c.colorE5E5E5> wasn't yet</c><c.colorCCCCCC> ready this
+ </c>
+
+00:07:44.250 --> 00:07:49.040 align:start position:0%
+flask application<c.colorE5E5E5> wasn't yet</c><c.colorCCCCCC> ready this
+line<00:07:44.760><c> runs</c><00:07:45.720><c> a</c><00:07:46.020><c> curl</c><00:07:46.380><c> command</c></c><c.colorE5E5E5><00:07:47.420><c> that</c></c><c.colorCCCCCC><00:07:48.420><c> thinks</c></c><c.colorE5E5E5><00:07:48.870><c> the</c></c>
+
+00:07:49.040 --> 00:07:49.050 align:start position:0%
+line runs a curl command<c.colorE5E5E5> that</c><c.colorCCCCCC> thinks</c><c.colorE5E5E5> the
+ </c>
+
+00:07:49.050 --> 00:07:52.130 align:start position:0%
+line runs a curl command<c.colorE5E5E5> that</c><c.colorCCCCCC> thinks</c><c.colorE5E5E5> the
+host<00:07:49.290><c> name</c><00:07:49.620><c> at</c><00:07:49.920><c> the</c><00:07:50.340><c> given</c><00:07:50.670><c> port</c><00:07:51.000><c> and</c><00:07:51.360><c> returns</c></c>
+
+00:07:52.130 --> 00:07:52.140 align:start position:0%
+<c.colorE5E5E5>host name at the given port and returns
+ </c>
+
+00:07:52.140 --> 00:07:56.320 align:start position:0%
+<c.colorE5E5E5>host name at the given port and returns
+the<00:07:52.410><c> HTTP</c><00:07:53.220><c> status</c><00:07:53.520><c> code</c><00:07:54.000><c> of</c><00:07:54.240><c> the</c><00:07:54.390><c> request</c></c>
+
+00:07:56.320 --> 00:07:56.330 align:start position:0%
+the HTTP status code of the request
+ 
+
+00:07:56.330 --> 00:07:59.620 align:start position:0%
+the HTTP status code of the request
+the<00:07:56.900><c> HTTP</c><00:07:57.620><c> status</c><00:07:57.920><c> code</c><00:07:58.370><c> is</c><00:07:58.730><c> stored</c><00:07:59.300><c> in</c><00:07:59.480><c> the</c>
+
+00:07:59.620 --> 00:07:59.630 align:start position:0%
+the HTTP status code is stored in the
+ 
+
+00:07:59.630 --> 00:08:03.670 align:start position:0%
+the HTTP status code is stored in the
+variable<c.colorE5E5E5><00:07:59.830><c> status</c><00:08:00.830><c> underscore</c><00:08:01.430><c> code</c></c>
+
+00:08:03.670 --> 00:08:03.680 align:start position:0%
+variable<c.colorE5E5E5> status underscore code
+ </c>
+
+00:08:03.680 --> 00:08:07.810 align:start position:0%
+variable<c.colorE5E5E5> status underscore code
+in<00:08:03.740><c> the</c><00:08:04.270><c> if-then-else</c><00:08:05.270><c> block</c><00:08:06.460><c> we</c><00:08:07.460><c> checked</c></c>
+
+00:08:07.810 --> 00:08:07.820 align:start position:0%
+in the if-then-else<c.colorE5E5E5> block we checked
+ </c>
+
+00:08:07.820 --> 00:08:11.320 align:start position:0%
+in the if-then-else<c.colorE5E5E5> block we checked
+that<00:08:07.970><c> the</c><00:08:08.180><c> status</c><00:08:08.660><c> code</c><00:08:08.930><c> equals</c><00:08:09.590><c> to</c><00:08:09.830><c> 200</c><00:08:10.330><c> which</c></c>
+
+00:08:11.320 --> 00:08:11.330 align:start position:0%
+that the status code equals to 200 which
+ 
+
+00:08:11.330 --> 00:08:15.879 align:start position:0%
+that the status code equals to 200 which
+is<c.colorE5E5E5><00:08:11.360><c> the</c><00:08:11.720><c> HTTP</c><00:08:12.470><c> code</c><00:08:12.770><c> for</c><00:08:13.250><c> page</c><00:08:13.550><c> found</c><00:08:14.470><c> if</c><00:08:15.470><c> so</c></c>
+
+00:08:15.879 --> 00:08:15.889 align:start position:0%
+is<c.colorE5E5E5> the HTTP code for page found if so
+ </c>
+
+00:08:15.889 --> 00:08:20.350 align:start position:0%
+is<c.colorE5E5E5> the HTTP code for page found if so
+the<00:08:16.460><c> test</c><00:08:16.729><c> passes</c><00:08:17.150><c> if</c><00:08:17.889><c> not</c><00:08:18.889><c> the</c><00:08:19.669><c> test</c><00:08:19.910><c> fails</c></c>
+
+00:08:20.350 --> 00:08:20.360 align:start position:0%
+the test passes<c.colorE5E5E5> if not the test fails
+ </c>
+
+00:08:20.360 --> 00:08:22.570 align:start position:0%
+the test passes<c.colorE5E5E5> if not the test fails</c>
+<c.colorE5E5E5>and<00:08:20.750><c> both</c><00:08:21.199><c> the</c><00:08:21.410><c> bash</c><00:08:21.590><c> script</c><00:08:22.160><c> and</c><00:08:22.430><c> the</c></c>
+
+00:08:22.570 --> 00:08:22.580 align:start position:0%
+<c.colorE5E5E5>and both the bash script and the
+ </c>
+
+00:08:22.580 --> 00:08:26.439 align:start position:0%
+<c.colorE5E5E5>and both the bash script and the
+pipeline</c><c.colorCCCCCC><00:08:22.850><c> stop</c></c><c.colorE5E5E5><00:08:24.160><c> now</c><00:08:25.160><c> let's</c><00:08:25.789><c> go</c><00:08:26.000><c> back</c><00:08:26.210><c> to</c></c><c.colorCCCCCC><00:08:26.240><c> the</c></c>
+
+00:08:26.439 --> 00:08:26.449 align:start position:0%
+pipeline<c.colorCCCCCC> stop</c><c.colorE5E5E5> now let's go back to</c><c.colorCCCCCC> the
+ </c>
+
+00:08:26.449 --> 00:08:29.560 align:start position:0%
+pipeline<c.colorCCCCCC> stop</c><c.colorE5E5E5> now let's go back to</c><c.colorCCCCCC> the
+Jenkins<00:08:26.870><c> file</c><00:08:27.490><c> the</c><00:08:28.490><c> following</c><00:08:28.940><c> step</c><00:08:29.300><c> is</c></c>
+
+00:08:29.560 --> 00:08:29.570 align:start position:0%
+Jenkins file the following step is
+ 
+
+00:08:29.570 --> 00:08:33.279 align:start position:0%
+Jenkins file the following step is
+deploy<00:08:30.410><c> stage</c><00:08:31.240><c> this</c><c.colorE5E5E5><00:08:32.240><c> invokes</c><00:08:32.659><c> the</c><00:08:32.839><c> function</c></c>
+
+00:08:33.279 --> 00:08:33.289 align:start position:0%
+deploy stage this<c.colorE5E5E5> invokes the function
+ </c>
+
+00:08:33.289 --> 00:08:36.100 align:start position:0%
+deploy stage this<c.colorE5E5E5> invokes the function
+deploy<00:08:33.890><c> we</c><00:08:34.550><c> used</c><00:08:34.789><c> in</c><00:08:35.089><c> the</c><00:08:35.240><c> previous</c><00:08:35.360><c> video</c></c><c.colorCCCCCC><00:08:35.719><c> but</c></c>
+
+00:08:36.100 --> 00:08:36.110 align:start position:0%
+deploy we used in the previous<c.colorE5E5E5> video</c><c.colorCCCCCC> but
+ </c>
+
+00:08:36.110 --> 00:08:39.389 align:start position:0%
+deploy we used in the previous<c.colorE5E5E5> video</c><c.colorCCCCCC> but
+this<00:08:36.830><c> time</c><00:08:37.159><c> it</c><00:08:37.459><c> passes</c><00:08:37.849><c> the</c><00:08:38.180><c> string</c><00:08:38.479><c> stage</c></c><c.colorE5E5E5><00:08:38.990><c> as</c></c>
+
+00:08:39.389 --> 00:08:39.399 align:start position:0%
+<c.colorCCCCCC>this time it passes the string stage</c><c.colorE5E5E5> as
+ </c>
+
+00:08:39.399 --> 00:08:42.579 align:start position:0%
+<c.colorCCCCCC>this time it passes the string stage</c><c.colorE5E5E5> as
+value<00:08:40.399><c> of</c><00:08:40.580><c> the</c><00:08:40.789><c> environment</c><00:08:41.390><c> let's</c><00:08:42.200><c> see</c><00:08:42.380><c> how</c></c>
+
+00:08:42.579 --> 00:08:42.589 align:start position:0%
+value of the environment<c.colorE5E5E5> let's see how
+ </c>
+
+00:08:42.589 --> 00:08:46.180 align:start position:0%
+value of the environment<c.colorE5E5E5> let's see how
+to<00:08:42.649><c> extend</c><00:08:43.219><c> the</c><00:08:43.399><c> function</c><00:08:44.029><c> deploy</c><00:08:44.980><c> in</c><00:08:45.980><c> the</c></c>
+
+00:08:46.180 --> 00:08:46.190 align:start position:0%
+to extend the<c.colorE5E5E5> function deploy in the
+ </c>
+
+00:08:46.190 --> 00:08:49.660 align:start position:0%
+to extend the<c.colorE5E5E5> function deploy in the
+function<00:08:46.580><c> deploy</c><00:08:47.000><c> we</c><00:08:47.570><c> add</c><00:08:47.779><c> an</c><00:08:48.050><c> else</c></c><c.colorCCCCCC><00:08:48.380><c> if</c><00:08:48.860><c> block</c></c>
+
+00:08:49.660 --> 00:08:49.670 align:start position:0%
+function deploy we add an else<c.colorCCCCCC> if block
+ </c>
+
+00:08:49.670 --> 00:08:52.389 align:start position:0%
+function deploy we add an else<c.colorCCCCCC> if block</c>
+<c.colorCCCCCC>that<00:08:50.360><c> catches</c><00:08:50.899><c> the</c><00:08:51.080><c> condition</c><00:08:51.680><c> environment</c></c>
+
+00:08:52.389 --> 00:08:52.399 align:start position:0%
+<c.colorCCCCCC>that catches the condition environment
+ </c>
+
+00:08:52.399 --> 00:08:56.470 align:start position:0%
+<c.colorCCCCCC>that catches the condition environment
+equals<00:08:53.180><c> stage</c><00:08:53.779><c> and</c><00:08:54.250><c> assigns</c></c><c.colorE5E5E5><00:08:55.250><c> other</c><00:08:55.640><c> in</c><00:08:55.970><c> values</c></c>
+
+00:08:56.470 --> 00:08:56.480 align:start position:0%
+equals stage and assigns<c.colorE5E5E5> other in values
+ </c>
+
+00:08:56.480 --> 00:08:59.579 align:start position:0%
+equals stage and assigns<c.colorE5E5E5> other in values
+to<00:08:56.870><c> the</c><00:08:56.990><c> variables</c><00:08:57.500><c> contain</c><00:08:58.040><c> a</c><00:08:58.070><c> name</c><00:08:58.459><c> and</c><00:08:58.760><c> port</c></c>
+
+00:08:59.579 --> 00:08:59.589 align:start position:0%
+to the variables contain a name and port
+ 
+
+00:08:59.589 --> 00:09:02.530 align:start position:0%
+to the variables contain a name and port
+<c.colorE5E5E5>this<00:09:00.589><c> allows</c><00:09:01.010><c> to</c><00:09:01.370><c> start</c><00:09:01.700><c> another</c></c><c.colorCCCCCC><00:09:02.000><c> container</c></c>
+
+00:09:02.530 --> 00:09:02.540 align:start position:0%
+<c.colorE5E5E5>this allows to start another</c><c.colorCCCCCC> container
+ </c>
+
+00:09:02.540 --> 00:09:05.500 align:start position:0%
+<c.colorE5E5E5>this allows to start another</c><c.colorCCCCCC> container
+with<00:09:03.170><c> the</c><00:09:03.200><c> same</c><00:09:03.620><c> docker</c><00:09:03.950><c> image</c><00:09:04.370><c> that</c><00:09:04.940><c> deployed</c></c>
+
+00:09:05.500 --> 00:09:05.510 align:start position:0%
+with the<c.colorCCCCCC> same docker image that deployed
+ </c>
+
+00:09:05.510 --> 00:09:09.460 align:start position:0%
+with the<c.colorCCCCCC> same docker image that deployed
+to<00:09:05.930><c> a</c><00:09:05.990><c> different</c><00:09:06.440><c> port</c></c><c.colorE5E5E5><00:09:06.940><c> 88</c><00:09:07.940><c> in</c><00:09:08.240><c> fact</c><00:09:09.170><c> with</c><00:09:09.440><c> a</c></c>
+
+00:09:09.460 --> 00:09:09.470 align:start position:0%
+to a different port<c.colorE5E5E5> 88 in fact with a
+ </c>
+
+00:09:09.470 --> 00:09:12.040 align:start position:0%
+to a different port<c.colorE5E5E5> 88 in fact with a
+different<00:09:10.040><c> container</c><00:09:10.400><c> name</c></c><c.colorCCCCCC><00:09:10.820><c> up</c><00:09:11.540><c> on</c><00:09:11.930><c> the</c></c>
+
+00:09:12.040 --> 00:09:12.050 align:start position:0%
+different container name<c.colorCCCCCC> up on the
+ </c>
+
+00:09:12.050 --> 00:09:15.400 align:start position:0%
+different container name<c.colorCCCCCC> up on the</c>
+<c.colorE5E5E5>school<00:09:12.380><c> stage</c></c><c.colorCCCCCC><00:09:12.709><c> as</c><00:09:13.040><c> you</c><00:09:14.029><c> can</c><00:09:14.180><c> see</c><00:09:14.390><c> the</c><00:09:14.990><c> rest</c><00:09:15.200><c> of</c></c>
+
+00:09:15.400 --> 00:09:15.410 align:start position:0%
+<c.colorE5E5E5>school stage</c><c.colorCCCCCC> as you can see the rest of
+ </c>
+
+00:09:15.410 --> 00:09:17.650 align:start position:0%
+<c.colorE5E5E5>school stage</c><c.colorCCCCCC> as you can see the rest of
+the</c><c.colorE5E5E5><00:09:15.529><c> function</c><00:09:15.950><c> deploy</c><00:09:16.339><c> is</c><00:09:16.610><c> as</c><00:09:17.089><c> in</c><00:09:17.630><c> the</c></c>
+
+00:09:17.650 --> 00:09:17.660 align:start position:0%
+the<c.colorE5E5E5> function deploy is as in the
+ </c>
+
+00:09:17.660 --> 00:09:20.470 align:start position:0%
+the<c.colorE5E5E5> function deploy is as in the</c>
+<c.colorCCCCCC>previous<00:09:17.959><c> video</c><00:09:18.910><c> let's</c><00:09:19.910><c> go</c><00:09:20.089><c> back</c><00:09:20.240><c> to</c><00:09:20.390><c> the</c></c>
+
+00:09:20.470 --> 00:09:20.480 align:start position:0%
+<c.colorCCCCCC>previous video let's go back to the
+ </c>
+
+00:09:20.480 --> 00:09:24.010 align:start position:0%
+<c.colorCCCCCC>previous video let's go back to the</c>
+<c.colorE5E5E5>Jenkins<00:09:20.930><c> file</c><00:09:21.200><c> to</c><00:09:21.980><c> see</c><00:09:22.190><c> the</c><00:09:22.339><c> last</c><00:09:22.520><c> step</c><00:09:22.870><c> we</c><00:09:23.870><c> add</c></c>
+
+00:09:24.010 --> 00:09:24.020 align:start position:0%
+<c.colorE5E5E5>Jenkins file to see the last step we add
+ </c>
+
+00:09:24.020 --> 00:09:27.519 align:start position:0%
+<c.colorE5E5E5>Jenkins file to see the last step we add
+another<00:09:24.320><c> stage</c><00:09:24.709><c> test</c></c><c.colorCCCCCC><00:09:25.220><c> UAT</c><00:09:25.730><c> stage</c></c><c.colorE5E5E5><00:09:26.330><c> but</c><00:09:27.290><c> this</c></c>
+
+00:09:27.519 --> 00:09:27.529 align:start position:0%
+another stage<c.colorE5E5E5> test</c><c.colorCCCCCC> UAT stage</c><c.colorE5E5E5> but this
+ </c>
+
+00:09:27.529 --> 00:09:29.920 align:start position:0%
+another stage<c.colorE5E5E5> test</c><c.colorCCCCCC> UAT stage</c><c.colorE5E5E5> but this
+time<00:09:27.830><c> we</c><00:09:28.220><c> run</c><00:09:28.370><c> user</c><00:09:28.730><c> acceptance</c><00:09:29.360><c> tests</c></c>
+
+00:09:29.920 --> 00:09:29.930 align:start position:0%
+time we run user acceptance tests
+ 
+
+00:09:29.930 --> 00:09:33.460 align:start position:0%
+time we run user acceptance tests
+against<00:09:30.380><c> port</c><00:09:30.770><c> 88</c><00:09:31.540><c> which</c><00:09:32.540><c> is</c><00:09:32.690><c> the</c><00:09:32.870><c> port</c><00:09:33.140><c> where</c>
+
+00:09:33.460 --> 00:09:33.470 align:start position:0%
+against port 88 which is the port where
+ 
+
+00:09:33.470 --> 00:09:36.540 align:start position:0%
+against port 88 which is the port where
+the<00:09:33.500><c> staging</c><00:09:34.010><c> environment</c><00:09:34.550><c> is</c><00:09:34.730><c> deployed</c>
+
+00:09:36.540 --> 00:09:36.550 align:start position:0%
+the staging environment is deployed
+ 
+
+00:09:36.550 --> 00:09:40.110 align:start position:0%
+the staging environment is deployed
+now<00:09:37.350><c> let's</c><00:09:38.350><c> go</c><00:09:38.530><c> to</c><00:09:38.590><c> Jenkins</c><c.colorE5E5E5><00:09:39.190><c> and</c><00:09:39.430><c> amend</c><00:09:40.000><c> the</c></c>
+
+00:09:40.110 --> 00:09:40.120 align:start position:0%
+now let's go to Jenkins<c.colorE5E5E5> and amend the
+ </c>
+
+00:09:40.120 --> 00:09:42.390 align:start position:0%
+now let's go to Jenkins<c.colorE5E5E5> and amend the
+configuration<00:09:40.870><c> of</c><00:09:41.020><c> the</c><00:09:41.350><c> pipeline</c><00:09:41.800><c> job</c><00:09:42.100><c> we</c></c>
+
+00:09:42.390 --> 00:09:42.400 align:start position:0%
+configuration of the pipeline job we
+ 
+
+00:09:42.400 --> 00:09:44.700 align:start position:0%
+configuration of the pipeline job we
+<c.colorE5E5E5>started<00:09:43.030><c> in</c><00:09:43.180><c> the</c><00:09:43.270><c> previous</c></c><c.colorCCCCCC><00:09:43.300><c> video</c></c><c.colorE5E5E5><00:09:43.780><c> click</c><00:09:44.140><c> on</c></c>
+
+00:09:44.700 --> 00:09:44.710 align:start position:0%
+<c.colorE5E5E5>started in the previous</c><c.colorCCCCCC> video</c><c.colorE5E5E5> click on
+ </c>
+
+00:09:44.710 --> 00:09:48.570 align:start position:0%
+<c.colorE5E5E5>started in the previous</c><c.colorCCCCCC> video</c><c.colorE5E5E5> click on
+the<00:09:44.860><c> pipeline</c><00:09:45.130><c> job</c><00:09:45.850><c> and</c><00:09:46.270><c> on</c><00:09:46.720><c> configure</c></c>
+
+00:09:48.570 --> 00:09:48.580 align:start position:0%
+<c.colorE5E5E5>the pipeline job and on configure
+ </c>
+
+00:09:48.580 --> 00:09:54.030 align:start position:0%
+<c.colorE5E5E5>the pipeline job and on configure
+go<00:09:49.270><c> to</c><00:09:49.330><c> pipeline</c><00:09:50.940><c> scroll</c><00:09:51.940><c> down</c><00:09:52.270><c> and</c><00:09:53.040><c> under</c></c>
+
+00:09:54.030 --> 00:09:54.040 align:start position:0%
+go<c.colorE5E5E5> to pipeline scroll down and under
+ </c>
+
+00:09:54.040 --> 00:09:56.880 align:start position:0%
+go<c.colorE5E5E5> to pipeline scroll down and under
+script</c><c.colorCCCCCC><00:09:54.700><c> path</c><00:09:55.150><c> amend</c><00:09:56.140><c> the</c><00:09:56.290><c> name</c><00:09:56.500><c> of</c><00:09:56.740><c> the</c></c>
+
+00:09:56.880 --> 00:09:56.890 align:start position:0%
+script<c.colorCCCCCC> path amend the name of the
+ </c>
+
+00:09:56.890 --> 00:09:59.160 align:start position:0%
+script<c.colorCCCCCC> path amend the name of the
+Jenkins<00:09:57.280><c> file</c></c><c.colorE5E5E5><00:09:57.610><c> -</c><00:09:58.150><c> Jenkins</c><00:09:58.540><c> file</c><00:09:58.840><c> on</c><00:09:59.050><c> the</c></c>
+
+00:09:59.160 --> 00:09:59.170 align:start position:0%
+Jenkins file<c.colorE5E5E5> - Jenkins file on the
+ </c>
+
+00:09:59.170 --> 00:10:02.400 align:start position:0%
+Jenkins file<c.colorE5E5E5> - Jenkins file on the
+school<00:09:59.500><c> part</c><00:09:59.920><c> under</c><00:10:00.430><c> school</c><00:10:00.730><c> -</c></c>
+
+00:10:02.400 --> 00:10:02.410 align:start position:0%
+school part under school<c.colorE5E5E5> -
+ </c>
+
+00:10:02.410 --> 00:10:05.059 align:start position:0%
+school part under school<c.colorE5E5E5> -
+as<00:10:02.470><c> you</c><00:10:03.370><c> can</c><00:10:03.519><c> see</c><00:10:03.850><c> on</c><00:10:04.060><c> the</c><00:10:04.449><c> companion</c></c>
+
+00:10:05.059 --> 00:10:05.069 align:start position:0%
+as you can<c.colorE5E5E5> see on the companion
+ </c>
+
+00:10:05.069 --> 00:10:08.879 align:start position:0%
+as you can<c.colorE5E5E5> see on the companion</c>
+<c.colorE5E5E5>repository<00:10:06.069><c> on</c><00:10:06.339><c> github</c></c><c.colorCCCCCC><00:10:07.050><c> the</c><00:10:08.050><c> code</c><00:10:08.319><c> explained</c></c>
+
+00:10:08.879 --> 00:10:08.889 align:start position:0%
+<c.colorE5E5E5>repository on github</c><c.colorCCCCCC> the code explained
+ </c>
+
+00:10:08.889 --> 00:10:11.309 align:start position:0%
+<c.colorE5E5E5>repository on github</c><c.colorCCCCCC> the code explained
+in<00:10:09.160><c> this</c><00:10:09.310><c> video</c><00:10:09.579><c> is</c><00:10:09.940><c> included</c><00:10:10.149><c> in</c><00:10:10.690><c> this</c><00:10:10.930><c> file</c></c>
+
+00:10:11.309 --> 00:10:11.319 align:start position:0%
+in this video is included<c.colorCCCCCC> in this file
+ </c>
+
+00:10:11.319 --> 00:10:15.449 align:start position:0%
+in this video is included<c.colorCCCCCC> in this file
+so<00:10:12.160><c> there</c><00:10:12.459><c> is</c><00:10:12.579><c> no</c><00:10:13.000><c> need</c><00:10:13.300><c> to</c></c><c.colorE5E5E5><00:10:13.329><c> type</c><00:10:13.779><c> it</c><00:10:14.459><c> finally</c></c>
+
+00:10:15.449 --> 00:10:15.459 align:start position:0%
+so there is no need to<c.colorE5E5E5> type it finally
+ </c>
+
+00:10:15.459 --> 00:10:20.639 align:start position:0%
+so there is no need to<c.colorE5E5E5> type it finally
+click<00:10:16.000><c> on</c><00:10:16.029><c> save</c><00:10:16.480><c> and</c></c><c.colorCCCCCC><00:10:16.779><c> then</c><00:10:17.500><c> on</c><00:10:17.709><c> build</c><00:10:18.670><c> now</c><00:10:19.649><c> the</c></c>
+
+00:10:20.639 --> 00:10:20.649 align:start position:0%
+click on save and<c.colorCCCCCC> then on build now the
+ </c>
+
+00:10:20.649 --> 00:10:23.120 align:start position:0%
+click on save and<c.colorCCCCCC> then on build now the
+pipeline</c><c.colorE5E5E5><00:10:21.129><c> starts</c></c>
+
+00:10:23.120 --> 00:10:23.130 align:start position:0%
+pipeline<c.colorE5E5E5> starts
+ </c>
+
+00:10:23.130 --> 00:10:26.210 align:start position:0%
+pipeline<c.colorE5E5E5> starts
+you<00:10:23.820><c> will</c><00:10:23.970><c> soon</c><00:10:24.270><c> notice</c><00:10:24.720><c> that</c><00:10:25.410><c> because</c><00:10:25.980><c> we</c></c>
+
+00:10:26.210 --> 00:10:26.220 align:start position:0%
+you will<c.colorE5E5E5> soon notice that because we
+ </c>
+
+00:10:26.220 --> 00:10:28.810 align:start position:0%
+you will<c.colorE5E5E5> soon notice that because we
+added<00:10:26.400><c> some</c><00:10:26.970><c> extra</c><00:10:27.180><c> steps</c><00:10:27.780><c> in</c><00:10:28.290><c> the</c><00:10:28.560><c> pipeline</c></c>
+
+00:10:28.810 --> 00:10:28.820 align:start position:0%
+added<c.colorE5E5E5> some extra steps in the pipeline
+ </c>
+
+00:10:28.820 --> 00:10:32.870 align:start position:0%
+added<c.colorE5E5E5> some extra steps in the pipeline</c>
+<c.colorCCCCCC>the<00:10:29.820><c> previous</c><00:10:30.300><c> stage</c><00:10:30.630><c> view</c><00:10:31.140><c> is</c><00:10:31.350><c> reset</c></c><c.colorE5E5E5><00:10:32.160><c> in</c></c>
+
+00:10:32.870 --> 00:10:32.880 align:start position:0%
+<c.colorCCCCCC>the previous stage view is reset</c><c.colorE5E5E5> in
+ </c>
+
+00:10:32.880 --> 00:10:36.610 align:start position:0%
+<c.colorCCCCCC>the previous stage view is reset</c><c.colorE5E5E5> in
+order<00:10:33.210><c> to</c><00:10:33.330><c> display</c><00:10:33.600><c> the</c><00:10:34.200><c> additional</c><00:10:34.320><c> steps</c></c>
+
+00:10:36.610 --> 00:10:36.620 align:start position:0%
+order<c.colorE5E5E5> to display the additional steps
+ </c>
+
+00:10:36.620 --> 00:10:39.880 align:start position:0%
+order<c.colorE5E5E5> to display the additional steps
+as<00:10:36.710><c> usual</c><00:10:37.190><c> you</c><00:10:37.790><c> can</c><00:10:37.820><c> inspect</c><00:10:38.720><c> the</c><00:10:39.080><c> log</c><00:10:39.320><c> for</c></c>
+
+00:10:39.880 --> 00:10:39.890 align:start position:0%
+as usual you can<c.colorE5E5E5> inspect the log for
+ </c>
+
+00:10:39.890 --> 00:10:42.600 align:start position:0%
+as usual you can<c.colorE5E5E5> inspect the log for
+each<00:10:40.160><c> step</c></c>
+
+00:10:42.600 --> 00:10:42.610 align:start position:0%
+each step
+ 
+
+00:10:42.610 --> 00:10:45.900 align:start position:0%
+each step
+you<00:10:43.300><c> can</c><00:10:43.450><c> see</c><00:10:43.630><c> the</c><c.colorE5E5E5><00:10:43.750><c> output</c><00:10:44.320><c> of</c><00:10:44.529><c> the</c><00:10:44.890><c> stage</c><00:10:45.220><c> test</c></c>
+
+00:10:45.900 --> 00:10:45.910 align:start position:0%
+you can see the<c.colorE5E5E5> output of the stage test
+ </c>
+
+00:10:45.910 --> 00:10:50.980 align:start position:0%
+you can see the<c.colorE5E5E5> output of the stage test
+unit<00:10:46.540><c> test</c><00:10:46.810><c> with</c><00:10:47.740><c> the</c><00:10:48.070><c> successful</c><00:10:48.550><c> test</c></c>
+
+00:10:50.980 --> 00:10:50.990 align:start position:0%
+unit test<c.colorE5E5E5> with the successful test
+ </c>
+
+00:10:50.990 --> 00:10:54.880 align:start position:0%
+unit test<c.colorE5E5E5> with the successful test
+if<00:10:51.050><c> any</c><00:10:51.950><c> of</c><00:10:52.220><c> the</c><00:10:52.730><c> stage</c><00:10:53.060><c> breaks</c><00:10:53.570><c> the</c><00:10:54.440><c> pipeline</c></c>
+
+00:10:54.880 --> 00:10:54.890 align:start position:0%
+if any of the stage<c.colorE5E5E5> breaks the pipeline
+ </c>
+
+00:10:54.890 --> 00:10:58.519 align:start position:0%
+if any of the stage<c.colorE5E5E5> breaks the pipeline
+will<00:10:55.070><c> stop</c><00:10:55.430><c> and</c><00:10:55.640><c> the</c><00:10:56.270><c> build</c><00:10:56.510><c> will</c><00:10:56.839><c> break</c></c>
+
+00:10:58.519 --> 00:10:58.529 align:start position:0%
+will stop and the build will break
+ 
+
+00:10:58.529 --> 00:11:01.009 align:start position:0%
+will stop and the build will break
+here<00:10:59.039><c> you</c><00:10:59.459><c> can</c><00:10:59.609><c> see</c><00:10:59.759><c> the</c><c.colorCCCCCC><00:10:59.909><c> output</c><00:11:00.329><c> for</c><00:11:00.929><c> the</c></c>
+
+00:11:01.009 --> 00:11:01.019 align:start position:0%
+here you can see the<c.colorCCCCCC> output for the
+ </c>
+
+00:11:01.019 --> 00:11:05.869 align:start position:0%
+here you can see the<c.colorCCCCCC> output for the
+stage</c><c.colorE5E5E5><00:11:01.289><c> run</c></c><c.colorCCCCCC><00:11:01.739><c> UAT</c><00:11:02.249><c> death</c><00:11:03.499><c> finally</c></c><c.colorE5E5E5><00:11:04.499><c> the</c><00:11:05.459><c> pipeline</c></c>
+
+00:11:05.869 --> 00:11:05.879 align:start position:0%
+stage<c.colorE5E5E5> run</c><c.colorCCCCCC> UAT death finally</c><c.colorE5E5E5> the pipeline
+ </c>
+
+00:11:05.879 --> 00:11:08.569 align:start position:0%
+stage<c.colorE5E5E5> run</c><c.colorCCCCCC> UAT death finally</c><c.colorE5E5E5> the pipeline
+completes<00:11:06.389><c> successfully</c><00:11:06.719><c> and</c><00:11:07.439><c> we</c></c><c.colorCCCCCC><00:11:07.469><c> can</c></c><c.colorE5E5E5><00:11:08.249><c> double</c></c>
+
+00:11:08.569 --> 00:11:08.579 align:start position:0%
+completes successfully<c.colorE5E5E5> and we</c><c.colorCCCCCC> can</c><c.colorE5E5E5> double
+ </c>
+
+00:11:08.579 --> 00:11:10.639 align:start position:0%
+completes successfully<c.colorE5E5E5> and we</c><c.colorCCCCCC> can</c><c.colorE5E5E5> double
+check</c><c.colorCCCCCC><00:11:08.609><c> that</c><00:11:09.119><c> our</c><00:11:09.269><c> web</c><00:11:09.569><c> application</c><00:11:10.289><c> with</c><00:11:10.499><c> the</c></c>
+
+00:11:10.639 --> 00:11:10.649 align:start position:0%
+<c.colorE5E5E5>check</c><c.colorCCCCCC> that our web application with the
+ </c>
+
+00:11:10.649 --> 00:11:13.609 align:start position:0%
+<c.colorE5E5E5>check</c><c.colorCCCCCC> that our web application with the
+funny<00:11:10.859><c> kittens</c></c><c.colorE5E5E5><00:11:11.339><c> is</c><00:11:11.969><c> up</c><00:11:12.419><c> and</c><00:11:12.569><c> running</c></c><c.colorCCCCCC><00:11:12.719><c> on</c><00:11:13.349><c> both</c></c>
+
+00:11:13.609 --> 00:11:13.619 align:start position:0%
+funny kittens<c.colorE5E5E5> is up and running</c><c.colorCCCCCC> on both
+ </c>
+
+00:11:13.619 --> 00:11:17.070 align:start position:0%
+funny kittens<c.colorE5E5E5> is up and running</c><c.colorCCCCCC> on both</c>
+<c.colorE5E5E5>the<00:11:13.979><c> dev</c><00:11:14.219><c> environment</c></c>
+
+00:11:17.070 --> 00:11:17.080 align:start position:0%
+ 
+ 
+
+00:11:17.080 --> 00:11:21.820 align:start position:0%
+ 
+and<00:11:17.170><c> the</c><00:11:18.040><c> staging</c><00:11:18.550><c> environment</c>
+
+00:11:21.820 --> 00:11:21.830 align:start position:0%
+ 
+ 
+
+00:11:21.830 --> 00:11:24.160 align:start position:0%
+ 
+this<00:11:22.430><c> is</c><00:11:22.640><c> the</c><00:11:22.820><c> end</c><c.colorE5E5E5><00:11:22.970><c> of</c><00:11:23.090><c> this</c><00:11:23.240><c> video</c></c><c.colorCCCCCC><00:11:23.540><c> where</c><00:11:23.990><c> we</c></c>
+
+00:11:24.160 --> 00:11:24.170 align:start position:0%
+this is the end<c.colorE5E5E5> of this video</c><c.colorCCCCCC> where we
+ </c>
+
+00:11:24.170 --> 00:11:26.440 align:start position:0%
+this is the end<c.colorE5E5E5> of this video</c><c.colorCCCCCC> where we
+added</c><c.colorE5E5E5><00:11:24.380><c> unit</c><00:11:25.040><c> tests</c><00:11:25.460><c> and</c><00:11:25.550><c> user</c><00:11:25.880><c> acceptance</c></c>
+
+00:11:26.440 --> 00:11:26.450 align:start position:0%
+added<c.colorE5E5E5> unit tests and user acceptance
+ </c>
+
+00:11:26.450 --> 00:11:29.170 align:start position:0%
+added<c.colorE5E5E5> unit tests and user acceptance
+tests<00:11:26.810><c> to</c><00:11:26.990><c> the</c><00:11:27.020><c> CD</c><00:11:27.500><c> pipeline</c><00:11:28.010><c> and</c><00:11:28.220><c> deployed</c></c>
+
+00:11:29.170 --> 00:11:29.180 align:start position:0%
+<c.colorE5E5E5>tests to the CD pipeline and deployed
+ </c>
+
+00:11:29.180 --> 00:11:31.150 align:start position:0%
+<c.colorE5E5E5>tests to the CD pipeline and deployed
+the<00:11:29.450><c> web</c><00:11:29.720><c> application</c></c><c.colorCCCCCC><00:11:30.380><c> to</c><00:11:30.770><c> a</c><00:11:30.800><c> staging</c></c>
+
+00:11:31.150 --> 00:11:31.160 align:start position:0%
+the<c.colorE5E5E5> web application</c><c.colorCCCCCC> to a staging
+ </c>
+
+00:11:31.160 --> 00:11:34.090 align:start position:0%
+the<c.colorE5E5E5> web application</c><c.colorCCCCCC> to a staging
+environment<00:11:31.540><c> watch</c><00:11:32.540><c> the</c><00:11:32.810><c> next</c><00:11:33.050><c> video</c><00:11:33.440><c> where</c></c>
+
+00:11:34.090 --> 00:11:34.100 align:start position:0%
+environment<c.colorCCCCCC> watch the next video where
+ </c>
+
+00:11:34.100 --> 00:11:36.940 align:start position:0%
+environment<c.colorCCCCCC> watch the next video where
+we<00:11:34.340><c> will</c><00:11:34.520><c> add</c><00:11:34.730><c> steps</c></c><c.colorE5E5E5><00:11:35.330><c> to</c><00:11:35.720><c> manually</c><00:11:36.230><c> approve</c><00:11:36.800><c> a</c></c>
+
+00:11:36.940 --> 00:11:36.950 align:start position:0%
+we<c.colorCCCCCC> will add steps</c><c.colorE5E5E5> to manually approve a
+ </c>
+
+00:11:36.950 --> 00:11:39.310 align:start position:0%
+we<c.colorCCCCCC> will add steps</c><c.colorE5E5E5> to manually approve a
+deployment</c><c.colorCCCCCC><00:11:37.310><c> and</c><00:11:37.670><c> deploy</c><00:11:38.510><c> to</c><00:11:38.780><c> a</c><00:11:39.050><c> live</c></c>
+
+00:11:39.310 --> 00:11:39.320 align:start position:0%
+deployment<c.colorCCCCCC> and deploy to a live
+ </c>
+
+00:11:39.320 --> 00:11:41.590 align:start position:0%
+deployment<c.colorCCCCCC> and deploy to a live
+environment</c>
+

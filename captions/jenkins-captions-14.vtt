@@ -1,0 +1,1166 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.260 --> 00:00:02.530 align:start position:0%
+ 
+welcome<00:00:01.100><c> to</c><00:00:01.310><c> the</c><00:00:01.430><c> fourth</c><c.colorCCCCCC><00:00:01.700><c> section</c><00:00:02.149><c> of</c></c>
+
+00:00:02.530 --> 00:00:02.540 align:start position:0%
+welcome to the fourth<c.colorCCCCCC> section of
+ </c>
+
+00:00:02.540 --> 00:00:04.630 align:start position:0%
+welcome to the fourth<c.colorCCCCCC> section of
+hands-on<00:00:03.260><c> continuous</c><00:00:03.830><c> integration</c><00:00:04.100><c> and</c></c>
+
+00:00:04.630 --> 00:00:04.640 align:start position:0%
+hands-on continuous integration and
+ 
+
+00:00:04.640 --> 00:00:07.659 align:start position:0%
+hands-on continuous integration and
+<c.colorE5E5E5>automation<00:00:05.120><c> with</c><00:00:05.870><c> Jenkins</c></c><c.colorCCCCCC><00:00:06.189><c> in</c><00:00:07.189><c> this</c><00:00:07.370><c> section</c></c>
+
+00:00:07.659 --> 00:00:07.669 align:start position:0%
+<c.colorE5E5E5>automation with Jenkins</c><c.colorCCCCCC> in this section
+ </c>
+
+00:00:07.669 --> 00:00:09.700 align:start position:0%
+<c.colorE5E5E5>automation with Jenkins</c><c.colorCCCCCC> in this section</c>
+<c.colorE5E5E5>we<00:00:08.330><c> are</c><00:00:08.360><c> going</c><00:00:08.420><c> to</c><00:00:08.690><c> look</c><00:00:08.839><c> at</c><00:00:08.990><c> the</c><00:00:09.080><c> concept</c><00:00:09.589><c> of</c></c>
+
+00:00:09.700 --> 00:00:09.710 align:start position:0%
+<c.colorE5E5E5>we are going to look at the concept of
+ </c>
+
+00:00:09.710 --> 00:00:12.369 align:start position:0%
+<c.colorE5E5E5>we are going to look at the concept of
+pipeline<00:00:10.429><c> s</c><00:00:10.610><c> code</c><00:00:10.940><c> we</c><00:00:11.480><c> will</c><00:00:11.570><c> also</c><00:00:11.750><c> explore</c><00:00:12.320><c> the</c></c>
+
+00:00:12.369 --> 00:00:12.379 align:start position:0%
+pipeline<c.colorE5E5E5> s code we will also explore the
+ </c>
+
+00:00:12.379 --> 00:00:15.310 align:start position:0%
+pipeline<c.colorE5E5E5> s code we will also explore the
+syntax<00:00:13.129><c> of</c><00:00:13.280><c> a</c><00:00:13.370><c> Jenkins</c><00:00:13.820><c> file</c><00:00:14.150><c> and</c><00:00:14.450><c> use</c><00:00:15.080><c> the</c></c>
+
+00:00:15.310 --> 00:00:15.320 align:start position:0%
+<c.colorE5E5E5>syntax of a Jenkins file and use the
+ </c>
+
+00:00:15.320 --> 00:00:17.890 align:start position:0%
+<c.colorE5E5E5>syntax of a Jenkins file and use the
+pipeline</c><c.colorCCCCCC><00:00:15.620><c> plug-in</c><00:00:16.370><c> as</c><00:00:16.580><c> these</c><00:00:17.360><c> are</c><00:00:17.390><c> the</c><00:00:17.630><c> tools</c></c>
+
+00:00:17.890 --> 00:00:17.900 align:start position:0%
+pipeline<c.colorCCCCCC> plug-in as these are the tools
+ </c>
+
+00:00:17.900 --> 00:00:20.740 align:start position:0%
+pipeline<c.colorCCCCCC> plug-in as these are the tools
+to<00:00:18.410><c> build</c><00:00:18.590><c> pipelines</c></c><c.colorE5E5E5><00:00:19.250><c> in</c><00:00:19.520><c> Jenkins</c><00:00:19.820><c> the</c></c>
+
+00:00:20.740 --> 00:00:20.750 align:start position:0%
+to build pipelines<c.colorE5E5E5> in Jenkins the
+ </c>
+
+00:00:20.750 --> 00:00:22.660 align:start position:0%
+to build pipelines<c.colorE5E5E5> in Jenkins the
+practical<00:00:21.290><c> part</c><00:00:21.560><c> of</c><00:00:21.740><c> this</c><00:00:21.950><c> section</c><00:00:22.490><c> is</c></c>
+
+00:00:22.660 --> 00:00:22.670 align:start position:0%
+practical part of<c.colorE5E5E5> this section is
+ </c>
+
+00:00:22.670 --> 00:00:24.790 align:start position:0%
+practical part of<c.colorE5E5E5> this section is
+devoted<00:00:23.450><c> to</c><00:00:23.480><c> build</c><00:00:23.840><c> a</c><00:00:24.050><c> continuous</c><00:00:24.620><c> delivery</c></c>
+
+00:00:24.790 --> 00:00:24.800 align:start position:0%
+<c.colorE5E5E5>devoted to build a continuous delivery
+ </c>
+
+00:00:24.800 --> 00:00:27.490 align:start position:0%
+<c.colorE5E5E5>devoted to build a continuous delivery
+pipeline</c><c.colorCCCCCC><00:00:25.510><c> let's</c></c><c.colorE5E5E5><00:00:26.510><c> start</c><00:00:26.840><c> by</c><00:00:27.080><c> looking</c><00:00:27.260><c> at</c></c>
+
+00:00:27.490 --> 00:00:27.500 align:start position:0%
+pipeline<c.colorCCCCCC> let's</c><c.colorE5E5E5> start by looking at
+ </c>
+
+00:00:27.500 --> 00:00:30.490 align:start position:0%
+pipeline<c.colorCCCCCC> let's</c><c.colorE5E5E5> start by looking at</c>
+<c.colorE5E5E5>pipeline<00:00:28.100><c> s</c><00:00:28.460><c> code</c><00:00:28.760><c> in</c><00:00:29.000><c> this</c><00:00:29.630><c> video</c><00:00:30.080><c> we</c><00:00:30.380><c> will</c></c>
+
+00:00:30.490 --> 00:00:30.500 align:start position:0%
+<c.colorE5E5E5>pipeline s code in this video we will
+ </c>
+
+00:00:30.500 --> 00:00:33.370 align:start position:0%
+<c.colorE5E5E5>pipeline s code in this video we will
+learn<00:00:30.710><c> what</c><00:00:31.130><c> pipeline</c><00:00:31.670><c> s</c><00:00:31.790><c> code</c><00:00:32.059><c> means</c><00:00:32.419><c> how</c></c>
+
+00:00:33.370 --> 00:00:33.380 align:start position:0%
+learn<c.colorE5E5E5> what pipeline s code means how
+ </c>
+
+00:00:33.380 --> 00:00:35.770 align:start position:0%
+learn<c.colorE5E5E5> what pipeline s code means how
+pipelines<00:00:34.100><c> are</c><00:00:34.250><c> implemented</c><00:00:34.880><c> in</c><00:00:35.000><c> Jenkins</c></c><c.colorCCCCCC><00:00:35.240><c> 2</c></c>
+
+00:00:35.770 --> 00:00:35.780 align:start position:0%
+pipelines are implemented in Jenkins<c.colorCCCCCC> 2
+ </c>
+
+00:00:35.780 --> 00:00:38.110 align:start position:0%
+pipelines are implemented in Jenkins<c.colorCCCCCC> 2
+and<00:00:36.080><c> what</c><00:00:36.680><c> are</c><00:00:36.860><c> the</c><00:00:37.010><c> benefits</c></c><c.colorE5E5E5><00:00:37.220><c> of</c></c><c.colorCCCCCC><00:00:37.760><c> using</c></c>
+
+00:00:38.110 --> 00:00:38.120 align:start position:0%
+and what are the benefits<c.colorE5E5E5> of</c><c.colorCCCCCC> using
+ </c>
+
+00:00:38.120 --> 00:00:40.930 align:start position:0%
+and what are the benefits<c.colorE5E5E5> of</c><c.colorCCCCCC> using
+pipelines</c><c.colorE5E5E5><00:00:38.840><c> as</c><00:00:39.020><c> opposed</c><00:00:39.740><c> to</c><00:00:39.950><c> standard</c><00:00:40.430><c> Jenkins</c></c>
+
+00:00:40.930 --> 00:00:40.940 align:start position:0%
+pipelines<c.colorE5E5E5> as opposed to standard Jenkins
+ </c>
+
+00:00:40.940 --> 00:00:43.660 align:start position:0%
+pipelines<c.colorE5E5E5> as opposed to standard Jenkins
+jobs<00:00:41.270><c> there</c><00:00:42.079><c> is</c><00:00:42.110><c> no</c></c><c.colorCCCCCC><00:00:42.470><c> practical</c><00:00:43.040><c> path</c><00:00:43.280><c> in</c></c><c.colorE5E5E5><00:00:43.520><c> this</c></c>
+
+00:00:43.660 --> 00:00:43.670 align:start position:0%
+jobs<c.colorE5E5E5> there is no</c><c.colorCCCCCC> practical path in</c><c.colorE5E5E5> this
+ </c>
+
+00:00:43.670 --> 00:00:46.240 align:start position:0%
+jobs<c.colorE5E5E5> there is no</c><c.colorCCCCCC> practical path in</c><c.colorE5E5E5> this
+video<00:00:44.090><c> but</c><00:00:44.570><c> we</c><00:00:44.690><c> will</c><00:00:44.840><c> soon</c><00:00:45.110><c> put</c><00:00:45.410><c> into</c><00:00:45.739><c> practice</c></c>
+
+00:00:46.240 --> 00:00:46.250 align:start position:0%
+video but we will soon put<c.colorE5E5E5> into practice
+ </c>
+
+00:00:46.250 --> 00:00:48.760 align:start position:0%
+video but we will soon put<c.colorE5E5E5> into practice</c>
+<c.colorE5E5E5>what<00:00:46.489><c> we</c><00:00:46.700><c> learned</c><00:00:46.970><c> here</c></c><c.colorCCCCCC><00:00:47.180><c> in</c><00:00:47.660><c> the</c></c><c.colorE5E5E5><00:00:48.110><c> next</c><00:00:48.380><c> videos</c></c>
+
+00:00:48.760 --> 00:00:48.770 align:start position:0%
+<c.colorE5E5E5>what we learned here</c><c.colorCCCCCC> in the</c><c.colorE5E5E5> next videos
+ </c>
+
+00:00:48.770 --> 00:00:51.639 align:start position:0%
+<c.colorE5E5E5>what we learned here</c><c.colorCCCCCC> in the</c><c.colorE5E5E5> next videos
+of<00:00:48.980><c> this</c><00:00:49.520><c> section</c><00:00:50.180><c> let's</c><00:00:50.900><c> start</c><00:00:51.230><c> with</c><00:00:51.500><c> the</c></c>
+
+00:00:51.639 --> 00:00:51.649 align:start position:0%
+of this section let's start with the
+ 
+
+00:00:51.649 --> 00:00:54.550 align:start position:0%
+of this section let's start with the
+concept<c.colorCCCCCC><00:00:51.890><c> of</c><00:00:52.250><c> pipeline</c></c><c.colorE5E5E5><00:00:52.970><c> s</c><00:00:53.180><c> code</c><00:00:53.510><c> when</c><00:00:54.230><c> we</c><00:00:54.350><c> talk</c></c>
+
+00:00:54.550 --> 00:00:54.560 align:start position:0%
+concept<c.colorCCCCCC> of pipeline</c><c.colorE5E5E5> s code when we talk
+ </c>
+
+00:00:54.560 --> 00:00:57.340 align:start position:0%
+concept<c.colorCCCCCC> of pipeline</c><c.colorE5E5E5> s code when we talk
+about<00:00:54.590><c> pipeline</c><00:00:55.460><c> s</c><00:00:55.610><c> code</c><00:00:55.910><c> we</c><00:00:56.480><c> refer</c><00:00:56.840><c> to</c></c><c.colorCCCCCC><00:00:56.870><c> a</c><00:00:57.110><c> set</c></c>
+
+00:00:57.340 --> 00:00:57.350 align:start position:0%
+about pipeline s code we refer to<c.colorCCCCCC> a set
+ </c>
+
+00:00:57.350 --> 00:00:59.830 align:start position:0%
+about pipeline s code we refer to<c.colorCCCCCC> a set</c>
+<c.colorCCCCCC>of<00:00:57.530><c> features</c></c><c.colorE5E5E5><00:00:57.739><c> which</c></c><c.colorCCCCCC><00:00:58.670><c> allow</c><00:00:59.000><c> to</c><00:00:59.030><c> define</c><00:00:59.630><c> and</c></c>
+
+00:00:59.830 --> 00:00:59.840 align:start position:0%
+<c.colorCCCCCC>of features</c><c.colorE5E5E5> which</c><c.colorCCCCCC> allow to define and
+ </c>
+
+00:00:59.840 --> 00:01:03.490 align:start position:0%
+<c.colorCCCCCC>of features</c><c.colorE5E5E5> which</c><c.colorCCCCCC> allow to define and
+combine<00:01:00.290><c> job</c><00:01:00.770><c> processes</c><00:01:01.640><c> using</c></c><c.colorE5E5E5><00:01:02.210><c> code</c><00:01:02.660><c> and</c><00:01:02.989><c> to</c></c>
+
+00:01:03.490 --> 00:01:03.500 align:start position:0%
+combine job processes using<c.colorE5E5E5> code and to
+ </c>
+
+00:01:03.500 --> 00:01:06.669 align:start position:0%
+combine job processes using<c.colorE5E5E5> code and to
+store<00:01:03.800><c> this</c><00:01:04.100><c> code</c><00:01:04.460><c> under</c><00:01:04.879><c> version</c><00:01:05.089><c> control</c><00:01:05.679><c> in</c></c>
+
+00:01:06.669 --> 00:01:06.679 align:start position:0%
+store<c.colorE5E5E5> this code under version control in
+ </c>
+
+00:01:06.679 --> 00:01:08.980 align:start position:0%
+store<c.colorE5E5E5> this code under version control in
+other<00:01:06.859><c> words</c><00:01:07.189><c> Jenkins</c><00:01:08.149><c> jobs</c><00:01:08.450><c> and</c><00:01:08.719><c> their</c></c>
+
+00:01:08.980 --> 00:01:08.990 align:start position:0%
+other words<c.colorE5E5E5> Jenkins jobs and their
+ </c>
+
+00:01:08.990 --> 00:01:11.379 align:start position:0%
+other words<c.colorE5E5E5> Jenkins jobs and their
+configurations<00:01:09.829><c> are</c><00:01:10.249><c> defined</c><00:01:10.789><c> as</c><00:01:11.030><c> code</c></c>
+
+00:01:11.379 --> 00:01:11.389 align:start position:0%
+configurations are defined as code
+ 
+
+00:01:11.389 --> 00:01:13.989 align:start position:0%
+configurations are defined as code
+instead<c.colorE5E5E5><00:01:12.259><c> of</c><00:01:12.319><c> manual</c><00:01:12.829><c> configuration</c><00:01:13.639><c> by</c><00:01:13.939><c> the</c></c>
+
+00:01:13.989 --> 00:01:13.999 align:start position:0%
+instead<c.colorE5E5E5> of manual configuration by the
+ </c>
+
+00:01:13.999 --> 00:01:17.020 align:start position:0%
+instead<c.colorE5E5E5> of manual configuration by the
+Jenkins<00:01:14.569><c> graphical</c><00:01:15.259><c> user</c><00:01:15.289><c> interface</c><00:01:16.100><c> this</c></c><c.colorCCCCCC><00:01:16.969><c> is</c></c>
+
+00:01:17.020 --> 00:01:17.030 align:start position:0%
+Jenkins graphical user interface<c.colorE5E5E5> this</c><c.colorCCCCCC> is
+ </c>
+
+00:01:17.030 --> 00:01:19.660 align:start position:0%
+Jenkins graphical user interface<c.colorE5E5E5> this</c><c.colorCCCCCC> is</c>
+<c.colorE5E5E5>particularly<00:01:17.689><c> useful</c><00:01:17.929><c> when</c></c><c.colorCCCCCC><00:01:18.590><c> the</c><00:01:19.100><c> same</c><00:01:19.340><c> job</c></c>
+
+00:01:19.660 --> 00:01:19.670 align:start position:0%
+<c.colorE5E5E5>particularly useful when</c><c.colorCCCCCC> the same job
+ </c>
+
+00:01:19.670 --> 00:01:22.359 align:start position:0%
+<c.colorE5E5E5>particularly useful when</c><c.colorCCCCCC> the same job
+must</c><c.colorE5E5E5><00:01:19.999><c> be</c><00:01:20.209><c> applied</c><00:01:20.450><c> to</c><00:01:21.200><c> multiple</c><00:01:21.649><c> branches</c><00:01:22.189><c> in</c></c>
+
+00:01:22.359 --> 00:01:22.369 align:start position:0%
+must<c.colorE5E5E5> be applied to multiple branches in
+ </c>
+
+00:01:22.369 --> 00:01:24.999 align:start position:0%
+must<c.colorE5E5E5> be applied to multiple branches in</c>
+<c.colorCCCCCC>gate</c><c.colorE5E5E5><00:01:22.609><c> or</c><00:01:22.969><c> to</c><00:01:23.359><c> multiple</c><00:01:23.780><c> source</c><00:01:24.170><c> repositories</c></c>
+
+00:01:24.999 --> 00:01:25.009 align:start position:0%
+<c.colorCCCCCC>gate</c><c.colorE5E5E5> or to multiple source repositories
+ </c>
+
+00:01:25.009 --> 00:01:27.969 align:start position:0%
+<c.colorCCCCCC>gate</c><c.colorE5E5E5> or to multiple source repositories</c>
+<c.colorCCCCCC>the<00:01:25.789><c> job</c><00:01:26.060><c> is</c><00:01:26.240><c> managed</c></c><c.colorE5E5E5><00:01:26.719><c> and</c><00:01:26.990><c> executed</c><00:01:27.709><c> in</c><00:01:27.829><c> the</c></c>
+
+00:01:27.969 --> 00:01:27.979 align:start position:0%
+<c.colorCCCCCC>the job is managed</c><c.colorE5E5E5> and executed in the
+ </c>
+
+00:01:27.979 --> 00:01:30.730 align:start position:0%
+<c.colorCCCCCC>the job is managed</c><c.colorE5E5E5> and executed in the</c>
+<c.colorE5E5E5>same<00:01:28.249><c> way</c><00:01:28.549><c> except</c><00:01:29.509><c> for</c></c><c.colorCCCCCC><00:01:29.600><c> the</c><00:01:29.810><c> code</c><00:01:30.079><c> upon</c><00:01:30.469><c> which</c></c>
+
+00:01:30.730 --> 00:01:30.740 align:start position:0%
+<c.colorE5E5E5>same way except for</c><c.colorCCCCCC> the code upon which
+ </c>
+
+00:01:30.740 --> 00:01:34.300 align:start position:0%
+<c.colorE5E5E5>same way except for</c><c.colorCCCCCC> the code upon which
+is<00:01:31.009><c> based</c><00:01:31.719><c> to</c><00:01:32.719><c> give</c><00:01:32.899><c> you</c><00:01:32.990><c> an</c><00:01:33.109><c> example</c><00:01:33.469><c> you</c><00:01:34.130><c> may</c></c>
+
+00:01:34.300 --> 00:01:34.310 align:start position:0%
+is based<c.colorCCCCCC> to give you an example you may
+ </c>
+
+00:01:34.310 --> 00:01:36.190 align:start position:0%
+is based<c.colorCCCCCC> to give you an example you may
+want<00:01:34.579><c> to</c><00:01:34.759><c> have</c><00:01:34.850><c> a</c><00:01:34.909><c> CI</c><00:01:35.270><c> pipeline</c><00:01:36.020><c> that</c></c>
+
+00:01:36.190 --> 00:01:36.200 align:start position:0%
+want<c.colorCCCCCC> to have a CI pipeline that
+ </c>
+
+00:01:36.200 --> 00:01:39.249 align:start position:0%
+want<c.colorCCCCCC> to have a CI pipeline that
+automatically</c><c.colorE5E5E5><00:01:36.920><c> builds</c><00:01:37.700><c> the</c><00:01:37.969><c> code</c><00:01:38.270><c> for</c><00:01:38.929><c> each</c></c>
+
+00:01:39.249 --> 00:01:39.259 align:start position:0%
+automatically<c.colorE5E5E5> builds the code for each
+ </c>
+
+00:01:39.259 --> 00:01:42.279 align:start position:0%
+automatically<c.colorE5E5E5> builds the code for each
+branch<00:01:39.829><c> committed</c><00:01:40.639><c> to</c><00:01:40.789><c> get</c><00:01:41.029><c> this</c><00:01:41.600><c> allows</c><00:01:42.020><c> to</c></c>
+
+00:01:42.279 --> 00:01:42.289 align:start position:0%
+branch<c.colorE5E5E5> committed to get this allows to
+ </c>
+
+00:01:42.289 --> 00:01:44.919 align:start position:0%
+branch<c.colorE5E5E5> committed to get this allows to
+reduce<00:01:42.439><c> manual</c><00:01:43.069><c> creation</c><00:01:43.399><c> and</c><00:01:43.939><c> management</c><00:01:44.599><c> of</c></c>
+
+00:01:44.919 --> 00:01:44.929 align:start position:0%
+reduce manual<c.colorE5E5E5> creation and management of
+ </c>
+
+00:01:44.929 --> 00:01:48.699 align:start position:0%
+reduce manual<c.colorE5E5E5> creation and management of
+multiple<00:01:45.349><c> janking</c><00:01:46.130><c> jobs</c><00:01:46.990><c> just</c><00:01:47.990><c> imagine</c><00:01:48.529><c> how</c></c>
+
+00:01:48.699 --> 00:01:48.709 align:start position:0%
+multiple<c.colorE5E5E5> janking jobs just imagine how
+ </c>
+
+00:01:48.709 --> 00:01:51.069 align:start position:0%
+multiple<c.colorE5E5E5> janking jobs just imagine how
+many<00:01:48.770><c> jobs</c><00:01:49.310><c> you</c><00:01:49.520><c> will</c><00:01:49.729><c> need</c><00:01:49.849><c> to</c><00:01:49.969><c> create</c></c><c.colorCCCCCC><00:01:50.149><c> if</c><00:01:50.599><c> you</c></c>
+
+00:01:51.069 --> 00:01:51.079 align:start position:0%
+many jobs you<c.colorE5E5E5> will need to create</c><c.colorCCCCCC> if you
+ </c>
+
+00:01:51.079 --> 00:01:53.620 align:start position:0%
+many jobs you<c.colorE5E5E5> will need to create</c><c.colorCCCCCC> if you
+were<00:01:51.229><c> to</c><00:01:51.529><c> run</c><00:01:51.829><c> a</c><00:01:52.069><c> job</c></c><c.colorE5E5E5><00:01:52.520><c> for</c><00:01:52.969><c> each</c><00:01:52.999><c> branch</c></c>
+
+00:01:53.620 --> 00:01:53.630 align:start position:0%
+were to run a job<c.colorE5E5E5> for each branch
+ </c>
+
+00:01:53.630 --> 00:01:56.919 align:start position:0%
+were to run a job<c.colorE5E5E5> for each branch
+created<00:01:54.200><c> by</c><00:01:54.380><c> developers</c><00:01:55.509><c> pipeline</c><00:01:56.509><c> is</c><00:01:56.659><c> code</c></c>
+
+00:01:56.919 --> 00:01:56.929 align:start position:0%
+created by developers<c.colorE5E5E5> pipeline is code
+ </c>
+
+00:01:56.929 --> 00:01:59.230 align:start position:0%
+created by developers<c.colorE5E5E5> pipeline is code</c>
+<c.colorCCCCCC>full-swing<00:01:57.740><c> to</c><00:01:57.979><c> the</c><00:01:58.099><c> general</c><00:01:58.549><c> concept</c><00:01:59.119><c> of</c></c>
+
+00:01:59.230 --> 00:01:59.240 align:start position:0%
+<c.colorCCCCCC>full-swing to the general concept of
+ </c>
+
+00:01:59.240 --> 00:02:01.899 align:start position:0%
+<c.colorCCCCCC>full-swing to the general concept of
+infrastructure</c><c.colorE5E5E5><00:02:00.229><c> as</c><00:02:00.590><c> code</c></c><c.colorCCCCCC><00:02:00.649><c> that</c><00:02:01.579><c> you</c><00:02:01.700><c> might</c></c>
+
+00:02:01.899 --> 00:02:01.909 align:start position:0%
+infrastructure<c.colorE5E5E5> as code</c><c.colorCCCCCC> that you might
+ </c>
+
+00:02:01.909 --> 00:02:04.359 align:start position:0%
+infrastructure<c.colorE5E5E5> as code</c><c.colorCCCCCC> that you might
+have<00:02:02.060><c> heard</c><00:02:02.389><c> before</c></c><c.colorE5E5E5><00:02:02.630><c> the</c><00:02:03.319><c> idea</c><00:02:03.619><c> behind</c><00:02:03.919><c> the</c></c>
+
+00:02:04.359 --> 00:02:04.369 align:start position:0%
+have heard<c.colorCCCCCC> before</c><c.colorE5E5E5> the idea behind the
+ </c>
+
+00:02:04.369 --> 00:02:06.669 align:start position:0%
+have heard<c.colorCCCCCC> before</c><c.colorE5E5E5> the idea behind the
+infrastructure<00:02:04.999><c> s</c><00:02:05.240><c> code</c><00:02:05.539><c> is</c><00:02:05.810><c> that</c><00:02:06.409><c> IT</c></c>
+
+00:02:06.669 --> 00:02:06.679 align:start position:0%
+infrastructure s code is<c.colorE5E5E5> that IT
+ </c>
+
+00:02:06.679 --> 00:02:08.949 align:start position:0%
+infrastructure s code is<c.colorE5E5E5> that IT
+infrastructure<00:02:07.520><c> is</c><00:02:08.030><c> managed</c><00:02:08.659><c> and</c></c>
+
+00:02:08.949 --> 00:02:08.959 align:start position:0%
+infrastructure<c.colorE5E5E5> is managed and
+ </c>
+
+00:02:08.959 --> 00:02:11.229 align:start position:0%
+infrastructure<c.colorE5E5E5> is managed and
+provisioned<00:02:09.560><c> through</c><00:02:09.979><c> code</c><00:02:10.340><c> rather</c><00:02:11.000><c> than</c></c>
+
+00:02:11.229 --> 00:02:11.239 align:start position:0%
+provisioned through code rather<c.colorE5E5E5> than
+ </c>
+
+00:02:11.239 --> 00:02:13.530 align:start position:0%
+provisioned through code rather<c.colorE5E5E5> than
+manual<00:02:11.659><c> configuration</c></c>
+
+00:02:13.530 --> 00:02:13.540 align:start position:0%
+manual configuration
+ 
+
+00:02:13.540 --> 00:02:16.229 align:start position:0%
+manual configuration
+the<00:02:13.900><c> main</c><00:02:14.080><c> benefit</c><c.colorE5E5E5><00:02:14.650><c> is</c><00:02:14.860><c> that</c><00:02:14.920><c> IT</c><00:02:15.430><c> processes</c></c>
+
+00:02:16.229 --> 00:02:16.239 align:start position:0%
+the main benefit<c.colorE5E5E5> is that IT processes
+ </c>
+
+00:02:16.239 --> 00:02:18.990 align:start position:0%
+the main benefit<c.colorE5E5E5> is that IT processes
+like<00:02:16.569><c> provisioning</c><00:02:17.319><c> a</c><00:02:17.409><c> server</c><00:02:17.739><c> or</c><00:02:18.129><c> a</c><00:02:18.400><c> database</c></c>
+
+00:02:18.990 --> 00:02:19.000 align:start position:0%
+like provisioning a server or a<c.colorE5E5E5> database
+ </c>
+
+00:02:19.000 --> 00:02:21.420 align:start position:0%
+like provisioning a server or a<c.colorE5E5E5> database
+are<00:02:19.420><c> fully</c><00:02:19.900><c> automated</c><00:02:20.500><c> and</c><00:02:20.920><c> their</c></c>
+
+00:02:21.420 --> 00:02:21.430 align:start position:0%
+<c.colorE5E5E5>are fully automated and their
+ </c>
+
+00:02:21.430 --> 00:02:23.520 align:start position:0%
+<c.colorE5E5E5>are fully automated and their
+configuration<00:02:22.150><c> can</c></c><c.colorCCCCCC><00:02:22.360><c> be</c><00:02:22.510><c> stored</c></c><c.colorE5E5E5><00:02:22.840><c> under</c></c>
+
+00:02:23.520 --> 00:02:23.530 align:start position:0%
+configuration can<c.colorCCCCCC> be stored</c><c.colorE5E5E5> under
+ </c>
+
+00:02:23.530 --> 00:02:26.130 align:start position:0%
+configuration can<c.colorCCCCCC> be stored</c><c.colorE5E5E5> under
+version<00:02:23.739><c> control</c><00:02:23.950><c> and</c><00:02:24.640><c> repeated</c><00:02:25.540><c> on</c><00:02:25.720><c> new</c></c>
+
+00:02:26.130 --> 00:02:26.140 align:start position:0%
+version control<c.colorE5E5E5> and repeated on new
+ </c>
+
+00:02:26.140 --> 00:02:28.440 align:start position:0%
+version control<c.colorE5E5E5> and repeated on new
+machine<00:02:26.590><c> yeah</c><00:02:27.549><c> I'm</c><00:02:27.730><c> giving</c><00:02:28.120><c> you</c><00:02:28.239><c> some</c></c>
+
+00:02:28.440 --> 00:02:28.450 align:start position:0%
+machine yeah I'm giving you some
+ 
+
+00:02:28.450 --> 00:02:31.500 align:start position:0%
+machine yeah I'm giving you some
+<c.colorCCCCCC>examples<00:02:29.019><c> of</c><00:02:29.170><c> typical</c><00:02:29.440><c> pipelines</c></c><c.colorE5E5E5><00:02:30.280><c> in</c><00:02:30.819><c> general</c></c>
+
+00:02:31.500 --> 00:02:31.510 align:start position:0%
+<c.colorCCCCCC>examples of typical pipelines</c><c.colorE5E5E5> in general
+ </c>
+
+00:02:31.510 --> 00:02:34.259 align:start position:0%
+<c.colorCCCCCC>examples of typical pipelines</c><c.colorE5E5E5> in general</c>
+<c.colorE5E5E5>any<00:02:31.810><c> process</c></c><c.colorCCCCCC><00:02:32.530><c> that</c><00:02:32.709><c> combines</c></c><c.colorE5E5E5><00:02:32.920><c> multiple</c><00:02:33.519><c> steps</c></c>
+
+00:02:34.259 --> 00:02:34.269 align:start position:0%
+<c.colorE5E5E5>any process</c><c.colorCCCCCC> that combines</c><c.colorE5E5E5> multiple steps
+ </c>
+
+00:02:34.269 --> 00:02:36.720 align:start position:0%
+<c.colorE5E5E5>any process</c><c.colorCCCCCC> that combines</c><c.colorE5E5E5> multiple steps</c>
+<c.colorE5E5E5>and<00:02:34.569><c> dependencies</c><00:02:35.260><c> between</c><00:02:35.470><c> them</c><00:02:36.010><c> can</c><00:02:36.610><c> be</c></c>
+
+00:02:36.720 --> 00:02:36.730 align:start position:0%
+<c.colorE5E5E5>and dependencies between them can be
+ </c>
+
+00:02:36.730 --> 00:02:38.850 align:start position:0%
+<c.colorE5E5E5>and dependencies between them can be</c>
+<c.colorE5E5E5>considered<00:02:37.269><c> as</c><00:02:37.390><c> a</c><00:02:37.629><c> candidate</c></c><c.colorCCCCCC><00:02:38.260><c> for</c><00:02:38.500><c> a</c><00:02:38.530><c> pipeline</c></c>
+
+00:02:38.850 --> 00:02:38.860 align:start position:0%
+<c.colorE5E5E5>considered as a candidate</c><c.colorCCCCCC> for a pipeline
+ </c>
+
+00:02:38.860 --> 00:02:41.550 align:start position:0%
+<c.colorE5E5E5>considered as a candidate</c><c.colorCCCCCC> for a pipeline</c>
+<c.colorCCCCCC>as<00:02:39.310><c> we</c><00:02:39.819><c> mentioned</c><00:02:40.209><c> before</c></c><c.colorE5E5E5><00:02:40.239><c> you</c><00:02:41.049><c> can</c></c><c.colorCCCCCC><00:02:41.079><c> build</c><00:02:41.349><c> a</c></c>
+
+00:02:41.550 --> 00:02:41.560 align:start position:0%
+<c.colorCCCCCC>as we mentioned before</c><c.colorE5E5E5> you can</c><c.colorCCCCCC> build a
+ </c>
+
+00:02:41.560 --> 00:02:44.280 align:start position:0%
+<c.colorCCCCCC>as we mentioned before</c><c.colorE5E5E5> you can</c><c.colorCCCCCC> build a
+CI<00:02:41.829><c> pipeline</c><00:02:42.519><c> working</c><00:02:43.090><c> on</c><00:02:43.180><c> multiple</c></c><c.colorE5E5E5><00:02:43.390><c> branches</c></c>
+
+00:02:44.280 --> 00:02:44.290 align:start position:0%
+CI pipeline working on multiple<c.colorE5E5E5> branches
+ </c>
+
+00:02:44.290 --> 00:02:47.220 align:start position:0%
+CI pipeline working on multiple<c.colorE5E5E5> branches
+and<00:02:44.500><c> repositories</c></c><c.colorCCCCCC><00:02:45.220><c> or</c><00:02:45.540><c> you</c><00:02:46.540><c> can</c><00:02:46.720><c> implement</c><00:02:46.989><c> a</c></c>
+
+00:02:47.220 --> 00:02:47.230 align:start position:0%
+<c.colorE5E5E5>and repositories</c><c.colorCCCCCC> or you can implement a
+ </c>
+
+00:02:47.230 --> 00:02:49.289 align:start position:0%
+<c.colorE5E5E5>and repositories</c><c.colorCCCCCC> or you can implement a
+continuous<00:02:47.890><c> delivery</c><00:02:48.069><c> pipeline</c></c><c.colorE5E5E5><00:02:48.400><c> that</c></c>
+
+00:02:49.289 --> 00:02:49.299 align:start position:0%
+continuous delivery pipeline<c.colorE5E5E5> that
+ </c>
+
+00:02:49.299 --> 00:02:51.710 align:start position:0%
+continuous delivery pipeline<c.colorE5E5E5> that
+deploys<00:02:49.720><c> code</c><00:02:50.140><c> to</c><00:02:50.500><c> multiple</c><00:02:50.980><c> environments</c></c>
+
+00:02:51.710 --> 00:02:51.720 align:start position:0%
+deploys code to multiple environments
+ 
+
+00:02:51.720 --> 00:02:55.740 align:start position:0%
+deploys code to multiple environments
+<c.colorCCCCCC>testing<00:02:52.720><c> staging</c><00:02:53.470><c> and</c><00:02:53.650><c> production</c><00:02:54.750><c> another</c></c>
+
+00:02:55.740 --> 00:02:55.750 align:start position:0%
+<c.colorCCCCCC>testing staging and production another
+ </c>
+
+00:02:55.750 --> 00:02:58.170 align:start position:0%
+<c.colorCCCCCC>testing staging and production another</c>
+<c.colorE5E5E5>popular<00:02:56.290><c> use</c></c><c.colorCCCCCC><00:02:56.319><c> of</c></c><c.colorE5E5E5><00:02:56.560><c> pipelines</c><00:02:57.220><c> is</c><00:02:57.430><c> to</c><00:02:57.849><c> execute</c></c>
+
+00:02:58.170 --> 00:02:58.180 align:start position:0%
+<c.colorE5E5E5>popular use</c><c.colorCCCCCC> of</c><c.colorE5E5E5> pipelines is to execute
+ </c>
+
+00:02:58.180 --> 00:03:01.170 align:start position:0%
+<c.colorE5E5E5>popular use</c><c.colorCCCCCC> of</c><c.colorE5E5E5> pipelines is to execute</c>
+<c.colorCCCCCC>data<00:02:58.780><c> processing</c></c><c.colorE5E5E5><00:02:59.530><c> these</c><00:03:00.489><c> are</c><00:03:00.700><c> typically</c></c>
+
+00:03:01.170 --> 00:03:01.180 align:start position:0%
+<c.colorCCCCCC>data processing</c><c.colorE5E5E5> these are typically
+ </c>
+
+00:03:01.180 --> 00:03:03.420 align:start position:0%
+<c.colorCCCCCC>data processing</c><c.colorE5E5E5> these are typically
+called</c><c.colorCCCCCC><00:03:01.209><c> the</c><00:03:01.569><c> ETL</c><00:03:02.109><c> pipelines</c><00:03:02.799><c> from</c><00:03:03.340><c> the</c></c>
+
+00:03:03.420 --> 00:03:03.430 align:start position:0%
+called<c.colorCCCCCC> the ETL pipelines from the
+ </c>
+
+00:03:03.430 --> 00:03:07.619 align:start position:0%
+called<c.colorCCCCCC> the ETL pipelines from the
+acronym<00:03:04.030><c> extract</c><00:03:04.810><c> transform</c><00:03:05.769><c> and</c><00:03:05.980><c> load</c><00:03:06.069><c> a</c><00:03:06.970><c> use</c></c>
+
+00:03:07.619 --> 00:03:07.629 align:start position:0%
+acronym extract transform and load<c.colorCCCCCC> a use
+ </c>
+
+00:03:07.629 --> 00:03:10.050 align:start position:0%
+acronym extract transform and load<c.colorCCCCCC> a use
+case<00:03:07.900><c> that</c><00:03:08.260><c> is</c><00:03:08.379><c> gaining</c><00:03:08.739><c> popularity</c></c><c.colorE5E5E5><00:03:08.920><c> is</c><00:03:09.640><c> an</c></c>
+
+00:03:10.050 --> 00:03:10.060 align:start position:0%
+case<c.colorCCCCCC> that is gaining popularity</c><c.colorE5E5E5> is an
+ </c>
+
+00:03:10.060 --> 00:03:12.390 align:start position:0%
+case<c.colorCCCCCC> that is gaining popularity</c><c.colorE5E5E5> is an
+event-driven<00:03:10.420><c> workflow</c><00:03:11.290><c> where</c><00:03:11.799><c> a</c><00:03:11.829><c> pipeline</c></c>
+
+00:03:12.390 --> 00:03:12.400 align:start position:0%
+event-driven workflow<c.colorE5E5E5> where a pipeline
+ </c>
+
+00:03:12.400 --> 00:03:15.210 align:start position:0%
+event-driven workflow<c.colorE5E5E5> where a pipeline
+is<00:03:12.609><c> started</c><00:03:13.299><c> based</c></c><c.colorCCCCCC><00:03:13.660><c> on</c><00:03:14.019><c> an</c></c><c.colorE5E5E5><00:03:14.170><c> event</c><00:03:14.470><c> for</c><00:03:15.160><c> example</c></c>
+
+00:03:15.210 --> 00:03:15.220 align:start position:0%
+is started based<c.colorCCCCCC> on an</c><c.colorE5E5E5> event for example
+ </c>
+
+00:03:15.220 --> 00:03:18.659 align:start position:0%
+is started based<c.colorCCCCCC> on an</c><c.colorE5E5E5> event for example</c>
+<c.colorCCCCCC>a<00:03:15.790><c> new</c><00:03:16.120><c> image</c><00:03:16.480><c> is</c><00:03:16.660><c> uploaded</c><00:03:17.079><c> by</c><00:03:17.500><c> a</c><00:03:17.530><c> user</c><00:03:17.859><c> Bill</c></c>
+
+00:03:18.659 --> 00:03:18.669 align:start position:0%
+<c.colorCCCCCC>a new image is uploaded by a user Bill
+ </c>
+
+00:03:18.669 --> 00:03:20.610 align:start position:0%
+<c.colorCCCCCC>a new image is uploaded by a user Bill
+promotion<00:03:19.329><c> is</c><00:03:19.480><c> another</c><00:03:20.019><c> example</c><00:03:20.590><c> that</c></c>
+
+00:03:20.610 --> 00:03:20.620 align:start position:0%
+promotion is another<c.colorCCCCCC> example that
+ </c>
+
+00:03:20.620 --> 00:03:23.339 align:start position:0%
+promotion is another<c.colorCCCCCC> example that</c>
+<c.colorE5E5E5>combines<00:03:21.190><c> multiple</c><00:03:21.489><c> stages</c><00:03:22.150><c> such</c><00:03:22.870><c> as</c><00:03:23.049><c> build</c></c>
+
+00:03:23.339 --> 00:03:23.349 align:start position:0%
+<c.colorE5E5E5>combines multiple stages such as build
+ </c>
+
+00:03:23.349 --> 00:03:25.800 align:start position:0%
+<c.colorE5E5E5>combines multiple stages such as build</c>
+<c.colorE5E5E5>test<00:03:24.040><c> and</c><00:03:24.340><c> generating</c><00:03:24.940><c> artifacts</c><00:03:25.630><c> and</c></c>
+
+00:03:25.800 --> 00:03:25.810 align:start position:0%
+<c.colorE5E5E5>test and generating artifacts and
+ </c>
+
+00:03:25.810 --> 00:03:28.050 align:start position:0%
+<c.colorE5E5E5>test and generating artifacts and
+documentation</c><c.colorCCCCCC><00:03:26.440><c> to</c><00:03:27.160><c> be</c><00:03:27.250><c> promoted</c><00:03:27.849><c> to</c></c><c.colorE5E5E5><00:03:27.880><c> a</c></c>
+
+00:03:28.050 --> 00:03:28.060 align:start position:0%
+documentation<c.colorCCCCCC> to be promoted to</c><c.colorE5E5E5> a
+ </c>
+
+00:03:28.060 --> 00:03:31.289 align:start position:0%
+documentation<c.colorCCCCCC> to be promoted to</c><c.colorE5E5E5> a
+storage<00:03:28.450><c> repository</c><00:03:29.370><c> finally</c><00:03:30.370><c> any</c><00:03:30.730><c> process</c></c>
+
+00:03:31.289 --> 00:03:31.299 align:start position:0%
+storage<c.colorE5E5E5> repository finally any process
+ </c>
+
+00:03:31.299 --> 00:03:33.470 align:start position:0%
+storage<c.colorE5E5E5> repository finally any process
+requiring<00:03:31.750><c> conditional</c></c><c.colorCCCCCC><00:03:32.500><c> processing</c><00:03:33.160><c> and</c></c>
+
+00:03:33.470 --> 00:03:33.480 align:start position:0%
+requiring conditional<c.colorCCCCCC> processing and
+ </c>
+
+00:03:33.480 --> 00:03:36.360 align:start position:0%
+requiring conditional<c.colorCCCCCC> processing and
+dependencies<00:03:34.480><c> between</c><00:03:34.720><c> steps</c><00:03:35.319><c> is</c><00:03:35.739><c> also</c><00:03:36.340><c> a</c></c>
+
+00:03:36.360 --> 00:03:36.370 align:start position:0%
+dependencies between steps is also a
+ 
+
+00:03:36.370 --> 00:03:37.949 align:start position:0%
+dependencies between steps is also a
+good<00:03:36.519><c> candidate</c><c.colorE5E5E5><00:03:37.090><c> for</c><00:03:37.150><c> a</c></c><c.colorCCCCCC><00:03:37.419><c> pipeline</c></c>
+
+00:03:37.949 --> 00:03:37.959 align:start position:0%
+good candidate<c.colorE5E5E5> for a</c><c.colorCCCCCC> pipeline
+ </c>
+
+00:03:37.959 --> 00:03:40.710 align:start position:0%
+good candidate<c.colorE5E5E5> for a</c><c.colorCCCCCC> pipeline
+implementation<00:03:38.519><c> here</c><00:03:39.519><c> is</c><00:03:39.669><c> a</c><00:03:39.819><c> visual</c><00:03:40.329><c> example</c></c>
+
+00:03:40.710 --> 00:03:40.720 align:start position:0%
+implementation<c.colorCCCCCC> here is a visual example
+ </c>
+
+00:03:40.720 --> 00:03:43.949 align:start position:0%
+implementation<c.colorCCCCCC> here is a visual example
+taken<00:03:41.650><c> from</c><00:03:41.859><c> the</c><00:03:42.010><c> Jenkins</c></c><c.colorE5E5E5><00:03:42.459><c> website</c><00:03:42.970><c> of</c><00:03:43.269><c> how</c><00:03:43.930><c> a</c></c>
+
+00:03:43.949 --> 00:03:43.959 align:start position:0%
+taken<c.colorCCCCCC> from the Jenkins</c><c.colorE5E5E5> website of how a
+ </c>
+
+00:03:43.959 --> 00:03:46.830 align:start position:0%
+taken<c.colorCCCCCC> from the Jenkins</c><c.colorE5E5E5> website of how a
+pipeline<00:03:44.620><c> might</c><00:03:44.859><c> look</c><00:03:45.069><c> like</c><00:03:45.130><c> in</c><00:03:45.840><c> particular</c></c>
+
+00:03:46.830 --> 00:03:46.840 align:start position:0%
+pipeline might look like in particular
+ 
+
+00:03:46.840 --> 00:03:50.729 align:start position:0%
+pipeline might look like in particular
+<c.colorE5E5E5>this<00:03:47.560><c> is</c></c><c.colorCCCCCC><00:03:47.620><c> a</c><00:03:47.799><c> CD</c><00:03:48.340><c> pipeline</c><00:03:48.880><c> that</c><00:03:49.329><c> builds</c><00:03:49.840><c> tests</c></c>
+
+00:03:50.729 --> 00:03:50.739 align:start position:0%
+<c.colorE5E5E5>this is</c><c.colorCCCCCC> a CD pipeline that builds tests
+ </c>
+
+00:03:50.739 --> 00:03:53.580 align:start position:0%
+<c.colorE5E5E5>this is</c><c.colorCCCCCC> a CD pipeline that builds tests
+and<00:03:50.919><c> deploys</c><00:03:51.519><c> code</c><00:03:51.910><c> through</c><00:03:52.750><c> multiple</c></c><c.colorE5E5E5><00:03:53.230><c> stages</c></c>
+
+00:03:53.580 --> 00:03:53.590 align:start position:0%
+and deploys code<c.colorCCCCCC> through multiple</c><c.colorE5E5E5> stages
+ </c>
+
+00:03:53.590 --> 00:03:57.390 align:start position:0%
+and deploys code<c.colorCCCCCC> through multiple</c><c.colorE5E5E5> stages
+from<00:03:54.160><c> development</c><00:03:54.819><c> to</c><00:03:55.090><c> production</c><00:03:55.769><c> now</c><00:03:56.769><c> let's</c></c>
+
+00:03:57.390 --> 00:03:57.400 align:start position:0%
+from development to production<c.colorE5E5E5> now let's
+ </c>
+
+00:03:57.400 --> 00:03:59.819 align:start position:0%
+from development to production<c.colorE5E5E5> now let's
+look<00:03:57.669><c> at</c></c><c.colorCCCCCC><00:03:57.849><c> how</c><00:03:58.090><c> pipelines</c><00:03:58.780><c> are</c><00:03:59.049><c> implemented</c></c><c.colorE5E5E5><00:03:59.709><c> in</c></c>
+
+00:03:59.819 --> 00:03:59.829 align:start position:0%
+look<c.colorE5E5E5> at</c><c.colorCCCCCC> how pipelines are implemented</c><c.colorE5E5E5> in
+ </c>
+
+00:03:59.829 --> 00:04:03.180 align:start position:0%
+look<c.colorE5E5E5> at</c><c.colorCCCCCC> how pipelines are implemented</c><c.colorE5E5E5> in
+Jenkins<00:04:00.299><c> before</c><00:04:01.299><c> Jenkins</c></c><c.colorCCCCCC><00:04:01.810><c> -</c><00:04:02.109><c> building</c></c><c.colorE5E5E5><00:04:03.069><c> a</c></c>
+
+00:04:03.180 --> 00:04:03.190 align:start position:0%
+Jenkins<c.colorE5E5E5> before Jenkins</c><c.colorCCCCCC> - building</c><c.colorE5E5E5> a
+ </c>
+
+00:04:03.190 --> 00:04:05.280 align:start position:0%
+Jenkins<c.colorE5E5E5> before Jenkins</c><c.colorCCCCCC> - building</c><c.colorE5E5E5> a
+pipeline<00:04:03.430><c> with</c><00:04:03.910><c> Jenkins</c><00:04:04.150><c> was</c><00:04:04.810><c> a</c><00:04:04.840><c> bit</c><00:04:05.079><c> awkward</c></c>
+
+00:04:05.280 --> 00:04:05.290 align:start position:0%
+pipeline with Jenkins<c.colorE5E5E5> was a bit awkward
+ </c>
+
+00:04:05.290 --> 00:04:08.190 align:start position:0%
+pipeline with Jenkins<c.colorE5E5E5> was a bit awkward</c>
+<c.colorCCCCCC>and<00:04:05.919><c> required</c><00:04:06.669><c> multiple</c><00:04:07.060><c> plugins</c><00:04:07.989><c> and</c></c>
+
+00:04:08.190 --> 00:04:08.200 align:start position:0%
+<c.colorCCCCCC>and required multiple plugins and
+ </c>
+
+00:04:08.200 --> 00:04:11.270 align:start position:0%
+<c.colorCCCCCC>and required multiple plugins and
+complex</c><c.colorE5E5E5><00:04:08.829><c> dependencies</c><00:04:09.669><c> between</c><00:04:09.910><c> jobs</c></c>
+
+00:04:11.270 --> 00:04:11.280 align:start position:0%
+complex<c.colorE5E5E5> dependencies between jobs
+ </c>
+
+00:04:11.280 --> 00:04:14.759 align:start position:0%
+complex<c.colorE5E5E5> dependencies between jobs</c>
+<c.colorE5E5E5>Jenkins<00:04:12.280><c> -</c><00:04:12.549><c> introduced</c><00:04:13.510><c> the</c><00:04:13.720><c> pipeline</c><00:04:14.199><c> plugin</c></c>
+
+00:04:14.759 --> 00:04:14.769 align:start position:0%
+<c.colorE5E5E5>Jenkins - introduced the pipeline plugin
+ </c>
+
+00:04:14.769 --> 00:04:18.000 align:start position:0%
+<c.colorE5E5E5>Jenkins - introduced the pipeline plugin
+previously</c><c.colorCCCCCC><00:04:15.699><c> known</c><00:04:15.940><c> as</c></c><c.colorE5E5E5><00:04:16.180><c> workflow</c><00:04:16.840><c> and</c><00:04:17.169><c> several</c></c>
+
+00:04:18.000 --> 00:04:18.010 align:start position:0%
+<c.colorE5E5E5>previously</c><c.colorCCCCCC> known as</c><c.colorE5E5E5> workflow and several
+ </c>
+
+00:04:18.010 --> 00:04:20.400 align:start position:0%
+<c.colorE5E5E5>previously</c><c.colorCCCCCC> known as</c><c.colorE5E5E5> workflow and several
+features<00:04:18.519><c> making</c><00:04:18.910><c> pipelines</c><00:04:19.599><c> first-class</c></c>
+
+00:04:20.400 --> 00:04:20.410 align:start position:0%
+features making<c.colorE5E5E5> pipelines first-class
+ </c>
+
+00:04:20.410 --> 00:04:23.420 align:start position:0%
+features making<c.colorE5E5E5> pipelines first-class
+citizens<00:04:21.070><c> in</c><00:04:21.310><c> Jenkins</c><00:04:21.579><c> in</c><00:04:22.289><c> particular</c></c>
+
+00:04:23.420 --> 00:04:23.430 align:start position:0%
+citizens in Jenkins<c.colorE5E5E5> in particular
+ </c>
+
+00:04:23.430 --> 00:04:25.649 align:start position:0%
+citizens in Jenkins<c.colorE5E5E5> in particular</c>
+<c.colorE5E5E5>pipelines<00:04:24.430><c> are</c><00:04:24.640><c> implemented</c><00:04:25.270><c> through</c></c><c.colorCCCCCC><00:04:25.450><c> a</c></c>
+
+00:04:25.649 --> 00:04:25.659 align:start position:0%
+<c.colorE5E5E5>pipelines are implemented through</c><c.colorCCCCCC> a
+ </c>
+
+00:04:25.659 --> 00:04:27.240 align:start position:0%
+<c.colorE5E5E5>pipelines are implemented through</c><c.colorCCCCCC> a
+jenkins<00:04:26.200><c> file</c><00:04:26.500><c> that</c></c>
+
+00:04:27.240 --> 00:04:27.250 align:start position:0%
+<c.colorCCCCCC>jenkins file that
+ </c>
+
+00:04:27.250 --> 00:04:29.370 align:start position:0%
+<c.colorCCCCCC>jenkins file that
+typically<00:04:27.820><c> stood</c><00:04:28.210><c> at</c><00:04:28.510><c> the</c><00:04:28.720><c> root</c><00:04:28.930><c> of</c><00:04:29.230><c> your</c></c>
+
+00:04:29.370 --> 00:04:29.380 align:start position:0%
+typically stood at the root<c.colorCCCCCC> of your
+ </c>
+
+00:04:29.380 --> 00:04:31.860 align:start position:0%
+typically stood at the root<c.colorCCCCCC> of your
+source<00:04:29.710><c> control</c><00:04:29.950><c> repository</c><00:04:30.540><c> we</c><00:04:31.540><c> will</c><00:04:31.720><c> cover</c></c>
+
+00:04:31.860 --> 00:04:31.870 align:start position:0%
+source control<c.colorCCCCCC> repository we will cover
+ </c>
+
+00:04:31.870 --> 00:04:34.770 align:start position:0%
+source control<c.colorCCCCCC> repository we will cover</c>
+<c.colorE5E5E5>Jenkins<00:04:32.350><c> files</c><00:04:32.620><c> in</c><00:04:32.980><c> the</c><00:04:33.370><c> next</c><00:04:33.610><c> video</c><00:04:33.790><c> the</c></c>
+
+00:04:34.770 --> 00:04:34.780 align:start position:0%
+<c.colorE5E5E5>Jenkins files in the next video the
+ </c>
+
+00:04:34.780 --> 00:04:36.690 align:start position:0%
+<c.colorE5E5E5>Jenkins files in the next video the
+Jenkins<00:04:35.140><c> file</c><00:04:35.470><c> is</c><00:04:35.740><c> written</c><00:04:36.280><c> using</c><00:04:36.460><c> a</c></c>
+
+00:04:36.690 --> 00:04:36.700 align:start position:0%
+<c.colorE5E5E5>Jenkins file is written using a
+ </c>
+
+00:04:36.700 --> 00:04:39.330 align:start position:0%
+<c.colorE5E5E5>Jenkins file is written using a
+domain-specific<00:04:37.200><c> language</c><00:04:38.200><c> based</c><00:04:38.590><c> on</c><00:04:38.860><c> groovy</c></c>
+
+00:04:39.330 --> 00:04:39.340 align:start position:0%
+domain-specific language based on groovy
+ 
+
+00:04:39.340 --> 00:04:41.970 align:start position:0%
+domain-specific language based on groovy
+which<00:04:40.090><c> is</c><00:04:40.240><c> a</c><00:04:40.270><c> scripting</c><c.colorCCCCCC><00:04:40.810><c> language</c><00:04:41.230><c> for</c></c><c.colorE5E5E5><00:04:41.410><c> the</c></c>
+
+00:04:41.970 --> 00:04:41.980 align:start position:0%
+which is a scripting<c.colorCCCCCC> language for</c><c.colorE5E5E5> the
+ </c>
+
+00:04:41.980 --> 00:04:45.600 align:start position:0%
+which is a scripting<c.colorCCCCCC> language for</c><c.colorE5E5E5> the
+Java<00:04:42.310><c> Virtual</c><00:04:42.610><c> Machine</c><00:04:42.910><c> JVM</c></c><c.colorCCCCCC><00:04:44.100><c> code</c><00:04:45.100><c> written</c><00:04:45.340><c> in</c></c>
+
+00:04:45.600 --> 00:04:45.610 align:start position:0%
+Java Virtual Machine<c.colorE5E5E5> JVM</c><c.colorCCCCCC> code written in
+ </c>
+
+00:04:45.610 --> 00:04:48.060 align:start position:0%
+Java Virtual Machine<c.colorE5E5E5> JVM</c><c.colorCCCCCC> code written in
+groovy</c><c.colorE5E5E5><00:04:46.000><c> could</c><00:04:46.510><c> also</c><00:04:46.660><c> be</c><00:04:46.930><c> stored</c><00:04:47.260><c> in</c><00:04:47.530><c> libraries</c></c>
+
+00:04:48.060 --> 00:04:48.070 align:start position:0%
+groovy<c.colorE5E5E5> could also be stored in libraries
+ </c>
+
+00:04:48.070 --> 00:04:50.100 align:start position:0%
+groovy<c.colorE5E5E5> could also be stored in libraries
+that<00:04:48.520><c> can</c><00:04:48.760><c> be</c><00:04:48.880><c> shared</c></c><c.colorCCCCCC><00:04:49.180><c> across</c></c><c.colorE5E5E5><00:04:49.420><c> different</c></c>
+
+00:04:50.100 --> 00:04:50.110 align:start position:0%
+that can<c.colorE5E5E5> be shared</c><c.colorCCCCCC> across</c><c.colorE5E5E5> different
+ </c>
+
+00:04:50.110 --> 00:04:52.980 align:start position:0%
+that can<c.colorE5E5E5> be shared</c><c.colorCCCCCC> across</c><c.colorE5E5E5> different
+pipelines<00:04:50.610><c> finally</c><00:04:51.610><c> the</c><00:04:51.940><c> whole</c><00:04:52.150><c> pipeline</c><00:04:52.540><c> can</c></c>
+
+00:04:52.980 --> 00:04:52.990 align:start position:0%
+pipelines finally the whole pipeline<c.colorE5E5E5> can
+ </c>
+
+00:04:52.990 --> 00:04:55.530 align:start position:0%
+pipelines finally the whole pipeline<c.colorE5E5E5> can
+be<00:04:53.050><c> visualized</c><00:04:53.680><c> in</c><00:04:54.010><c> real</c><00:04:54.250><c> time</c><00:04:54.610><c> using</c><00:04:55.270><c> a</c></c>
+
+00:04:55.530 --> 00:04:55.540 align:start position:0%
+<c.colorE5E5E5>be visualized in real time using a
+ </c>
+
+00:04:55.540 --> 00:04:58.050 align:start position:0%
+<c.colorE5E5E5>be visualized in real time using a</c>
+<c.colorCCCCCC>staged<00:04:55.840><c> view</c><00:04:56.260><c> automatically</c><00:04:57.160><c> generated</c><00:04:57.850><c> from</c></c>
+
+00:04:58.050 --> 00:04:58.060 align:start position:0%
+<c.colorCCCCCC>staged view automatically generated from
+ </c>
+
+00:04:58.060 --> 00:05:00.930 align:start position:0%
+<c.colorCCCCCC>staged view automatically generated from
+the</c><c.colorE5E5E5><00:04:58.240><c> Jenkins</c><00:04:58.660><c> file</c><00:04:58.960><c> this</c><00:04:59.860><c> is</c><00:05:00.100><c> an</c><00:05:00.250><c> example</c><00:05:00.610><c> of</c></c>
+
+00:05:00.930 --> 00:05:00.940 align:start position:0%
+the<c.colorE5E5E5> Jenkins file this is an example of
+ </c>
+
+00:05:00.940 --> 00:05:04.020 align:start position:0%
+the<c.colorE5E5E5> Jenkins file this is an example of</c>
+<c.colorCCCCCC>staged</c><c.colorE5E5E5><00:05:01.570><c> view</c><00:05:01.990><c> for</c><00:05:02.590><c> a</c><00:05:02.620><c> simple</c><00:05:03.040><c> CD</c><00:05:03.460><c> pipeline</c></c>
+
+00:05:04.020 --> 00:05:04.030 align:start position:0%
+<c.colorCCCCCC>staged</c><c.colorE5E5E5> view for a simple CD pipeline
+ </c>
+
+00:05:04.030 --> 00:05:06.300 align:start position:0%
+<c.colorCCCCCC>staged</c><c.colorE5E5E5> view for a simple CD pipeline</c>
+<c.colorE5E5E5>this<00:05:04.690><c> gives</c><00:05:04.990><c> a</c><00:05:05.140><c> high</c><00:05:05.350><c> level</c></c><c.colorCCCCCC><00:05:05.650><c> view</c><00:05:05.800><c> of</c></c><c.colorE5E5E5><00:05:06.040><c> the</c></c>
+
+00:05:06.300 --> 00:05:06.310 align:start position:0%
+<c.colorE5E5E5>this gives a high level</c><c.colorCCCCCC> view of</c><c.colorE5E5E5> the
+ </c>
+
+00:05:06.310 --> 00:05:08.220 align:start position:0%
+<c.colorE5E5E5>this gives a high level</c><c.colorCCCCCC> view of</c><c.colorE5E5E5> the</c>
+<c.colorCCCCCC>process<00:05:06.760><c> and</c><00:05:06.910><c> they</c></c><c.colorE5E5E5><00:05:07.240><c> found</c><00:05:07.510><c> this</c><00:05:07.690><c> particularly</c></c>
+
+00:05:08.220 --> 00:05:08.230 align:start position:0%
+<c.colorCCCCCC>process and they</c><c.colorE5E5E5> found this particularly
+ </c>
+
+00:05:08.230 --> 00:05:10.950 align:start position:0%
+<c.colorCCCCCC>process and they</c><c.colorE5E5E5> found this particularly
+useful<00:05:08.680><c> for</c></c><c.colorCCCCCC><00:05:09.190><c> explaining</c><00:05:10.000><c> to</c><00:05:10.150><c> non-technical</c></c>
+
+00:05:10.950 --> 00:05:10.960 align:start position:0%
+useful for<c.colorCCCCCC> explaining to non-technical
+ </c>
+
+00:05:10.960 --> 00:05:13.050 align:start position:0%
+useful for<c.colorCCCCCC> explaining to non-technical</c>
+<c.colorE5E5E5>people<00:05:11.470><c> what</c><00:05:11.740><c> the</c><00:05:11.890><c> pipeline</c><00:05:12.280><c> is</c><00:05:12.430><c> doing</c><00:05:12.850><c> at</c></c>
+
+00:05:13.050 --> 00:05:13.060 align:start position:0%
+<c.colorE5E5E5>people what the pipeline is doing at
+ </c>
+
+00:05:13.060 --> 00:05:16.050 align:start position:0%
+<c.colorE5E5E5>people what the pipeline is doing at
+which<00:05:13.810><c> stage</c><00:05:14.260><c> it</c><00:05:14.530><c> is</c><00:05:14.560><c> or</c><00:05:15.070><c> where</c><00:05:15.580><c> it</c><00:05:15.610><c> broke</c></c>
+
+00:05:16.050 --> 00:05:16.060 align:start position:0%
+which stage it is<c.colorE5E5E5> or where it broke
+ </c>
+
+00:05:16.060 --> 00:05:19.020 align:start position:0%
+which stage it is<c.colorE5E5E5> or where it broke
+which<00:05:16.720><c> benefits</c></c><c.colorCCCCCC><00:05:17.320><c> to</c><00:05:17.530><c> pipeline</c><00:05:18.070><c> spring</c></c><c.colorE5E5E5><00:05:18.580><c> over</c></c>
+
+00:05:19.020 --> 00:05:19.030 align:start position:0%
+<c.colorE5E5E5>which benefits</c><c.colorCCCCCC> to pipeline spring</c><c.colorE5E5E5> over
+ </c>
+
+00:05:19.030 --> 00:05:22.350 align:start position:0%
+<c.colorE5E5E5>which benefits</c><c.colorCCCCCC> to pipeline spring</c><c.colorE5E5E5> over
+standard<00:05:19.270><c> Jenkins</c><00:05:19.840><c> jobs</c><00:05:20.190><c> first</c><00:05:21.360><c> pipelines</c></c>
+
+00:05:22.350 --> 00:05:22.360 align:start position:0%
+standard Jenkins jobs first<c.colorE5E5E5> pipelines
+ </c>
+
+00:05:22.360 --> 00:05:25.050 align:start position:0%
+standard Jenkins jobs first<c.colorE5E5E5> pipelines
+are</c><c.colorCCCCCC><00:05:22.660><c> Express</c><00:05:23.080><c> s</c><00:05:23.290><c> code</c><00:05:23.650><c> and</c><00:05:23.950><c> can</c><00:05:24.550><c> therefore</c><00:05:24.790><c> be</c></c>
+
+00:05:25.050 --> 00:05:25.060 align:start position:0%
+are<c.colorCCCCCC> Express s code and can therefore be
+ </c>
+
+00:05:25.060 --> 00:05:27.720 align:start position:0%
+are<c.colorCCCCCC> Express s code and can therefore be
+stored</c><c.colorE5E5E5><00:05:25.630><c> under</c><00:05:26.169><c> version</c><00:05:26.350><c> control</c><00:05:26.530><c> like</c><00:05:27.430><c> any</c></c>
+
+00:05:27.720 --> 00:05:27.730 align:start position:0%
+stored<c.colorE5E5E5> under version control like any
+ </c>
+
+00:05:27.730 --> 00:05:30.270 align:start position:0%
+stored<c.colorE5E5E5> under version control like any
+other<00:05:28.060><c> script</c><00:05:28.480><c> their</c><00:05:29.169><c> resilience</c><00:05:29.740><c> is</c><00:05:30.010><c> higher</c></c>
+
+00:05:30.270 --> 00:05:30.280 align:start position:0%
+other script<c.colorE5E5E5> their resilience is higher
+ </c>
+
+00:05:30.280 --> 00:05:32.940 align:start position:0%
+other script<c.colorE5E5E5> their resilience is higher</c>
+<c.colorE5E5E5>since<00:05:31.060><c> they</c><00:05:31.210><c> can</c><00:05:31.390><c> survive</c><00:05:31.780><c> a</c><00:05:31.840><c> Jenkins</c><00:05:32.380><c> restart</c></c>
+
+00:05:32.940 --> 00:05:32.950 align:start position:0%
+<c.colorE5E5E5>since they can survive a Jenkins restart
+ </c>
+
+00:05:32.950 --> 00:05:35.400 align:start position:0%
+<c.colorE5E5E5>since they can survive a Jenkins restart</c>
+<c.colorE5E5E5>and<00:05:33.190><c> they</c><00:05:33.610><c> can</c><00:05:33.760><c> be</c></c><c.colorCCCCCC><00:05:33.940><c> rebuilt</c></c><c.colorE5E5E5><00:05:34.510><c> from</c></c><c.colorCCCCCC><00:05:34.750><c> a</c><00:05:34.990><c> previous</c></c>
+
+00:05:35.400 --> 00:05:35.410 align:start position:0%
+<c.colorE5E5E5>and they can be</c><c.colorCCCCCC> rebuilt</c><c.colorE5E5E5> from</c><c.colorCCCCCC> a previous
+ </c>
+
+00:05:35.410 --> 00:05:38.250 align:start position:0%
+<c.colorE5E5E5>and they can be</c><c.colorCCCCCC> rebuilt</c><c.colorE5E5E5> from</c><c.colorCCCCCC> a previous
+stage<00:05:35.910><c> pipelines</c><00:05:36.910><c> can</c><00:05:37.180><c> also</c><00:05:37.330><c> be</c><00:05:37.570><c> posed</c><00:05:37.870><c> and</c></c>
+
+00:05:38.250 --> 00:05:38.260 align:start position:0%
+stage pipelines can also be posed and
+ 
+
+00:05:38.260 --> 00:05:41.400 align:start position:0%
+stage pipelines can also be posed and
+wait<00:05:38.919><c> for</c><00:05:39.220><c> a</c><00:05:39.250><c> manual</c><00:05:39.610><c> approval</c><00:05:40.210><c> this</c><c.colorE5E5E5><00:05:41.200><c> is</c></c>
+
+00:05:41.400 --> 00:05:41.410 align:start position:0%
+wait for a manual approval this<c.colorE5E5E5> is
+ </c>
+
+00:05:41.410 --> 00:05:43.620 align:start position:0%
+wait for a manual approval this<c.colorE5E5E5> is
+useful<00:05:41.710><c> if</c><00:05:42.130><c> the</c><00:05:42.550><c> business</c><00:05:42.940><c> needs</c><00:05:43.210><c> to</c><00:05:43.419><c> give</c><00:05:43.600><c> a</c></c>
+
+00:05:43.620 --> 00:05:43.630 align:start position:0%
+useful if the business needs<c.colorE5E5E5> to give a
+ </c>
+
+00:05:43.630 --> 00:05:46.080 align:start position:0%
+useful if the business needs<c.colorE5E5E5> to give a</c>
+<c.colorE5E5E5>go-ahead</c><c.colorCCCCCC><00:05:44.020><c> before</c><00:05:44.740><c> a</c><00:05:44.950><c> promotion</c><00:05:45.610><c> or</c></c>
+
+00:05:46.080 --> 00:05:46.090 align:start position:0%
+<c.colorE5E5E5>go-ahead</c><c.colorCCCCCC> before a promotion or
+ </c>
+
+00:05:46.090 --> 00:05:48.450 align:start position:0%
+<c.colorE5E5E5>go-ahead</c><c.colorCCCCCC> before a promotion or
+deployment<00:05:46.630><c> to</c><00:05:46.930><c> production</c><00:05:47.280><c> pipelines</c><00:05:48.280><c> are</c></c>
+
+00:05:48.450 --> 00:05:48.460 align:start position:0%
+deployment<c.colorCCCCCC> to production pipelines are
+ </c>
+
+00:05:48.460 --> 00:05:50.820 align:start position:0%
+deployment<c.colorCCCCCC> to production pipelines are
+also<00:05:48.610><c> very</c><00:05:49.030><c> versatile</c></c><c.colorE5E5E5><00:05:49.690><c> and</c><00:05:49.960><c> can</c><00:05:50.380><c> support</c></c>
+
+00:05:50.820 --> 00:05:50.830 align:start position:0%
+also very versatile<c.colorE5E5E5> and can support
+ </c>
+
+00:05:50.830 --> 00:05:52.860 align:start position:0%
+also very versatile<c.colorE5E5E5> and can support
+complex</c><c.colorCCCCCC><00:05:51.220><c> requirements</c><00:05:52.090><c> like</c><00:05:52.360><c> loops</c></c>
+
+00:05:52.860 --> 00:05:52.870 align:start position:0%
+complex<c.colorCCCCCC> requirements like loops
+ </c>
+
+00:05:52.870 --> 00:05:55.850 align:start position:0%
+complex<c.colorCCCCCC> requirements like loops
+conditional<00:05:53.740><c> and</c><00:05:54.340><c> matrix</c><00:05:54.820><c> processing</c><00:05:55.479><c> and</c></c>
+
+00:05:55.850 --> 00:05:55.860 align:start position:0%
+conditional and matrix processing and
+ 
+
+00:05:55.860 --> 00:05:58.950 align:start position:0%
+conditional and matrix processing and
+parallelization<c.colorE5E5E5><00:05:56.860><c> of</c><00:05:57.250><c> jobs</c><00:05:57.550><c> they</c><00:05:58.390><c> can</c><00:05:58.540><c> also</c><00:05:58.690><c> be</c></c>
+
+00:05:58.950 --> 00:05:58.960 align:start position:0%
+parallelization<c.colorE5E5E5> of jobs they can also be
+ </c>
+
+00:05:58.960 --> 00:06:01.230 align:start position:0%
+parallelization<c.colorE5E5E5> of jobs they can also be
+extended<00:05:59.350><c> via</c><00:05:59.860><c> domain-specific</c><00:06:00.280><c> language</c></c>
+
+00:06:01.230 --> 00:06:01.240 align:start position:0%
+extended<c.colorE5E5E5> via domain-specific language
+ </c>
+
+00:06:01.240 --> 00:06:04.230 align:start position:0%
+extended<c.colorE5E5E5> via domain-specific language
+scripts<00:06:01.660><c> and</c><00:06:01.960><c> shared</c><00:06:02.860><c> libraries</c><00:06:03.460><c> written</c><00:06:04.000><c> in</c></c>
+
+00:06:04.230 --> 00:06:04.240 align:start position:0%
+scripts<c.colorE5E5E5> and shared libraries written in
+ </c>
+
+00:06:04.240 --> 00:06:06.810 align:start position:0%
+scripts<c.colorE5E5E5> and shared libraries written in
+groovy<00:06:04.680><c> finally</c><00:06:05.680><c> pipeline</c><00:06:06.460><c> can</c><00:06:06.760><c> be</c></c>
+
+00:06:06.810 --> 00:06:06.820 align:start position:0%
+groovy finally pipeline can<c.colorE5E5E5> be
+ </c>
+
+00:06:06.820 --> 00:06:09.000 align:start position:0%
+groovy finally pipeline can<c.colorE5E5E5> be
+visualized<00:06:07.510><c> for</c></c><c.colorCCCCCC><00:06:07.870><c> the</c><00:06:07.990><c> benefit</c></c><c.colorE5E5E5><00:06:08.500><c> of</c><00:06:08.650><c> both</c></c>
+
+00:06:09.000 --> 00:06:09.010 align:start position:0%
+<c.colorE5E5E5>visualized for</c><c.colorCCCCCC> the benefit</c><c.colorE5E5E5> of both
+ </c>
+
+00:06:09.010 --> 00:06:12.060 align:start position:0%
+<c.colorE5E5E5>visualized for</c><c.colorCCCCCC> the benefit</c><c.colorE5E5E5> of both
+technical</c><c.colorCCCCCC><00:06:09.700><c> and</c><00:06:10.090><c> non-technical</c></c><c.colorE5E5E5><00:06:10.360><c> people</c><00:06:11.350><c> this</c></c>
+
+00:06:12.060 --> 00:06:12.070 align:start position:0%
+technical<c.colorCCCCCC> and non-technical</c><c.colorE5E5E5> people this
+ </c>
+
+00:06:12.070 --> 00:06:14.130 align:start position:0%
+technical<c.colorCCCCCC> and non-technical</c><c.colorE5E5E5> people this</c>
+<c.colorE5E5E5>is<00:06:12.280><c> the</c><00:06:12.430><c> end</c><00:06:12.550><c> of</c><00:06:12.700><c> this</c><00:06:12.880><c> video</c><00:06:13.360><c> where</c><00:06:13.990><c> we</c></c>
+
+00:06:14.130 --> 00:06:14.140 align:start position:0%
+<c.colorE5E5E5>is the end of this video where we
+ </c>
+
+00:06:14.140 --> 00:06:16.320 align:start position:0%
+<c.colorE5E5E5>is the end of this video where we</c>
+<c.colorE5E5E5>describe<00:06:14.620><c> the</c><00:06:14.800><c> concept</c><00:06:15.190><c> of</c><00:06:15.340><c> pipeline</c><00:06:15.880><c> s</c><00:06:16.000><c> code</c></c>
+
+00:06:16.320 --> 00:06:16.330 align:start position:0%
+<c.colorE5E5E5>describe the concept of pipeline s code
+ </c>
+
+00:06:16.330 --> 00:06:19.409 align:start position:0%
+<c.colorE5E5E5>describe the concept of pipeline s code
+and<00:06:16.600><c> explain</c><00:06:17.169><c> its</c><00:06:17.770><c> benefits</c><00:06:18.430><c> and</c><00:06:18.669><c> general</c></c>
+
+00:06:19.409 --> 00:06:19.419 align:start position:0%
+and explain<c.colorE5E5E5> its benefits and general
+ </c>
+
+00:06:19.419 --> 00:06:22.409 align:start position:0%
+and explain<c.colorE5E5E5> its benefits and general
+implementation<00:06:20.260><c> in</c></c><c.colorCCCCCC><00:06:20.500><c> Jenkins</c><00:06:21.010><c> to</c><00:06:21.280><c> watch</c><00:06:22.150><c> the</c></c>
+
+00:06:22.409 --> 00:06:22.419 align:start position:0%
+implementation in<c.colorCCCCCC> Jenkins to watch the
+ </c>
+
+00:06:22.419 --> 00:06:24.840 align:start position:0%
+implementation in<c.colorCCCCCC> Jenkins to watch the
+next</c><c.colorE5E5E5><00:06:22.600><c> video</c><00:06:22.870><c> where</c><00:06:23.650><c> we</c></c><c.colorCCCCCC><00:06:23.830><c> will</c><00:06:23.950><c> dive</c><00:06:24.250><c> into</c></c><c.colorE5E5E5><00:06:24.610><c> the</c></c>
+
+00:06:24.840 --> 00:06:24.850 align:start position:0%
+next<c.colorE5E5E5> video where we</c><c.colorCCCCCC> will dive into</c><c.colorE5E5E5> the
+ </c>
+
+00:06:24.850 --> 00:06:29.520 align:start position:0%
+next<c.colorE5E5E5> video where we</c><c.colorCCCCCC> will dive into</c><c.colorE5E5E5> the
+structure<00:06:25.450><c> and</c></c><c.colorCCCCCC><00:06:25.600><c> syntax</c><00:06:26.320><c> of</c><00:06:26.500><c> a</c><00:06:26.740><c> Jenkins</c><00:06:27.220><c> file</c></c>
+

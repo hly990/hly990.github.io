@@ -1,0 +1,1758 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.250 --> 00:00:02.970 align:start position:0%
+ 
+in<00:00:00.730><c> this</c><00:00:01.030><c> video</c><c.colorE5E5E5><00:00:01.300><c> we're</c><00:00:01.900><c> going</c><00:00:02.050><c> to</c><00:00:02.169><c> look</c><00:00:02.470><c> at</c><00:00:02.800><c> the</c></c>
+
+00:00:02.970 --> 00:00:02.980 align:start position:0%
+in this video<c.colorE5E5E5> we're going to look at the
+ </c>
+
+00:00:02.980 --> 00:00:05.699 align:start position:0%
+in this video<c.colorE5E5E5> we're going to look at the
+continuous<00:00:03.550><c> integration</c><00:00:03.820><c> workflow</c><00:00:04.779><c> in</c><00:00:05.350><c> terms</c></c>
+
+00:00:05.699 --> 00:00:05.709 align:start position:0%
+continuous integration workflow<c.colorE5E5E5> in terms
+ </c>
+
+00:00:05.709 --> 00:00:08.310 align:start position:0%
+continuous integration workflow<c.colorE5E5E5> in terms
+of<00:00:05.919><c> theory</c><00:00:06.399><c> we</c><00:00:07.149><c> will</c><00:00:07.269><c> define</c><00:00:07.749><c> what</c><00:00:08.019><c> a</c><00:00:08.050><c> typical</c></c>
+
+00:00:08.310 --> 00:00:08.320 align:start position:0%
+of theory<c.colorE5E5E5> we will define what a typical
+ </c>
+
+00:00:08.320 --> 00:00:11.970 align:start position:0%
+of theory<c.colorE5E5E5> we will define what a typical
+CI<00:00:08.860><c> workflow</c><00:00:09.550><c> is</c><00:00:09.790><c> as</c><00:00:10.120><c> we</c><00:00:10.900><c> will</c><00:00:11.050><c> use</c></c><c.colorCCCCCC><00:00:11.080><c> it</c></c><c.colorE5E5E5><00:00:11.500><c> in</c><00:00:11.710><c> this</c></c>
+
+00:00:11.970 --> 00:00:11.980 align:start position:0%
+CI workflow is as we will use<c.colorCCCCCC> it</c><c.colorE5E5E5> in this
+ </c>
+
+00:00:11.980 --> 00:00:14.280 align:start position:0%
+CI workflow is as we will use<c.colorCCCCCC> it</c><c.colorE5E5E5> in this</c>
+<c.colorE5E5E5>video<00:00:12.460><c> and</c><00:00:12.700><c> in</c><00:00:13.030><c> the</c></c><c.colorCCCCCC><00:00:13.060><c> next</c><00:00:13.450><c> videos</c><00:00:13.840><c> of</c><00:00:14.080><c> this</c></c>
+
+00:00:14.280 --> 00:00:14.290 align:start position:0%
+<c.colorE5E5E5>video and in the</c><c.colorCCCCCC> next videos of this
+ </c>
+
+00:00:14.290 --> 00:00:16.859 align:start position:0%
+<c.colorE5E5E5>video and in the</c><c.colorCCCCCC> next videos of this
+section<00:00:14.860><c> we</c><00:00:15.550><c> will</c><00:00:15.700><c> also</c><00:00:15.850><c> familiarize</c><00:00:16.449><c> with</c></c>
+
+00:00:16.859 --> 00:00:16.869 align:start position:0%
+section we<c.colorCCCCCC> will also familiarize with
+ </c>
+
+00:00:16.869 --> 00:00:19.409 align:start position:0%
+section we<c.colorCCCCCC> will also familiarize with
+maven<00:00:17.320><c> which</c><00:00:17.919><c> is</c><00:00:18.130><c> the</c><00:00:18.279><c> build</c><00:00:18.490><c> tool</c><00:00:18.789><c> that</c><00:00:19.300><c> we</c></c>
+
+00:00:19.409 --> 00:00:19.419 align:start position:0%
+maven which is the build tool that we
+ 
+
+00:00:19.419 --> 00:00:21.989 align:start position:0%
+maven which is the build tool that we
+<c.colorE5E5E5>are<00:00:19.509><c> going</c><00:00:19.749><c> to</c><00:00:19.900><c> employ</c><00:00:20.289><c> in</c><00:00:20.619><c> our</c><00:00:20.980><c> CI</c><00:00:21.339><c> workflow</c></c>
+
+00:00:21.989 --> 00:00:21.999 align:start position:0%
+<c.colorE5E5E5>are going to employ in our CI workflow
+ </c>
+
+00:00:21.999 --> 00:00:24.269 align:start position:0%
+<c.colorE5E5E5>are going to employ in our CI workflow</c>
+<c.colorCCCCCC>in<00:00:22.240><c> the</c><00:00:22.839><c> practical</c></c><c.colorE5E5E5><00:00:23.230><c> part</c><00:00:23.619><c> of</c><00:00:23.800><c> this</c><00:00:23.949><c> video</c></c>
+
+00:00:24.269 --> 00:00:24.279 align:start position:0%
+<c.colorCCCCCC>in the practical</c><c.colorE5E5E5> part of this video
+ </c>
+
+00:00:24.279 --> 00:00:27.300 align:start position:0%
+<c.colorCCCCCC>in the practical</c><c.colorE5E5E5> part of this video</c>
+<c.colorE5E5E5>we'll<00:00:25.179><c> start</c><00:00:25.480><c> implementing</c><00:00:26.050><c> the</c><00:00:26.380><c> CI</c><00:00:26.650><c> workflow</c></c>
+
+00:00:27.300 --> 00:00:27.310 align:start position:0%
+<c.colorE5E5E5>we'll start implementing the CI workflow
+ </c>
+
+00:00:27.310 --> 00:00:30.720 align:start position:0%
+<c.colorE5E5E5>we'll start implementing the CI workflow
+by<00:00:27.519><c> foking</c><00:00:28.179><c> a</c><00:00:28.359><c> github</c><00:00:28.689><c> repository</c></c><c.colorCCCCCC><00:00:29.640><c> creating</c><00:00:30.640><c> a</c></c>
+
+00:00:30.720 --> 00:00:30.730 align:start position:0%
+by foking<c.colorE5E5E5> a github repository</c><c.colorCCCCCC> creating a
+ </c>
+
+00:00:30.730 --> 00:00:33.570 align:start position:0%
+by foking<c.colorE5E5E5> a github repository</c><c.colorCCCCCC> creating a
+Jenkins<00:00:31.210><c> job</c></c><c.colorE5E5E5><00:00:31.480><c> and</c><00:00:31.749><c> building</c><00:00:32.560><c> it</c><00:00:32.710><c> via</c><00:00:33.040><c> maven</c></c>
+
+00:00:33.570 --> 00:00:33.580 align:start position:0%
+Jenkins job<c.colorE5E5E5> and building it via maven
+ </c>
+
+00:00:33.580 --> 00:00:35.400 align:start position:0%
+Jenkins job<c.colorE5E5E5> and building it via maven
+let's<00:00:34.180><c> start</c><00:00:34.510><c> with</c><00:00:34.780><c> the</c><00:00:34.930><c> continuous</c></c>
+
+00:00:35.400 --> 00:00:35.410 align:start position:0%
+let's start with the continuous
+ 
+
+00:00:35.410 --> 00:00:38.460 align:start position:0%
+let's start with the continuous
+integration<00:00:35.680><c> workflow</c><00:00:36.550><c> this</c><00:00:37.480><c> diagram</c><c.colorCCCCCC><00:00:38.080><c> shows</c></c>
+
+00:00:38.460 --> 00:00:38.470 align:start position:0%
+integration workflow this diagram<c.colorCCCCCC> shows
+ </c>
+
+00:00:38.470 --> 00:00:40.740 align:start position:0%
+integration workflow this diagram<c.colorCCCCCC> shows
+the<00:00:38.500><c> main</c><00:00:38.920><c> components</c><00:00:39.670><c> and</c><00:00:39.880><c> interactions</c></c>
+
+00:00:40.740 --> 00:00:40.750 align:start position:0%
+the main components and interactions
+ 
+
+00:00:40.750 --> 00:00:43.950 align:start position:0%
+the main components and interactions
+within<00:00:41.500><c> a</c><00:00:41.590><c> typical</c><00:00:41.800><c> CI</c><00:00:42.310><c> workflow</c><00:00:42.970><c> the</c>
+
+00:00:43.950 --> 00:00:43.960 align:start position:0%
+within a typical CI workflow the
+ 
+
+00:00:43.960 --> 00:00:46.260 align:start position:0%
+within a typical CI workflow the
+starting<00:00:44.440><c> point</c><00:00:44.710><c> is</c><00:00:44.980><c> a</c><00:00:45.220><c> code</c><c.colorCCCCCC><00:00:45.610><c> change</c><00:00:45.970><c> in</c></c>
+
+00:00:46.260 --> 00:00:46.270 align:start position:0%
+starting point is a code<c.colorCCCCCC> change in
+ </c>
+
+00:00:46.270 --> 00:00:49.530 align:start position:0%
+starting point is a code<c.colorCCCCCC> change in
+github</c><c.colorE5E5E5><00:00:46.540><c> this</c><00:00:47.440><c> triggers</c><00:00:47.950><c> a</c><00:00:48.190><c> Jenkins</c><00:00:48.880><c> job</c><00:00:49.210><c> that</c></c>
+
+00:00:49.530 --> 00:00:49.540 align:start position:0%
+github<c.colorE5E5E5> this triggers a Jenkins job that
+ </c>
+
+00:00:49.540 --> 00:00:53.190 align:start position:0%
+github<c.colorE5E5E5> this triggers a Jenkins job that
+makes<00:00:49.810><c> use</c><00:00:50.260><c> of</c><00:00:50.290><c> maven</c><00:00:50.980><c> to</c><00:00:51.580><c> build</c><00:00:51.850><c> test</c><00:00:52.480><c> package</c></c>
+
+00:00:53.190 --> 00:00:53.200 align:start position:0%
+makes use of maven to build<c.colorE5E5E5> test package
+ </c>
+
+00:00:53.200 --> 00:00:56.280 align:start position:0%
+makes use of maven to build<c.colorE5E5E5> test package
+and<00:00:53.440><c> deploy</c><00:00:54.010><c> an</c><00:00:54.280><c> application</c><00:00:55.290><c> notifications</c></c>
+
+00:00:56.280 --> 00:00:56.290 align:start position:0%
+and<c.colorE5E5E5> deploy an application notifications
+ </c>
+
+00:00:56.290 --> 00:00:59.700 align:start position:0%
+and<c.colorE5E5E5> deploy an application notifications
+of<00:00:56.590><c> an</c><00:00:56.740><c> unsuccessful</c><00:00:57.220><c> build</c><00:00:58.060><c> or</c><00:00:58.360><c> test</c><00:00:58.780><c> ascent</c></c>
+
+00:00:59.700 --> 00:00:59.710 align:start position:0%
+of an unsuccessful build or<c.colorE5E5E5> test ascent
+ </c>
+
+00:00:59.710 --> 00:01:02.190 align:start position:0%
+of an unsuccessful build or<c.colorE5E5E5> test ascent
+to<00:00:59.860><c> a</c><00:00:59.920><c> slack</c></c><c.colorCCCCCC><00:01:00.220><c> channel</c><00:01:00.820><c> in</c><00:01:01.300><c> order</c><00:01:01.480><c> to</c></c><c.colorE5E5E5><00:01:01.660><c> inform</c></c>
+
+00:01:02.190 --> 00:01:02.200 align:start position:0%
+to a slack<c.colorCCCCCC> channel in order to</c><c.colorE5E5E5> inform
+ </c>
+
+00:01:02.200 --> 00:01:04.770 align:start position:0%
+to a slack<c.colorCCCCCC> channel in order to</c><c.colorE5E5E5> inform
+the<00:01:02.470><c> development</c></c><c.colorCCCCCC><00:01:02.620><c> team</c><00:01:03.400><c> in</c><00:01:03.640><c> case</c><00:01:04.119><c> a</c><00:01:04.150><c> build</c><00:01:04.540><c> or</c></c>
+
+00:01:04.770 --> 00:01:04.780 align:start position:0%
+<c.colorE5E5E5>the development</c><c.colorCCCCCC> team in case a build or
+ </c>
+
+00:01:04.780 --> 00:01:07.890 align:start position:0%
+<c.colorE5E5E5>the development</c><c.colorCCCCCC> team in case a build or
+a<00:01:04.870><c> test</c><00:01:05.230><c> breaks</c><00:01:05.700><c> in</c><00:01:06.700><c> this</c></c><c.colorE5E5E5><00:01:07.060><c> and</c><00:01:07.450><c> in</c><00:01:07.780><c> the</c><00:01:07.870><c> next</c></c>
+
+00:01:07.890 --> 00:01:07.900 align:start position:0%
+a test breaks in this<c.colorE5E5E5> and in the next
+ </c>
+
+00:01:07.900 --> 00:01:10.740 align:start position:0%
+a test breaks in this<c.colorE5E5E5> and in the next</c>
+<c.colorCCCCCC>videos<00:01:08.500><c> we</c><00:01:09.040><c> are</c></c><c.colorE5E5E5><00:01:09.070><c> going</c></c><c.colorCCCCCC><00:01:09.159><c> to</c><00:01:09.430><c> implement</c><00:01:09.670><c> this</c></c><c.colorE5E5E5><00:01:10.270><c> CI</c></c>
+
+00:01:10.740 --> 00:01:10.750 align:start position:0%
+<c.colorCCCCCC>videos we are</c><c.colorE5E5E5> going</c><c.colorCCCCCC> to implement this</c><c.colorE5E5E5> CI
+ </c>
+
+00:01:10.750 --> 00:01:14.670 align:start position:0%
+<c.colorCCCCCC>videos we are</c><c.colorE5E5E5> going</c><c.colorCCCCCC> to implement this</c><c.colorE5E5E5> CI
+workflow<00:01:11.380><c> using</c></c><c.colorCCCCCC><00:01:11.830><c> Jenkins</c><00:01:12.450><c> github</c></c><c.colorE5E5E5><00:01:13.500><c> maven</c><00:01:14.500><c> and</c></c>
+
+00:01:14.670 --> 00:01:14.680 align:start position:0%
+workflow using<c.colorCCCCCC> Jenkins github</c><c.colorE5E5E5> maven and
+ </c>
+
+00:01:14.680 --> 00:01:17.640 align:start position:0%
+workflow using<c.colorCCCCCC> Jenkins github</c><c.colorE5E5E5> maven and
+slack<00:01:15.390><c> before</c><00:01:16.390><c> we</c><00:01:16.510><c> get</c></c><c.colorCCCCCC><00:01:16.690><c> started</c><00:01:17.320><c> with</c><00:01:17.470><c> this</c></c>
+
+00:01:17.640 --> 00:01:17.650 align:start position:0%
+slack<c.colorE5E5E5> before we get</c><c.colorCCCCCC> started with this
+ </c>
+
+00:01:17.650 --> 00:01:19.380 align:start position:0%
+slack<c.colorE5E5E5> before we get</c><c.colorCCCCCC> started with this</c>
+<c.colorE5E5E5>video<00:01:18.070><c> make</c><00:01:18.640><c> sure</c><00:01:18.670><c> you</c></c><c.colorCCCCCC><00:01:18.970><c> have</c><00:01:19.210><c> the</c><00:01:19.360><c> following</c></c>
+
+00:01:19.380 --> 00:01:19.390 align:start position:0%
+<c.colorE5E5E5>video make sure you</c><c.colorCCCCCC> have the following
+ </c>
+
+00:01:19.390 --> 00:01:22.530 align:start position:0%
+<c.colorE5E5E5>video make sure you</c><c.colorCCCCCC> have the following</c>
+<c.colorCCCCCC>things<00:01:20.170><c> set</c><00:01:20.680><c> up</c></c><c.colorE5E5E5><00:01:20.920><c> as</c><00:01:21.130><c> we</c><00:01:21.580><c> will</c><00:01:21.729><c> not</c><00:01:21.909><c> cover</c><00:01:22.210><c> them</c></c>
+
+00:01:22.530 --> 00:01:22.540 align:start position:0%
+<c.colorCCCCCC>things set up</c><c.colorE5E5E5> as we will not cover them
+ </c>
+
+00:01:22.540 --> 00:01:25.080 align:start position:0%
+<c.colorCCCCCC>things set up</c><c.colorE5E5E5> as we will not cover them
+during<00:01:22.930><c> the</c><00:01:23.050><c> demo</c><00:01:23.260><c> you</c></c><c.colorCCCCCC><00:01:23.560><c> may</c><00:01:23.979><c> have</c><00:01:24.400><c> maven</c></c>
+
+00:01:25.080 --> 00:01:25.090 align:start position:0%
+during the demo<c.colorE5E5E5> you</c><c.colorCCCCCC> may have maven
+ </c>
+
+00:01:25.090 --> 00:01:27.330 align:start position:0%
+during the demo<c.colorE5E5E5> you</c><c.colorCCCCCC> may have maven
+already<00:01:25.420><c> installed</c><00:01:26.050><c> on</c><00:01:26.200><c> your</c><00:01:26.320><c> machine</c><00:01:26.500><c> but</c><00:01:27.159><c> if</c></c>
+
+00:01:27.330 --> 00:01:27.340 align:start position:0%
+already installed on your machine<c.colorCCCCCC> but if
+ </c>
+
+00:01:27.340 --> 00:01:30.360 align:start position:0%
+already installed on your machine<c.colorCCCCCC> but if
+not<00:01:27.700><c> the</c><00:01:28.390><c> easiest</c><00:01:28.750><c> way</c><00:01:29.020><c> to</c><00:01:29.049><c> install</c></c><c.colorE5E5E5><00:01:29.350><c> it</c><00:01:29.860><c> is</c><00:01:30.070><c> via</c></c>
+
+00:01:30.360 --> 00:01:30.370 align:start position:0%
+not the easiest way to install<c.colorE5E5E5> it is via
+ </c>
+
+00:01:30.370 --> 00:01:33.990 align:start position:0%
+not the easiest way to install<c.colorE5E5E5> it is via</c>
+<c.colorCCCCCC>jenkins</c><c.colorE5E5E5><00:01:30.909><c> by</c><00:01:31.600><c> navigating</c></c><c.colorCCCCCC><00:01:32.170><c> to</c><00:01:32.560><c> manage</c><00:01:33.250><c> jenkins</c></c>
+
+00:01:33.990 --> 00:01:34.000 align:start position:0%
+<c.colorCCCCCC>jenkins</c><c.colorE5E5E5> by navigating</c><c.colorCCCCCC> to manage jenkins
+ </c>
+
+00:01:34.000 --> 00:01:37.350 align:start position:0%
+<c.colorCCCCCC>jenkins</c><c.colorE5E5E5> by navigating</c><c.colorCCCCCC> to manage jenkins
+global<00:01:34.900><c> tool</c><00:01:35.200><c> configuration</c></c><c.colorE5E5E5><00:01:36.180><c> maven</c><00:01:37.180><c> and</c></c>
+
+00:01:37.350 --> 00:01:37.360 align:start position:0%
+global tool configuration<c.colorE5E5E5> maven and
+ </c>
+
+00:01:37.360 --> 00:01:40.680 align:start position:0%
+global tool configuration<c.colorE5E5E5> maven and
+other<00:01:37.870><c> maven</c><00:01:38.409><c> installation</c><00:01:39.690><c> alternatively</c></c>
+
+00:01:40.680 --> 00:01:40.690 align:start position:0%
+other maven installation alternatively
+ 
+
+00:01:40.690 --> 00:01:43.380 align:start position:0%
+other maven installation alternatively
+you<c.colorE5E5E5><00:01:41.350><c> might</c><00:01:41.500><c> want</c><00:01:41.740><c> to</c><00:01:41.830><c> install</c><00:01:42.010><c> maven</c><00:01:42.850><c> via</c><00:01:43.119><c> your</c></c>
+
+00:01:43.380 --> 00:01:43.390 align:start position:0%
+you<c.colorE5E5E5> might want to install maven via your
+ </c>
+
+00:01:43.390 --> 00:01:46.410 align:start position:0%
+you<c.colorE5E5E5> might want to install maven via your
+operating<00:01:44.049><c> system</c><00:01:44.530><c> in</c><00:01:44.740><c> this</c><00:01:45.220><c> case</c><00:01:45.490><c> follow</c><00:01:46.210><c> the</c></c>
+
+00:01:46.410 --> 00:01:46.420 align:start position:0%
+operating system<c.colorE5E5E5> in this case follow the
+ </c>
+
+00:01:46.420 --> 00:01:48.660 align:start position:0%
+operating system<c.colorE5E5E5> in this case follow the
+instructions<00:01:47.049><c> on</c><00:01:47.260><c> the</c><00:01:47.830><c> official</c><00:01:48.280><c> maven</c></c>
+
+00:01:48.660 --> 00:01:48.670 align:start position:0%
+instructions on<c.colorE5E5E5> the official maven
+ </c>
+
+00:01:48.670 --> 00:01:51.180 align:start position:0%
+instructions on<c.colorE5E5E5> the official maven</c>
+<c.colorE5E5E5>website<00:01:49.150><c> in</c><00:01:49.720><c> order</c></c><c.colorCCCCCC><00:01:49.930><c> to</c><00:01:50.110><c> follow</c></c><c.colorE5E5E5><00:01:50.380><c> the</c><00:01:50.650><c> demo</c></c><c.colorCCCCCC><00:01:50.890><c> you</c></c>
+
+00:01:51.180 --> 00:01:51.190 align:start position:0%
+<c.colorE5E5E5>website in order</c><c.colorCCCCCC> to follow</c><c.colorE5E5E5> the demo</c><c.colorCCCCCC> you
+ </c>
+
+00:01:51.190 --> 00:01:54.420 align:start position:0%
+<c.colorE5E5E5>website in order</c><c.colorCCCCCC> to follow</c><c.colorE5E5E5> the demo</c><c.colorCCCCCC> you
+also<00:01:51.760><c> need</c><00:01:52.119><c> a</c><00:01:52.150><c> github</c><00:01:52.540><c> account</c><00:01:53.010><c> if</c><00:01:54.010><c> you</c><00:01:54.280><c> don't</c></c>
+
+00:01:54.420 --> 00:01:54.430 align:start position:0%
+<c.colorCCCCCC>also need a github account if you don't
+ </c>
+
+00:01:54.430 --> 00:01:57.060 align:start position:0%
+<c.colorCCCCCC>also need a github account if you don't</c>
+<c.colorE5E5E5>have</c><c.colorCCCCCC><00:01:54.580><c> a</c><00:01:54.729><c> github</c><00:01:55.000><c> account</c><00:01:55.270><c> yet</c></c><c.colorE5E5E5><00:01:55.840><c> open</c><00:01:56.650><c> one</c><00:01:56.860><c> on</c></c>
+
+00:01:57.060 --> 00:01:57.070 align:start position:0%
+<c.colorE5E5E5>have</c><c.colorCCCCCC> a github account yet</c><c.colorE5E5E5> open one on
+ </c>
+
+00:01:57.070 --> 00:02:00.300 align:start position:0%
+<c.colorE5E5E5>have</c><c.colorCCCCCC> a github account yet</c><c.colorE5E5E5> open one on
+the<00:01:57.369><c> github</c><00:01:57.610><c> website</c><00:01:58.090><c> it's</c><00:01:58.869><c> free</c></c><c.colorCCCCCC><00:01:59.159><c> before</c></c><c.colorE5E5E5><00:02:00.159><c> we</c></c>
+
+00:02:00.300 --> 00:02:00.310 align:start position:0%
+the github<c.colorE5E5E5> website it's free</c><c.colorCCCCCC> before</c><c.colorE5E5E5> we
+ </c>
+
+00:02:00.310 --> 00:02:01.320 align:start position:0%
+the github<c.colorE5E5E5> website it's free</c><c.colorCCCCCC> before</c><c.colorE5E5E5> we
+start<00:02:00.580><c> using</c><00:02:00.760><c> maven</c></c>
+
+00:02:01.320 --> 00:02:01.330 align:start position:0%
+start using maven
+ 
+
+00:02:01.330 --> 00:02:03.539 align:start position:0%
+start using maven
+<c.colorE5E5E5>let's<00:02:01.840><c> introduce</c><00:02:02.290><c> it</c><00:02:02.770><c> for</c></c><c.colorCCCCCC><00:02:02.799><c> those</c><00:02:03.189><c> who</c><00:02:03.430><c> have</c></c>
+
+00:02:03.539 --> 00:02:03.549 align:start position:0%
+<c.colorE5E5E5>let's introduce it for</c><c.colorCCCCCC> those who have
+ </c>
+
+00:02:03.549 --> 00:02:06.480 align:start position:0%
+<c.colorE5E5E5>let's introduce it for</c><c.colorCCCCCC> those who have
+never<00:02:03.790><c> used</c><00:02:04.150><c> it</c><00:02:04.330><c> before</c></c><c.colorE5E5E5><00:02:05.040><c> maven</c><00:02:06.040><c> is</c><00:02:06.250><c> a</c></c>
+
+00:02:06.480 --> 00:02:06.490 align:start position:0%
+never<c.colorCCCCCC> used it before</c><c.colorE5E5E5> maven is a
+ </c>
+
+00:02:06.490 --> 00:02:08.910 align:start position:0%
+never<c.colorCCCCCC> used it before</c><c.colorE5E5E5> maven is a
+cross-platform<00:02:07.240><c> build</c><00:02:07.900><c> tool</c><00:02:08.259><c> and</c><00:02:08.560><c> is</c></c>
+
+00:02:08.910 --> 00:02:08.920 align:start position:0%
+<c.colorE5E5E5>cross-platform build tool and is
+ </c>
+
+00:02:08.920 --> 00:02:11.130 align:start position:0%
+<c.colorE5E5E5>cross-platform build tool and is
+particularly<00:02:09.429><c> popular</c></c><c.colorCCCCCC><00:02:09.880><c> although</c><00:02:10.690><c> not</c></c>
+
+00:02:11.130 --> 00:02:11.140 align:start position:0%
+particularly popular<c.colorCCCCCC> although not
+ </c>
+
+00:02:11.140 --> 00:02:13.710 align:start position:0%
+particularly popular<c.colorCCCCCC> although not
+exclusively<00:02:11.440><c> for</c><00:02:12.310><c> building</c><00:02:12.760><c> and</c><00:02:12.940><c> packaging</c></c>
+
+00:02:13.710 --> 00:02:13.720 align:start position:0%
+exclusively for building and packaging
+ 
+
+00:02:13.720 --> 00:02:17.280 align:start position:0%
+exclusively for building and packaging
+Java<00:02:13.930><c> projects</c><c.colorE5E5E5><00:02:14.560><c> a</c><00:02:15.090><c> cool</c><00:02:16.090><c> feature</c><00:02:16.390><c> of</c><00:02:16.570><c> maven</c><00:02:17.110><c> is</c></c>
+
+00:02:17.280 --> 00:02:17.290 align:start position:0%
+Java projects<c.colorE5E5E5> a cool feature of maven is
+ </c>
+
+00:02:17.290 --> 00:02:20.730 align:start position:0%
+Java projects<c.colorE5E5E5> a cool feature of maven is
+the<00:02:17.770><c> way</c><00:02:17.950><c> it</c><00:02:18.220><c> handles</c><00:02:18.900><c> dependencies</c><00:02:19.900><c> all</c></c>
+
+00:02:20.730 --> 00:02:20.740 align:start position:0%
+the way it handles<c.colorE5E5E5> dependencies all
+ </c>
+
+00:02:20.740 --> 00:02:23.190 align:start position:0%
+the way it handles<c.colorE5E5E5> dependencies all</c>
+<c.colorE5E5E5>external<00:02:21.580><c> modules</c><00:02:22.090><c> libraries</c><00:02:22.900><c> and</c></c>
+
+00:02:23.190 --> 00:02:23.200 align:start position:0%
+<c.colorE5E5E5>external modules libraries and
+ </c>
+
+00:02:23.200 --> 00:02:26.070 align:start position:0%
+<c.colorE5E5E5>external modules libraries and
+components<00:02:24.010><c> necessary</c></c><c.colorCCCCCC><00:02:24.550><c> to</c><00:02:25.210><c> build</c><00:02:25.420><c> test</c></c>
+
+00:02:26.070 --> 00:02:26.080 align:start position:0%
+components necessary<c.colorCCCCCC> to build test
+ </c>
+
+00:02:26.080 --> 00:02:28.740 align:start position:0%
+components necessary<c.colorCCCCCC> to build test
+package<00:02:26.830><c> and</c><00:02:27.040><c> deploy</c></c><c.colorE5E5E5><00:02:27.220><c> a</c><00:02:27.460><c> project</c><00:02:28.060><c> and</c><00:02:28.240><c> declare</c></c>
+
+00:02:28.740 --> 00:02:28.750 align:start position:0%
+package and deploy<c.colorE5E5E5> a project and declare
+ </c>
+
+00:02:28.750 --> 00:02:31.890 align:start position:0%
+package and deploy<c.colorE5E5E5> a project and declare
+within<00:02:29.290><c> a</c><00:02:29.380><c> so-called</c><00:02:29.650><c> pom</c><00:02:30.400><c> file</c><00:02:30.790><c> which</c><00:02:31.660><c> is</c><00:02:31.870><c> a</c></c>
+
+00:02:31.890 --> 00:02:31.900 align:start position:0%
+within a so-called<c.colorE5E5E5> pom file which is a
+ </c>
+
+00:02:31.900 --> 00:02:35.100 align:start position:0%
+within a so-called<c.colorE5E5E5> pom file which is a
+simple<00:02:32.350><c> XML</c><00:02:32.710><c> file</c><00:02:33.130><c> and</c><00:02:33.400><c> download</c></c><c.colorCCCCCC><00:02:34.330><c> it</c><00:02:34.810><c> from</c></c>
+
+00:02:35.100 --> 00:02:35.110 align:start position:0%
+simple XML<c.colorE5E5E5> file and download</c><c.colorCCCCCC> it from
+ </c>
+
+00:02:35.110 --> 00:02:37.700 align:start position:0%
+simple XML<c.colorE5E5E5> file and download</c><c.colorCCCCCC> it from
+public</c><c.colorE5E5E5><00:02:35.410><c> or</c><00:02:35.800><c> private</c><00:02:36.010><c> central</c><00:02:36.670><c> repositories</c></c>
+
+00:02:37.700 --> 00:02:37.710 align:start position:0%
+public<c.colorE5E5E5> or private central repositories
+ </c>
+
+00:02:37.710 --> 00:02:40.860 align:start position:0%
+public<c.colorE5E5E5> or private central repositories
+this<00:02:38.710><c> allows</c><00:02:39.220><c> to</c></c><c.colorCCCCCC><00:02:39.640><c> avoid</c><00:02:39.940><c> the</c><00:02:40.330><c> so</c><00:02:40.540><c> called</c></c>
+
+00:02:40.860 --> 00:02:40.870 align:start position:0%
+this allows to<c.colorCCCCCC> avoid the so called
+ </c>
+
+00:02:40.870 --> 00:02:43.410 align:start position:0%
+this allows to<c.colorCCCCCC> avoid the so called
+dependency<00:02:41.620><c> held</c><00:02:42.070><c> problem</c><00:02:42.640><c> which</c><00:02:43.210><c> occurs</c></c>
+
+00:02:43.410 --> 00:02:43.420 align:start position:0%
+dependency<c.colorCCCCCC> held problem which occurs
+ </c>
+
+00:02:43.420 --> 00:02:46.470 align:start position:0%
+dependency<c.colorCCCCCC> held problem which occurs</c>
+<c.colorCCCCCC>when<00:02:43.960><c> a</c><00:02:43.990><c> project</c><00:02:44.500><c> fails</c><00:02:44.860><c> to</c><00:02:45.220><c> build</c><00:02:45.460><c> because</c></c><c.colorE5E5E5><00:02:46.150><c> of</c></c>
+
+00:02:46.470 --> 00:02:46.480 align:start position:0%
+<c.colorCCCCCC>when a project fails to build because</c><c.colorE5E5E5> of
+ </c>
+
+00:02:46.480 --> 00:02:49.920 align:start position:0%
+<c.colorCCCCCC>when a project fails to build because</c><c.colorE5E5E5> of
+missing<00:02:47.050><c> or</c><00:02:47.260><c> outdated</c><00:02:47.920><c> dependencies</c><00:02:48.930><c> another</c></c>
+
+00:02:49.920 --> 00:02:49.930 align:start position:0%
+missing or outdated<c.colorE5E5E5> dependencies another
+ </c>
+
+00:02:49.930 --> 00:02:52.020 align:start position:0%
+missing or outdated<c.colorE5E5E5> dependencies another
+important<00:02:50.560><c> feature</c><00:02:50.800><c> of</c><00:02:51.010><c> maven</c><00:02:51.550><c> is</c><00:02:51.700><c> the</c></c>
+
+00:02:52.020 --> 00:02:52.030 align:start position:0%
+important feature of maven is the
+ 
+
+00:02:52.030 --> 00:02:54.600 align:start position:0%
+important feature of maven is the
+defined<00:02:52.450><c> directory</c><00:02:53.230><c> structure</c><00:02:53.860><c> and</c><00:02:54.070><c> build</c>
+
+00:02:54.600 --> 00:02:54.610 align:start position:0%
+defined directory structure and build
+ 
+
+00:02:54.610 --> 00:02:57.210 align:start position:0%
+defined directory structure and build
+lifecycle<c.colorCCCCCC><00:02:55.570><c> that</c><00:02:55.780><c> impose</c><00:02:56.320><c> on</c><00:02:56.650><c> a</c><00:02:56.709><c> software</c></c>
+
+00:02:57.210 --> 00:02:57.220 align:start position:0%
+lifecycle<c.colorCCCCCC> that impose on a software
+ </c>
+
+00:02:57.220 --> 00:03:00.690 align:start position:0%
+lifecycle<c.colorCCCCCC> that impose on a software</c>
+<c.colorE5E5E5>project<00:02:57.520><c> in</c><00:02:57.990><c> fact</c><00:02:58.990><c> maven</c></c><c.colorCCCCCC><00:02:59.740><c> Foster's</c><00:03:00.459><c> the</c></c>
+
+00:03:00.690 --> 00:03:00.700 align:start position:0%
+<c.colorE5E5E5>project in fact maven</c><c.colorCCCCCC> Foster's the
+ </c>
+
+00:03:00.700 --> 00:03:02.880 align:start position:0%
+<c.colorE5E5E5>project in fact maven</c><c.colorCCCCCC> Foster's the</c>
+<c.colorE5E5E5>concepts<00:03:01.420><c> of</c><00:03:01.650><c> convention</c><00:03:02.650><c> over</c></c>
+
+00:03:02.880 --> 00:03:02.890 align:start position:0%
+<c.colorE5E5E5>concepts of convention over
+ </c>
+
+00:03:02.890 --> 00:03:06.210 align:start position:0%
+<c.colorE5E5E5>concepts of convention over
+configuration<00:03:04.080><c> in</c><00:03:05.080><c> other</c><00:03:05.260><c> words</c><00:03:05.560><c> maven</c></c>
+
+00:03:06.210 --> 00:03:06.220 align:start position:0%
+configuration<c.colorE5E5E5> in other words maven
+ </c>
+
+00:03:06.220 --> 00:03:08.880 align:start position:0%
+configuration<c.colorE5E5E5> in other words maven
+provides<00:03:06.640><c> sensible</c><00:03:07.480><c> default</c><00:03:07.870><c> values</c><00:03:08.350><c> and</c><00:03:08.380><c> the</c></c>
+
+00:03:08.880 --> 00:03:08.890 align:start position:0%
+provides<c.colorE5E5E5> sensible default values and the
+ </c>
+
+00:03:08.890 --> 00:03:11.130 align:start position:0%
+provides<c.colorE5E5E5> sensible default values and the
+common<00:03:09.280><c> build</c><00:03:09.550><c> lifecycle</c><00:03:10.450><c> to</c><00:03:10.660><c> configure</c><00:03:11.110><c> a</c></c>
+
+00:03:11.130 --> 00:03:11.140 align:start position:0%
+common build<c.colorE5E5E5> lifecycle to configure a
+ </c>
+
+00:03:11.140 --> 00:03:14.750 align:start position:0%
+common build<c.colorE5E5E5> lifecycle to configure a
+project<00:03:11.740><c> instead</c><00:03:12.310><c> of</c><00:03:12.459><c> relying</c><00:03:12.970><c> on</c><00:03:13.180><c> self</c><00:03:14.050><c> dabei</c></c>
+
+00:03:14.750 --> 00:03:14.760 align:start position:0%
+project instead<c.colorE5E5E5> of relying on self dabei
+ </c>
+
+00:03:14.760 --> 00:03:17.070 align:start position:0%
+project instead<c.colorE5E5E5> of relying on self dabei
+configuration<00:03:15.760><c> and</c><00:03:16.000><c> build</c><00:03:16.240><c> process</c><00:03:16.840><c> which</c></c>
+
+00:03:17.070 --> 00:03:17.080 align:start position:0%
+configuration and build process which
+ 
+
+00:03:17.080 --> 00:03:19.320 align:start position:0%
+configuration and build process which
+<c.colorE5E5E5>could<00:03:17.290><c> easily</c><00:03:17.500><c> become</c></c><c.colorCCCCCC><00:03:18.120><c> unwieldly</c></c>
+
+00:03:19.320 --> 00:03:19.330 align:start position:0%
+<c.colorE5E5E5>could easily become</c><c.colorCCCCCC> unwieldly
+ </c>
+
+00:03:19.330 --> 00:03:22.440 align:start position:0%
+<c.colorE5E5E5>could easily become</c><c.colorCCCCCC> unwieldly
+and<00:03:19.709><c> difficult</c><00:03:20.709><c> to</c><00:03:20.830><c> follow</c></c><c.colorE5E5E5><00:03:21.070><c> to</c><00:03:22.060><c> give</c><00:03:22.239><c> you</c><00:03:22.330><c> an</c></c>
+
+00:03:22.440 --> 00:03:22.450 align:start position:0%
+and difficult to follow<c.colorE5E5E5> to give you an
+ </c>
+
+00:03:22.450 --> 00:03:23.009 align:start position:0%
+and difficult to follow<c.colorE5E5E5> to give you an
+example</c>
+
+00:03:23.009 --> 00:03:23.019 align:start position:0%
+example
+ 
+
+00:03:23.019 --> 00:03:25.350 align:start position:0%
+example
+here<00:03:23.380><c> is</c><00:03:23.530><c> a</c><00:03:23.560><c> typical</c><00:03:23.920><c> directory</c><00:03:24.790><c> structure</c>
+
+00:03:25.350 --> 00:03:25.360 align:start position:0%
+here is a typical directory structure
+ 
+
+00:03:25.360 --> 00:03:27.420 align:start position:0%
+here is a typical directory structure
+<c.colorCCCCCC>auto</c><c.colorE5E5E5><00:03:25.630><c> generated</c><00:03:26.350><c> by</c><00:03:26.530><c> maven</c></c><c.colorCCCCCC><00:03:26.739><c> for</c><00:03:27.130><c> a</c></c><c.colorE5E5E5><00:03:27.160><c> Java</c></c>
+
+00:03:27.420 --> 00:03:27.430 align:start position:0%
+<c.colorCCCCCC>auto</c><c.colorE5E5E5> generated by maven</c><c.colorCCCCCC> for a</c><c.colorE5E5E5> Java
+ </c>
+
+00:03:27.430 --> 00:03:28.170 align:start position:0%
+<c.colorCCCCCC>auto</c><c.colorE5E5E5> generated by maven</c><c.colorCCCCCC> for a</c><c.colorE5E5E5> Java
+project</c>
+
+00:03:28.170 --> 00:03:28.180 align:start position:0%
+project
+ 
+
+00:03:28.180 --> 00:03:30.150 align:start position:0%
+project
+the<c.colorE5E5E5><00:03:28.750><c> project</c><00:03:29.200><c> configuration</c><00:03:29.440><c> and</c></c>
+
+00:03:30.150 --> 00:03:30.160 align:start position:0%
+the<c.colorE5E5E5> project configuration and
+ </c>
+
+00:03:30.160 --> 00:03:32.610 align:start position:0%
+the<c.colorE5E5E5> project configuration and
+dependencies<00:03:30.970><c> are</c><00:03:31.180><c> stored</c><00:03:31.630><c> in</c><00:03:31.900><c> the</c><00:03:32.050><c> pom</c><00:03:32.290><c> dot</c></c>
+
+00:03:32.610 --> 00:03:32.620 align:start position:0%
+dependencies are stored in the pom dot
+ 
+
+00:03:32.620 --> 00:03:38.400 align:start position:0%
+dependencies are stored in the pom dot
+XML<00:03:33.280><c> file</c><c.colorE5E5E5><00:03:33.610><c> code</c><00:03:34.570><c> is</c><00:03:34.870><c> in</c><00:03:35.310><c> SRC</c><00:03:36.310><c> slash</c><00:03:36.730><c> main</c><00:03:37.410><c> tests</c></c>
+
+00:03:38.400 --> 00:03:38.410 align:start position:0%
+XML file<c.colorE5E5E5> code is in SRC slash main tests
+ </c>
+
+00:03:38.410 --> 00:03:41.850 align:start position:0%
+XML file<c.colorE5E5E5> code is in SRC slash main tests
+are<00:03:38.680><c> in</c><00:03:38.860><c> SRC</c><00:03:39.610><c> slash</c><00:03:39.970><c> tests</c><00:03:40.860><c> deliverable</c></c>
+
+00:03:41.850 --> 00:03:41.860 align:start position:0%
+are in SRC slash tests deliverable
+ 
+
+00:03:41.860 --> 00:03:44.340 align:start position:0%
+are in SRC slash tests deliverable
+artifacts<00:03:42.459><c> after</c><00:03:43.239><c> the</c><00:03:43.330><c> packaging</c><c.colorCCCCCC><00:03:43.930><c> process</c></c>
+
+00:03:44.340 --> 00:03:44.350 align:start position:0%
+artifacts after the packaging<c.colorCCCCCC> process
+ </c>
+
+00:03:44.350 --> 00:03:47.610 align:start position:0%
+artifacts after the packaging<c.colorCCCCCC> process
+are</c><c.colorE5E5E5><00:03:44.620><c> in</c><00:03:44.769><c> target</c><00:03:45.280><c> etc</c><00:03:46.209><c> this</c><00:03:46.959><c> diagram</c></c>
+
+00:03:47.610 --> 00:03:47.620 align:start position:0%
+are<c.colorE5E5E5> in target etc this diagram
+ </c>
+
+00:03:47.620 --> 00:03:49.800 align:start position:0%
+are<c.colorE5E5E5> in target etc this diagram
+illustrates</c><c.colorCCCCCC><00:03:47.890><c> the</c><00:03:48.640><c> default</c><00:03:49.030><c> maven</c></c><c.colorE5E5E5><00:03:49.570><c> build</c></c>
+
+00:03:49.800 --> 00:03:49.810 align:start position:0%
+illustrates<c.colorCCCCCC> the default maven</c><c.colorE5E5E5> build
+ </c>
+
+00:03:49.810 --> 00:03:52.860 align:start position:0%
+illustrates<c.colorCCCCCC> the default maven</c><c.colorE5E5E5> build
+lifecycle<00:03:50.769><c> containing</c><00:03:51.580><c> predefined</c><00:03:52.269><c> phases</c></c>
+
+00:03:52.860 --> 00:03:52.870 align:start position:0%
+<c.colorE5E5E5>lifecycle containing predefined phases
+ </c>
+
+00:03:52.870 --> 00:03:56.660 align:start position:0%
+<c.colorE5E5E5>lifecycle containing predefined phases</c>
+<c.colorE5E5E5>such</c><c.colorCCCCCC><00:03:53.260><c> as</c></c><c.colorE5E5E5><00:03:53.440><c> compile</c></c><c.colorCCCCCC><00:03:53.980><c> test</c><00:03:54.730><c> package</c><00:03:55.630><c> and</c><00:03:55.900><c> deploy</c></c>
+
+00:03:56.660 --> 00:03:56.670 align:start position:0%
+<c.colorE5E5E5>such</c><c.colorCCCCCC> as</c><c.colorE5E5E5> compile</c><c.colorCCCCCC> test package and deploy
+ </c>
+
+00:03:56.670 --> 00:04:01.050 align:start position:0%
+<c.colorE5E5E5>such</c><c.colorCCCCCC> as</c><c.colorE5E5E5> compile</c><c.colorCCCCCC> test package and deploy
+each<00:03:57.670><c> phase</c><00:03:58.090><c> of</c><00:03:58.330><c> lifecycle</c><00:03:59.310><c> occur</c><00:04:00.310><c> in</c><00:04:00.519><c> a</c><00:04:00.700><c> given</c></c>
+
+00:04:01.050 --> 00:04:01.060 align:start position:0%
+each phase of lifecycle occur in a<c.colorCCCCCC> given
+ </c>
+
+00:04:01.060 --> 00:04:04.470 align:start position:0%
+each phase of lifecycle occur in a<c.colorCCCCCC> given
+sequential<00:04:01.810><c> order</c><00:04:02.040><c> for</c><00:04:03.040><c> example</c><00:04:03.130><c> if</c><00:04:03.970><c> you</c><00:04:04.180><c> test</c></c>
+
+00:04:04.470 --> 00:04:04.480 align:start position:0%
+sequential order for example<c.colorCCCCCC> if you test
+ </c>
+
+00:04:04.480 --> 00:04:06.320 align:start position:0%
+sequential order for example<c.colorCCCCCC> if you test
+your<00:04:04.690><c> application</c><00:04:05.440><c> by</c><00:04:05.650><c> running</c><00:04:05.950><c> the</c><00:04:06.160><c> command</c></c>
+
+00:04:06.320 --> 00:04:06.330 align:start position:0%
+your<c.colorCCCCCC> application by running the command
+ </c>
+
+00:04:06.330 --> 00:04:10.650 align:start position:0%
+your<c.colorCCCCCC> application by running the command</c>
+<c.colorE5E5E5>maven<00:04:07.330><c> test</c><00:04:07.860><c> maven</c><00:04:08.860><c> will</c><00:04:09.220><c> run</c><00:04:09.430><c> all</c><00:04:09.700><c> the</c><00:04:10.120><c> phases</c></c>
+
+00:04:10.650 --> 00:04:10.660 align:start position:0%
+<c.colorE5E5E5>maven test maven will run all the phases
+ </c>
+
+00:04:10.660 --> 00:04:13.949 align:start position:0%
+<c.colorE5E5E5>maven test maven will run all the phases
+before</c><c.colorCCCCCC><00:04:10.959><c> test</c></c><c.colorE5E5E5><00:04:11.519><c> compile</c><00:04:12.519><c> and</c><00:04:12.820><c> test</c></c><c.colorCCCCCC><00:04:12.850><c> compile</c><00:04:13.720><c> and</c></c>
+
+00:04:13.949 --> 00:04:13.959 align:start position:0%
+before<c.colorCCCCCC> test</c><c.colorE5E5E5> compile and test</c><c.colorCCCCCC> compile and
+ </c>
+
+00:04:13.959 --> 00:04:17.009 align:start position:0%
+before<c.colorCCCCCC> test</c><c.colorE5E5E5> compile and test</c><c.colorCCCCCC> compile and</c>
+<c.colorE5E5E5>will<00:04:14.650><c> end</c><00:04:14.890><c> by</c><00:04:15.160><c> running</c><00:04:15.430><c> the</c><00:04:15.730><c> test</c><00:04:15.970><c> phase</c><00:04:16.269><c> in</c></c>
+
+00:04:17.009 --> 00:04:17.019 align:start position:0%
+<c.colorE5E5E5>will end by running the test phase in
+ </c>
+
+00:04:17.019 --> 00:04:19.409 align:start position:0%
+<c.colorE5E5E5>will end by running the test phase in
+this<00:04:17.350><c> way</c><00:04:17.650><c> you</c><00:04:18.040><c> don't</c><00:04:18.250><c> have</c><00:04:18.400><c> to</c><00:04:18.580><c> specify</c><00:04:18.820><c> how</c></c>
+
+00:04:19.409 --> 00:04:19.419 align:start position:0%
+<c.colorE5E5E5>this way you don't have to specify how
+ </c>
+
+00:04:19.419 --> 00:04:22.140 align:start position:0%
+<c.colorE5E5E5>this way you don't have to specify how
+the<00:04:19.479><c> build</c><00:04:19.870><c> process</c><00:04:20.260><c> works</c><00:04:21.000><c> maven</c><00:04:22.000><c> has</c></c>
+
+00:04:22.140 --> 00:04:22.150 align:start position:0%
+the build process works<c.colorE5E5E5> maven has
+ </c>
+
+00:04:22.150 --> 00:04:24.060 align:start position:0%
+the build process works<c.colorE5E5E5> maven has</c>
+<c.colorE5E5E5>already<00:04:22.419><c> done</c><00:04:22.870><c> it</c></c><c.colorCCCCCC><00:04:23.050><c> for</c><00:04:23.260><c> you</c><00:04:23.410><c> and</c><00:04:23.590><c> you</c><00:04:23.919><c> can</c></c>
+
+00:04:24.060 --> 00:04:24.070 align:start position:0%
+<c.colorE5E5E5>already done it</c><c.colorCCCCCC> for you and you can
+ </c>
+
+00:04:24.070 --> 00:04:26.820 align:start position:0%
+<c.colorE5E5E5>already done it</c><c.colorCCCCCC> for you and you can
+simply<00:04:24.250><c> use</c></c><c.colorE5E5E5><00:04:24.430><c> its</c><00:04:25.030><c> template</c><00:04:25.630><c> or</c><00:04:25.930><c> customize</c><00:04:26.590><c> it</c></c>
+
+00:04:26.820 --> 00:04:26.830 align:start position:0%
+simply<c.colorCCCCCC> use</c><c.colorE5E5E5> its template or customize it
+ </c>
+
+00:04:26.830 --> 00:04:28.110 align:start position:0%
+simply<c.colorCCCCCC> use</c><c.colorE5E5E5> its template or customize it
+for</c><c.colorCCCCCC><00:04:27.010><c> your</c><00:04:27.190><c> build</c></c>
+
+00:04:28.110 --> 00:04:28.120 align:start position:0%
+for<c.colorCCCCCC> your build
+ </c>
+
+00:04:28.120 --> 00:04:30.990 align:start position:0%
+for<c.colorCCCCCC> your build
+now<00:04:28.870><c> let's</c><00:04:29.500><c> have</c><00:04:29.650><c> a</c><00:04:29.770><c> look</c><00:04:29.949><c> at</c><00:04:30.159><c> which</c><00:04:30.490><c> part</c><00:04:30.879><c> of</c></c>
+
+00:04:30.990 --> 00:04:31.000 align:start position:0%
+now let's have a look at which part of
+ 
+
+00:04:31.000 --> 00:04:33.360 align:start position:0%
+now let's have a look at which part of
+the<00:04:31.210><c> CI</c><00:04:31.479><c> workflow</c><c.colorE5E5E5><00:04:32.139><c> we</c><00:04:32.680><c> are</c><00:04:32.770><c> going</c><00:04:32.979><c> to</c><00:04:33.189><c> build</c></c>
+
+00:04:33.360 --> 00:04:33.370 align:start position:0%
+the CI workflow<c.colorE5E5E5> we are going to build
+ </c>
+
+00:04:33.370 --> 00:04:37.140 align:start position:0%
+the CI workflow<c.colorE5E5E5> we are going to build</c>
+<c.colorE5E5E5>together<00:04:34.030><c> in</c><00:04:34.330><c> this</c><00:04:34.569><c> video</c><00:04:35.400><c> first</c></c><c.colorCCCCCC><00:04:36.400><c> we</c><00:04:37.120><c> are</c></c>
+
+00:04:37.140 --> 00:04:37.150 align:start position:0%
+<c.colorE5E5E5>together in this video first</c><c.colorCCCCCC> we are
+ </c>
+
+00:04:37.150 --> 00:04:40.679 align:start position:0%
+<c.colorE5E5E5>together in this video first</c><c.colorCCCCCC> we are
+going</c><c.colorE5E5E5><00:04:37.330><c> to</c><00:04:37.419><c> fork</c><00:04:37.810><c> a</c><00:04:38.080><c> github</c><00:04:38.409><c> repository</c></c><c.colorCCCCCC><00:04:39.689><c> second</c></c>
+
+00:04:40.679 --> 00:04:40.689 align:start position:0%
+going<c.colorE5E5E5> to fork a github repository</c><c.colorCCCCCC> second
+ </c>
+
+00:04:40.689 --> 00:04:43.230 align:start position:0%
+going<c.colorE5E5E5> to fork a github repository</c><c.colorCCCCCC> second</c>
+<c.colorE5E5E5>we<00:04:41.319><c> are</c><00:04:41.379><c> going</c><00:04:41.560><c> to</c><00:04:41.680><c> create</c><00:04:41.919><c> a</c><00:04:42.129><c> Jenkins</c><00:04:42.610><c> job</c><00:04:42.879><c> the</c></c>
+
+00:04:43.230 --> 00:04:43.240 align:start position:0%
+<c.colorE5E5E5>we are going to create a Jenkins job the
+ </c>
+
+00:04:43.240 --> 00:04:45.719 align:start position:0%
+<c.colorE5E5E5>we are going to create a Jenkins job the</c>
+<c.colorCCCCCC>pulse<00:04:43.539><c> code</c><00:04:43.900><c> from</c><00:04:44.349><c> the</c></c><c.colorE5E5E5><00:04:44.500><c> folk</c><00:04:44.800><c> github</c></c>
+
+00:04:45.719 --> 00:04:45.729 align:start position:0%
+<c.colorCCCCCC>pulse code from the</c><c.colorE5E5E5> folk github
+ </c>
+
+00:04:45.729 --> 00:04:48.839 align:start position:0%
+<c.colorCCCCCC>pulse code from the</c><c.colorE5E5E5> folk github
+repository<00:04:46.560><c> third</c><00:04:47.560><c> we</c><00:04:48.250><c> are</c><00:04:48.310><c> going</c><00:04:48.490><c> to</c><00:04:48.669><c> use</c></c>
+
+00:04:48.839 --> 00:04:48.849 align:start position:0%
+repository<c.colorE5E5E5> third we are going to use
+ </c>
+
+00:04:48.849 --> 00:04:51.719 align:start position:0%
+repository<c.colorE5E5E5> third we are going to use</c>
+<c.colorE5E5E5>maven<00:04:49.389><c> to</c><00:04:49.719><c> build</c><00:04:49.960><c> and</c><00:04:50.229><c> deploy</c></c><c.colorCCCCCC><00:04:50.379><c> a</c><00:04:50.889><c> sample</c><00:04:51.550><c> web</c></c>
+
+00:04:51.719 --> 00:04:51.729 align:start position:0%
+<c.colorE5E5E5>maven to build and deploy</c><c.colorCCCCCC> a sample web
+ </c>
+
+00:04:51.729 --> 00:04:55.230 align:start position:0%
+<c.colorE5E5E5>maven to build and deploy</c><c.colorCCCCCC> a sample web
+application<00:04:52.500><c> before</c><00:04:53.500><c> we</c><00:04:53.740><c> start</c></c><c.colorE5E5E5><00:04:54.099><c> I'm</c><00:04:54.639><c> going</c><00:04:55.120><c> to</c></c>
+
+00:04:55.230 --> 00:04:55.240 align:start position:0%
+application<c.colorCCCCCC> before we start</c><c.colorE5E5E5> I'm going to
+ </c>
+
+00:04:55.240 --> 00:04:57.510 align:start position:0%
+application<c.colorCCCCCC> before we start</c><c.colorE5E5E5> I'm going to
+give<00:04:55.449><c> you</c><00:04:55.599><c> few</c><00:04:55.960><c> references</c><00:04:56.229><c> to</c><00:04:56.710><c> better</c><00:04:57.159><c> follow</c></c>
+
+00:04:57.510 --> 00:04:57.520 align:start position:0%
+give you few references to<c.colorE5E5E5> better follow
+ </c>
+
+00:04:57.520 --> 00:05:00.089 align:start position:0%
+give you few references to<c.colorE5E5E5> better follow
+the<00:04:57.759><c> demo</c><00:04:58.020><c> we're</c><00:04:59.020><c> going</c><00:04:59.199><c> to</c><00:04:59.379><c> fuck</c><00:04:59.620><c> the</c><00:04:59.860><c> github</c></c>
+
+00:05:00.089 --> 00:05:00.099 align:start position:0%
+the demo<c.colorE5E5E5> we're going to fuck the github
+ </c>
+
+00:05:00.099 --> 00:05:03.059 align:start position:0%
+the demo<c.colorE5E5E5> we're going to fuck the github
+repositories</c><c.colorCCCCCC><00:05:01.060><c> alwah</c><00:05:01.599><c> Khalil</c><00:05:01.960><c> slash</c><00:05:02.409><c> game</c><00:05:02.889><c> of</c></c>
+
+00:05:03.059 --> 00:05:03.069 align:start position:0%
+<c.colorE5E5E5>repositories</c><c.colorCCCCCC> alwah Khalil slash game of
+ </c>
+
+00:05:03.069 --> 00:05:06.570 align:start position:0%
+<c.colorE5E5E5>repositories</c><c.colorCCCCCC> alwah Khalil slash game of
+life<00:05:03.479><c> this</c></c><c.colorE5E5E5><00:05:04.479><c> is</c><00:05:04.689><c> a</c><00:05:04.719><c> sample</c><00:05:05.409><c> Java</c><00:05:05.800><c> project</c><00:05:06.370><c> to</c></c>
+
+00:05:06.570 --> 00:05:06.580 align:start position:0%
+life this<c.colorE5E5E5> is a sample Java project to
+ </c>
+
+00:05:06.580 --> 00:05:08.670 align:start position:0%
+life this<c.colorE5E5E5> is a sample Java project to
+deploy<00:05:06.909><c> a</c></c><c.colorCCCCCC><00:05:07.150><c> web</c><00:05:07.360><c> application</c></c><c.colorE5E5E5><00:05:07.539><c> for</c><00:05:08.439><c> playing</c></c>
+
+00:05:08.670 --> 00:05:08.680 align:start position:0%
+deploy a<c.colorCCCCCC> web application</c><c.colorE5E5E5> for playing
+ </c>
+
+00:05:08.680 --> 00:05:12.209 align:start position:0%
+deploy a<c.colorCCCCCC> web application</c><c.colorE5E5E5> for playing</c>
+<c.colorE5E5E5>Conway's<00:05:09.490><c> Game</c><00:05:09.520><c> of</c><00:05:09.849><c> Life</c><00:05:10.650><c> this</c><00:05:11.650><c> is</c><00:05:11.830><c> a</c><00:05:11.860><c> game</c></c>
+
+00:05:12.209 --> 00:05:12.219 align:start position:0%
+<c.colorE5E5E5>Conway's Game of Life this is a game
+ </c>
+
+00:05:12.219 --> 00:05:14.700 align:start position:0%
+<c.colorE5E5E5>Conway's Game of Life this is a game
+allowing</c><c.colorCCCCCC><00:05:13.060><c> the</c><00:05:13.330><c> player</c><00:05:13.539><c> to</c><00:05:13.719><c> set</c><00:05:14.139><c> up</c><00:05:14.319><c> an</c><00:05:14.469><c> initial</c></c>
+
+00:05:14.700 --> 00:05:14.710 align:start position:0%
+<c.colorE5E5E5>allowing</c><c.colorCCCCCC> the player to set up an initial
+ </c>
+
+00:05:14.710 --> 00:05:16.980 align:start position:0%
+<c.colorE5E5E5>allowing</c><c.colorCCCCCC> the player to set up an initial</c>
+<c.colorCCCCCC>configuration<00:05:15.159><c> and</c><00:05:16.000><c> then</c><00:05:16.330><c> watch</c><00:05:16.599><c> it</c><00:05:16.629><c> evolve</c></c>
+
+00:05:16.980 --> 00:05:16.990 align:start position:0%
+<c.colorCCCCCC>configuration and then watch it evolve
+ </c>
+
+00:05:16.990 --> 00:05:20.399 align:start position:0%
+<c.colorCCCCCC>configuration and then watch it evolve</c>
+<c.colorE5E5E5>by<00:05:17.650><c> itself</c><00:05:18.389><c> if</c><00:05:19.389><c> you</c><00:05:19.659><c> want</c><00:05:19.870><c> to</c><00:05:19.990><c> know</c><00:05:20.139><c> more</c><00:05:20.349><c> about</c></c>
+
+00:05:20.399 --> 00:05:20.409 align:start position:0%
+<c.colorE5E5E5>by itself if you want to know more about
+ </c>
+
+00:05:20.409 --> 00:05:22.830 align:start position:0%
+<c.colorE5E5E5>by itself if you want to know more about
+the<00:05:20.860><c> game</c><00:05:21.069><c> of</c><00:05:21.099><c> life</c><00:05:21.460><c> check</c><00:05:22.240><c> out</c><00:05:22.449><c> this</c></c>
+
+00:05:22.830 --> 00:05:22.840 align:start position:0%
+<c.colorE5E5E5>the game of life check out this
+ </c>
+
+00:05:22.840 --> 00:05:25.950 align:start position:0%
+<c.colorE5E5E5>the game of life check out this</c>
+<c.colorE5E5E5>Wikipedia<00:05:23.620><c> page</c><00:05:24.060><c> you</c><00:05:25.060><c> will</c><00:05:25.210><c> see</c><00:05:25.389><c> the</c><00:05:25.419><c> game</c><00:05:25.719><c> in</c></c>
+
+00:05:25.950 --> 00:05:25.960 align:start position:0%
+<c.colorE5E5E5>Wikipedia page you will see the game in
+ </c>
+
+00:05:25.960 --> 00:05:28.559 align:start position:0%
+<c.colorE5E5E5>Wikipedia page you will see the game in</c>
+<c.colorCCCCCC>action<00:05:26.439><c> in</c></c><c.colorE5E5E5><00:05:26.560><c> this</c><00:05:26.740><c> video</c><00:05:27.129><c> but</c><00:05:27.580><c> unfortunately</c></c>
+
+00:05:28.559 --> 00:05:28.569 align:start position:0%
+<c.colorCCCCCC>action in</c><c.colorE5E5E5> this video but unfortunately
+ </c>
+
+00:05:28.569 --> 00:05:30.869 align:start position:0%
+<c.colorCCCCCC>action in</c><c.colorE5E5E5> this video but unfortunately
+we</c><c.colorCCCCCC><00:05:28.870><c> won't</c><00:05:29.080><c> spend</c><00:05:29.349><c> too</c><00:05:29.620><c> much</c><00:05:29.770><c> time</c></c><c.colorE5E5E5><00:05:29.830><c> playing</c><00:05:30.520><c> it</c></c>
+
+00:05:30.869 --> 00:05:30.879 align:start position:0%
+we<c.colorCCCCCC> won't spend too much time</c><c.colorE5E5E5> playing it
+ </c>
+
+00:05:30.879 --> 00:05:33.240 align:start position:0%
+we<c.colorCCCCCC> won't spend too much time</c><c.colorE5E5E5> playing it</c>
+<c.colorE5E5E5>but<00:05:31.599><c> feel</c><00:05:31.960><c> free</c><00:05:32.110><c> to</c><00:05:32.229><c> play</c><00:05:32.560><c> it</c><00:05:32.620><c> and</c><00:05:32.889><c> your</c></c>
+
+00:05:33.240 --> 00:05:33.250 align:start position:0%
+<c.colorE5E5E5>but feel free to play it and your
+ </c>
+
+00:05:33.250 --> 00:05:35.579 align:start position:0%
+<c.colorE5E5E5>but feel free to play it and your
+leisure<00:05:33.460><c> though</c><00:05:33.849><c> finally</c><00:05:34.779><c> some</c></c><c.colorCCCCCC><00:05:35.349><c> of</c></c><c.colorE5E5E5><00:05:35.440><c> the</c></c>
+
+00:05:35.579 --> 00:05:35.589 align:start position:0%
+leisure though<c.colorE5E5E5> finally some</c><c.colorCCCCCC> of</c><c.colorE5E5E5> the
+ </c>
+
+00:05:35.589 --> 00:05:37.860 align:start position:0%
+leisure though<c.colorE5E5E5> finally some</c><c.colorCCCCCC> of</c><c.colorE5E5E5> the
+examples<00:05:36.129><c> in</c><00:05:36.279><c> these</c><00:05:36.490><c> sections</c><00:05:36.819><c> are</c><00:05:37.360><c> taken</c></c>
+
+00:05:37.860 --> 00:05:37.870 align:start position:0%
+examples in these sections<c.colorE5E5E5> are taken
+ </c>
+
+00:05:37.870 --> 00:05:40.350 align:start position:0%
+examples in these sections<c.colorE5E5E5> are taken
+from<00:05:37.990><c> the</c><00:05:38.169><c> excellent</c><00:05:38.589><c> book</c><00:05:38.979><c> Jenkins</c><00:05:39.789><c> the</c></c>
+
+00:05:40.350 --> 00:05:40.360 align:start position:0%
+from the excellent<c.colorE5E5E5> book Jenkins the
+ </c>
+
+00:05:40.360 --> 00:05:43.499 align:start position:0%
+from the excellent<c.colorE5E5E5> book Jenkins the
+definitive<00:05:40.779><c> guide</c><00:05:41.080><c> by</c><00:05:41.740><c> John</c><00:05:42.159><c> smart</c><00:05:42.669><c> although</c></c>
+
+00:05:43.499 --> 00:05:43.509 align:start position:0%
+definitive guide by John<c.colorE5E5E5> smart although
+ </c>
+
+00:05:43.509 --> 00:05:45.779 align:start position:0%
+definitive guide by John<c.colorE5E5E5> smart although
+the<00:05:43.659><c> book</c><00:05:43.810><c> was</c><00:05:44.050><c> written</c><00:05:44.259><c> for</c><00:05:44.710><c> Jenkins</c><00:05:45.009><c> 1</c><00:05:45.490><c> and</c></c>
+
+00:05:45.779 --> 00:05:45.789 align:start position:0%
+the book was written for Jenkins<c.colorE5E5E5> 1 and
+ </c>
+
+00:05:45.789 --> 00:05:48.540 align:start position:0%
+the book was written for Jenkins<c.colorE5E5E5> 1 and
+is<00:05:46.060><c> slightly</c><00:05:46.900><c> outdated</c><00:05:47.080><c> now</c><00:05:47.770><c> it</c><00:05:48.039><c> still</c></c>
+
+00:05:48.540 --> 00:05:48.550 align:start position:0%
+is<c.colorE5E5E5> slightly outdated now it still
+ </c>
+
+00:05:48.550 --> 00:05:50.670 align:start position:0%
+is<c.colorE5E5E5> slightly outdated now it still</c>
+<c.colorE5E5E5>contains<00:05:49.060><c> lots</c><00:05:49.479><c> of</c><00:05:49.599><c> good</c><00:05:49.839><c> stuff</c><00:05:50.139><c> and</c></c><c.colorCCCCCC><00:05:50.440><c> I</c></c>
+
+00:05:50.670 --> 00:05:50.680 align:start position:0%
+<c.colorE5E5E5>contains lots of good stuff and</c><c.colorCCCCCC> I
+ </c>
+
+00:05:50.680 --> 00:05:53.129 align:start position:0%
+<c.colorE5E5E5>contains lots of good stuff and</c><c.colorCCCCCC> I</c>
+<c.colorE5E5E5>recommend</c><c.colorCCCCCC><00:05:51.129><c> to</c><00:05:51.310><c> check</c><00:05:51.490><c> it</c><00:05:51.669><c> out</c></c><c.colorE5E5E5><00:05:51.789><c> now</c></c><c.colorCCCCCC><00:05:52.139><c> without</c></c>
+
+00:05:53.129 --> 00:05:53.139 align:start position:0%
+<c.colorE5E5E5>recommend</c><c.colorCCCCCC> to check it out</c><c.colorE5E5E5> now</c><c.colorCCCCCC> without
+ </c>
+
+00:05:53.139 --> 00:05:55.260 align:start position:0%
+<c.colorE5E5E5>recommend</c><c.colorCCCCCC> to check it out</c><c.colorE5E5E5> now</c><c.colorCCCCCC> without</c>
+<c.colorE5E5E5>any</c><c.colorCCCCCC><00:05:53.349><c> further</c><00:05:53.469><c> ado</c></c><c.colorE5E5E5><00:05:54.099><c> let's</c></c><c.colorCCCCCC><00:05:54.639><c> start</c><00:05:55.000><c> the</c></c>
+
+00:05:55.260 --> 00:05:55.270 align:start position:0%
+<c.colorE5E5E5>any</c><c.colorCCCCCC> further ado</c><c.colorE5E5E5> let's</c><c.colorCCCCCC> start the
+ </c>
+
+00:05:55.270 --> 00:05:58.950 align:start position:0%
+<c.colorE5E5E5>any</c><c.colorCCCCCC> further ado</c><c.colorE5E5E5> let's</c><c.colorCCCCCC> start the
+practical</c><c.colorE5E5E5><00:05:55.839><c> part</c><00:05:56.110><c> of</c><00:05:56.319><c> this</c><00:05:56.710><c> video</c><00:05:57.219><c> first</c></c><c.colorCCCCCC><00:05:58.150><c> let's</c></c>
+
+00:05:58.950 --> 00:05:58.960 align:start position:0%
+practical<c.colorE5E5E5> part of this video first</c><c.colorCCCCCC> let's
+ </c>
+
+00:05:58.960 --> 00:06:01.290 align:start position:0%
+practical<c.colorE5E5E5> part of this video first</c><c.colorCCCCCC> let's
+fuck<00:05:59.259><c> the</c><00:05:59.560><c> github</c><00:05:59.800><c> repository</c><00:06:00.180><c> where</c><00:06:01.180><c> the</c></c>
+
+00:06:01.290 --> 00:06:01.300 align:start position:0%
+fuck<c.colorCCCCCC> the github repository where the
+ </c>
+
+00:06:01.300 --> 00:06:05.029 align:start position:0%
+fuck<c.colorCCCCCC> the github repository where the
+game<00:06:01.479><c> of</c><00:06:01.659><c> life</c></c><c.colorE5E5E5><00:06:01.900><c> is</c><00:06:02.319><c> located</c><00:06:03.069><c> go</c><00:06:03.879><c> to</c><00:06:03.939><c> github.com</c></c>
+
+00:06:05.029 --> 00:06:05.039 align:start position:0%
+game of life<c.colorE5E5E5> is located go to github.com
+ </c>
+
+00:06:05.039 --> 00:06:09.689 align:start position:0%
+game of life<c.colorE5E5E5> is located go to github.com</c>
+<c.colorE5E5E5>slash<00:06:06.039><c> waka</c></c><c.colorCCCCCC><00:06:06.460><c> leo</c></c><c.colorE5E5E5><00:06:06.759><c> slash</c><00:06:07.599><c> game</c><00:06:08.110><c> of</c><00:06:08.349><c> life</c><00:06:08.740><c> and</c></c>
+
+00:06:09.689 --> 00:06:09.699 align:start position:0%
+<c.colorE5E5E5>slash waka</c><c.colorCCCCCC> leo</c><c.colorE5E5E5> slash game of life and
+ </c>
+
+00:06:09.699 --> 00:06:11.820 align:start position:0%
+<c.colorE5E5E5>slash waka</c><c.colorCCCCCC> leo</c><c.colorE5E5E5> slash game of life and
+make<00:06:09.879><c> sure</c><00:06:10.089><c> you</c><00:06:10.360><c> are</c><00:06:10.479><c> logged</c><00:06:10.719><c> in</c><00:06:10.990><c> into</c><00:06:11.349><c> github</c></c>
+
+00:06:11.820 --> 00:06:11.830 align:start position:0%
+make<c.colorE5E5E5> sure you are logged in into github
+ </c>
+
+00:06:11.830 --> 00:06:14.820 align:start position:0%
+make<c.colorE5E5E5> sure you are logged in into github
+with<00:06:12.729><c> your</c><00:06:12.969><c> account</c><00:06:13.409><c> you'll</c><00:06:14.409><c> see</c><00:06:14.469><c> your</c></c>
+
+00:06:14.820 --> 00:06:14.830 align:start position:0%
+with your account<c.colorE5E5E5> you'll see your
+ </c>
+
+00:06:14.830 --> 00:06:17.510 align:start position:0%
+with your account<c.colorE5E5E5> you'll see your
+profile<00:06:15.370><c> icon</c><00:06:15.699><c> if</c><00:06:16.240><c> you</c></c><c.colorCCCCCC><00:06:16.300><c> are</c><00:06:16.539><c> logged</c><00:06:16.779><c> in</c><00:06:17.020><c> click</c></c>
+
+00:06:17.510 --> 00:06:17.520 align:start position:0%
+profile icon<c.colorE5E5E5> if you</c><c.colorCCCCCC> are logged in click
+ </c>
+
+00:06:17.520 --> 00:06:21.390 align:start position:0%
+profile icon<c.colorE5E5E5> if you</c><c.colorCCCCCC> are logged in click</c>
+<c.colorCCCCCC>on<00:06:18.520><c> Fork</c><00:06:18.909><c> this</c><00:06:19.839><c> creates</c><00:06:20.259><c> an</c><00:06:20.589><c> exact</c></c><c.colorE5E5E5><00:06:20.949><c> copy</c><00:06:21.219><c> of</c></c>
+
+00:06:21.390 --> 00:06:21.400 align:start position:0%
+<c.colorCCCCCC>on Fork this creates an exact</c><c.colorE5E5E5> copy of
+ </c>
+
+00:06:21.400 --> 00:06:24.089 align:start position:0%
+<c.colorCCCCCC>on Fork this creates an exact</c><c.colorE5E5E5> copy of</c>
+<c.colorCCCCCC>game<00:06:21.909><c> of</c><00:06:21.939><c> life</c><00:06:22.360><c> repository</c></c><c.colorE5E5E5><00:06:23.289><c> into</c><00:06:23.889><c> your</c></c>
+
+00:06:24.089 --> 00:06:24.099 align:start position:0%
+<c.colorCCCCCC>game of life repository</c><c.colorE5E5E5> into your
+ </c>
+
+00:06:24.099 --> 00:06:28.249 align:start position:0%
+<c.colorCCCCCC>game of life repository</c><c.colorE5E5E5> into your
+account<00:06:25.080><c> now</c><00:06:26.080><c> let's</c><00:06:26.740><c> go</c><00:06:26.979><c> to</c><00:06:27.039><c> Jenkins</c><00:06:27.699><c> and</c></c>
+
+00:06:28.249 --> 00:06:28.259 align:start position:0%
+account<c.colorE5E5E5> now let's go to Jenkins and
+ </c>
+
+00:06:28.259 --> 00:06:32.129 align:start position:0%
+account<c.colorE5E5E5> now let's go to Jenkins and
+create<00:06:29.259><c> a</c><00:06:29.439><c> new</c><00:06:29.710><c> project</c><00:06:30.009><c> by</c></c><c.colorCCCCCC><00:06:30.819><c> clicking</c><00:06:31.330><c> on</c></c><c.colorE5E5E5><00:06:31.479><c> new</c></c>
+
+00:06:32.129 --> 00:06:32.139 align:start position:0%
+create<c.colorE5E5E5> a new project by</c><c.colorCCCCCC> clicking on</c><c.colorE5E5E5> new
+ </c>
+
+00:06:32.139 --> 00:06:36.409 align:start position:0%
+create<c.colorE5E5E5> a new project by</c><c.colorCCCCCC> clicking on</c><c.colorE5E5E5> new
+item<00:06:33.240><c> we</c><00:06:34.240><c> are</c><00:06:34.330><c> going</c><00:06:34.539><c> to</c><00:06:34.659><c> call</c><00:06:34.870><c> this</c><00:06:35.139><c> job</c><00:06:35.529><c> c</c><00:06:36.159><c> i</c></c>
+
+00:06:36.409 --> 00:06:36.419 align:start position:0%
+item we<c.colorE5E5E5> are going to call this job c i
+ </c>
+
+00:06:36.419 --> 00:06:39.810 align:start position:0%
+item we<c.colorE5E5E5> are going to call this job c i
+underscore<00:06:37.649><c> workflow</c></c>
+
+00:06:39.810 --> 00:06:39.820 align:start position:0%
+underscore workflow
+ 
+
+00:06:39.820 --> 00:06:44.480 align:start position:0%
+underscore workflow
+choose<00:06:40.390><c> a</c><00:06:40.600><c> freestyle</c><00:06:41.290><c> project</c><00:06:42.090><c> and</c><00:06:43.090><c> click</c><c.colorCCCCCC><00:06:43.510><c> OK</c></c>
+
+00:06:44.480 --> 00:06:44.490 align:start position:0%
+choose a freestyle project and click<c.colorCCCCCC> OK
+ </c>
+
+00:06:44.490 --> 00:06:49.590 align:start position:0%
+choose a freestyle project and click<c.colorCCCCCC> OK
+as<00:06:45.490><c> usual</c><00:06:46.330><c> we</c><00:06:46.870><c> click</c><00:06:47.110><c> on</c><00:06:47.260><c> advanced</c></c><c.colorE5E5E5><00:06:47.920><c> and</c><00:06:48.360><c> give</c><00:06:49.360><c> a</c></c>
+
+00:06:49.590 --> 00:06:49.600 align:start position:0%
+as usual we click on advanced<c.colorE5E5E5> and give a
+ </c>
+
+00:06:49.600 --> 00:06:53.040 align:start position:0%
+as usual we click on advanced<c.colorE5E5E5> and give a
+better<00:06:50.070><c> formatted</c><00:06:51.070><c> name</c><00:06:51.310><c> inside</c><00:06:52.270><c> display</c></c>
+
+00:06:53.040 --> 00:06:53.050 align:start position:0%
+better formatted name inside<c.colorE5E5E5> display
+ </c>
+
+00:06:53.050 --> 00:06:57.030 align:start position:0%
+better formatted name inside<c.colorE5E5E5> display
+name<00:06:54.000><c> in</c><00:06:55.000><c> source</c><00:06:55.510><c> code</c><00:06:55.840><c> management</c><00:06:56.050><c> we</c><00:06:56.770><c> copy</c></c>
+
+00:06:57.030 --> 00:06:57.040 align:start position:0%
+name in source code management<c.colorE5E5E5> we copy
+ </c>
+
+00:06:57.040 --> 00:06:59.250 align:start position:0%
+name in source code management<c.colorE5E5E5> we copy
+the<00:06:57.250><c> fork</c><00:06:57.520><c> repository</c><00:06:58.240><c> in</c><00:06:58.600><c> our</c><00:06:58.930><c> github</c></c>
+
+00:06:59.250 --> 00:06:59.260 align:start position:0%
+the fork repository<c.colorE5E5E5> in our github
+ </c>
+
+00:06:59.260 --> 00:07:05.570 align:start position:0%
+the fork repository<c.colorE5E5E5> in our github
+account</c><c.colorCCCCCC><00:06:59.830><c> and</c><00:07:00.840><c> paste</c><00:07:01.840><c> it</c><00:07:02.140><c> into</c><00:07:02.880><c> repository</c><00:07:03.880><c> URL</c></c>
+
+00:07:05.570 --> 00:07:05.580 align:start position:0%
+account<c.colorCCCCCC> and paste it into repository URL
+ </c>
+
+00:07:05.580 --> 00:07:09.120 align:start position:0%
+account<c.colorCCCCCC> and paste it into repository URL</c>
+<c.colorE5E5E5>your<00:07:06.580><c> URL</c><00:07:07.120><c> will</c><00:07:07.450><c> be</c><00:07:07.480><c> different</c><00:07:08.140><c> as</c><00:07:08.410><c> it</c><00:07:08.860><c> uses</c></c>
+
+00:07:09.120 --> 00:07:09.130 align:start position:0%
+<c.colorE5E5E5>your URL will be different as it uses
+ </c>
+
+00:07:09.130 --> 00:07:12.120 align:start position:0%
+<c.colorE5E5E5>your URL will be different as it uses</c>
+<c.colorCCCCCC>your<00:07:09.670><c> github</c></c><c.colorE5E5E5><00:07:10.030><c> username</c><00:07:10.660><c> instead</c><00:07:11.440><c> of</c><00:07:11.560><c> mine</c></c>
+
+00:07:12.120 --> 00:07:12.130 align:start position:0%
+<c.colorCCCCCC>your github</c><c.colorE5E5E5> username instead of mine
+ </c>
+
+00:07:12.130 --> 00:07:15.540 align:start position:0%
+<c.colorCCCCCC>your github</c><c.colorE5E5E5> username instead of mine
+make<00:07:12.790><c> sure</c><00:07:13.090><c> you</c><00:07:13.270><c> use</c><00:07:13.540><c> yours</c><00:07:13.960><c> so</c><00:07:14.860><c> you</c></c><c.colorCCCCCC><00:07:15.130><c> can</c></c>
+
+00:07:15.540 --> 00:07:15.550 align:start position:0%
+make sure you<c.colorE5E5E5> use yours so you</c><c.colorCCCCCC> can
+ </c>
+
+00:07:15.550 --> 00:07:18.390 align:start position:0%
+make sure you<c.colorE5E5E5> use yours so you</c><c.colorCCCCCC> can
+change<00:07:15.910><c> the</c></c><c.colorE5E5E5><00:07:16.420><c> code</c><00:07:16.630><c> that</c><00:07:16.780><c> you</c><00:07:16.930><c> will</c><00:07:17.220><c> for</c></c><c.colorCCCCCC><00:07:18.220><c> now</c></c>
+
+00:07:18.390 --> 00:07:18.400 align:start position:0%
+change the<c.colorE5E5E5> code that you will for</c><c.colorCCCCCC> now
+ </c>
+
+00:07:18.400 --> 00:07:21.180 align:start position:0%
+change the<c.colorE5E5E5> code that you will for</c><c.colorCCCCCC> now
+we're</c><c.colorE5E5E5><00:07:19.030><c> going</c><00:07:19.210><c> to</c><00:07:19.330><c> run</c><00:07:19.510><c> the</c><00:07:19.630><c> job</c><00:07:19.810><c> manually</c><00:07:20.350><c> so</c></c>
+
+00:07:21.180 --> 00:07:21.190 align:start position:0%
+we're<c.colorE5E5E5> going to run the job manually so
+ </c>
+
+00:07:21.190 --> 00:07:24.300 align:start position:0%
+we're<c.colorE5E5E5> going to run the job manually so
+we<00:07:21.820><c> won't</c><00:07:22.060><c> set</c><00:07:22.450><c> up</c><00:07:22.630><c> a</c><00:07:22.780><c> build</c><00:07:23.020><c> trigger</c><00:07:23.320><c> but</c><00:07:24.130><c> we</c></c>
+
+00:07:24.300 --> 00:07:24.310 align:start position:0%
+we won't set up a<c.colorE5E5E5> build trigger but we
+ </c>
+
+00:07:24.310 --> 00:07:26.100 align:start position:0%
+we won't set up a<c.colorE5E5E5> build trigger but we
+will</c><c.colorCCCCCC><00:07:24.460><c> use</c><00:07:24.640><c> the</c><00:07:24.820><c> build</c><00:07:25.030><c> trigger</c><00:07:25.360><c> in</c><00:07:25.630><c> the</c></c><c.colorE5E5E5><00:07:25.690><c> next</c></c>
+
+00:07:26.100 --> 00:07:26.110 align:start position:0%
+will<c.colorCCCCCC> use the build trigger in the</c><c.colorE5E5E5> next
+ </c>
+
+00:07:26.110 --> 00:07:29.880 align:start position:0%
+will<c.colorCCCCCC> use the build trigger in the</c><c.colorE5E5E5> next
+video<00:07:26.730><c> finally</c></c><c.colorCCCCCC><00:07:27.730><c> in</c><00:07:28.120><c> the</c><00:07:28.600><c> build</c><00:07:28.810><c> section</c></c><c.colorE5E5E5><00:07:29.140><c> we</c></c>
+
+00:07:29.880 --> 00:07:29.890 align:start position:0%
+video<c.colorE5E5E5> finally</c><c.colorCCCCCC> in the build section</c><c.colorE5E5E5> we
+ </c>
+
+00:07:29.890 --> 00:07:32.940 align:start position:0%
+video<c.colorE5E5E5> finally</c><c.colorCCCCCC> in the build section</c><c.colorE5E5E5> we
+add<00:07:30.070><c> a</c><00:07:30.310><c> build</c><00:07:30.640><c> step</c><00:07:30.880><c> and</c><00:07:31.300><c> choose</c><00:07:32.140><c> invoke</c></c>
+
+00:07:32.940 --> 00:07:32.950 align:start position:0%
+add a build step<c.colorE5E5E5> and choose invoke
+ </c>
+
+00:07:32.950 --> 00:07:38.280 align:start position:0%
+add a build step<c.colorE5E5E5> and choose invoke
+top-level<00:07:33.940><c> maven</c><00:07:34.690><c> targets</c><00:07:35.290><c> in</c><00:07:36.300><c> goals</c><00:07:37.300><c> we</c><00:07:38.020><c> type</c></c>
+
+00:07:38.280 --> 00:07:38.290 align:start position:0%
+top-level<c.colorE5E5E5> maven targets in goals we type
+ </c>
+
+00:07:38.290 --> 00:07:42.660 align:start position:0%
+top-level<c.colorE5E5E5> maven targets in goals we type
+install<00:07:39.810><c> this</c><00:07:40.810><c> is</c><00:07:41.020><c> the</c><00:07:41.200><c> maven</c><00:07:41.650><c> phase</c><00:07:41.920><c> allowing</c></c>
+
+00:07:42.660 --> 00:07:42.670 align:start position:0%
+install this is the maven phase allowing
+ 
+
+00:07:42.670 --> 00:07:45.960 align:start position:0%
+install this is the maven phase allowing
+to<00:07:42.850><c> fully</c><00:07:43.090><c> build</c><00:07:43.480><c> test</c><00:07:44.080><c> package</c><00:07:45.070><c> and</c><00:07:45.310><c> install</c>
+
+00:07:45.960 --> 00:07:45.970 align:start position:0%
+to fully build test package and install
+ 
+
+00:07:45.970 --> 00:07:49.560 align:start position:0%
+to fully build test package and install
+<c.colorE5E5E5>the</c><c.colorCCCCCC><00:07:46.330><c> Java</c></c><c.colorE5E5E5><00:07:46.570><c> project</c></c><c.colorCCCCCC><00:07:47.110><c> I</c><00:07:47.790><c> also</c><00:07:48.790><c> want</c></c><c.colorE5E5E5><00:07:49.150><c> to</c><00:07:49.270><c> show</c><00:07:49.510><c> you</c></c>
+
+00:07:49.560 --> 00:07:49.570 align:start position:0%
+<c.colorE5E5E5>the</c><c.colorCCCCCC> Java</c><c.colorE5E5E5> project</c><c.colorCCCCCC> I also want</c><c.colorE5E5E5> to show you
+ </c>
+
+00:07:49.570 --> 00:07:51.990 align:start position:0%
+<c.colorE5E5E5>the</c><c.colorCCCCCC> Java</c><c.colorE5E5E5> project</c><c.colorCCCCCC> I also want</c><c.colorE5E5E5> to show you
+how<00:07:50.230><c> the</c><00:07:50.290><c> web</c><00:07:50.590><c> application</c><00:07:51.280><c> for</c><00:07:51.520><c> the</c><00:07:51.640><c> game</c><00:07:51.820><c> of</c></c>
+
+00:07:51.990 --> 00:07:52.000 align:start position:0%
+how the web application for<c.colorE5E5E5> the game of
+ </c>
+
+00:07:52.000 --> 00:07:54.690 align:start position:0%
+how the web application for<c.colorE5E5E5> the game of
+life<00:07:52.240><c> works</c></c><c.colorCCCCCC><00:07:52.810><c> so</c><00:07:53.560><c> you</c><00:07:53.620><c> can</c><00:07:53.890><c> play</c><00:07:54.160><c> it</c><00:07:54.220><c> if</c><00:07:54.580><c> you</c></c>
+
+00:07:54.690 --> 00:07:54.700 align:start position:0%
+life works<c.colorCCCCCC> so you can play it if you
+ </c>
+
+00:07:54.700 --> 00:07:58.140 align:start position:0%
+life works<c.colorCCCCCC> so you can play it if you
+wish<00:07:55.230><c> therefore</c><00:07:56.230><c> and</c><00:07:56.740><c> just</c><00:07:57.430><c> for</c><00:07:57.610><c> illustration</c></c>
+
+00:07:58.140 --> 00:07:58.150 align:start position:0%
+wish therefore<c.colorCCCCCC> and just for illustration
+ </c>
+
+00:07:58.150 --> 00:08:00.450 align:start position:0%
+wish therefore<c.colorCCCCCC> and just for illustration</c>
+<c.colorE5E5E5>purposes<00:07:59.020><c> we</c><00:07:59.650><c> are</c><00:07:59.710><c> going</c><00:07:59.890><c> to</c><00:08:00.010><c> add</c><00:08:00.190><c> another</c></c>
+
+00:08:00.450 --> 00:08:00.460 align:start position:0%
+<c.colorE5E5E5>purposes we are going to add another
+ </c>
+
+00:08:00.460 --> 00:08:03.630 align:start position:0%
+<c.colorE5E5E5>purposes we are going to add another
+build<00:08:01.090><c> step</c><00:08:01.450><c> that</c><00:08:02.350><c> invokes</c><00:08:02.770><c> a</c></c><c.colorCCCCCC><00:08:02.980><c> top</c><00:08:03.370><c> level</c></c>
+
+00:08:03.630 --> 00:08:03.640 align:start position:0%
+build step that invokes<c.colorE5E5E5> a</c><c.colorCCCCCC> top level
+ </c>
+
+00:08:03.640 --> 00:08:07.700 align:start position:0%
+build step that invokes<c.colorE5E5E5> a</c><c.colorCCCCCC> top level
+mailing<00:08:04.210><c> goal</c></c><c.colorE5E5E5><00:08:04.450><c> in</c><00:08:04.780><c> goals</c><00:08:05.740><c> we</c><00:08:06.640><c> type</c><00:08:06.940><c> jetty</c></c>
+
+00:08:07.700 --> 00:08:07.710 align:start position:0%
+mailing goal<c.colorE5E5E5> in goals we type jetty
+ </c>
+
+00:08:07.710 --> 00:08:12.600 align:start position:0%
+mailing goal<c.colorE5E5E5> in goals we type jetty
+column<00:08:08.710><c> run</c><00:08:09.870><c> this</c><00:08:10.870><c> starts</c><00:08:11.440><c> a</c><00:08:11.590><c> jetty</c></c><c.colorCCCCCC><00:08:11.980><c> webserver</c></c>
+
+00:08:12.600 --> 00:08:12.610 align:start position:0%
+<c.colorE5E5E5>column run this starts a jetty</c><c.colorCCCCCC> webserver
+ </c>
+
+00:08:12.610 --> 00:08:15.510 align:start position:0%
+<c.colorE5E5E5>column run this starts a jetty</c><c.colorCCCCCC> webserver</c>
+<c.colorE5E5E5>and<00:08:12.880><c> runs</c><00:08:13.450><c> the</c><00:08:13.660><c> web</c><00:08:13.810><c> application</c><00:08:14.500><c> so</c></c><c.colorCCCCCC><00:08:15.100><c> that</c></c><c.colorE5E5E5><00:08:15.400><c> it</c></c>
+
+00:08:15.510 --> 00:08:15.520 align:start position:0%
+<c.colorE5E5E5>and runs the web application so</c><c.colorCCCCCC> that</c><c.colorE5E5E5> it
+ </c>
+
+00:08:15.520 --> 00:08:18.870 align:start position:0%
+<c.colorE5E5E5>and runs the web application so</c><c.colorCCCCCC> that</c><c.colorE5E5E5> it
+can<00:08:15.700><c> be</c><00:08:15.850><c> accessed</c></c><c.colorCCCCCC><00:08:16.060><c> via</c></c><c.colorE5E5E5><00:08:16.570><c> browser</c><00:08:17.140><c> on</c><00:08:17.700><c> localhost</c></c>
+
+00:08:18.870 --> 00:08:18.880 align:start position:0%
+can be accessed<c.colorCCCCCC> via</c><c.colorE5E5E5> browser on localhost
+ </c>
+
+00:08:18.880 --> 00:08:22.800 align:start position:0%
+can be accessed<c.colorCCCCCC> via</c><c.colorE5E5E5> browser on localhost
+at<00:08:19.170><c> the</c><00:08:20.170><c> end</c><00:08:20.290><c> of</c><00:08:20.530><c> the</c><00:08:20.830><c> build</c><00:08:21.070><c> life</c><00:08:21.430><c> cycle</c><00:08:22.030><c> maven</c></c>
+
+00:08:22.800 --> 00:08:22.810 align:start position:0%
+at the end of the build<c.colorE5E5E5> life cycle maven
+ </c>
+
+00:08:22.810 --> 00:08:25.020 align:start position:0%
+at the end of the build<c.colorE5E5E5> life cycle maven
+packages<00:08:23.440><c> the</c><00:08:23.590><c> web</c><00:08:23.770><c> application</c><00:08:24.460><c> in</c><00:08:24.730><c> a</c></c>
+
+00:08:25.020 --> 00:08:25.030 align:start position:0%
+packages the web application in a
+ 
+
+00:08:25.030 --> 00:08:27.090 align:start position:0%
+packages the web application in a
+specific<c.colorCCCCCC><00:08:25.270><c> directory</c></c><c.colorE5E5E5><00:08:26.110><c> that</c><00:08:26.350><c> we</c></c><c.colorCCCCCC><00:08:26.650><c> need</c><00:08:26.980><c> to</c></c>
+
+00:08:27.090 --> 00:08:27.100 align:start position:0%
+specific<c.colorCCCCCC> directory</c><c.colorE5E5E5> that we</c><c.colorCCCCCC> need to
+ </c>
+
+00:08:27.100 --> 00:08:30.270 align:start position:0%
+specific<c.colorCCCCCC> directory</c><c.colorE5E5E5> that we</c><c.colorCCCCCC> need to
+specify<00:08:27.690><c> therefore</c><00:08:28.690><c> we</c><00:08:29.110><c> click</c><00:08:29.320><c> on</c><00:08:29.470><c> advanced</c></c>
+
+00:08:30.270 --> 00:08:30.280 align:start position:0%
+specify therefore we click on advanced
+ 
+
+00:08:30.280 --> 00:08:34.140 align:start position:0%
+specify therefore we click on advanced
+<c.colorCCCCCC>and<00:08:30.600><c> in</c><00:08:31.600><c> pom</c></c><c.colorE5E5E5><00:08:32.050><c> we</c><00:08:32.650><c> type</c><00:08:32.919><c> game</c><00:08:33.370><c> of</c><00:08:33.550><c> life</c></c>
+
+00:08:34.140 --> 00:08:34.150 align:start position:0%
+<c.colorCCCCCC>and in pom</c><c.colorE5E5E5> we type game of life
+ </c>
+
+00:08:34.150 --> 00:08:41.250 align:start position:0%
+<c.colorCCCCCC>and in pom</c><c.colorE5E5E5> we type game of life
+-<00:08:34.570><c> web</c><00:08:35.229><c> slash</c><00:08:36.099><c> pom</c><00:08:37.030><c> dot</c><00:08:37.830><c> XML</c><00:08:39.630><c> this</c><00:08:40.630><c> is</c><00:08:40.840><c> the</c><00:08:40.990><c> pom</c></c>
+
+00:08:41.250 --> 00:08:41.260 align:start position:0%
+- web<c.colorE5E5E5> slash pom dot XML this is the pom
+ </c>
+
+00:08:41.260 --> 00:08:44.210 align:start position:0%
+- web<c.colorE5E5E5> slash pom dot XML this is the pom
+file<00:08:41.640><c> containing</c></c><c.colorCCCCCC><00:08:42.640><c> the</c><00:08:42.910><c> configuration</c><00:08:43.780><c> and</c></c>
+
+00:08:44.210 --> 00:08:44.220 align:start position:0%
+file containing<c.colorCCCCCC> the configuration and
+ </c>
+
+00:08:44.220 --> 00:08:46.740 align:start position:0%
+file containing<c.colorCCCCCC> the configuration and
+dependencies<00:08:45.220><c> to</c></c><c.colorE5E5E5><00:08:45.250><c> run</c><00:08:45.670><c> the</c><00:08:45.880><c> web</c><00:08:46.030><c> application</c></c>
+
+00:08:46.740 --> 00:08:46.750 align:start position:0%
+dependencies to<c.colorE5E5E5> run the web application
+ </c>
+
+00:08:46.750 --> 00:08:50.280 align:start position:0%
+dependencies to<c.colorE5E5E5> run the web application
+for<00:08:47.110><c> the</c><00:08:47.170><c> game</c><00:08:47.380><c> of</c><00:08:47.560><c> life</c><00:08:48.360><c> finally</c></c><c.colorCCCCCC><00:08:49.360><c> we</c><00:08:49.900><c> click</c><00:08:50.080><c> on</c></c>
+
+00:08:50.280 --> 00:08:50.290 align:start position:0%
+for the game of life<c.colorE5E5E5> finally</c><c.colorCCCCCC> we click on
+ </c>
+
+00:08:50.290 --> 00:08:51.590 align:start position:0%
+for the game of life<c.colorE5E5E5> finally</c><c.colorCCCCCC> we click on
+save</c>
+
+00:08:51.590 --> 00:08:51.600 align:start position:0%
+save
+ 
+
+00:08:51.600 --> 00:08:54.320 align:start position:0%
+save
+now<00:08:51.900><c> let's</c><00:08:52.530><c> build</c><c.colorCCCCCC><00:08:52.770><c> the</c><00:08:53.010><c> project</c><00:08:53.250><c> and</c><00:08:53.670><c> run</c><00:08:54.150><c> the</c></c>
+
+00:08:54.320 --> 00:08:54.330 align:start position:0%
+now let's build<c.colorCCCCCC> the project and run the
+ </c>
+
+00:08:54.330 --> 00:08:57.280 align:start position:0%
+now let's build<c.colorCCCCCC> the project and run the
+web<00:08:54.480><c> application</c></c><c.colorE5E5E5><00:08:55.140><c> by</c></c><c.colorCCCCCC><00:08:55.410><c> clicking</c><00:08:55.830><c> on</c><00:08:55.950><c> bill</c></c>
+
+00:08:57.280 --> 00:08:57.290 align:start position:0%
+web application<c.colorE5E5E5> by</c><c.colorCCCCCC> clicking on bill
+ </c>
+
+00:08:57.290 --> 00:09:00.519 align:start position:0%
+web application<c.colorE5E5E5> by</c><c.colorCCCCCC> clicking on bill</c>
+<c.colorE5E5E5>click<00:08:58.220><c> on</c><00:08:58.399><c> the</c><00:08:58.519><c> status</c><00:08:58.970><c> icon</c><00:08:59.240><c> to</c><00:08:59.930><c> get</c><00:09:00.079><c> inside</c><00:09:00.500><c> a</c></c>
+
+00:09:00.519 --> 00:09:00.529 align:start position:0%
+<c.colorE5E5E5>click on the status icon to get inside a
+ </c>
+
+00:09:00.529 --> 00:09:03.850 align:start position:0%
+<c.colorE5E5E5>click on the status icon to get inside a
+console<00:09:01.070><c> output</c><00:09:01.899><c> you</c><00:09:02.899><c> can</c><00:09:03.079><c> see</c><00:09:03.290><c> that</c><00:09:03.529><c> the</c><00:09:03.649><c> job</c></c>
+
+00:09:03.850 --> 00:09:03.860 align:start position:0%
+console output<c.colorE5E5E5> you can see that the job
+ </c>
+
+00:09:03.860 --> 00:09:05.590 align:start position:0%
+console output<c.colorE5E5E5> you can see that the job
+pulls<00:09:04.399><c> the</c><00:09:04.670><c> code</c><00:09:04.910><c> from</c><00:09:05.240><c> the</c><00:09:05.360><c> github</c></c>
+
+00:09:05.590 --> 00:09:05.600 align:start position:0%
+pulls the code from<c.colorE5E5E5> the github
+ </c>
+
+00:09:05.600 --> 00:09:08.769 align:start position:0%
+pulls the code from<c.colorE5E5E5> the github
+repository</c><c.colorCCCCCC><00:09:05.899><c> and</c><00:09:06.759><c> notice</c><00:09:07.759><c> the</c><00:09:07.970><c> maven</c><00:09:08.540><c> install</c></c>
+
+00:09:08.769 --> 00:09:08.779 align:start position:0%
+repository<c.colorCCCCCC> and notice the maven install
+ </c>
+
+00:09:08.779 --> 00:09:11.319 align:start position:0%
+repository<c.colorCCCCCC> and notice the maven install
+command</c><c.colorE5E5E5><00:09:09.560><c> we</c><00:09:10.250><c> set</c><00:09:10.459><c> up</c><00:09:10.490><c> in</c><00:09:10.880><c> the</c></c><c.colorCCCCCC><00:09:10.970><c> job</c></c>
+
+00:09:11.319 --> 00:09:11.329 align:start position:0%
+command<c.colorE5E5E5> we set up in the</c><c.colorCCCCCC> job
+ </c>
+
+00:09:11.329 --> 00:09:13.430 align:start position:0%
+command<c.colorE5E5E5> we set up in the</c><c.colorCCCCCC> job
+configuration</c>
+
+00:09:13.430 --> 00:09:13.440 align:start position:0%
+configuration
+ 
+
+00:09:13.440 --> 00:09:16.680 align:start position:0%
+configuration
+maven<c.colorE5E5E5><00:09:14.440><c> builds</c><00:09:15.160><c> the</c><00:09:15.310><c> project</c><00:09:15.790><c> and</c><00:09:16.000><c> runs</c><00:09:16.450><c> a</c></c>
+
+00:09:16.680 --> 00:09:16.690 align:start position:0%
+maven<c.colorE5E5E5> builds the project and runs a
+ </c>
+
+00:09:16.690 --> 00:09:20.640 align:start position:0%
+maven<c.colorE5E5E5> builds the project and runs a
+bunch<00:09:16.990><c> of</c><00:09:17.170><c> tests</c></c><c.colorCCCCCC><00:09:17.850><c> these</c></c><c.colorE5E5E5><00:09:18.850><c> should</c><00:09:19.390><c> all</c><00:09:19.600><c> pass</c><00:09:20.020><c> but</c></c>
+
+00:09:20.640 --> 00:09:20.650 align:start position:0%
+bunch<c.colorE5E5E5> of tests</c><c.colorCCCCCC> these</c><c.colorE5E5E5> should all pass but
+ </c>
+
+00:09:20.650 --> 00:09:22.770 align:start position:0%
+bunch<c.colorE5E5E5> of tests</c><c.colorCCCCCC> these</c><c.colorE5E5E5> should all pass but
+it<00:09:21.010><c> might</c></c><c.colorCCCCCC><00:09:21.250><c> take</c><00:09:21.460><c> a</c><00:09:21.490><c> little</c><00:09:21.730><c> while</c></c><c.colorE5E5E5><00:09:22.060><c> to</c><00:09:22.120><c> complete</c></c>
+
+00:09:22.770 --> 00:09:22.780 align:start position:0%
+it might<c.colorCCCCCC> take a little while</c><c.colorE5E5E5> to complete
+ </c>
+
+00:09:22.780 --> 00:09:26.130 align:start position:0%
+it might<c.colorCCCCCC> take a little while</c><c.colorE5E5E5> to complete</c>
+<c.colorE5E5E5>so<00:09:23.410><c> I'm</c><00:09:23.680><c> moving</c><00:09:23.890><c> forward</c><00:09:24.610><c> a</c><00:09:24.760><c> bit</c></c>
+
+00:09:26.130 --> 00:09:26.140 align:start position:0%
+<c.colorE5E5E5>so I'm moving forward a bit
+ </c>
+
+00:09:26.140 --> 00:09:28.890 align:start position:0%
+<c.colorE5E5E5>so I'm moving forward a bit
+at<00:09:26.620><c> the</c><00:09:27.130><c> end</c><00:09:27.280><c> you</c></c><c.colorCCCCCC><00:09:27.850><c> should</c><00:09:28.090><c> see</c><00:09:28.300><c> that</c><00:09:28.330><c> the</c><00:09:28.570><c> jetty</c></c>
+
+00:09:28.890 --> 00:09:28.900 align:start position:0%
+at the end<c.colorE5E5E5> you</c><c.colorCCCCCC> should see that the jetty
+ </c>
+
+00:09:28.900 --> 00:09:31.800 align:start position:0%
+at the end<c.colorE5E5E5> you</c><c.colorCCCCCC> should see that the jetty
+server<00:09:29.080><c> has</c><00:09:29.740><c> started</c><00:09:30.130><c> and</c><00:09:30.640><c> the</c><00:09:31.120><c> job</c><00:09:31.360><c> should</c></c>
+
+00:09:31.800 --> 00:09:31.810 align:start position:0%
+server has started<c.colorCCCCCC> and the job should
+ </c>
+
+00:09:31.810 --> 00:09:35.730 align:start position:0%
+server has started<c.colorCCCCCC> and the job should
+hang<00:09:32.460><c> this</c></c><c.colorE5E5E5><00:09:33.460><c> is</c><00:09:33.700><c> expected</c><00:09:34.330><c> behavior</c></c><c.colorCCCCCC><00:09:34.840><c> as</c><00:09:35.020><c> I</c><00:09:35.560><c> want</c></c>
+
+00:09:35.730 --> 00:09:35.740 align:start position:0%
+hang this<c.colorE5E5E5> is expected behavior</c><c.colorCCCCCC> as I want
+ </c>
+
+00:09:35.740 --> 00:09:37.830 align:start position:0%
+hang this<c.colorE5E5E5> is expected behavior</c><c.colorCCCCCC> as I want
+to</c><c.colorE5E5E5><00:09:35.830><c> show</c><00:09:36.100><c> you</c><00:09:36.160><c> the</c><00:09:36.400><c> web</c><00:09:36.550><c> application</c><00:09:37.300><c> so</c><00:09:37.660><c> then</c></c>
+
+00:09:37.830 --> 00:09:37.840 align:start position:0%
+to<c.colorE5E5E5> show you the web application so then
+ </c>
+
+00:09:37.840 --> 00:09:39.870 align:start position:0%
+to<c.colorE5E5E5> show you the web application so then
+you<00:09:37.960><c> can</c></c><c.colorCCCCCC><00:09:38.140><c> have</c><00:09:38.260><c> a</c><00:09:38.290><c> better</c><00:09:38.530><c> idea</c><00:09:38.710><c> of</c><00:09:39.250><c> what</c><00:09:39.340><c> we</c></c>
+
+00:09:39.870 --> 00:09:39.880 align:start position:0%
+you can<c.colorCCCCCC> have a better idea of what we
+ </c>
+
+00:09:39.880 --> 00:09:43.290 align:start position:0%
+you can<c.colorCCCCCC> have a better idea of what we
+are</c><c.colorE5E5E5><00:09:39.910><c> building</c><00:09:40.620><c> now</c><00:09:41.620><c> open</c><00:09:42.520><c> your</c><00:09:42.700><c> favorite</c><00:09:43.000><c> web</c></c>
+
+00:09:43.290 --> 00:09:43.300 align:start position:0%
+are<c.colorE5E5E5> building now open your favorite web
+ </c>
+
+00:09:43.300 --> 00:09:47.990 align:start position:0%
+are<c.colorE5E5E5> building now open your favorite web</c>
+<c.colorE5E5E5>browser<00:09:43.630><c> and</c><00:09:44.430><c> head</c><00:09:45.430><c> to</c><00:09:45.730><c> localhost</c></c><c.colorCCCCCC><00:09:46.350><c> column</c></c>
+
+00:09:47.990 --> 00:09:48.000 align:start position:0%
+<c.colorE5E5E5>browser and head to localhost</c><c.colorCCCCCC> column
+ </c>
+
+00:09:48.000 --> 00:09:51.900 align:start position:0%
+<c.colorE5E5E5>browser and head to localhost</c><c.colorCCCCCC> column</c>
+<c.colorE5E5E5>9090<00:09:49.260><c> this</c><00:09:50.260><c> is</c><00:09:50.440><c> the</c><00:09:50.620><c> web</c><00:09:50.770><c> application</c></c><c.colorCCCCCC><00:09:50.950><c> for</c><00:09:51.820><c> the</c></c>
+
+00:09:51.900 --> 00:09:51.910 align:start position:0%
+<c.colorE5E5E5>9090 this is the web application</c><c.colorCCCCCC> for the
+ </c>
+
+00:09:51.910 --> 00:09:54.840 align:start position:0%
+<c.colorE5E5E5>9090 this is the web application</c><c.colorCCCCCC> for the
+game<00:09:52.090><c> of</c><00:09:52.270><c> life</c></c><c.colorE5E5E5><00:09:52.950><c> you</c><00:09:53.950><c> can</c><00:09:54.100><c> also</c><00:09:54.250><c> notice</c></c><c.colorCCCCCC><00:09:54.640><c> that</c></c>
+
+00:09:54.840 --> 00:09:54.850 align:start position:0%
+game of life<c.colorE5E5E5> you can also notice</c><c.colorCCCCCC> that
+ </c>
+
+00:09:54.850 --> 00:09:57.750 align:start position:0%
+game of life<c.colorE5E5E5> you can also notice</c><c.colorCCCCCC> that
+some<00:09:55.390><c> version</c><00:09:55.870><c> information</c><00:09:56.590><c> are</c><00:09:57.070><c> passed</c></c><c.colorE5E5E5><00:09:57.430><c> from</c></c>
+
+00:09:57.750 --> 00:09:57.760 align:start position:0%
+<c.colorCCCCCC>some version information are passed</c><c.colorE5E5E5> from
+ </c>
+
+00:09:57.760 --> 00:10:00.740 align:start position:0%
+<c.colorCCCCCC>some version information are passed</c><c.colorE5E5E5> from
+the<00:09:57.940><c> Jenkins</c><00:09:58.420><c> job</c><00:09:58.690><c> into</c><00:09:59.440><c> the</c><00:09:59.560><c> web</c><00:09:59.710><c> application</c></c>
+
+00:10:00.740 --> 00:10:00.750 align:start position:0%
+the Jenkins job into the web application
+ 
+
+00:10:00.750 --> 00:10:04.320 align:start position:0%
+the Jenkins job into the web application
+you<00:10:01.750><c> can</c><00:10:01.930><c> read</c><00:10:02.140><c> the</c><00:10:02.350><c> rules</c><00:10:02.560><c> of</c><00:10:02.860><c> the</c><00:10:03.010><c> game</c><00:10:03.330><c> play</c>
+
+00:10:04.320 --> 00:10:04.330 align:start position:0%
+you can read the rules of the game play
+ 
+
+00:10:04.330 --> 00:10:08.900 align:start position:0%
+you can read the rules of the game play
+a<00:10:04.630><c> new</c><00:10:04.990><c> game</c>
+
+00:10:08.900 --> 00:10:08.910 align:start position:0%
+ 
+ 
+
+00:10:08.910 --> 00:10:14.000 align:start position:0%
+ 
+and<00:10:09.000><c> see</c><00:10:09.900><c> the</c><00:10:10.080><c> generations</c><c.colorCCCCCC><00:10:10.740><c> evolving</c><00:10:12.740><c> at</c><00:10:13.740><c> the</c></c>
+
+00:10:14.000 --> 00:10:14.010 align:start position:0%
+and see the generations<c.colorCCCCCC> evolving at the
+ </c>
+
+00:10:14.010 --> 00:10:16.490 align:start position:0%
+and see the generations<c.colorCCCCCC> evolving at the
+end</c><c.colorE5E5E5><00:10:14.160><c> do</c><00:10:14.910><c> not</c><00:10:14.940><c> forget</c><00:10:15.540><c> to</c><00:10:15.600><c> go</c></c><c.colorCCCCCC><00:10:15.900><c> back</c><00:10:16.110><c> to</c><00:10:16.380><c> the</c></c>
+
+00:10:16.490 --> 00:10:16.500 align:start position:0%
+end<c.colorE5E5E5> do not forget to go</c><c.colorCCCCCC> back to the
+ </c>
+
+00:10:16.500 --> 00:10:21.550 align:start position:0%
+end<c.colorE5E5E5> do not forget to go</c><c.colorCCCCCC> back to the
+Jenkins<00:10:16.860><c> job</c></c><c.colorE5E5E5><00:10:17.900><c> stop</c><00:10:18.900><c> the</c><00:10:19.170><c> current</c><00:10:19.440><c> hanging</c><00:10:20.100><c> job</c></c>
+
+00:10:21.550 --> 00:10:21.560 align:start position:0%
+Jenkins job<c.colorE5E5E5> stop the current hanging job
+ </c>
+
+00:10:21.560 --> 00:10:24.730 align:start position:0%
+Jenkins job<c.colorE5E5E5> stop the current hanging job
+edit<00:10:22.560><c> the</c><00:10:22.710><c> configuration</c></c><c.colorCCCCCC><00:10:23.130><c> under</c><00:10:24.030><c> build</c><00:10:24.330><c> and</c></c>
+
+00:10:24.730 --> 00:10:24.740 align:start position:0%
+edit<c.colorE5E5E5> the configuration</c><c.colorCCCCCC> under build and
+ </c>
+
+00:10:24.740 --> 00:10:27.590 align:start position:0%
+edit<c.colorE5E5E5> the configuration</c><c.colorCCCCCC> under build and
+removed<00:10:25.740><c> the</c><00:10:25.980><c> goal</c><00:10:26.220><c> that</c></c><c.colorE5E5E5><00:10:26.520><c> stars</c><00:10:27.060><c> the</c><00:10:27.330><c> jetty</c></c>
+
+00:10:27.590 --> 00:10:27.600 align:start position:0%
+removed the goal that<c.colorE5E5E5> stars the jetty
+ </c>
+
+00:10:27.600 --> 00:10:30.100 align:start position:0%
+removed the goal that<c.colorE5E5E5> stars the jetty
+web<00:10:27.930><c> server</c><00:10:28.260><c> and</c><00:10:28.620><c> the</c><00:10:28.830><c> web</c><00:10:28.860><c> application</c><00:10:29.700><c> and</c></c>
+
+00:10:30.100 --> 00:10:30.110 align:start position:0%
+web server and the web application<c.colorE5E5E5> and
+ </c>
+
+00:10:30.110 --> 00:10:34.040 align:start position:0%
+web server and the web application<c.colorE5E5E5> and
+click<00:10:31.110><c> on</c><00:10:31.260><c> save</c><00:10:31.850><c> next</c></c><c.colorCCCCCC><00:10:32.850><c> time</c><00:10:33.120><c> you</c></c><c.colorE5E5E5><00:10:33.420><c> run</c><00:10:33.570><c> the</c><00:10:33.630><c> job</c></c>
+
+00:10:34.040 --> 00:10:34.050 align:start position:0%
+click on save<c.colorE5E5E5> next</c><c.colorCCCCCC> time you</c><c.colorE5E5E5> run the job
+ </c>
+
+00:10:34.050 --> 00:10:38.600 align:start position:0%
+click on save<c.colorE5E5E5> next</c><c.colorCCCCCC> time you</c><c.colorE5E5E5> run the job
+he<00:10:34.740><c> won't</c><00:10:34.950><c> hang</c><00:10:35.310><c> indefinitely</c><00:10:37.280><c> this</c><00:10:38.280><c> is</c><00:10:38.460><c> the</c></c>
+
+00:10:38.600 --> 00:10:38.610 align:start position:0%
+<c.colorE5E5E5>he won't hang indefinitely this is the
+ </c>
+
+00:10:38.610 --> 00:10:40.790 align:start position:0%
+<c.colorE5E5E5>he won't hang indefinitely this is the
+end<00:10:38.730><c> of</c><00:10:38.850><c> this</c><00:10:39.060><c> video</c><00:10:39.540><c> where</c><00:10:40.080><c> we</c><00:10:40.260><c> covered</c><00:10:40.650><c> a</c></c>
+
+00:10:40.790 --> 00:10:40.800 align:start position:0%
+end of this<c.colorE5E5E5> video where we covered a
+ </c>
+
+00:10:40.800 --> 00:10:43.820 align:start position:0%
+end of this<c.colorE5E5E5> video where we covered a
+typical<00:10:41.340><c> CI</c><00:10:41.610><c> workflow</c></c><c.colorCCCCCC><00:10:42.330><c> introduce</c><00:10:43.230><c> the</c><00:10:43.440><c> maven</c></c>
+
+00:10:43.820 --> 00:10:43.830 align:start position:0%
+typical CI workflow<c.colorCCCCCC> introduce the maven
+ </c>
+
+00:10:43.830 --> 00:10:46.280 align:start position:0%
+typical CI workflow<c.colorCCCCCC> introduce the maven
+build<00:10:44.040><c> tool</c><00:10:44.460><c> and</c><00:10:44.700><c> started</c><00:10:45.690><c> a</c><00:10:45.780><c> practical</c></c>
+
+00:10:46.280 --> 00:10:46.290 align:start position:0%
+build tool and started a practical
+ 
+
+00:10:46.290 --> 00:10:49.580 align:start position:0%
+build tool and started a practical
+implementation<c.colorCCCCCC><00:10:46.500><c> of</c><00:10:47.280><c> the</c><00:10:47.550><c> CI</c><00:10:47.820><c> workflow</c></c><c.colorE5E5E5><00:10:48.590><c> watch</c></c>
+
+00:10:49.580 --> 00:10:49.590 align:start position:0%
+implementation<c.colorCCCCCC> of the CI workflow</c><c.colorE5E5E5> watch
+ </c>
+
+00:10:49.590 --> 00:10:52.370 align:start position:0%
+implementation<c.colorCCCCCC> of the CI workflow</c><c.colorE5E5E5> watch
+the<00:10:49.920><c> next</c><00:10:50.100><c> video</c><00:10:50.340><c> where</c><00:10:51.090><c> we</c></c><c.colorCCCCCC><00:10:51.300><c> will</c><00:10:51.420><c> continue</c><00:10:51.660><c> by</c></c>
+
+00:10:52.370 --> 00:10:52.380 align:start position:0%
+the next video where we<c.colorCCCCCC> will continue by
+ </c>
+
+00:10:52.380 --> 00:10:54.920 align:start position:0%
+the next video where we<c.colorCCCCCC> will continue by
+setting</c><c.colorE5E5E5><00:10:52.920><c> up</c><00:10:53.070><c> the</c><00:10:53.250><c> testing</c><00:10:53.760><c> part</c><00:10:54.000><c> of</c><00:10:54.360><c> the</c><00:10:54.690><c> CI</c></c>
+
+00:10:54.920 --> 00:10:54.930 align:start position:0%
+setting<c.colorE5E5E5> up the testing part of the CI
+ </c>
+
+00:10:54.930 --> 00:10:57.650 align:start position:0%
+setting<c.colorE5E5E5> up the testing part of the CI
+workflow</c>
+

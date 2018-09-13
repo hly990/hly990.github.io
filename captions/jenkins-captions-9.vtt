@@ -1,0 +1,1182 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.250 --> 00:00:02.820 align:start position:0%
+ 
+in<00:00:00.819><c> this</c><00:00:01.030><c> video</c><c.colorCCCCCC><00:00:01.300><c> we</c></c><c.colorE5E5E5><00:00:01.870><c> are</c><00:00:01.930><c> going</c><00:00:02.050><c> to</c><00:00:02.230><c> extend</c><00:00:02.560><c> the</c></c>
+
+00:00:02.820 --> 00:00:02.830 align:start position:0%
+in this video<c.colorCCCCCC> we</c><c.colorE5E5E5> are going to extend the
+ </c>
+
+00:00:02.830 --> 00:00:04.949 align:start position:0%
+in this video<c.colorCCCCCC> we</c><c.colorE5E5E5> are going to extend the
+first<00:00:03.070><c> Jenkins</c><00:00:03.639><c> job</c><00:00:03.909><c> I</c><00:00:04.089><c> created</c><00:00:04.660><c> in</c><00:00:04.839><c> the</c></c>
+
+00:00:04.949 --> 00:00:04.959 align:start position:0%
+first Jenkins job<c.colorE5E5E5> I created in the
+ </c>
+
+00:00:04.959 --> 00:00:07.019 align:start position:0%
+first Jenkins job<c.colorE5E5E5> I created in the
+previous<00:00:05.289><c> video</c></c><c.colorCCCCCC><00:00:05.499><c> you</c><00:00:06.370><c> will</c><00:00:06.519><c> learn</c></c><c.colorE5E5E5><00:00:06.549><c> how</c><00:00:06.999><c> to</c></c>
+
+00:00:07.019 --> 00:00:07.029 align:start position:0%
+<c.colorE5E5E5>previous video</c><c.colorCCCCCC> you will learn</c><c.colorE5E5E5> how to
+ </c>
+
+00:00:07.029 --> 00:00:09.690 align:start position:0%
+<c.colorE5E5E5>previous video</c><c.colorCCCCCC> you will learn</c><c.colorE5E5E5> how to
+pull<00:00:07.450><c> from</c><00:00:07.749><c> github</c></c><c.colorCCCCCC><00:00:08.010><c> only</c><00:00:09.010><c> the</c><00:00:09.160><c> code</c><00:00:09.370><c> that</c><00:00:09.520><c> you</c></c>
+
+00:00:09.690 --> 00:00:09.700 align:start position:0%
+pull<c.colorE5E5E5> from github</c><c.colorCCCCCC> only the code that you
+ </c>
+
+00:00:09.700 --> 00:00:11.880 align:start position:0%
+pull<c.colorE5E5E5> from github</c><c.colorCCCCCC> only the code that you</c>
+<c.colorE5E5E5>need<00:00:09.880><c> for</c><00:00:10.150><c> the</c><00:00:10.270><c> job</c></c><c.colorCCCCCC><00:00:10.300><c> how</c><00:00:11.110><c> to</c><00:00:11.140><c> pass</c><00:00:11.560><c> a</c><00:00:11.590><c> parameter</c></c>
+
+00:00:11.880 --> 00:00:11.890 align:start position:0%
+<c.colorE5E5E5>need for the job</c><c.colorCCCCCC> how to pass a parameter
+ </c>
+
+00:00:11.890 --> 00:00:14.880 align:start position:0%
+<c.colorE5E5E5>need for the job</c><c.colorCCCCCC> how to pass a parameter</c>
+<c.colorCCCCCC>to<00:00:12.460><c> a</c><00:00:12.490><c> Jenkins</c><00:00:13.000><c> job</c></c><c.colorE5E5E5><00:00:13.300><c> and</c><00:00:13.570><c> how</c><00:00:14.260><c> to</c><00:00:14.320><c> build</c><00:00:14.680><c> the</c></c>
+
+00:00:14.880 --> 00:00:14.890 align:start position:0%
+<c.colorCCCCCC>to a Jenkins job</c><c.colorE5E5E5> and how to build the
+ </c>
+
+00:00:14.890 --> 00:00:17.519 align:start position:0%
+<c.colorCCCCCC>to a Jenkins job</c><c.colorE5E5E5> and how to build the
+job<00:00:15.100><c> periodically</c></c><c.colorCCCCCC><00:00:15.910><c> without</c><00:00:16.660><c> any</c><00:00:16.869><c> further</c><00:00:17.140><c> ado</c></c>
+
+00:00:17.519 --> 00:00:17.529 align:start position:0%
+job periodically<c.colorCCCCCC> without any further ado
+ </c>
+
+00:00:17.529 --> 00:00:20.939 align:start position:0%
+job periodically<c.colorCCCCCC> without any further ado
+let's<00:00:17.740><c> extend</c></c><c.colorE5E5E5><00:00:18.609><c> the</c><00:00:18.999><c> Jenkins</c><00:00:19.419><c> job</c><00:00:19.689><c> we</c><00:00:20.650><c> start</c></c>
+
+00:00:20.939 --> 00:00:20.949 align:start position:0%
+let's<c.colorCCCCCC> extend</c><c.colorE5E5E5> the Jenkins job we start
+ </c>
+
+00:00:20.949 --> 00:00:22.829 align:start position:0%
+let's<c.colorCCCCCC> extend</c><c.colorE5E5E5> the Jenkins job we start
+from<00:00:21.189><c> where</c><00:00:21.460><c> we</c></c><c.colorCCCCCC><00:00:21.490><c> left</c><00:00:21.909><c> in</c><00:00:22.150><c> the</c></c><c.colorE5E5E5><00:00:22.269><c> previous</c><00:00:22.449><c> video</c></c>
+
+00:00:22.829 --> 00:00:22.839 align:start position:0%
+from where we<c.colorCCCCCC> left in the</c><c.colorE5E5E5> previous video
+ </c>
+
+00:00:22.839 --> 00:00:25.229 align:start position:0%
+from where we<c.colorCCCCCC> left in the</c><c.colorE5E5E5> previous video
+when</c><c.colorCCCCCC><00:00:23.650><c> we</c><00:00:23.769><c> successfully</c><00:00:24.460><c> run</c><00:00:24.669><c> our</c><00:00:24.939><c> first</c></c>
+
+00:00:25.229 --> 00:00:25.239 align:start position:0%
+when<c.colorCCCCCC> we successfully run our first
+ </c>
+
+00:00:25.239 --> 00:00:27.859 align:start position:0%
+when<c.colorCCCCCC> we successfully run our first
+Jenkins<00:00:25.810><c> job</c><00:00:26.109><c> if</c><00:00:26.439><c> we</c><00:00:27.009><c> look</c><00:00:27.159><c> at</c><00:00:27.339><c> the</c><00:00:27.429><c> workspace</c></c>
+
+00:00:27.859 --> 00:00:27.869 align:start position:0%
+Jenkins job<c.colorCCCCCC> if we look at the workspace
+ </c>
+
+00:00:27.869 --> 00:00:30.389 align:start position:0%
+Jenkins job<c.colorCCCCCC> if we look at the workspace</c>
+<c.colorE5E5E5>we<00:00:28.869><c> can</c><00:00:29.050><c> see</c><00:00:29.259><c> that</c><00:00:29.409><c> the</c><00:00:29.560><c> full</c><00:00:29.859><c> github</c></c>
+
+00:00:30.389 --> 00:00:30.399 align:start position:0%
+<c.colorE5E5E5>we can see that the full github
+ </c>
+
+00:00:30.399 --> 00:00:32.580 align:start position:0%
+<c.colorE5E5E5>we can see that the full github
+repository<00:00:31.089><c> was</c><00:00:31.329><c> downloaded</c><00:00:32.050><c> to</c><00:00:32.200><c> build</c><00:00:32.380><c> this</c></c>
+
+00:00:32.580 --> 00:00:32.590 align:start position:0%
+repository was downloaded to build<c.colorE5E5E5> this
+ </c>
+
+00:00:32.590 --> 00:00:35.760 align:start position:0%
+repository was downloaded to build<c.colorE5E5E5> this
+job<00:00:32.920><c> this</c><00:00:33.820><c> is</c><00:00:34.030><c> unnecessary</c></c><c.colorCCCCCC><00:00:34.380><c> since</c></c><c.colorE5E5E5><00:00:35.380><c> we</c></c><c.colorCCCCCC><00:00:35.620><c> only</c></c>
+
+00:00:35.760 --> 00:00:35.770 align:start position:0%
+job<c.colorE5E5E5> this is unnecessary</c><c.colorCCCCCC> since</c><c.colorE5E5E5> we</c><c.colorCCCCCC> only
+ </c>
+
+00:00:35.770 --> 00:00:38.880 align:start position:0%
+job<c.colorE5E5E5> this is unnecessary</c><c.colorCCCCCC> since</c><c.colorE5E5E5> we</c><c.colorCCCCCC> only
+need<00:00:36.070><c> a</c><00:00:36.100><c> single</c></c><c.colorE5E5E5><00:00:36.460><c> script</c><00:00:36.970><c> to</c><00:00:37.330><c> run</c><00:00:37.510><c> this</c><00:00:37.690><c> job</c><00:00:37.960><c> if</c></c>
+
+00:00:38.880 --> 00:00:38.890 align:start position:0%
+need a single<c.colorE5E5E5> script to run this job if
+ </c>
+
+00:00:38.890 --> 00:00:41.160 align:start position:0%
+need a single<c.colorE5E5E5> script to run this job if
+you<00:00:39.160><c> pull</c><00:00:39.370><c> a</c><00:00:39.400><c> large</c><00:00:39.790><c> code</c><00:00:40.150><c> base</c><00:00:40.420><c> each</c><00:00:40.720><c> time</c></c>
+
+00:00:41.160 --> 00:00:41.170 align:start position:0%
+you pull a large code base each time
+ 
+
+00:00:41.170 --> 00:00:43.980 align:start position:0%
+you pull a large code base each time
+your<00:00:42.010><c> Jenkins</c><00:00:42.400><c> job</c><00:00:42.670><c> will</c><00:00:43.000><c> take</c><c.colorE5E5E5><00:00:43.150><c> longer</c><00:00:43.540><c> to</c></c>
+
+00:00:43.980 --> 00:00:43.990 align:start position:0%
+your Jenkins job will take<c.colorE5E5E5> longer to
+ </c>
+
+00:00:43.990 --> 00:00:46.830 align:start position:0%
+your Jenkins job will take<c.colorE5E5E5> longer to
+execute<00:00:44.220><c> you</c><00:00:45.220><c> can</c><00:00:45.370><c> avoid</c><00:00:45.640><c> this</c></c><c.colorCCCCCC><00:00:46.000><c> by</c><00:00:46.480><c> pulling</c></c>
+
+00:00:46.830 --> 00:00:46.840 align:start position:0%
+execute<c.colorE5E5E5> you can avoid this</c><c.colorCCCCCC> by pulling
+ </c>
+
+00:00:46.840 --> 00:00:49.370 align:start position:0%
+execute<c.colorE5E5E5> you can avoid this</c><c.colorCCCCCC> by pulling</c>
+<c.colorE5E5E5>from<00:00:47.170><c> github</c></c><c.colorCCCCCC><00:00:47.440><c> only</c><00:00:48.400><c> the</c><00:00:48.520><c> code</c><00:00:48.730><c> that</c></c><c.colorE5E5E5><00:00:48.910><c> you</c><00:00:49.090><c> need</c></c>
+
+00:00:49.370 --> 00:00:49.380 align:start position:0%
+<c.colorE5E5E5>from github</c><c.colorCCCCCC> only the code that</c><c.colorE5E5E5> you need
+ </c>
+
+00:00:49.380 --> 00:00:52.980 align:start position:0%
+<c.colorE5E5E5>from github</c><c.colorCCCCCC> only the code that</c><c.colorE5E5E5> you need
+let's<00:00:50.380><c> see</c><00:00:50.560><c> how</c><00:00:50.770><c> to</c><00:00:50.830><c> do</c><00:00:51.130><c> this</c><00:00:51.780><c> click</c><00:00:52.780><c> on</c></c>
+
+00:00:52.980 --> 00:00:52.990 align:start position:0%
+let's see how to do this<c.colorE5E5E5> click on
+ </c>
+
+00:00:52.990 --> 00:00:55.410 align:start position:0%
+let's see how to do this<c.colorE5E5E5> click on
+configure<00:00:53.650><c> to</c><00:00:54.190><c> change</c><00:00:54.460><c> the</c><00:00:54.640><c> configuration</c></c><c.colorCCCCCC><00:00:54.820><c> of</c></c>
+
+00:00:55.410 --> 00:00:55.420 align:start position:0%
+<c.colorE5E5E5>configure to change the configuration</c><c.colorCCCCCC> of
+ </c>
+
+00:00:55.420 --> 00:00:58.550 align:start position:0%
+<c.colorE5E5E5>configure to change the configuration</c><c.colorCCCCCC> of</c>
+<c.colorE5E5E5>this<00:00:55.660><c> job</c><00:00:56.050><c> and</c><00:00:56.340><c> the</c><00:00:57.340><c> source</c><00:00:57.640><c> code</c><00:00:58.060><c> management</c></c>
+
+00:00:58.550 --> 00:00:58.560 align:start position:0%
+<c.colorE5E5E5>this job and the source code management
+ </c>
+
+00:00:58.560 --> 00:01:02.540 align:start position:0%
+<c.colorE5E5E5>this job and the source code management</c>
+<c.colorCCCCCC>go<00:00:59.560><c> to</c><00:00:59.620><c> additional</c><00:01:00.460><c> behaviors</c></c><c.colorE5E5E5><00:01:01.030><c> click</c></c><c.colorCCCCCC><00:01:01.960><c> add</c></c>
+
+00:01:02.540 --> 00:01:02.550 align:start position:0%
+<c.colorCCCCCC>go to additional behaviors</c><c.colorE5E5E5> click</c><c.colorCCCCCC> add
+ </c>
+
+00:01:02.550 --> 00:01:05.820 align:start position:0%
+<c.colorCCCCCC>go to additional behaviors</c><c.colorE5E5E5> click</c><c.colorCCCCCC> add
+scroll<00:01:03.550><c> down</c><00:01:03.880><c> and</c></c><c.colorE5E5E5><00:01:04.210><c> select</c><00:01:04.900><c> the</c><00:01:05.350><c> sparse</c></c>
+
+00:01:05.820 --> 00:01:05.830 align:start position:0%
+scroll<c.colorCCCCCC> down and</c><c.colorE5E5E5> select the sparse
+ </c>
+
+00:01:05.830 --> 00:01:09.780 align:start position:0%
+scroll<c.colorCCCCCC> down and</c><c.colorE5E5E5> select the sparse</c>
+<c.colorE5E5E5>checkout<00:01:06.670><c> paths</c><00:01:07.180><c> a</c><00:01:07.890><c> sparse</c><00:01:08.890><c> check</c><00:01:09.280><c> out</c><00:01:09.490><c> in</c></c>
+
+00:01:09.780 --> 00:01:09.790 align:start position:0%
+<c.colorE5E5E5>checkout paths a sparse check out in
+ </c>
+
+00:01:09.790 --> 00:01:12.360 align:start position:0%
+<c.colorE5E5E5>checkout paths a sparse check out in
+gate<00:01:10.090><c> allows</c><00:01:10.810><c> you</c><00:01:11.020><c> to</c><00:01:11.200><c> pull</c><00:01:11.470><c> out</c></c><c.colorCCCCCC><00:01:11.500><c> only</c><00:01:12.250><c> the</c></c>
+
+00:01:12.360 --> 00:01:12.370 align:start position:0%
+gate allows you to pull out<c.colorCCCCCC> only the
+ </c>
+
+00:01:12.370 --> 00:01:15.390 align:start position:0%
+gate allows you to pull out<c.colorCCCCCC> only the
+code</c><c.colorE5E5E5><00:01:12.640><c> within</c><00:01:13.090><c> a</c></c><c.colorCCCCCC><00:01:13.210><c> specific</c><00:01:13.720><c> directory</c></c><c.colorE5E5E5><00:01:14.250><c> in</c><00:01:15.250><c> our</c></c>
+
+00:01:15.390 --> 00:01:15.400 align:start position:0%
+code<c.colorE5E5E5> within a</c><c.colorCCCCCC> specific directory</c><c.colorE5E5E5> in our
+ </c>
+
+00:01:15.400 --> 00:01:17.700 align:start position:0%
+code<c.colorE5E5E5> within a</c><c.colorCCCCCC> specific directory</c><c.colorE5E5E5> in our
+case<00:01:15.700><c> we</c><00:01:16.300><c> want</c></c><c.colorCCCCCC><00:01:16.420><c> to</c></c><c.colorE5E5E5><00:01:16.600><c> retrieve</c><00:01:16.900><c> only</c></c><c.colorCCCCCC><00:01:17.080><c> the</c><00:01:17.470><c> code</c></c>
+
+00:01:17.700 --> 00:01:17.710 align:start position:0%
+case we want<c.colorCCCCCC> to</c><c.colorE5E5E5> retrieve only</c><c.colorCCCCCC> the code
+ </c>
+
+00:01:17.710 --> 00:01:20.730 align:start position:0%
+case we want<c.colorCCCCCC> to</c><c.colorE5E5E5> retrieve only</c><c.colorCCCCCC> the code
+in<00:01:18.010><c> section</c><00:01:18.520><c> under</c><00:01:18.970><c> school</c></c><c.colorE5E5E5><00:01:19.240><c> to</c><00:01:19.630><c> forward</c><00:01:20.530><c> slash</c></c>
+
+00:01:20.730 --> 00:01:20.740 align:start position:0%
+in section under school<c.colorE5E5E5> to forward slash
+ </c>
+
+00:01:20.740 --> 00:01:24.570 align:start position:0%
+in section under school<c.colorE5E5E5> to forward slash
+code<00:01:22.020><c> save</c><00:01:23.020><c> the</c><00:01:23.290><c> new</c><00:01:23.470><c> configuration</c></c><c.colorCCCCCC><00:01:23.580><c> and</c></c>
+
+00:01:24.570 --> 00:01:24.580 align:start position:0%
+code save the new configuration<c.colorCCCCCC> and
+ </c>
+
+00:01:24.580 --> 00:01:27.030 align:start position:0%
+code save the new configuration<c.colorCCCCCC> and
+delete<00:01:25.300><c> the</c><00:01:25.450><c> current</c><00:01:25.600><c> workspace</c><00:01:26.170><c> by</c><00:01:27.010><c> clicking</c></c>
+
+00:01:27.030 --> 00:01:27.040 align:start position:0%
+delete the current<c.colorCCCCCC> workspace by clicking
+ </c>
+
+00:01:27.040 --> 00:01:30.780 align:start position:0%
+delete the current<c.colorCCCCCC> workspace by clicking</c>
+<c.colorCCCCCC>on<00:01:27.580><c> workspace</c><00:01:28.320><c> wipe</c><00:01:29.320><c> out</c><00:01:29.650><c> current</c><00:01:30.370><c> workspace</c></c>
+
+00:01:30.780 --> 00:01:30.790 align:start position:0%
+<c.colorCCCCCC>on workspace wipe out current workspace
+ </c>
+
+00:01:30.790 --> 00:01:34.620 align:start position:0%
+<c.colorCCCCCC>on workspace wipe out current workspace</c>
+<c.colorE5E5E5>and<00:01:31.299><c> confirm</c><00:01:32.200><c> the</c></c><c.colorCCCCCC><00:01:32.440><c> action</c><00:01:32.880><c> this</c></c><c.colorE5E5E5><00:01:33.880><c> allows</c><00:01:34.330><c> to</c></c>
+
+00:01:34.620 --> 00:01:34.630 align:start position:0%
+<c.colorE5E5E5>and confirm the</c><c.colorCCCCCC> action this</c><c.colorE5E5E5> allows to
+ </c>
+
+00:01:34.630 --> 00:01:37.649 align:start position:0%
+<c.colorE5E5E5>and confirm the</c><c.colorCCCCCC> action this</c><c.colorE5E5E5> allows to
+start<00:01:34.900><c> from</c><00:01:35.080><c> a</c><00:01:35.200><c> fresh</c><00:01:35.409><c> workspace</c><00:01:36.310><c> and</c><00:01:36.670><c> force</c><00:01:37.479><c> a</c></c>
+
+00:01:37.649 --> 00:01:37.659 align:start position:0%
+start from a fresh workspace<c.colorE5E5E5> and force a
+ </c>
+
+00:01:37.659 --> 00:01:40.789 align:start position:0%
+start from a fresh workspace<c.colorE5E5E5> and force a
+new<00:01:37.690><c> code</c><00:01:38.320><c> pool</c><00:01:38.740><c> at</c><00:01:39.100><c> the</c><00:01:39.490><c> next</c><00:01:39.760><c> job</c><00:01:39.970><c> execution</c></c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+new<c.colorE5E5E5> code pool at the next job execution
+ </c>
+
+00:01:40.799 --> 00:01:43.920 align:start position:0%
+new<c.colorE5E5E5> code pool at the next job execution</c>
+<c.colorE5E5E5>finally<00:01:41.799><c> run</c><00:01:42.340><c> the</c><00:01:42.490><c> job</c><00:01:42.729><c> by</c><00:01:43.060><c> clicking</c><00:01:43.479><c> on</c><00:01:43.600><c> build</c></c>
+
+00:01:43.920 --> 00:01:43.930 align:start position:0%
+<c.colorE5E5E5>finally run the job by clicking on build
+ </c>
+
+00:01:43.930 --> 00:01:48.149 align:start position:0%
+<c.colorE5E5E5>finally run the job by clicking on build
+now<00:01:45.090><c> if</c><00:01:46.090><c> you</c><00:01:46.330><c> access</c><00:01:46.630><c> the</c><00:01:46.690><c> workspace</c><00:01:47.440><c> you</c><00:01:48.130><c> will</c></c>
+
+00:01:48.149 --> 00:01:48.159 align:start position:0%
+now if you access the workspace<c.colorE5E5E5> you will
+ </c>
+
+00:01:48.159 --> 00:01:50.969 align:start position:0%
+now if you access the workspace<c.colorE5E5E5> you will</c>
+<c.colorE5E5E5>see<00:01:48.460><c> that</c><00:01:48.640><c> now</c></c><c.colorCCCCCC><00:01:49.030><c> only</c><00:01:49.780><c> the</c><00:01:49.900><c> code</c><00:01:50.170><c> inside</c><00:01:50.770><c> the</c></c>
+
+00:01:50.969 --> 00:01:50.979 align:start position:0%
+<c.colorE5E5E5>see that now</c><c.colorCCCCCC> only the code inside the
+ </c>
+
+00:01:50.979 --> 00:01:54.180 align:start position:0%
+<c.colorE5E5E5>see that now</c><c.colorCCCCCC> only the code inside the
+specified<00:01:51.549><c> directory</c></c><c.colorE5E5E5><00:01:51.760><c> is</c><00:01:52.330><c> pulled</c><00:01:52.720><c> out</c><00:01:53.190><c> we</c></c>
+
+00:01:54.180 --> 00:01:54.190 align:start position:0%
+specified directory<c.colorE5E5E5> is pulled out we
+ </c>
+
+00:01:54.190 --> 00:01:56.460 align:start position:0%
+specified directory<c.colorE5E5E5> is pulled out we
+saved<00:01:54.460><c> space</c><00:01:54.880><c> on</c><00:01:55.180><c> our</c><00:01:55.270><c> machine</c><00:01:55.780><c> and</c><00:01:55.960><c> the</c><00:01:56.260><c> job</c></c>
+
+00:01:56.460 --> 00:01:56.470 align:start position:0%
+saved space on our machine<c.colorE5E5E5> and the job
+ </c>
+
+00:01:56.470 --> 00:01:58.710 align:start position:0%
+saved space on our machine<c.colorE5E5E5> and the job
+executed</c><c.colorCCCCCC><00:01:57.130><c> faster</c><00:01:57.640><c> you</c><00:01:58.090><c> will</c><00:01:58.210><c> notice</c><00:01:58.570><c> the</c></c>
+
+00:01:58.710 --> 00:01:58.720 align:start position:0%
+executed<c.colorCCCCCC> faster you will notice the
+ </c>
+
+00:01:58.720 --> 00:02:00.469 align:start position:0%
+executed<c.colorCCCCCC> faster you will notice the
+difference<00:01:58.750><c> when</c><00:01:59.409><c> you</c><00:01:59.439><c> pool</c></c><c.colorE5E5E5><00:01:59.860><c> large</c></c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+difference<c.colorCCCCCC> when you pool</c><c.colorE5E5E5> large
+ </c>
+
+00:02:00.479 --> 00:02:04.380 align:start position:0%
+difference<c.colorCCCCCC> when you pool</c><c.colorE5E5E5> large
+repositories<00:02:02.010><c> now</c><00:02:03.010><c> let's</c><00:02:03.729><c> look</c><00:02:03.970><c> at</c><00:02:04.150><c> how</c><00:02:04.360><c> to</c></c>
+
+00:02:04.380 --> 00:02:04.390 align:start position:0%
+repositories<c.colorE5E5E5> now let's look at how to
+ </c>
+
+00:02:04.390 --> 00:02:07.410 align:start position:0%
+repositories<c.colorE5E5E5> now let's look at how to
+pass<00:02:04.900><c> a</c><00:02:04.930><c> parameter</c><00:02:05.350><c> in</c><00:02:05.950><c> Jenkins</c></c>
+
+00:02:07.410 --> 00:02:07.420 align:start position:0%
+pass a parameter<c.colorE5E5E5> in Jenkins
+ </c>
+
+00:02:07.420 --> 00:02:10.020 align:start position:0%
+pass a parameter<c.colorE5E5E5> in Jenkins
+for<00:02:07.840><c> illustrating</c><00:02:08.710><c> this</c><00:02:08.979><c> we</c><00:02:09.640><c> are</c><00:02:09.729><c> going</c><00:02:09.910><c> to</c></c>
+
+00:02:10.020 --> 00:02:10.030 align:start position:0%
+for illustrating this we are going to
+ 
+
+00:02:10.030 --> 00:02:12.630 align:start position:0%
+for illustrating this we are going to
+use<00:02:10.210><c> a</c><00:02:10.240><c> different</c><c.colorE5E5E5><00:02:10.509><c> script</c><00:02:11.020><c> named</c><00:02:11.920><c> Ella</c></c><c.colorCCCCCC><00:02:12.250><c> World</c></c>
+
+00:02:12.630 --> 00:02:12.640 align:start position:0%
+use a different<c.colorE5E5E5> script named Ella</c><c.colorCCCCCC> World
+ </c>
+
+00:02:12.640 --> 00:02:17.370 align:start position:0%
+use a different<c.colorE5E5E5> script named Ella</c><c.colorCCCCCC> World
+and<00:02:12.940><c> the</c><00:02:12.970><c> school</c><00:02:13.800><c> parameter</c><00:02:14.800><c> dot</c><00:02:15.310><c> sh</c></c><c.colorE5E5E5><00:02:16.350><c> you</c><00:02:17.350><c> can</c></c>
+
+00:02:17.370 --> 00:02:17.380 align:start position:0%
+and the<c.colorCCCCCC> school parameter dot sh</c><c.colorE5E5E5> you can
+ </c>
+
+00:02:17.380 --> 00:02:19.650 align:start position:0%
+and the<c.colorCCCCCC> school parameter dot sh</c><c.colorE5E5E5> you can</c>
+<c.colorCCCCCC>inspect<00:02:17.830><c> the</c><00:02:18.010><c> code</c><00:02:18.220><c> of</c><00:02:18.430><c> this</c><00:02:18.580><c> shell</c><00:02:18.970><c> script</c></c><c.colorE5E5E5><00:02:19.390><c> on</c></c>
+
+00:02:19.650 --> 00:02:19.660 align:start position:0%
+<c.colorCCCCCC>inspect the code of this shell script</c><c.colorE5E5E5> on
+ </c>
+
+00:02:19.660 --> 00:02:22.320 align:start position:0%
+<c.colorCCCCCC>inspect the code of this shell script</c><c.colorE5E5E5> on
+the<00:02:19.840><c> companion</c><00:02:20.200><c> github</c><00:02:20.830><c> repository</c></c><c.colorCCCCCC><00:02:21.550><c> to</c><00:02:22.209><c> this</c></c>
+
+00:02:22.320 --> 00:02:22.330 align:start position:0%
+the companion github repository<c.colorCCCCCC> to this
+ </c>
+
+00:02:22.330 --> 00:02:25.260 align:start position:0%
+the companion github repository<c.colorCCCCCC> to this
+video<00:02:22.750><c> course</c><00:02:23.070><c> we</c><00:02:24.070><c> want</c><00:02:24.280><c> to</c></c><c.colorE5E5E5><00:02:24.340><c> customize</c><00:02:25.000><c> the</c></c>
+
+00:02:25.260 --> 00:02:25.270 align:start position:0%
+video course we want to<c.colorE5E5E5> customize the
+ </c>
+
+00:02:25.270 --> 00:02:27.990 align:start position:0%
+video course we want to<c.colorE5E5E5> customize the
+message<00:02:25.420><c> display</c><00:02:26.200><c> to</c><00:02:26.260><c> the</c><00:02:26.500><c> output</c><00:02:27.040><c> so</c><00:02:27.520><c> instead</c></c>
+
+00:02:27.990 --> 00:02:28.000 align:start position:0%
+message<c.colorE5E5E5> display to the output so instead
+ </c>
+
+00:02:28.000 --> 00:02:30.270 align:start position:0%
+message<c.colorE5E5E5> display to the output so instead
+of<00:02:28.060><c> the</c><00:02:28.330><c> string</c><00:02:28.630><c> hello</c><00:02:28.870><c> world</c></c><c.colorCCCCCC><00:02:29.110><c> we</c><00:02:30.070><c> use</c><00:02:30.250><c> a</c></c>
+
+00:02:30.270 --> 00:02:30.280 align:start position:0%
+of<c.colorE5E5E5> the string hello world</c><c.colorCCCCCC> we use a
+ </c>
+
+00:02:30.280 --> 00:02:33.510 align:start position:0%
+of<c.colorE5E5E5> the string hello world</c><c.colorCCCCCC> we use a
+variable<00:02:30.730><c> called</c></c><c.colorE5E5E5><00:02:31.270><c> name</c><00:02:32.040><c> inside</c><00:02:33.040><c> the</c><00:02:33.280><c> shell</c></c>
+
+00:02:33.510 --> 00:02:33.520 align:start position:0%
+variable<c.colorCCCCCC> called</c><c.colorE5E5E5> name inside the shell
+ </c>
+
+00:02:33.520 --> 00:02:36.570 align:start position:0%
+variable<c.colorCCCCCC> called</c><c.colorE5E5E5> name inside the shell
+script<00:02:34.080><c> this</c><00:02:35.080><c> variable</c><00:02:35.709><c> is</c><00:02:35.890><c> passed</c><00:02:36.280><c> directly</c></c>
+
+00:02:36.570 --> 00:02:36.580 align:start position:0%
+script<c.colorE5E5E5> this variable is passed directly
+ </c>
+
+00:02:36.580 --> 00:02:40.140 align:start position:0%
+script<c.colorE5E5E5> this variable is passed directly
+from<00:02:37.239><c> the</c><00:02:37.420><c> Jenkins</c><00:02:37.840><c> job</c><00:02:38.220><c> let's</c><00:02:39.220><c> see</c><00:02:39.459><c> how</c><00:02:39.730><c> to</c><00:02:39.790><c> do</c></c>
+
+00:02:40.140 --> 00:02:40.150 align:start position:0%
+from the<c.colorE5E5E5> Jenkins job let's see how to do
+ </c>
+
+00:02:40.150 --> 00:02:44.070 align:start position:0%
+from the<c.colorE5E5E5> Jenkins job let's see how to do
+that</c><c.colorCCCCCC><00:02:40.180><c> go</c><00:02:41.010><c> back</c><00:02:42.010><c> to</c></c><c.colorE5E5E5><00:02:42.040><c> Jenkins</c><00:02:42.760><c> and</c><00:02:43.030><c> click</c><00:02:43.900><c> on</c></c>
+
+00:02:44.070 --> 00:02:44.080 align:start position:0%
+that<c.colorCCCCCC> go back to</c><c.colorE5E5E5> Jenkins and click on
+ </c>
+
+00:02:44.080 --> 00:02:46.650 align:start position:0%
+that<c.colorCCCCCC> go back to</c><c.colorE5E5E5> Jenkins and click on
+configure</c><c.colorCCCCCC><00:02:44.350><c> to</c><00:02:45.250><c> access</c><00:02:45.670><c> the</c><00:02:45.820><c> configuration</c></c><c.colorE5E5E5><00:02:46.000><c> of</c></c>
+
+00:02:46.650 --> 00:02:46.660 align:start position:0%
+configure<c.colorCCCCCC> to access the configuration</c><c.colorE5E5E5> of
+ </c>
+
+00:02:46.660 --> 00:02:50.370 align:start position:0%
+configure<c.colorCCCCCC> to access the configuration</c><c.colorE5E5E5> of
+the<00:02:46.870><c> job</c><00:02:47.110><c> in</c><00:02:48.100><c> general</c></c><c.colorCCCCCC><00:02:48.670><c> we</c><00:02:49.510><c> take</c><00:02:49.750><c> the</c></c><c.colorE5E5E5><00:02:49.930><c> option</c></c>
+
+00:02:50.370 --> 00:02:50.380 align:start position:0%
+the job in general<c.colorCCCCCC> we take the</c><c.colorE5E5E5> option
+ </c>
+
+00:02:50.380 --> 00:02:53.610 align:start position:0%
+the job in general<c.colorCCCCCC> we take the</c><c.colorE5E5E5> option
+this<00:02:50.800><c> project</c><00:02:51.340><c> is</c></c><c.colorCCCCCC><00:02:51.519><c> parameterised</c><00:02:52.360><c> and</c><00:02:52.840><c> click</c></c>
+
+00:02:53.610 --> 00:02:53.620 align:start position:0%
+<c.colorE5E5E5>this project is</c><c.colorCCCCCC> parameterised and click
+ </c>
+
+00:02:53.620 --> 00:02:57.210 align:start position:0%
+<c.colorE5E5E5>this project is</c><c.colorCCCCCC> parameterised and click
+on<00:02:53.769><c> add</c><00:02:53.980><c> parameter</c><00:02:54.910><c> and</c><00:02:55.350><c> string</c><00:02:56.350><c> parameter</c></c>
+
+00:02:57.210 --> 00:02:57.220 align:start position:0%
+on add parameter and string parameter
+ 
+
+00:02:57.220 --> 00:03:00.479 align:start position:0%
+on add parameter and string parameter
+and<00:02:57.450><c> the</c><00:02:58.450><c> name</c><c.colorE5E5E5><00:02:58.720><c> we</c><00:02:59.440><c> define</c><00:02:59.800><c> the</c><00:02:59.980><c> name</c><00:03:00.160><c> of</c><00:03:00.340><c> the</c></c>
+
+00:03:00.479 --> 00:03:00.489 align:start position:0%
+and the name<c.colorE5E5E5> we define the name of the
+ </c>
+
+00:03:00.489 --> 00:03:02.880 align:start position:0%
+and the name<c.colorE5E5E5> we define the name of the
+variable<00:03:00.670><c> associated</c><00:03:01.450><c> with</c></c><c.colorCCCCCC><00:03:01.870><c> this</c><00:03:02.440><c> string</c></c>
+
+00:03:02.880 --> 00:03:02.890 align:start position:0%
+variable associated<c.colorE5E5E5> with</c><c.colorCCCCCC> this string
+ </c>
+
+00:03:02.890 --> 00:03:05.460 align:start position:0%
+variable associated<c.colorE5E5E5> with</c><c.colorCCCCCC> this string
+parameter<00:03:03.580><c> if</c><00:03:04.090><c> we</c><00:03:04.630><c> look</c><00:03:04.780><c> at</c><00:03:04.930><c> the</c><00:03:05.050><c> code</c><00:03:05.260><c> on</c></c>
+
+00:03:05.460 --> 00:03:05.470 align:start position:0%
+parameter<c.colorCCCCCC> if we look at the code on
+ </c>
+
+00:03:05.470 --> 00:03:08.190 align:start position:0%
+parameter<c.colorCCCCCC> if we look at the code on
+github<00:03:05.700><c> we</c><00:03:06.700><c> can</c><00:03:06.880><c> see</c><00:03:07.120><c> that</c><00:03:07.330><c> the</c><00:03:07.450><c> variable</c><00:03:07.780><c> is</c></c>
+
+00:03:08.190 --> 00:03:08.200 align:start position:0%
+github<c.colorCCCCCC> we can see that the variable is
+ </c>
+
+00:03:08.200 --> 00:03:12.840 align:start position:0%
+github<c.colorCCCCCC> we can see that the variable is
+called</c><c.colorE5E5E5><00:03:08.530><c> name</c><00:03:09.360><c> therefore</c><00:03:10.360><c> we</c><00:03:10.840><c> type</c><00:03:11.080><c> name</c><00:03:11.850><c> you</c></c>
+
+00:03:12.840 --> 00:03:12.850 align:start position:0%
+called<c.colorE5E5E5> name therefore we type name you
+ </c>
+
+00:03:12.850 --> 00:03:15.360 align:start position:0%
+called<c.colorE5E5E5> name therefore we type name you
+can<00:03:13.030><c> add</c><00:03:13.180><c> a</c><00:03:13.390><c> default</c></c><c.colorCCCCCC><00:03:13.690><c> value</c></c><c.colorE5E5E5><00:03:14.010><c> this</c><00:03:15.010><c> will</c><00:03:15.190><c> be</c></c>
+
+00:03:15.360 --> 00:03:15.370 align:start position:0%
+can add a default<c.colorCCCCCC> value</c><c.colorE5E5E5> this will be
+ </c>
+
+00:03:15.370 --> 00:03:18.330 align:start position:0%
+can add a default<c.colorCCCCCC> value</c><c.colorE5E5E5> this will be
+picked<00:03:15.700><c> up</c><00:03:15.850><c> by</c><00:03:16.239><c> default</c><00:03:16.829><c> it</c><00:03:17.829><c> can</c><00:03:17.980><c> also</c><00:03:18.130><c> be</c></c>
+
+00:03:18.330 --> 00:03:18.340 align:start position:0%
+picked up<c.colorE5E5E5> by default it can also be
+ </c>
+
+00:03:18.340 --> 00:03:21.660 align:start position:0%
+picked up<c.colorE5E5E5> by default it can also be</c>
+<c.colorE5E5E5>overwritten<00:03:18.820><c> by</c></c><c.colorCCCCCC><00:03:19.060><c> the</c><00:03:19.360><c> user</c></c><c.colorE5E5E5><00:03:19.750><c> at</c><00:03:20.079><c> runtime</c></c><c.colorCCCCCC><00:03:20.670><c> we'll</c></c>
+
+00:03:21.660 --> 00:03:21.670 align:start position:0%
+<c.colorE5E5E5>overwritten by</c><c.colorCCCCCC> the user</c><c.colorE5E5E5> at runtime</c><c.colorCCCCCC> we'll
+ </c>
+
+00:03:21.670 --> 00:03:24.199 align:start position:0%
+<c.colorE5E5E5>overwritten by</c><c.colorCCCCCC> the user</c><c.colorE5E5E5> at runtime</c><c.colorCCCCCC> we'll
+see<00:03:21.880><c> how</c><00:03:22.060><c> to</c><00:03:22.120><c> do</c><00:03:22.390><c> this</c><00:03:22.570><c> when</c><00:03:22.930><c> we</c><00:03:23.079><c> run</c></c><c.colorE5E5E5><00:03:23.320><c> the</c><00:03:23.470><c> job</c></c>
+
+00:03:24.199 --> 00:03:24.209 align:start position:0%
+see how to do this when we run<c.colorE5E5E5> the job
+ </c>
+
+00:03:24.209 --> 00:03:27.539 align:start position:0%
+see how to do this when we run<c.colorE5E5E5> the job
+for<00:03:25.209><c> now</c><00:03:25.360><c> let's</c><00:03:25.900><c> put</c><00:03:26.140><c> Jenkins</c><00:03:26.709><c> as</c><00:03:26.920><c> default</c></c>
+
+00:03:27.539 --> 00:03:27.549 align:start position:0%
+for now let's put Jenkins as default
+ 
+
+00:03:27.549 --> 00:03:29.729 align:start position:0%
+for now let's put Jenkins as default
+value<00:03:28.000><c> is</c><00:03:28.209><c> always</c><00:03:29.019><c> good</c><00:03:29.260><c> to</c><c.colorCCCCCC><00:03:29.290><c> add</c><00:03:29.590><c> the</c></c>
+
+00:03:29.729 --> 00:03:29.739 align:start position:0%
+value is always good to<c.colorCCCCCC> add the
+ </c>
+
+00:03:29.739 --> 00:03:32.130 align:start position:0%
+value is always good to<c.colorCCCCCC> add the
+description<00:03:29.890><c> to</c><00:03:30.519><c> a</c><00:03:30.579><c> parameter</c><00:03:30.850><c> so</c><00:03:31.690><c> here</c><00:03:32.019><c> we</c></c>
+
+00:03:32.130 --> 00:03:32.140 align:start position:0%
+description<c.colorCCCCCC> to a parameter so here we
+ </c>
+
+00:03:32.140 --> 00:03:34.650 align:start position:0%
+description<c.colorCCCCCC> to a parameter so here we
+describe<00:03:32.590><c> what</c><00:03:32.860><c> this</c><00:03:33.250><c> parameter</c></c><c.colorE5E5E5><00:03:33.519><c> is</c><00:03:34.090><c> supposed</c></c>
+
+00:03:34.650 --> 00:03:34.660 align:start position:0%
+describe what<c.colorCCCCCC> this parameter</c><c.colorE5E5E5> is supposed
+ </c>
+
+00:03:34.660 --> 00:03:39.030 align:start position:0%
+describe what<c.colorCCCCCC> this parameter</c><c.colorE5E5E5> is supposed
+to<00:03:34.810><c> do</c><00:03:35.579><c> now</c><00:03:36.579><c> let's</c><00:03:37.269><c> go</c><00:03:37.510><c> to</c><00:03:37.570><c> build</c><00:03:37.989><c> section</c><00:03:38.590><c> and</c></c>
+
+00:03:39.030 --> 00:03:39.040 align:start position:0%
+to<c.colorE5E5E5> do now let's go to build section and
+ </c>
+
+00:03:39.040 --> 00:03:41.900 align:start position:0%
+to<c.colorE5E5E5> do now let's go to build section and
+change<00:03:39.850><c> the</c><00:03:40.150><c> script</c><00:03:40.450><c> used</c><00:03:40.959><c> to</c><00:03:41.260><c> run</c><00:03:41.440><c> this</c><00:03:41.620><c> build</c></c>
+
+00:03:41.900 --> 00:03:41.910 align:start position:0%
+change<c.colorE5E5E5> the script used to run this build
+ </c>
+
+00:03:41.910 --> 00:03:44.520 align:start position:0%
+change<c.colorE5E5E5> the script used to run this build</c>
+<c.colorE5E5E5>this<00:03:42.910><c> time</c><00:03:43.209><c> we</c><00:03:43.450><c> invoke</c><00:03:43.720><c> the</c><00:03:43.900><c> script</c></c><c.colorCCCCCC><00:03:44.230><c> hello</c></c>
+
+00:03:44.520 --> 00:03:44.530 align:start position:0%
+<c.colorE5E5E5>this time we invoke the script</c><c.colorCCCCCC> hello
+ </c>
+
+00:03:44.530 --> 00:03:48.289 align:start position:0%
+<c.colorE5E5E5>this time we invoke the script</c><c.colorCCCCCC> hello
+world<00:03:44.980><c> and</c><00:03:45.250><c> the</c></c><c.colorE5E5E5><00:03:45.489><c> scope</c><00:03:45.790><c> parameter</c><00:03:46.540><c> dot</c><00:03:47.019><c> Sh</c></c>
+
+00:03:48.289 --> 00:03:48.299 align:start position:0%
+world<c.colorCCCCCC> and the</c><c.colorE5E5E5> scope parameter dot Sh
+ </c>
+
+00:03:48.299 --> 00:03:51.390 align:start position:0%
+world<c.colorCCCCCC> and the</c><c.colorE5E5E5> scope parameter dot Sh
+finally<00:03:49.299><c> click</c></c><c.colorCCCCCC><00:03:49.780><c> on</c><00:03:49.989><c> save</c><00:03:50.260><c> to</c><00:03:50.530><c> save</c></c><c.colorE5E5E5><00:03:50.829><c> the</c><00:03:51.250><c> new</c></c>
+
+00:03:51.390 --> 00:03:51.400 align:start position:0%
+finally click<c.colorCCCCCC> on save to save</c><c.colorE5E5E5> the new
+ </c>
+
+00:03:51.400 --> 00:03:54.360 align:start position:0%
+finally click<c.colorCCCCCC> on save to save</c><c.colorE5E5E5> the new
+configuration</c><c.colorCCCCCC><00:03:52.380><c> you</c></c><c.colorE5E5E5><00:03:53.380><c> can</c><00:03:53.560><c> see</c><00:03:53.799><c> that</c><00:03:53.980><c> the</c><00:03:54.100><c> side</c></c>
+
+00:03:54.360 --> 00:03:54.370 align:start position:0%
+configuration<c.colorCCCCCC> you</c><c.colorE5E5E5> can see that the side
+ </c>
+
+00:03:54.370 --> 00:03:56.850 align:start position:0%
+configuration<c.colorCCCCCC> you</c><c.colorE5E5E5> can see that the side
+menu<00:03:54.670><c> has</c><00:03:55.090><c> now</c><00:03:55.329><c> changed</c><00:03:55.720><c> the</c><00:03:56.049><c> option</c><00:03:56.440><c> built</c></c>
+
+00:03:56.850 --> 00:03:56.860 align:start position:0%
+menu has now changed the option built
+ 
+
+00:03:56.860 --> 00:04:00.660 align:start position:0%
+menu has now changed the option built
+now<c.colorCCCCCC><00:03:57.190><c> into</c><00:03:58.150><c> build</c><00:03:58.510><c> with</c><00:03:58.780><c> parameters</c><00:03:59.470><c> this</c><00:04:00.459><c> is</c></c>
+
+00:04:00.660 --> 00:04:00.670 align:start position:0%
+now<c.colorCCCCCC> into build with parameters this is
+ </c>
+
+00:04:00.670 --> 00:04:02.960 align:start position:0%
+now<c.colorCCCCCC> into build with parameters this is
+because<00:04:01.000><c> we</c><00:04:01.150><c> added</c></c><c.colorE5E5E5><00:04:01.329><c> a</c><00:04:01.600><c> parameter</c></c><c.colorCCCCCC><00:04:02.140><c> to</c><00:04:02.380><c> this</c><00:04:02.560><c> job</c></c>
+
+00:04:02.960 --> 00:04:02.970 align:start position:0%
+because we added<c.colorE5E5E5> a parameter</c><c.colorCCCCCC> to this job
+ </c>
+
+00:04:02.970 --> 00:04:06.240 align:start position:0%
+because we added<c.colorE5E5E5> a parameter</c><c.colorCCCCCC> to this job
+click<00:04:03.970><c> on</c><00:04:04.150><c> build</c><00:04:04.420><c> with</c><00:04:04.660><c> parameters</c><00:04:05.290><c> and</c><00:04:05.500><c> you</c></c>
+
+00:04:06.240 --> 00:04:06.250 align:start position:0%
+click on build with parameters and<c.colorCCCCCC> you
+ </c>
+
+00:04:06.250 --> 00:04:08.310 align:start position:0%
+click on build with parameters and<c.colorCCCCCC> you
+can<00:04:06.400><c> see</c><00:04:06.579><c> the</c><00:04:06.730><c> settings</c><00:04:07.209><c> we</c><00:04:07.450><c> just</c></c><c.colorE5E5E5><00:04:07.720><c> configured</c></c>
+
+00:04:08.310 --> 00:04:08.320 align:start position:0%
+can see the settings we just<c.colorE5E5E5> configured
+ </c>
+
+00:04:08.320 --> 00:04:11.520 align:start position:0%
+can see the settings we just<c.colorE5E5E5> configured
+you<00:04:09.190><c> can</c><00:04:09.220><c> override</c><00:04:09.790><c> the</c><00:04:10.180><c> variable</c><00:04:10.630><c> name</c><00:04:10.870><c> with</c></c>
+
+00:04:11.520 --> 00:04:11.530 align:start position:0%
+you can<c.colorE5E5E5> override the variable name with
+ </c>
+
+00:04:11.530 --> 00:04:14.940 align:start position:0%
+you can<c.colorE5E5E5> override the variable name with
+whichever<00:04:12.160><c> string</c><00:04:12.640><c> value</c><00:04:13.150><c> you</c><00:04:13.329><c> prefer</c><00:04:13.950><c> click</c></c>
+
+00:04:14.940 --> 00:04:14.950 align:start position:0%
+whichever string value you prefer click
+ 
+
+00:04:14.950 --> 00:04:16.949 align:start position:0%
+whichever string value you prefer click
+on<00:04:15.130><c> build</c><c.colorE5E5E5><00:04:15.370><c> to</c><00:04:15.849><c> run</c><00:04:16.030><c> the</c><00:04:16.209><c> job</c><00:04:16.450><c> with</c><00:04:16.810><c> the</c></c>
+
+00:04:16.949 --> 00:04:16.959 align:start position:0%
+on build<c.colorE5E5E5> to run the job with the
+ </c>
+
+00:04:16.959 --> 00:04:20.530 align:start position:0%
+on build<c.colorE5E5E5> to run the job with the
+parameter<00:04:17.640><c> going</c><00:04:18.640><c> to</c><00:04:18.789><c> the</c><00:04:18.910><c> console</c><00:04:19.390><c> output</c></c>
+
+00:04:20.530 --> 00:04:20.540 align:start position:0%
+parameter going to the console output
+ 
+
+00:04:20.540 --> 00:04:23.560 align:start position:0%
+parameter going to the console output
+by<00:04:20.570><c> clicking</c><00:04:20.810><c> on</c><c.colorE5E5E5><00:04:21.110><c> the</c><00:04:21.260><c> build</c><00:04:21.500><c> status</c><00:04:21.950><c> icon</c><00:04:22.570><c> you</c></c>
+
+00:04:23.560 --> 00:04:23.570 align:start position:0%
+by clicking on<c.colorE5E5E5> the build status icon you
+ </c>
+
+00:04:23.570 --> 00:04:25.510 align:start position:0%
+by clicking on<c.colorE5E5E5> the build status icon you
+can<00:04:23.720><c> see</c><00:04:23.900><c> that</c><00:04:24.050><c> the</c><00:04:24.140><c> Jenkins</c><00:04:24.470><c> job</c><00:04:24.770><c> executed</c></c>
+
+00:04:25.510 --> 00:04:25.520 align:start position:0%
+can<c.colorE5E5E5> see that the Jenkins job executed
+ </c>
+
+00:04:25.520 --> 00:04:28.090 align:start position:0%
+can<c.colorE5E5E5> see that the Jenkins job executed
+successfully<00:04:25.790><c> and</c><00:04:26.480><c> use</c><00:04:27.140><c> the</c><00:04:27.320><c> value</c><00:04:27.650><c> of</c><00:04:27.830><c> the</c></c>
+
+00:04:28.090 --> 00:04:28.100 align:start position:0%
+successfully<c.colorE5E5E5> and use the value of the
+ </c>
+
+00:04:28.100 --> 00:04:30.779 align:start position:0%
+successfully<c.colorE5E5E5> and use the value of the
+parameter<00:04:28.640><c> passed</c><00:04:28.940><c> to</c><00:04:29.210><c> the</c><00:04:29.330><c> job</c></c>
+
+00:04:30.779 --> 00:04:30.789 align:start position:0%
+parameter passed to the job
+ 
+
+00:04:30.789 --> 00:04:33.179 align:start position:0%
+parameter passed to the job
+the<00:04:31.449><c> last</c><00:04:31.659><c> option</c><00:04:31.900><c> I</c><c.colorE5E5E5><00:04:32.229><c> want</c><00:04:32.439><c> to</c><00:04:32.559><c> show</c><00:04:32.770><c> you</c><00:04:32.830><c> is</c></c>
+
+00:04:33.179 --> 00:04:33.189 align:start position:0%
+the last option I<c.colorE5E5E5> want to show you is
+ </c>
+
+00:04:33.189 --> 00:04:36.149 align:start position:0%
+the last option I<c.colorE5E5E5> want to show you is</c>
+<c.colorE5E5E5>how</c><c.colorCCCCCC><00:04:33.639><c> to</c><00:04:33.699><c> run</c></c><c.colorE5E5E5><00:04:33.999><c> a</c><00:04:34.059><c> job</c><00:04:34.360><c> periodically</c><00:04:35.159><c> for</c></c>
+
+00:04:36.149 --> 00:04:36.159 align:start position:0%
+<c.colorE5E5E5>how</c><c.colorCCCCCC> to run</c><c.colorE5E5E5> a job periodically for
+ </c>
+
+00:04:36.159 --> 00:04:38.519 align:start position:0%
+<c.colorE5E5E5>how</c><c.colorCCCCCC> to run</c><c.colorE5E5E5> a job periodically for
+example<00:04:36.669><c> you</c><00:04:37.180><c> might</c><00:04:37.330><c> want</c></c><c.colorCCCCCC><00:04:37.389><c> to</c><00:04:37.599><c> run</c><00:04:37.779><c> a</c><00:04:37.839><c> job</c><00:04:38.259><c> on</c><00:04:38.499><c> a</c></c>
+
+00:04:38.519 --> 00:04:38.529 align:start position:0%
+example you might<c.colorE5E5E5> want</c><c.colorCCCCCC> to run a job on a
+ </c>
+
+00:04:38.529 --> 00:04:41.339 align:start position:0%
+example you might<c.colorE5E5E5> want</c><c.colorCCCCCC> to run a job on a
+given<00:04:38.919><c> schedule</c></c><c.colorE5E5E5><00:04:39.189><c> say</c><00:04:40.029><c> once</c><00:04:40.659><c> a</c><00:04:40.839><c> day</c><00:04:40.990><c> or</c></c><c.colorCCCCCC><00:04:41.289><c> every</c></c>
+
+00:04:41.339 --> 00:04:41.349 align:start position:0%
+given schedule<c.colorE5E5E5> say once a day or</c><c.colorCCCCCC> every
+ </c>
+
+00:04:41.349 --> 00:04:46.439 align:start position:0%
+given schedule<c.colorE5E5E5> say once a day or</c><c.colorCCCCCC> every
+hour</c><c.colorE5E5E5><00:04:42.659><c> let's</c><00:04:43.659><c> see</c><00:04:43.870><c> how</c><00:04:44.080><c> to</c><00:04:44.379><c> do</c><00:04:44.529><c> that</c></c><c.colorCCCCCC><00:04:45.180><c> go</c></c><c.colorE5E5E5><00:04:46.180><c> back</c><00:04:46.419><c> to</c></c>
+
+00:04:46.439 --> 00:04:46.449 align:start position:0%
+<c.colorCCCCCC>hour</c><c.colorE5E5E5> let's see how to do that</c><c.colorCCCCCC> go</c><c.colorE5E5E5> back to
+ </c>
+
+00:04:46.449 --> 00:04:49.049 align:start position:0%
+<c.colorCCCCCC>hour</c><c.colorE5E5E5> let's see how to do that</c><c.colorCCCCCC> go</c><c.colorE5E5E5> back to</c>
+<c.colorCCCCCC>the<00:04:46.659><c> project</c><00:04:47.110><c> and</c><00:04:47.319><c> click</c><00:04:47.650><c> on</c></c><c.colorE5E5E5><00:04:47.889><c> configure</c><00:04:48.610><c> to</c></c>
+
+00:04:49.049 --> 00:04:49.059 align:start position:0%
+<c.colorCCCCCC>the project and click on</c><c.colorE5E5E5> configure to
+ </c>
+
+00:04:49.059 --> 00:04:50.989 align:start position:0%
+<c.colorCCCCCC>the project and click on</c><c.colorE5E5E5> configure to</c>
+<c.colorCCCCCC>access<00:04:49.449><c> the</c><00:04:49.569><c> configuration</c></c><c.colorE5E5E5><00:04:49.779><c> of</c></c><c.colorCCCCCC><00:04:50.319><c> this</c><00:04:50.559><c> job</c></c>
+
+00:04:50.989 --> 00:04:50.999 align:start position:0%
+<c.colorCCCCCC>access the configuration</c><c.colorE5E5E5> of</c><c.colorCCCCCC> this job
+ </c>
+
+00:04:50.999 --> 00:04:53.879 align:start position:0%
+<c.colorCCCCCC>access the configuration</c><c.colorE5E5E5> of</c><c.colorCCCCCC> this job</c>
+<c.colorE5E5E5>then<00:04:51.999><c> go</c><00:04:52.210><c> to</c><00:04:52.270><c> build</c><00:04:52.629><c> trigger</c><00:04:52.930><c> and</c></c><c.colorCCCCCC><00:04:53.229><c> tick</c><00:04:53.860><c> the</c></c>
+
+00:04:53.879 --> 00:04:53.889 align:start position:0%
+<c.colorE5E5E5>then go to build trigger and</c><c.colorCCCCCC> tick the
+ </c>
+
+00:04:53.889 --> 00:04:56.879 align:start position:0%
+<c.colorE5E5E5>then go to build trigger and</c><c.colorCCCCCC> tick the</c>
+<c.colorCCCCCC>option</c><c.colorE5E5E5><00:04:54.069><c> build</c><00:04:54.789><c> periodically</c><00:04:55.889><c> inside</c></c>
+
+00:04:56.879 --> 00:04:56.889 align:start position:0%
+<c.colorCCCCCC>option</c><c.colorE5E5E5> build periodically inside
+ </c>
+
+00:04:56.889 --> 00:04:59.159 align:start position:0%
+<c.colorCCCCCC>option</c><c.colorE5E5E5> build periodically inside
+schedule<00:04:57.520><c> you</c><00:04:58.059><c> need</c><00:04:58.270><c> to</c><00:04:58.389><c> enter</c><00:04:58.809><c> the</c></c><c.colorCCCCCC><00:04:58.900><c> Krone</c></c>
+
+00:04:59.159 --> 00:04:59.169 align:start position:0%
+schedule<c.colorE5E5E5> you need to enter the</c><c.colorCCCCCC> Krone
+ </c>
+
+00:04:59.169 --> 00:05:02.549 align:start position:0%
+schedule<c.colorE5E5E5> you need to enter the</c><c.colorCCCCCC> Krone
+syntax<00:04:59.800><c> to</c><00:05:00.039><c> specify</c><00:05:00.610><c> the</c><00:05:00.669><c> time</c><00:05:01.229><c> you</c><00:05:02.229><c> can</c><00:05:02.409><c> read</c></c>
+
+00:05:02.549 --> 00:05:02.559 align:start position:0%
+syntax to specify the time you can read
+ 
+
+00:05:02.559 --> 00:05:05.399 align:start position:0%
+syntax to specify the time you can read
+how<00:05:02.800><c> the</c><c.colorCCCCCC><00:05:02.860><c> Krone</c><00:05:03.249><c> syntax</c><00:05:03.789><c> works</c></c><c.colorE5E5E5><00:05:04.029><c> and</c><00:05:04.449><c> see</c><00:05:05.199><c> some</c></c>
+
+00:05:05.399 --> 00:05:05.409 align:start position:0%
+how the<c.colorCCCCCC> Krone syntax works</c><c.colorE5E5E5> and see some
+ </c>
+
+00:05:05.409 --> 00:05:07.499 align:start position:0%
+how the<c.colorCCCCCC> Krone syntax works</c><c.colorE5E5E5> and see some
+useful<00:05:05.589><c> examples</c><00:05:06.370><c> by</c><00:05:06.639><c> clicking</c><00:05:07.240><c> on</c><00:05:07.389><c> the</c></c>
+
+00:05:07.499 --> 00:05:07.509 align:start position:0%
+useful<c.colorE5E5E5> examples by clicking on the
+ </c>
+
+00:05:07.509 --> 00:05:10.469 align:start position:0%
+useful<c.colorE5E5E5> examples by clicking on the</c>
+<c.colorCCCCCC>question<00:05:07.870><c> mark</c></c><c.colorE5E5E5><00:05:08.129><c> for</c><00:05:09.129><c> example</c></c><c.colorCCCCCC><00:05:09.580><c> i'm</c></c><c.colorE5E5E5><00:05:10.029><c> going</c><00:05:10.360><c> to</c></c>
+
+00:05:10.469 --> 00:05:10.479 align:start position:0%
+<c.colorCCCCCC>question mark</c><c.colorE5E5E5> for example</c><c.colorCCCCCC> i'm</c><c.colorE5E5E5> going to
+ </c>
+
+00:05:10.479 --> 00:05:13.230 align:start position:0%
+<c.colorCCCCCC>question mark</c><c.colorE5E5E5> for example</c><c.colorCCCCCC> i'm</c><c.colorE5E5E5> going to
+copy</c><c.colorCCCCCC><00:05:10.689><c> the</c><00:05:10.960><c> syntax</c><00:05:11.559><c> to</c><00:05:11.800><c> run</c><00:05:11.979><c> the</c><00:05:12.129><c> job</c><00:05:12.370><c> every</c><00:05:12.759><c> 15</c></c>
+
+00:05:13.230 --> 00:05:13.240 align:start position:0%
+copy<c.colorCCCCCC> the syntax to run the job every 15
+ </c>
+
+00:05:13.240 --> 00:05:16.649 align:start position:0%
+copy<c.colorCCCCCC> the syntax to run the job every 15
+minutes<00:05:13.649><c> paste</c><00:05:14.649><c> it</c><00:05:14.889><c> in</c><00:05:15.069><c> schedule</c><00:05:15.580><c> and</c><00:05:15.669><c> change</c></c>
+
+00:05:16.649 --> 00:05:16.659 align:start position:0%
+minutes<c.colorCCCCCC> paste it in schedule and change
+ </c>
+
+00:05:16.659 --> 00:05:18.209 align:start position:0%
+minutes<c.colorCCCCCC> paste it in schedule and change
+it<00:05:16.779><c> to</c></c><c.colorE5E5E5><00:05:16.809><c> run</c><00:05:17.080><c> every</c></c><c.colorCCCCCC><00:05:17.349><c> 2</c><00:05:17.620><c> minutes</c></c>
+
+00:05:18.209 --> 00:05:18.219 align:start position:0%
+it to<c.colorE5E5E5> run every</c><c.colorCCCCCC> 2 minutes
+ </c>
+
+00:05:18.219 --> 00:05:20.850 align:start position:0%
+it to<c.colorE5E5E5> run every</c><c.colorCCCCCC> 2 minutes</c>
+<c.colorE5E5E5>if<00:05:18.999><c> you</c><00:05:19.240><c> click</c><00:05:19.449><c> outside</c><00:05:19.749><c> the</c><00:05:20.169><c> schedule</c><00:05:20.620><c> box</c></c>
+
+00:05:20.850 --> 00:05:20.860 align:start position:0%
+<c.colorE5E5E5>if you click outside the schedule box
+ </c>
+
+00:05:20.860 --> 00:05:24.360 align:start position:0%
+<c.colorE5E5E5>if you click outside the schedule box
+you<00:05:21.819><c> will</c></c><c.colorCCCCCC><00:05:21.939><c> see</c><00:05:22.449><c> when</c><00:05:23.020><c> the</c><00:05:23.169><c> job</c><00:05:23.439><c> is</c><00:05:23.680><c> scheduled</c></c>
+
+00:05:24.360 --> 00:05:24.370 align:start position:0%
+you will<c.colorCCCCCC> see when the job is scheduled
+ </c>
+
+00:05:24.370 --> 00:05:27.659 align:start position:0%
+you will<c.colorCCCCCC> see when the job is scheduled
+to<00:05:24.520><c> run</c></c><c.colorE5E5E5><00:05:24.669><c> next</c><00:05:24.939><c> time</c><00:05:25.439><c> click</c><00:05:26.439><c> on</c><00:05:26.559><c> save</c><00:05:26.860><c> and</c><00:05:27.129><c> wait</c></c>
+
+00:05:27.659 --> 00:05:27.669 align:start position:0%
+to run<c.colorE5E5E5> next time click on save and wait
+ </c>
+
+00:05:27.669 --> 00:05:30.689 align:start position:0%
+to run<c.colorE5E5E5> next time click on save and wait
+to<00:05:27.849><c> see</c></c><c.colorCCCCCC><00:05:27.879><c> the</c><00:05:28.149><c> job</c></c><c.colorE5E5E5><00:05:28.360><c> kicking</c><00:05:28.839><c> off</c><00:05:29.520><c> you</c><00:05:30.520><c> can</c></c>
+
+00:05:30.689 --> 00:05:30.699 align:start position:0%
+to see<c.colorCCCCCC> the job</c><c.colorE5E5E5> kicking off you can
+ </c>
+
+00:05:30.699 --> 00:05:32.730 align:start position:0%
+to see<c.colorCCCCCC> the job</c><c.colorE5E5E5> kicking off you can
+enable<00:05:30.909><c> the</c><00:05:31.210><c> auto</c><00:05:31.360><c> refresh</c><00:05:31.870><c> in</c><00:05:32.289><c> order</c><00:05:32.589><c> to</c></c>
+
+00:05:32.730 --> 00:05:32.740 align:start position:0%
+enable the auto<c.colorE5E5E5> refresh in order to
+ </c>
+
+00:05:32.740 --> 00:05:35.309 align:start position:0%
+enable the auto<c.colorE5E5E5> refresh in order to
+automatically<00:05:33.460><c> refresh</c><00:05:33.879><c> the</c><00:05:34.120><c> page</c><00:05:34.300><c> every</c></c><c.colorCCCCCC><00:05:34.810><c> few</c></c>
+
+00:05:35.309 --> 00:05:35.319 align:start position:0%
+automatically refresh the page every<c.colorCCCCCC> few
+ </c>
+
+00:05:35.319 --> 00:05:37.679 align:start position:0%
+automatically refresh the page every<c.colorCCCCCC> few</c>
+<c.colorE5E5E5>seconds<00:05:35.889><c> you</c><00:05:36.819><c> can</c><00:05:36.999><c> see</c><00:05:37.180><c> that</c><00:05:37.360><c> the</c><00:05:37.449><c> job</c></c>
+
+00:05:37.679 --> 00:05:37.689 align:start position:0%
+<c.colorE5E5E5>seconds you can see that the job
+ </c>
+
+00:05:37.689 --> 00:05:40.709 align:start position:0%
+<c.colorE5E5E5>seconds you can see that the job
+executed<00:05:38.409><c> at</c><00:05:38.589><c> the</c><00:05:38.620><c> scheduled</c></c><c.colorCCCCCC><00:05:39.099><c> time</c><00:05:39.389><c> at</c><00:05:40.389><c> the</c></c>
+
+00:05:40.709 --> 00:05:40.719 align:start position:0%
+executed at the scheduled<c.colorCCCCCC> time at the
+ </c>
+
+00:05:40.719 --> 00:05:42.719 align:start position:0%
+executed at the scheduled<c.colorCCCCCC> time at the
+end</c><c.colorE5E5E5><00:05:40.839><c> do</c><00:05:41.169><c> not</c><00:05:41.199><c> forget</c><00:05:41.800><c> to</c><00:05:41.860><c> disable</c><00:05:42.310><c> the</c><00:05:42.610><c> auto</c></c>
+
+00:05:42.719 --> 00:05:42.729 align:start position:0%
+end<c.colorE5E5E5> do not forget to disable the auto
+ </c>
+
+00:05:42.729 --> 00:05:45.839 align:start position:0%
+end<c.colorE5E5E5> do not forget to disable the auto</c>
+<c.colorE5E5E5>refresh<00:05:43.240><c> and</c><00:05:43.599><c> to</c><00:05:44.529><c> change</c><00:05:44.800><c> the</c><00:05:45.009><c> configuration</c></c>
+
+00:05:45.839 --> 00:05:45.849 align:start position:0%
+<c.colorE5E5E5>refresh and to change the configuration
+ </c>
+
+00:05:45.849 --> 00:05:47.820 align:start position:0%
+<c.colorE5E5E5>refresh and to change the configuration
+and<00:05:46.029><c> disable</c><00:05:46.689><c> the</c><00:05:46.839><c> option</c><00:05:46.870><c> to</c><00:05:47.349><c> run</c><00:05:47.499><c> job</c></c>
+
+00:05:47.820 --> 00:05:47.830 align:start position:0%
+and disable the option<c.colorE5E5E5> to run job
+ </c>
+
+00:05:47.830 --> 00:05:50.399 align:start position:0%
+and disable the option<c.colorE5E5E5> to run job
+periodically<00:05:48.759><c> that</c><00:05:49.599><c> would</c><00:05:49.779><c> be</c><00:05:49.899><c> a</c><00:05:49.930><c> waste</c><00:05:50.259><c> of</c></c>
+
+00:05:50.399 --> 00:05:50.409 align:start position:0%
+periodically that would be a waste of
+ 
+
+00:05:50.409 --> 00:05:53.219 align:start position:0%
+periodically that would be a waste of
+<c.colorCCCCCC>resources</c><c.colorE5E5E5><00:05:50.589><c> for</c><00:05:51.159><c> your</c><00:05:51.310><c> computer</c><00:05:51.990><c> well</c><00:05:52.990><c> done</c></c>
+
+00:05:53.219 --> 00:05:53.229 align:start position:0%
+<c.colorCCCCCC>resources</c><c.colorE5E5E5> for your computer well done
+ </c>
+
+00:05:53.229 --> 00:05:55.800 align:start position:0%
+<c.colorCCCCCC>resources</c><c.colorE5E5E5> for your computer well done
+you<00:05:53.770><c> extended</c><00:05:54.339><c> your</c><00:05:54.370><c> first</c><00:05:54.759><c> Jenkins</c><00:05:55.240><c> job</c><00:05:55.479><c> with</c></c>
+
+00:05:55.800 --> 00:05:55.810 align:start position:0%
+you extended your<c.colorE5E5E5> first Jenkins job with
+ </c>
+
+00:05:55.810 --> 00:05:59.070 align:start position:0%
+you extended your<c.colorE5E5E5> first Jenkins job with
+some<00:05:56.020><c> useful</c><00:05:56.229><c> advanced</c><00:05:56.889><c> options</c><00:05:57.689><c> this</c></c><c.colorCCCCCC><00:05:58.689><c> is</c><00:05:58.749><c> the</c></c>
+
+00:05:59.070 --> 00:05:59.080 align:start position:0%
+some useful<c.colorE5E5E5> advanced options this</c><c.colorCCCCCC> is the
+ </c>
+
+00:05:59.080 --> 00:06:02.070 align:start position:0%
+some useful<c.colorE5E5E5> advanced options this</c><c.colorCCCCCC> is the
+end<00:05:59.229><c> of</c><00:05:59.439><c> section</c><00:05:59.800><c> 2</c><00:06:00.309><c> let's</c><00:06:01.149><c> recap</c><00:06:01.659><c> what</c><00:06:01.839><c> you</c></c>
+
+00:06:02.070 --> 00:06:02.080 align:start position:0%
+end of section<c.colorCCCCCC> 2 let's recap what you
+ </c>
+
+00:06:02.080 --> 00:06:04.439 align:start position:0%
+end of section<c.colorCCCCCC> 2 let's recap what you
+learned<00:06:02.319><c> in</c><00:06:02.529><c> this</c><00:06:02.649><c> section</c><00:06:02.979><c> in</c><00:06:03.339><c> terms</c></c><c.colorE5E5E5><00:06:03.999><c> of</c></c>
+
+00:06:04.439 --> 00:06:04.449 align:start position:0%
+learned in this section<c.colorCCCCCC> in terms</c><c.colorE5E5E5> of
+ </c>
+
+00:06:04.449 --> 00:06:06.959 align:start position:0%
+learned in this section<c.colorCCCCCC> in terms</c><c.colorE5E5E5> of
+theory<00:06:04.930><c> we</c><00:06:05.439><c> looked</c><00:06:05.649><c> at</c><00:06:05.830><c> some</c><00:06:06.069><c> key</c><00:06:06.309><c> concepts</c></c>
+
+00:06:06.959 --> 00:06:06.969 align:start position:0%
+<c.colorE5E5E5>theory we looked at some key concepts
+ </c>
+
+00:06:06.969 --> 00:06:10.199 align:start position:0%
+<c.colorE5E5E5>theory we looked at some key concepts
+and<00:06:07.120><c> core</c><00:06:07.659><c> terminology</c><00:06:08.620><c> in</c><00:06:08.800><c> Jenkins</c></c><c.colorCCCCCC><00:06:09.159><c> that</c><00:06:09.669><c> we</c></c>
+
+00:06:10.199 --> 00:06:10.209 align:start position:0%
+and core<c.colorE5E5E5> terminology in Jenkins</c><c.colorCCCCCC> that we
+ </c>
+
+00:06:10.209 --> 00:06:13.469 align:start position:0%
+and core<c.colorE5E5E5> terminology in Jenkins</c><c.colorCCCCCC> that we
+use<00:06:10.360><c> extensively</c><00:06:11.169><c> during</c></c><c.colorE5E5E5><00:06:11.439><c> the</c><00:06:11.709><c> demos</c></c><c.colorCCCCCC><00:06:12.099><c> in</c><00:06:12.479><c> the</c></c>
+
+00:06:13.469 --> 00:06:13.479 align:start position:0%
+use extensively during<c.colorE5E5E5> the demos</c><c.colorCCCCCC> in the
+ </c>
+
+00:06:13.479 --> 00:06:15.839 align:start position:0%
+use extensively during<c.colorE5E5E5> the demos</c><c.colorCCCCCC> in the</c>
+<c.colorE5E5E5>practical<00:06:14.050><c> parts</c><00:06:14.499><c> we</c><00:06:14.949><c> explore</c><00:06:15.339><c> the</c><00:06:15.520><c> Jenkins</c></c>
+
+00:06:15.839 --> 00:06:15.849 align:start position:0%
+<c.colorE5E5E5>practical parts we explore the Jenkins
+ </c>
+
+00:06:15.849 --> 00:06:18.989 align:start position:0%
+<c.colorE5E5E5>practical parts we explore the Jenkins
+dashboard<00:06:16.539><c> and</c><00:06:16.749><c> admin</c><00:06:17.289><c> console</c><00:06:17.999><c> configured</c></c>
+
+00:06:18.989 --> 00:06:18.999 align:start position:0%
+dashboard and admin console configured
+ 
+
+00:06:18.999 --> 00:06:21.299 align:start position:0%
+dashboard and admin console configured
+and<00:06:19.209><c> executed</c><00:06:19.959><c> the</c><00:06:20.080><c> first</c><00:06:20.110><c> Jenkins</c><00:06:20.800><c> job</c><00:06:21.069><c> and</c>
+
+00:06:21.299 --> 00:06:21.309 align:start position:0%
+and executed the first Jenkins job and
+ 
+
+00:06:21.309 --> 00:06:23.399 align:start position:0%
+and executed the first Jenkins job and
+then<00:06:21.969><c> extended</c><00:06:22.509><c> it</c><00:06:22.629><c> with</c><00:06:22.870><c> some</c><c.colorE5E5E5><00:06:23.050><c> advanced</c></c>
+
+00:06:23.399 --> 00:06:23.409 align:start position:0%
+then extended it with some<c.colorE5E5E5> advanced
+ </c>
+
+00:06:23.409 --> 00:06:24.379 align:start position:0%
+then extended it with some<c.colorE5E5E5> advanced</c>
+<c.colorCCCCCC>options</c>
+
+00:06:24.379 --> 00:06:24.389 align:start position:0%
+<c.colorCCCCCC>options
+ </c>
+
+00:06:24.389 --> 00:06:27.449 align:start position:0%
+<c.colorCCCCCC>options
+so<00:06:25.389><c> now</c><00:06:25.899><c> test</c><00:06:26.379><c> what</c></c><c.colorE5E5E5><00:06:26.680><c> you</c><00:06:26.830><c> learn</c><00:06:27.069><c> in</c><00:06:27.309><c> this</c></c>
+
+00:06:27.449 --> 00:06:27.459 align:start position:0%
+so now<c.colorCCCCCC> test what</c><c.colorE5E5E5> you learn in this
+ </c>
+
+00:06:27.459 --> 00:06:29.670 align:start position:0%
+so now<c.colorCCCCCC> test what</c><c.colorE5E5E5> you learn in this
+section<00:06:27.759><c> by</c><00:06:28.479><c> heading</c></c><c.colorCCCCCC><00:06:28.899><c> to</c></c><c.colorE5E5E5><00:06:29.050><c> the</c><00:06:29.169><c> companion</c></c>
+
+00:06:29.670 --> 00:06:29.680 align:start position:0%
+section<c.colorE5E5E5> by heading</c><c.colorCCCCCC> to</c><c.colorE5E5E5> the companion
+ </c>
+
+00:06:29.680 --> 00:06:32.909 align:start position:0%
+section<c.colorE5E5E5> by heading</c><c.colorCCCCCC> to</c><c.colorE5E5E5> the companion
+github<00:06:30.099><c> repository</c><00:06:30.789><c> in</c><00:06:31.360><c> here</c><00:06:32.020><c> you</c><00:06:32.499><c> will</c><00:06:32.649><c> find</c></c>
+
+00:06:32.909 --> 00:06:32.919 align:start position:0%
+github repository<c.colorE5E5E5> in here you will find
+ </c>
+
+00:06:32.919 --> 00:06:35.579 align:start position:0%
+github repository<c.colorE5E5E5> in here you will find
+a<00:06:33.069><c> few</c><00:06:33.399><c> questions</c></c><c.colorCCCCCC><00:06:33.729><c> to</c><00:06:34.389><c> test</c></c><c.colorE5E5E5><00:06:34.719><c> your</c><00:06:35.020><c> Jenkins</c></c>
+
+00:06:35.579 --> 00:06:35.589 align:start position:0%
+a few questions<c.colorCCCCCC> to test</c><c.colorE5E5E5> your Jenkins
+ </c>
+
+00:06:35.589 --> 00:06:38.610 align:start position:0%
+a few questions<c.colorCCCCCC> to test</c><c.colorE5E5E5> your Jenkins
+knowledge<00:06:36.009><c> and</c></c><c.colorCCCCCC><00:06:36.189><c> the</c><00:06:36.399><c> practical</c></c><c.colorE5E5E5><00:06:36.879><c> exercise</c><00:06:37.620><c> you</c></c>
+
+00:06:38.610 --> 00:06:38.620 align:start position:0%
+knowledge and<c.colorCCCCCC> the practical</c><c.colorE5E5E5> exercise you
+ </c>
+
+00:06:38.620 --> 00:06:40.529 align:start position:0%
+knowledge and<c.colorCCCCCC> the practical</c><c.colorE5E5E5> exercise you
+will<00:06:38.769><c> also</c><00:06:38.919><c> find</c></c><c.colorCCCCCC><00:06:39.219><c> some</c><00:06:39.490><c> suggested</c><00:06:40.000><c> solutions</c></c>
+
+00:06:40.529 --> 00:06:40.539 align:start position:0%
+will also find<c.colorCCCCCC> some suggested solutions
+ </c>
+
+00:06:40.539 --> 00:06:43.409 align:start position:0%
+will also find<c.colorCCCCCC> some suggested solutions
+to<00:06:40.689><c> the</c><00:06:40.779><c> exercises</c><00:06:41.289><c> and</c><00:06:41.709><c> if</c><00:06:42.310><c> you</c><00:06:42.639><c> want</c><00:06:42.909><c> you</c></c><c.colorE5E5E5><00:06:43.269><c> can</c></c>
+
+00:06:43.409 --> 00:06:43.419 align:start position:0%
+to the exercises<c.colorCCCCCC> and if you want you</c><c.colorE5E5E5> can
+ </c>
+
+00:06:43.419 --> 00:06:43.869 align:start position:0%
+to the exercises<c.colorCCCCCC> and if you want you</c><c.colorE5E5E5> can
+enter</c>
+
+00:06:43.869 --> 00:06:43.879 align:start position:0%
+enter
+ 
+
+00:06:43.879 --> 00:06:47.049 align:start position:0%
+enter
+with<00:06:44.029><c> me</c><00:06:44.270><c> by</c><00:06:44.509><c> a</c><00:06:44.539><c> github</c><c.colorCCCCCC><00:06:44.839><c> in</c><00:06:45.740><c> the</c><00:06:46.399><c> next</c><00:06:46.669><c> section</c></c>
+
+00:06:47.049 --> 00:06:47.059 align:start position:0%
+with me by a github<c.colorCCCCCC> in the next section
+ </c>
+
+00:06:47.059 --> 00:06:48.909 align:start position:0%
+with me by a github<c.colorCCCCCC> in the next section
+we<00:06:47.330><c> are</c></c><c.colorE5E5E5><00:06:47.360><c> going</c></c><c.colorCCCCCC><00:06:47.449><c> to</c></c><c.colorE5E5E5><00:06:47.719><c> learn</c></c><c.colorCCCCCC><00:06:47.899><c> how</c><00:06:48.229><c> continuous</c></c>
+
+00:06:48.909 --> 00:06:48.919 align:start position:0%
+we are<c.colorE5E5E5> going</c><c.colorCCCCCC> to</c><c.colorE5E5E5> learn</c><c.colorCCCCCC> how continuous
+ </c>
+
+00:06:48.919 --> 00:06:51.719 align:start position:0%
+we are<c.colorE5E5E5> going</c><c.colorCCCCCC> to</c><c.colorE5E5E5> learn</c><c.colorCCCCCC> how continuous
+integration</c><c.colorE5E5E5><00:06:49.300><c> CI</c><00:06:50.300><c> and</c><00:06:50.749><c> continuous</c><00:06:51.439><c> delivery</c></c>
+
+00:06:51.719 --> 00:06:51.729 align:start position:0%
+integration<c.colorE5E5E5> CI and continuous delivery
+ </c>
+
+00:06:51.729 --> 00:06:54.999 align:start position:0%
+integration<c.colorE5E5E5> CI and continuous delivery</c>
+<c.colorE5E5E5>CD<00:06:52.729><c> are</c><00:06:53.209><c> and</c><00:06:53.539><c> set</c><00:06:54.259><c> up</c><00:06:54.439><c> a</c></c><c.colorCCCCCC><00:06:54.559><c> continuous</c></c>
+
+00:06:54.999 --> 00:06:55.009 align:start position:0%
+<c.colorE5E5E5>CD are and set up a</c><c.colorCCCCCC> continuous
+ </c>
+
+00:06:55.009 --> 00:06:58.749 align:start position:0%
+<c.colorE5E5E5>CD are and set up a</c><c.colorCCCCCC> continuous
+integration<00:06:55.189><c> workflow</c><00:06:56.149><c> with</c><00:06:56.479><c> Jenkins</c></c>
+

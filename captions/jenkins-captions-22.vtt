@@ -1,0 +1,1718 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.310 --> 00:00:02.369 align:start position:0%
+ 
+in<00:00:00.370><c> this</c><00:00:01.089><c> video</c><c.colorCCCCCC><00:00:01.329><c> we</c><00:00:01.690><c> are</c><00:00:01.750><c> going</c></c><c.colorE5E5E5><00:00:01.899><c> to</c><00:00:02.080><c> create</c><00:00:02.320><c> a</c></c>
+
+00:00:02.369 --> 00:00:02.379 align:start position:0%
+in this video<c.colorCCCCCC> we are going</c><c.colorE5E5E5> to create a
+ </c>
+
+00:00:02.379 --> 00:00:05.070 align:start position:0%
+in this video<c.colorCCCCCC> we are going</c><c.colorE5E5E5> to create a
+multi<00:00:02.860><c> branch</c><00:00:03.100><c> pipeline</c><00:00:03.699><c> with</c><00:00:04.060><c> blue</c><00:00:04.359><c> ocean</c><00:00:04.810><c> in</c></c>
+
+00:00:05.070 --> 00:00:05.080 align:start position:0%
+multi branch<c.colorE5E5E5> pipeline with blue ocean in
+ </c>
+
+00:00:05.080 --> 00:00:07.889 align:start position:0%
+multi branch<c.colorE5E5E5> pipeline with blue ocean in
+terms<00:00:05.680><c> of</c><00:00:05.859><c> theory</c><00:00:06.279><c> we</c><00:00:06.819><c> will</c><00:00:06.939><c> see</c><00:00:07.180><c> what</c><00:00:07.419><c> a</c><00:00:07.450><c> multi</c></c>
+
+00:00:07.889 --> 00:00:07.899 align:start position:0%
+terms of theory we will<c.colorE5E5E5> see what a multi
+ </c>
+
+00:00:07.899 --> 00:00:10.590 align:start position:0%
+terms of theory we will<c.colorE5E5E5> see what a multi
+branch<00:00:08.140><c> pipeline</c><00:00:08.680><c> is</c><00:00:08.950><c> in</c><00:00:09.310><c> the</c><00:00:09.850><c> practical</c><00:00:10.360><c> part</c></c>
+
+00:00:10.590 --> 00:00:10.600 align:start position:0%
+branch pipeline is<c.colorE5E5E5> in the practical part
+ </c>
+
+00:00:10.600 --> 00:00:13.410 align:start position:0%
+branch pipeline is<c.colorE5E5E5> in the practical part</c>
+<c.colorE5E5E5>we<00:00:11.170><c> will</c><00:00:11.290><c> create</c></c><c.colorCCCCCC><00:00:11.350><c> and</c></c><c.colorE5E5E5><00:00:11.920><c> run</c><00:00:12.160><c> a</c><00:00:12.370><c> simple</c><00:00:12.760><c> multi</c></c>
+
+00:00:13.410 --> 00:00:13.420 align:start position:0%
+<c.colorE5E5E5>we will create</c><c.colorCCCCCC> and</c><c.colorE5E5E5> run a simple multi
+ </c>
+
+00:00:13.420 --> 00:00:16.109 align:start position:0%
+<c.colorE5E5E5>we will create</c><c.colorCCCCCC> and</c><c.colorE5E5E5> run a simple multi
+branch<00:00:13.660><c> pipeline</c><00:00:14.230><c> job</c><00:00:14.560><c> using</c><00:00:15.220><c> blue</c><00:00:15.670><c> oceans</c></c>
+
+00:00:16.109 --> 00:00:16.119 align:start position:0%
+branch pipeline job<c.colorE5E5E5> using blue oceans
+ </c>
+
+00:00:16.119 --> 00:00:18.630 align:start position:0%
+branch pipeline job<c.colorE5E5E5> using blue oceans
+visual<00:00:16.689><c> editor</c><00:00:17.169><c> let's</c><00:00:17.919><c> start</c><00:00:18.250><c> by</c><00:00:18.460><c> defining</c></c>
+
+00:00:18.630 --> 00:00:18.640 align:start position:0%
+visual editor let's start by defining
+ 
+
+00:00:18.640 --> 00:00:22.650 align:start position:0%
+visual editor let's start by defining
+<c.colorE5E5E5>what<00:00:19.240><c> a</c><00:00:19.269><c> multi</c><00:00:19.810><c> branch</c><00:00:20.080><c> pipeline</c><00:00:20.619><c> is</c><00:00:20.859><c> a</c><00:00:21.660><c> multi</c></c>
+
+00:00:22.650 --> 00:00:22.660 align:start position:0%
+<c.colorE5E5E5>what a multi branch pipeline is a multi
+ </c>
+
+00:00:22.660 --> 00:00:25.499 align:start position:0%
+<c.colorE5E5E5>what a multi branch pipeline is a multi
+branch<00:00:22.900><c> pipeline</c><00:00:23.470><c> is</c><00:00:23.650><c> a</c><00:00:24.070><c> job</c><00:00:24.519><c> that</c><00:00:24.789><c> enables</c><00:00:25.359><c> to</c></c>
+
+00:00:25.499 --> 00:00:25.509 align:start position:0%
+branch pipeline is a job<c.colorE5E5E5> that enables to
+ </c>
+
+00:00:25.509 --> 00:00:27.540 align:start position:0%
+branch pipeline is a job<c.colorE5E5E5> that enables to</c>
+<c.colorE5E5E5>implement<00:00:26.140><c> the</c><00:00:26.289><c> different</c></c><c.colorCCCCCC><00:00:26.740><c> jenkins</c><00:00:27.189><c> files</c></c>
+
+00:00:27.540 --> 00:00:27.550 align:start position:0%
+<c.colorE5E5E5>implement the different</c><c.colorCCCCCC> jenkins files
+ </c>
+
+00:00:27.550 --> 00:00:30.329 align:start position:0%
+<c.colorE5E5E5>implement the different</c><c.colorCCCCCC> jenkins files
+for<00:00:28.509><c> different</c><00:00:28.869><c> branches</c><00:00:29.439><c> in</c><00:00:29.679><c> the</c><00:00:29.980><c> same</c></c>
+
+00:00:30.329 --> 00:00:30.339 align:start position:0%
+for<c.colorCCCCCC> different branches in the same
+ </c>
+
+00:00:30.339 --> 00:00:33.690 align:start position:0%
+for<c.colorCCCCCC> different branches in the same
+source<00:00:30.939><c> control</c><00:00:31.449><c> repository</c><00:00:32.460><c> one</c><00:00:33.460><c> of</c><00:00:33.580><c> the</c></c>
+
+00:00:33.690 --> 00:00:33.700 align:start position:0%
+source control repository<c.colorCCCCCC> one of the
+ </c>
+
+00:00:33.700 --> 00:00:35.280 align:start position:0%
+source control repository<c.colorCCCCCC> one of the
+main<00:00:33.820><c> advantages</c></c><c.colorE5E5E5><00:00:34.000><c> of</c><00:00:34.570><c> multi</c><00:00:35.080><c> branch</c></c>
+
+00:00:35.280 --> 00:00:35.290 align:start position:0%
+main advantages<c.colorE5E5E5> of multi branch
+ </c>
+
+00:00:35.290 --> 00:00:38.220 align:start position:0%
+main advantages<c.colorE5E5E5> of multi branch
+pipelines<00:00:35.980><c> is</c><00:00:36.520><c> that</c></c><c.colorCCCCCC><00:00:36.820><c> jenkins</c><00:00:37.300><c> automatically</c></c>
+
+00:00:38.220 --> 00:00:38.230 align:start position:0%
+pipelines<c.colorE5E5E5> is that</c><c.colorCCCCCC> jenkins automatically
+ </c>
+
+00:00:38.230 --> 00:00:41.490 align:start position:0%
+pipelines<c.colorE5E5E5> is that</c><c.colorCCCCCC> jenkins automatically
+discovers<00:00:38.950><c> and</c><00:00:39.220><c> executes</c><00:00:40.030><c> pipelines</c><00:00:40.780><c> for</c></c>
+
+00:00:41.490 --> 00:00:41.500 align:start position:0%
+discovers and executes pipelines for
+ 
+
+00:00:41.500 --> 00:00:44.310 align:start position:0%
+discovers and executes pipelines for
+branches<00:00:42.100><c> and</c><c.colorCCCCCC><00:00:42.340><c> pool</c><00:00:42.700><c> requests</c><00:00:43.390><c> in</c><00:00:43.780><c> a</c><00:00:43.990><c> source</c></c>
+
+00:00:44.310 --> 00:00:44.320 align:start position:0%
+branches and<c.colorCCCCCC> pool requests in a source
+ </c>
+
+00:00:44.320 --> 00:00:47.280 align:start position:0%
+branches and<c.colorCCCCCC> pool requests in a source</c>
+<c.colorE5E5E5>control<00:00:44.890><c> repository</c></c><c.colorCCCCCC><00:00:45.540><c> this</c><00:00:46.540><c> removes</c></c><c.colorE5E5E5><00:00:47.050><c> the</c></c>
+
+00:00:47.280 --> 00:00:47.290 align:start position:0%
+<c.colorE5E5E5>control repository</c><c.colorCCCCCC> this removes</c><c.colorE5E5E5> the
+ </c>
+
+00:00:47.290 --> 00:00:50.370 align:start position:0%
+<c.colorE5E5E5>control repository</c><c.colorCCCCCC> this removes</c><c.colorE5E5E5> the
+manual<00:00:47.650><c> creation</c><00:00:47.950><c> of</c><00:00:48.490><c> many</c><00:00:49.330><c> pipeline</c><00:00:50.050><c> jobs</c></c>
+
+00:00:50.370 --> 00:00:50.380 align:start position:0%
+manual creation<c.colorE5E5E5> of many pipeline jobs
+ </c>
+
+00:00:50.380 --> 00:00:52.650 align:start position:0%
+manual creation<c.colorE5E5E5> of many pipeline jobs
+the<00:00:51.190><c> best</c><00:00:51.370><c> way</c><00:00:51.580><c> to</c><00:00:51.610><c> understand</c><00:00:52.240><c> the</c><00:00:52.360><c> multi</c></c>
+
+00:00:52.650 --> 00:00:52.660 align:start position:0%
+the<c.colorE5E5E5> best way to understand the multi
+ </c>
+
+00:00:52.660 --> 00:00:55.380 align:start position:0%
+the<c.colorE5E5E5> best way to understand the multi
+branch<00:00:52.900><c> pipeline</c><00:00:53.500><c> job</c><00:00:53.800><c> is</c><00:00:54.040><c> to</c><00:00:54.550><c> create</c><00:00:54.700><c> one</c><00:00:55.150><c> and</c></c>
+
+00:00:55.380 --> 00:00:55.390 align:start position:0%
+branch pipeline job is to create<c.colorE5E5E5> one and
+ </c>
+
+00:00:55.390 --> 00:00:57.510 align:start position:0%
+branch pipeline job is to create<c.colorE5E5E5> one and
+that's<00:00:55.990><c> exactly</c><00:00:56.440><c> what</c><00:00:56.830><c> we</c></c><c.colorCCCCCC><00:00:56.920><c> are</c><00:00:57.010><c> going</c></c><c.colorE5E5E5><00:00:57.220><c> to</c><00:00:57.370><c> do</c></c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+that's exactly what we<c.colorCCCCCC> are going</c><c.colorE5E5E5> to do
+ </c>
+
+00:00:57.520 --> 00:01:00.510 align:start position:0%
+that's exactly what we<c.colorCCCCCC> are going</c><c.colorE5E5E5> to do
+in<00:00:57.730><c> this</c><00:00:57.970><c> demo</c><00:00:58.270><c> in</c><00:00:58.870><c> particular</c><00:00:59.350><c> we</c><00:01:00.160><c> will</c><00:01:00.310><c> use</c></c>
+
+00:01:00.510 --> 00:01:00.520 align:start position:0%
+in this demo<c.colorE5E5E5> in particular we will use
+ </c>
+
+00:01:00.520 --> 00:01:03.270 align:start position:0%
+in this demo<c.colorE5E5E5> in particular we will use
+the<00:01:00.730><c> blue</c><00:01:00.910><c> oceans</c><00:01:01.390><c> visual</c><00:01:02.020><c> editor</c><00:01:02.620><c> to</c><00:01:03.070><c> create</c></c>
+
+00:01:03.270 --> 00:01:03.280 align:start position:0%
+the blue oceans<c.colorE5E5E5> visual editor to create
+ </c>
+
+00:01:03.280 --> 00:01:05.999 align:start position:0%
+the blue oceans<c.colorE5E5E5> visual editor to create</c>
+<c.colorE5E5E5>the<00:01:03.730><c> multi</c><00:01:04.089><c> branch</c><00:01:04.329><c> pipeline</c><00:01:04.960><c> we</c><00:01:05.710><c> will</c><00:01:05.859><c> use</c></c>
+
+00:01:05.999 --> 00:01:06.009 align:start position:0%
+<c.colorE5E5E5>the multi branch pipeline we will use
+ </c>
+
+00:01:06.009 --> 00:01:08.130 align:start position:0%
+<c.colorE5E5E5>the multi branch pipeline we will use</c>
+<c.colorCCCCCC>github</c><c.colorE5E5E5><00:01:06.579><c> as</c><00:01:06.850><c> our</c><00:01:07.179><c> source</c><00:01:07.570><c> controller</c></c>
+
+00:01:08.130 --> 00:01:08.140 align:start position:0%
+<c.colorCCCCCC>github</c><c.colorE5E5E5> as our source controller
+ </c>
+
+00:01:08.140 --> 00:01:10.319 align:start position:0%
+<c.colorCCCCCC>github</c><c.colorE5E5E5> as our source controller
+repository<00:01:08.920><c> and</c><00:01:09.130><c> during</c><00:01:09.729><c> the</c></c><c.colorCCCCCC><00:01:09.850><c> process</c><00:01:10.299><c> we</c></c>
+
+00:01:10.319 --> 00:01:10.329 align:start position:0%
+repository and during the<c.colorCCCCCC> process we
+ </c>
+
+00:01:10.329 --> 00:01:13.469 align:start position:0%
+repository and during the<c.colorCCCCCC> process we</c>
+<c.colorE5E5E5>will<00:01:10.630><c> create</c><00:01:10.929><c> a</c><00:01:11.350><c> personal</c><00:01:12.039><c> access</c><00:01:12.490><c> token</c><00:01:13.030><c> so</c></c>
+
+00:01:13.469 --> 00:01:13.479 align:start position:0%
+<c.colorE5E5E5>will create a personal access token so
+ </c>
+
+00:01:13.479 --> 00:01:15.330 align:start position:0%
+<c.colorE5E5E5>will create a personal access token so
+that</c><c.colorCCCCCC><00:01:13.659><c> github</c><00:01:14.229><c> and</c></c><c.colorE5E5E5><00:01:14.469><c> Jenkins</c></c>
+
+00:01:15.330 --> 00:01:15.340 align:start position:0%
+that<c.colorCCCCCC> github and</c><c.colorE5E5E5> Jenkins
+ </c>
+
+00:01:15.340 --> 00:01:18.300 align:start position:0%
+that<c.colorCCCCCC> github and</c><c.colorE5E5E5> Jenkins
+can<00:01:15.759><c> communicate</c><00:01:16.390><c> with</c><00:01:16.749><c> each</c></c><c.colorCCCCCC><00:01:16.780><c> other</c><00:01:17.319><c> finally</c></c>
+
+00:01:18.300 --> 00:01:18.310 align:start position:0%
+can communicate with each<c.colorCCCCCC> other finally
+ </c>
+
+00:01:18.310 --> 00:01:20.760 align:start position:0%
+can communicate with each<c.colorCCCCCC> other finally
+we<00:01:18.670><c> will</c><00:01:18.850><c> run</c><00:01:19.119><c> and</c><00:01:19.390><c> visualize</c><00:01:20.200><c> the</c><00:01:20.439><c> multi</c></c>
+
+00:01:20.760 --> 00:01:20.770 align:start position:0%
+we will run and visualize the multi
+ 
+
+00:01:20.770 --> 00:01:23.789 align:start position:0%
+we will run and visualize the multi
+branch<00:01:21.009><c> pipeline</c><00:01:21.579><c> with</c><00:01:22.090><c> blue</c><00:01:22.390><c> ocean</c><c.colorE5E5E5><00:01:22.840><c> this</c></c><c.colorCCCCCC><00:01:23.740><c> is</c></c>
+
+00:01:23.789 --> 00:01:23.799 align:start position:0%
+branch pipeline with blue ocean<c.colorE5E5E5> this</c><c.colorCCCCCC> is
+ </c>
+
+00:01:23.799 --> 00:01:26.069 align:start position:0%
+branch pipeline with blue ocean<c.colorE5E5E5> this</c><c.colorCCCCCC> is
+a<00:01:23.979><c> visual</c><00:01:24.460><c> representation</c><00:01:25.299><c> of</c><00:01:25.420><c> the</c><00:01:25.479><c> pipeline</c></c>
+
+00:01:26.069 --> 00:01:26.079 align:start position:0%
+<c.colorCCCCCC>a visual representation of the pipeline
+ </c>
+
+00:01:26.079 --> 00:01:28.410 align:start position:0%
+<c.colorCCCCCC>a visual representation of the pipeline
+we<00:01:26.289><c> are</c><00:01:26.350><c> going</c><00:01:26.560><c> to</c><00:01:26.710><c> create</c><00:01:27.060><c> we'll</c><00:01:28.060><c> build</c><00:01:28.299><c> the</c></c>
+
+00:01:28.410 --> 00:01:28.420 align:start position:0%
+we are going to create<c.colorCCCCCC> we'll build the
+ </c>
+
+00:01:28.420 --> 00:01:32.160 align:start position:0%
+we are going to create<c.colorCCCCCC> we'll build the
+pipeline<00:01:28.630><c> with</c><00:01:29.409><c> dummy</c><00:01:30.039><c> stages</c><00:01:30.759><c> to</c><00:01:31.060><c> build</c><00:01:31.329><c> to</c></c>
+
+00:01:32.160 --> 00:01:32.170 align:start position:0%
+pipeline with dummy stages to build<c.colorCCCCCC> to
+ </c>
+
+00:01:32.170 --> 00:01:36.419 align:start position:0%
+pipeline with dummy stages to build<c.colorCCCCCC> to
+test<00:01:32.499><c> in</c><00:01:32.770><c> parallel</c><00:01:33.520><c> and</c><00:01:33.729><c> to</c><00:01:34.359><c> deploy</c><00:01:35.340><c> before</c><00:01:36.340><c> we</c></c>
+
+00:01:36.419 --> 00:01:36.429 align:start position:0%
+<c.colorCCCCCC>test in parallel and to deploy before we
+ </c>
+
+00:01:36.429 --> 00:01:38.959 align:start position:0%
+<c.colorCCCCCC>test in parallel and to deploy before we
+get<00:01:36.549><c> started</c></c><c.colorE5E5E5><00:01:37.270><c> please</c></c><c.colorCCCCCC><00:01:37.539><c> note</c><00:01:38.350><c> the</c><00:01:38.530><c> following</c></c>
+
+00:01:38.959 --> 00:01:38.969 align:start position:0%
+get<c.colorCCCCCC> started</c><c.colorE5E5E5> please</c><c.colorCCCCCC> note the following
+ </c>
+
+00:01:38.969 --> 00:01:42.450 align:start position:0%
+get<c.colorCCCCCC> started</c><c.colorE5E5E5> please</c><c.colorCCCCCC> note the following
+prerequisite<00:01:39.969><c> to</c><00:01:40.899><c> follow</c><00:01:41.170><c> this</c><00:01:41.380><c> video</c></c><c.colorE5E5E5><00:01:41.679><c> you</c></c>
+
+00:01:42.450 --> 00:01:42.460 align:start position:0%
+prerequisite to follow this video<c.colorE5E5E5> you
+ </c>
+
+00:01:42.460 --> 00:01:45.300 align:start position:0%
+prerequisite to follow this video<c.colorE5E5E5> you
+need<00:01:42.670><c> to</c></c><c.colorCCCCCC><00:01:42.729><c> have</c><00:01:42.909><c> a</c><00:01:43.119><c> github</c><00:01:43.479><c> account</c></c><c.colorE5E5E5><00:01:44.039><c> if</c><00:01:45.039><c> you</c></c>
+
+00:01:45.300 --> 00:01:45.310 align:start position:0%
+need<c.colorE5E5E5> to</c><c.colorCCCCCC> have a github account</c><c.colorE5E5E5> if you
+ </c>
+
+00:01:45.310 --> 00:01:47.639 align:start position:0%
+need<c.colorE5E5E5> to</c><c.colorCCCCCC> have a github account</c><c.colorE5E5E5> if you</c>
+<c.colorE5E5E5>don't<00:01:45.490><c> have</c><00:01:45.670><c> one</c><00:01:45.909><c> already</c></c><c.colorCCCCCC><00:01:46.090><c> sign</c><00:01:47.049><c> up</c><00:01:47.259><c> at</c><00:01:47.469><c> this</c></c>
+
+00:01:47.639 --> 00:01:47.649 align:start position:0%
+<c.colorE5E5E5>don't have one already</c><c.colorCCCCCC> sign up at this
+ </c>
+
+00:01:47.649 --> 00:01:51.239 align:start position:0%
+<c.colorE5E5E5>don't have one already</c><c.colorCCCCCC> sign up at this</c>
+<c.colorE5E5E5>URL<00:01:48.509><c> to</c><00:01:49.509><c> replicate</c><00:01:49.990><c> what</c><00:01:50.259><c> I</c><00:01:50.289><c> do</c><00:01:50.469><c> in</c><00:01:50.920><c> the</c><00:01:51.069><c> video</c></c>
+
+00:01:51.239 --> 00:01:51.249 align:start position:0%
+<c.colorE5E5E5>URL to replicate what I do in the video
+ </c>
+
+00:01:51.249 --> 00:01:53.819 align:start position:0%
+<c.colorE5E5E5>URL to replicate what I do in the video</c>
+<c.colorE5E5E5>you<00:01:51.999><c> need</c></c><c.colorCCCCCC><00:01:52.149><c> to</c><00:01:52.329><c> fork</c></c><c.colorE5E5E5><00:01:52.780><c> the</c><00:01:53.200><c> companion</c></c>
+
+00:01:53.819 --> 00:01:53.829 align:start position:0%
+<c.colorE5E5E5>you need</c><c.colorCCCCCC> to fork</c><c.colorE5E5E5> the companion
+ </c>
+
+00:01:53.829 --> 00:01:56.129 align:start position:0%
+<c.colorE5E5E5>you need</c><c.colorCCCCCC> to fork</c><c.colorE5E5E5> the companion
+repository<00:01:54.549><c> for</c><00:01:55.060><c> this</c><00:01:55.179><c> video</c><00:01:55.630><c> course</c><00:01:55.869><c> on</c></c>
+
+00:01:56.129 --> 00:01:56.139 align:start position:0%
+repository for<c.colorE5E5E5> this video course on
+ </c>
+
+00:01:56.139 --> 00:01:59.819 align:start position:0%
+repository for<c.colorE5E5E5> this video course on
+github<00:01:56.679><c> in</c><00:01:57.090><c> fact</c><00:01:58.090><c> we</c><00:01:58.600><c> will</c><00:01:58.719><c> need</c><00:01:58.929><c> to</c><00:01:59.049><c> set</c><00:01:59.380><c> up</c><00:01:59.409><c> an</c></c>
+
+00:01:59.819 --> 00:01:59.829 align:start position:0%
+github in fact we will need to set up<c.colorE5E5E5> an
+ </c>
+
+00:01:59.829 --> 00:02:02.489 align:start position:0%
+github in fact we will need to set up<c.colorE5E5E5> an
+access<00:02:00.189><c> token</c></c><c.colorCCCCCC><00:02:00.459><c> and</c><00:02:00.850><c> you</c></c><c.colorE5E5E5><00:02:01.359><c> can</c><00:02:01.539><c> only</c><00:02:01.689><c> do</c><00:02:02.079><c> it</c><00:02:02.259><c> on</c><00:02:02.439><c> a</c></c>
+
+00:02:02.489 --> 00:02:02.499 align:start position:0%
+access token<c.colorCCCCCC> and you</c><c.colorE5E5E5> can only do it on a
+ </c>
+
+00:02:02.499 --> 00:02:04.889 align:start position:0%
+access token<c.colorCCCCCC> and you</c><c.colorE5E5E5> can only do it on a</c>
+<c.colorCCCCCC>repository</c><c.colorE5E5E5><00:02:03.219><c> you</c><00:02:03.490><c> have</c><00:02:03.639><c> full</c><00:02:04.060><c> admin</c><00:02:04.569><c> rights</c></c>
+
+00:02:04.889 --> 00:02:04.899 align:start position:0%
+<c.colorCCCCCC>repository</c><c.colorE5E5E5> you have full admin rights
+ </c>
+
+00:02:04.899 --> 00:02:07.050 align:start position:0%
+<c.colorCCCCCC>repository</c><c.colorE5E5E5> you have full admin rights
+you<00:02:05.859><c> won't</c><00:02:06.069><c> be</c><00:02:06.189><c> able</c></c><c.colorCCCCCC><00:02:06.249><c> to</c><00:02:06.399><c> do</c><00:02:06.700><c> it</c><00:02:06.819><c> on</c><00:02:07.029><c> my</c></c>
+
+00:02:07.050 --> 00:02:07.060 align:start position:0%
+you won't be able<c.colorCCCCCC> to do it on my
+ </c>
+
+00:02:07.060 --> 00:02:09.690 align:start position:0%
+you won't be able<c.colorCCCCCC> to do it on my</c>
+<c.colorE5E5E5>repository</c><c.colorCCCCCC><00:02:07.749><c> if</c><00:02:08.649><c> you</c><00:02:08.890><c> haven't</c><00:02:09.159><c> fucked</c></c><c.colorE5E5E5><00:02:09.429><c> a</c></c>
+
+00:02:09.690 --> 00:02:09.700 align:start position:0%
+<c.colorE5E5E5>repository</c><c.colorCCCCCC> if you haven't fucked</c><c.colorE5E5E5> a
+ </c>
+
+00:02:09.700 --> 00:02:12.259 align:start position:0%
+<c.colorE5E5E5>repository</c><c.colorCCCCCC> if you haven't fucked</c><c.colorE5E5E5> a
+repository<00:02:09.970><c> yet</c><00:02:10.569><c> follow</c><00:02:11.439><c> these</c><00:02:11.680><c> instructions</c></c>
+
+00:02:12.259 --> 00:02:12.269 align:start position:0%
+repository yet<c.colorE5E5E5> follow these instructions
+ </c>
+
+00:02:12.269 --> 00:02:14.110 align:start position:0%
+repository yet<c.colorE5E5E5> follow these instructions</c>
+<c.colorE5E5E5>we<00:02:13.269><c> want</c><00:02:13.540><c> covered</c></c>
+
+00:02:14.110 --> 00:02:14.120 align:start position:0%
+<c.colorE5E5E5>we want covered
+ </c>
+
+00:02:14.120 --> 00:02:18.040 align:start position:0%
+<c.colorE5E5E5>we want covered</c>
+<c.colorE5E5E5>during<00:02:15.080><c> the</c><00:02:15.349><c> demo</c><00:02:15.910><c> finally</c><00:02:16.910><c> make</c></c><c.colorCCCCCC><00:02:17.629><c> sure</c><00:02:17.870><c> you</c></c>
+
+00:02:18.040 --> 00:02:18.050 align:start position:0%
+<c.colorE5E5E5>during the demo finally make</c><c.colorCCCCCC> sure you
+ </c>
+
+00:02:18.050 --> 00:02:20.160 align:start position:0%
+<c.colorE5E5E5>during the demo finally make</c><c.colorCCCCCC> sure you
+are</c><c.colorE5E5E5><00:02:18.140><c> logged</c><00:02:18.379><c> in</c><00:02:18.620><c> into</c><00:02:18.980><c> your</c><00:02:19.280><c> github</c><00:02:19.730><c> account</c></c>
+
+00:02:20.160 --> 00:02:20.170 align:start position:0%
+are<c.colorE5E5E5> logged in into your github account
+ </c>
+
+00:02:20.170 --> 00:02:23.050 align:start position:0%
+are<c.colorE5E5E5> logged in into your github account</c>
+<c.colorE5E5E5>before<00:02:21.170><c> starting</c><00:02:21.709><c> the</c><00:02:21.860><c> demo</c><00:02:22.069><c> as</c><00:02:22.340><c> you</c><00:02:22.879><c> will</c></c>
+
+00:02:23.050 --> 00:02:23.060 align:start position:0%
+<c.colorE5E5E5>before starting the demo as you will
+ </c>
+
+00:02:23.060 --> 00:02:25.330 align:start position:0%
+<c.colorE5E5E5>before starting the demo as you will
+automatically<00:02:23.959><c> be</c><00:02:24.080><c> redirected</c><00:02:24.440><c> to</c><00:02:25.129><c> the</c></c>
+
+00:02:25.330 --> 00:02:25.340 align:start position:0%
+automatically be<c.colorE5E5E5> redirected to the
+ </c>
+
+00:02:25.340 --> 00:02:29.080 align:start position:0%
+automatically be<c.colorE5E5E5> redirected to the</c>
+<c.colorCCCCCC>correct<00:02:25.819><c> page</c></c><c.colorE5E5E5><00:02:26.239><c> on</c><00:02:26.660><c> github</c></c><c.colorCCCCCC><00:02:27.260><c> ok</c></c><c.colorE5E5E5><00:02:28.220><c> without</c><00:02:28.670><c> any</c></c>
+
+00:02:29.080 --> 00:02:29.090 align:start position:0%
+<c.colorCCCCCC>correct page</c><c.colorE5E5E5> on github</c><c.colorCCCCCC> ok</c><c.colorE5E5E5> without any
+ </c>
+
+00:02:29.090 --> 00:02:31.690 align:start position:0%
+<c.colorCCCCCC>correct page</c><c.colorE5E5E5> on github</c><c.colorCCCCCC> ok</c><c.colorE5E5E5> without any
+further<00:02:29.330><c> ado</c><00:02:29.750><c> let's</c><00:02:29.989><c> create</c><00:02:30.739><c> a</c><00:02:30.980><c> multi</c><00:02:31.430><c> branch</c></c>
+
+00:02:31.690 --> 00:02:31.700 align:start position:0%
+further<c.colorE5E5E5> ado let's create a multi branch
+ </c>
+
+00:02:31.700 --> 00:02:35.289 align:start position:0%
+further<c.colorE5E5E5> ado let's create a multi branch
+pipeline<00:02:32.330><c> with</c><00:02:32.750><c> blue</c><00:02:33.019><c> ocean</c><00:02:33.519><c> go</c><00:02:34.519><c> to</c><00:02:34.580><c> Jenkins</c></c>
+
+00:02:35.289 --> 00:02:35.299 align:start position:0%
+pipeline with blue ocean go to Jenkins
+ 
+
+00:02:35.299 --> 00:02:39.570 align:start position:0%
+pipeline with blue ocean go to Jenkins
+<c.colorE5E5E5>and<00:02:35.540><c> click</c><00:02:36.260><c> on</c><00:02:36.530><c> the</c><00:02:36.769><c> open</c><00:02:37.280><c> blue</c><00:02:37.610><c> ocean</c><00:02:38.000><c> link</c></c>
+
+00:02:39.570 --> 00:02:39.580 align:start position:0%
+<c.colorE5E5E5>and click on the open blue ocean link
+ </c>
+
+00:02:39.580 --> 00:02:42.940 align:start position:0%
+<c.colorE5E5E5>and click on the open blue ocean link
+click<00:02:40.580><c> on</c><00:02:40.610><c> new</c><00:02:41.000><c> pipeline</c><00:02:41.629><c> in</c><00:02:41.870><c> the</c><00:02:42.319><c> navigation</c></c>
+
+00:02:42.940 --> 00:02:42.950 align:start position:0%
+click on<c.colorE5E5E5> new pipeline in the navigation
+ </c>
+
+00:02:42.950 --> 00:02:45.759 align:start position:0%
+click on<c.colorE5E5E5> new pipeline in the navigation
+bar</c><c.colorCCCCCC><00:02:43.220><c> to</c></c><c.colorE5E5E5><00:02:43.819><c> create</c><00:02:44.120><c> a</c><00:02:44.150><c> pipeline</c><00:02:44.540><c> with</c><00:02:45.200><c> the</c><00:02:45.379><c> visual</c></c>
+
+00:02:45.759 --> 00:02:45.769 align:start position:0%
+bar<c.colorCCCCCC> to</c><c.colorE5E5E5> create a pipeline with the visual
+ </c>
+
+00:02:45.769 --> 00:02:50.110 align:start position:0%
+bar<c.colorCCCCCC> to</c><c.colorE5E5E5> create a pipeline with the visual
+editor<00:02:47.110><c> the</c><00:02:48.110><c> first</c><00:02:48.380><c> step</c><00:02:48.680><c> is</c><00:02:48.890><c> to</c><00:02:49.099><c> define</c><00:02:49.250><c> where</c></c>
+
+00:02:50.110 --> 00:02:50.120 align:start position:0%
+editor<c.colorE5E5E5> the first step is to define where
+ </c>
+
+00:02:50.120 --> 00:02:52.509 align:start position:0%
+editor<c.colorE5E5E5> the first step is to define where
+is<00:02:50.299><c> the</c><00:02:50.540><c> code</c><00:02:50.810><c> that</c></c><c.colorCCCCCC><00:02:50.840><c> we</c><00:02:51.140><c> want</c></c><c.colorE5E5E5><00:02:51.290><c> to</c><00:02:51.709><c> pull</c><00:02:52.010><c> in</c><00:02:52.310><c> our</c></c>
+
+00:02:52.509 --> 00:02:52.519 align:start position:0%
+is the code that<c.colorCCCCCC> we want</c><c.colorE5E5E5> to pull in our
+ </c>
+
+00:02:52.519 --> 00:02:56.140 align:start position:0%
+is the code that<c.colorCCCCCC> we want</c><c.colorE5E5E5> to pull in our
+Jenkins<00:02:53.120><c> pipeline</c><00:02:54.010><c> for</c><00:02:55.010><c> this</c><00:02:55.220><c> demo</c><00:02:55.549><c> which</c><00:02:56.120><c> is</c></c>
+
+00:02:56.140 --> 00:02:56.150 align:start position:0%
+Jenkins pipeline<c.colorE5E5E5> for this demo which is
+ </c>
+
+00:02:56.150 --> 00:03:00.670 align:start position:0%
+Jenkins pipeline<c.colorE5E5E5> for this demo which is
+github<00:02:58.030><c> next</c><00:02:59.030><c> we</c><00:02:59.599><c> are</c><00:02:59.660><c> asked</c></c><c.colorCCCCCC><00:03:00.049><c> to</c><00:03:00.140><c> connect</c><00:03:00.530><c> to</c></c>
+
+00:03:00.670 --> 00:03:00.680 align:start position:0%
+github next we<c.colorE5E5E5> are asked</c><c.colorCCCCCC> to connect to
+ </c>
+
+00:03:00.680 --> 00:03:03.400 align:start position:0%
+github next we<c.colorE5E5E5> are asked</c><c.colorCCCCCC> to connect to
+get<00:03:00.920><c> up</c><00:03:01.160><c> and</c><00:03:01.459><c> create</c><00:03:02.180><c> an</c><00:03:02.360><c> access</c><00:03:02.540><c> token</c></c><c.colorE5E5E5><00:03:03.230><c> to</c></c>
+
+00:03:03.400 --> 00:03:03.410 align:start position:0%
+get up and create an access<c.colorCCCCCC> token</c><c.colorE5E5E5> to
+ </c>
+
+00:03:03.410 --> 00:03:06.220 align:start position:0%
+get up and create an access<c.colorCCCCCC> token</c><c.colorE5E5E5> to</c>
+<c.colorCCCCCC>allow<00:03:03.950><c> github</c><00:03:04.549><c> and</c></c><c.colorE5E5E5><00:03:04.700><c> Jenkins</c><00:03:05.239><c> to</c><00:03:05.480><c> communicate</c></c>
+
+00:03:06.220 --> 00:03:06.230 align:start position:0%
+<c.colorCCCCCC>allow github and</c><c.colorE5E5E5> Jenkins to communicate
+ </c>
+
+00:03:06.230 --> 00:03:10.360 align:start position:0%
+<c.colorCCCCCC>allow github and</c><c.colorE5E5E5> Jenkins to communicate</c>
+<c.colorE5E5E5>securely<00:03:07.690><c> ignore</c><00:03:08.690><c> this</c><00:03:08.870><c> error</c><00:03:09.200><c> message</c></c><c.colorCCCCCC><00:03:09.370><c> you</c></c>
+
+00:03:10.360 --> 00:03:10.370 align:start position:0%
+<c.colorE5E5E5>securely ignore this error message</c><c.colorCCCCCC> you
+ </c>
+
+00:03:10.370 --> 00:03:12.520 align:start position:0%
+<c.colorE5E5E5>securely ignore this error message</c><c.colorCCCCCC> you
+will<00:03:10.489><c> not</c><00:03:10.610><c> get</c><00:03:10.970><c> it</c><00:03:11.180><c> if</c><00:03:11.390><c> it</c><00:03:11.569><c> is</c><00:03:11.720><c> the</c><00:03:11.750><c> first</c><00:03:12.200><c> time</c></c>
+
+00:03:12.520 --> 00:03:12.530 align:start position:0%
+will not get it if it is the<c.colorCCCCCC> first time
+ </c>
+
+00:03:12.530 --> 00:03:15.290 align:start position:0%
+will not get it if it is the<c.colorCCCCCC> first time
+you<00:03:12.890><c> create</c><00:03:13.160><c> an</c><00:03:13.400><c> access</c><00:03:13.579><c> token</c></c>
+
+00:03:15.290 --> 00:03:15.300 align:start position:0%
+you create an access<c.colorCCCCCC> token
+ </c>
+
+00:03:15.300 --> 00:03:18.590 align:start position:0%
+you create an access<c.colorCCCCCC> token
+click<00:03:16.110><c> on</c><00:03:16.290><c> the</c><00:03:16.440><c> link</c><00:03:16.710><c> create</c><00:03:17.520><c> an</c><00:03:17.790><c> access</c><00:03:18.060><c> key</c></c>
+
+00:03:18.590 --> 00:03:18.600 align:start position:0%
+click on the link create an access<c.colorCCCCCC> key
+ </c>
+
+00:03:18.600 --> 00:03:23.390 align:start position:0%
+click on the link create an access<c.colorCCCCCC> key
+here<00:03:19.880><c> your</c><00:03:20.880><c> browser</c><00:03:21.180><c> opens</c><00:03:21.870><c> up</c><00:03:22.110><c> and</c><00:03:22.410><c> if</c><00:03:23.100><c> you</c></c>
+
+00:03:23.390 --> 00:03:23.400 align:start position:0%
+here your browser opens up and if you
+ 
+
+00:03:23.400 --> 00:03:26.450 align:start position:0%
+here your browser opens up and if you
+are<c.colorCCCCCC><00:03:23.430><c> already</c><00:03:23.910><c> logged</c></c><c.colorE5E5E5><00:03:24.240><c> in</c></c><c.colorCCCCCC><00:03:24.540><c> into</c><00:03:25.080><c> github</c><00:03:25.460><c> you</c></c>
+
+00:03:26.450 --> 00:03:26.460 align:start position:0%
+are<c.colorCCCCCC> already logged</c><c.colorE5E5E5> in</c><c.colorCCCCCC> into github you
+ </c>
+
+00:03:26.460 --> 00:03:28.490 align:start position:0%
+are<c.colorCCCCCC> already logged</c><c.colorE5E5E5> in</c><c.colorCCCCCC> into github you
+are</c><c.colorE5E5E5><00:03:26.550><c> asked</c><00:03:26.940><c> to</c><00:03:26.970><c> enter</c><00:03:27.180><c> your</c><00:03:27.720><c> admin</c><00:03:28.170><c> password</c></c>
+
+00:03:28.490 --> 00:03:28.500 align:start position:0%
+are<c.colorE5E5E5> asked to enter your admin password
+ </c>
+
+00:03:28.500 --> 00:03:32.540 align:start position:0%
+are<c.colorE5E5E5> asked to enter your admin password
+for<00:03:29.370><c> your</c><00:03:29.550><c> github</c><00:03:29.820><c> account</c><00:03:30.950><c> this</c></c><c.colorCCCCCC><00:03:31.950><c> is</c><00:03:32.010><c> required</c></c>
+
+00:03:32.540 --> 00:03:32.550 align:start position:0%
+for your github account<c.colorE5E5E5> this</c><c.colorCCCCCC> is required
+ </c>
+
+00:03:32.550 --> 00:03:34.610 align:start position:0%
+for your github account<c.colorE5E5E5> this</c><c.colorCCCCCC> is required</c>
+<c.colorE5E5E5>in</c><c.colorCCCCCC><00:03:32.970><c> order</c><00:03:33.180><c> to</c><00:03:33.330><c> change</c><00:03:33.600><c> the</c><00:03:33.900><c> settings</c><00:03:34.410><c> and</c></c>
+
+00:03:34.610 --> 00:03:34.620 align:start position:0%
+<c.colorE5E5E5>in</c><c.colorCCCCCC> order to change the settings and
+ </c>
+
+00:03:34.620 --> 00:03:38.420 align:start position:0%
+<c.colorE5E5E5>in</c><c.colorCCCCCC> order to change the settings and</c>
+<c.colorE5E5E5>create<00:03:35.400><c> an</c><00:03:35.610><c> access</c><00:03:35.790><c> token</c><00:03:37.250><c> enter</c><00:03:38.250><c> your</c></c>
+
+00:03:38.420 --> 00:03:38.430 align:start position:0%
+<c.colorE5E5E5>create an access token enter your
+ </c>
+
+00:03:38.430 --> 00:03:43.510 align:start position:0%
+<c.colorE5E5E5>create an access token enter your
+password<00:03:38.730><c> and</c></c><c.colorCCCCCC><00:03:39.300><c> click</c><00:03:39.930><c> on</c><00:03:40.110><c> confirm</c></c><c.colorE5E5E5><00:03:40.860><c> password</c></c>
+
+00:03:43.510 --> 00:03:43.520 align:start position:0%
+password and<c.colorCCCCCC> click on confirm</c><c.colorE5E5E5> password
+ </c>
+
+00:03:43.520 --> 00:03:46.570 align:start position:0%
+password and<c.colorCCCCCC> click on confirm</c><c.colorE5E5E5> password
+we<00:03:44.300><c> are</c><00:03:44.390><c> prompt</c><00:03:44.870><c> to</c><00:03:44.990><c> create</c><00:03:45.350><c> a</c><00:03:45.650><c> new</c><00:03:46.040><c> personal</c></c>
+
+00:03:46.570 --> 00:03:46.580 align:start position:0%
+we are prompt to create a new personal
+ 
+
+00:03:46.580 --> 00:03:48.970 align:start position:0%
+we are prompt to create a new personal
+<c.colorE5E5E5>access<00:03:47.000><c> token</c><00:03:47.510><c> allowing</c><00:03:48.290><c> github</c><00:03:48.740><c> to</c></c>
+
+00:03:48.970 --> 00:03:48.980 align:start position:0%
+<c.colorE5E5E5>access token allowing github to
+ </c>
+
+00:03:48.980 --> 00:03:52.110 align:start position:0%
+<c.colorE5E5E5>access token allowing github to
+communicate<00:03:49.760><c> with</c><00:03:50.030><c> Jenkins</c></c>
+
+00:03:52.110 --> 00:03:52.120 align:start position:0%
+communicate with Jenkins
+ 
+
+00:03:52.120 --> 00:03:55.979 align:start position:0%
+communicate with Jenkins
+in<00:03:52.810><c> token</c><c.colorCCCCCC><00:03:53.380><c> description</c><00:03:54.310><c> type</c><00:03:55.030><c> a</c></c><c.colorE5E5E5><00:03:55.300><c> name</c><00:03:55.660><c> for</c></c>
+
+00:03:55.979 --> 00:03:55.989 align:start position:0%
+in token<c.colorCCCCCC> description type a</c><c.colorE5E5E5> name for
+ </c>
+
+00:03:55.989 --> 00:04:00.920 align:start position:0%
+in token<c.colorCCCCCC> description type a</c><c.colorE5E5E5> name for</c>
+<c.colorE5E5E5>this<00:03:56.319><c> token</c></c><c.colorCCCCCC><00:03:56.920><c> I</c><00:03:57.360><c> use</c><00:03:58.360><c> here</c></c><c.colorE5E5E5><00:03:58.750><c> hands</c><00:03:59.080><c> on</c><00:03:59.440><c> Jenkins</c></c>
+
+00:04:00.920 --> 00:04:00.930 align:start position:0%
+<c.colorE5E5E5>this token</c><c.colorCCCCCC> I use here</c><c.colorE5E5E5> hands on Jenkins
+ </c>
+
+00:04:00.930 --> 00:04:04.440 align:start position:0%
+<c.colorE5E5E5>this token</c><c.colorCCCCCC> I use here</c><c.colorE5E5E5> hands on Jenkins
+under<00:04:01.930><c> select</c><00:04:02.290><c> scope</c><00:04:03.099><c> you</c><00:04:03.700><c> can</c></c><c.colorCCCCCC><00:04:03.730><c> choose</c><00:04:04.120><c> which</c></c>
+
+00:04:04.440 --> 00:04:04.450 align:start position:0%
+under select<c.colorE5E5E5> scope you can</c><c.colorCCCCCC> choose which
+ </c>
+
+00:04:04.450 --> 00:04:06.809 align:start position:0%
+under select<c.colorE5E5E5> scope you can</c><c.colorCCCCCC> choose which
+type<00:04:04.780><c> of</c><00:04:04.810><c> access</c></c><c.colorE5E5E5><00:04:05.380><c> to</c><00:04:05.739><c> grant</c><00:04:06.040><c> to</c><00:04:06.370><c> the</c><00:04:06.489><c> access</c></c>
+
+00:04:06.809 --> 00:04:06.819 align:start position:0%
+type of access<c.colorE5E5E5> to grant to the access
+ </c>
+
+00:04:06.819 --> 00:04:10.770 align:start position:0%
+type of access<c.colorE5E5E5> to grant to the access
+token</c><c.colorCCCCCC><00:04:07.120><c> for</c><00:04:07.890><c> our</c><00:04:08.890><c> purposes</c></c><c.colorE5E5E5><00:04:09.580><c> we</c><00:04:10.150><c> are</c><00:04:10.180><c> fine</c><00:04:10.540><c> with</c></c>
+
+00:04:10.770 --> 00:04:10.780 align:start position:0%
+token<c.colorCCCCCC> for our purposes</c><c.colorE5E5E5> we are fine with
+ </c>
+
+00:04:10.780 --> 00:04:14.570 align:start position:0%
+token<c.colorCCCCCC> for our purposes</c><c.colorE5E5E5> we are fine with
+the<00:04:10.810><c> default</c><00:04:11.319><c> permissions</c><00:04:11.849><c> so</c><00:04:12.849><c> scroll</c><00:04:13.360><c> down</c></c>
+
+00:04:14.570 --> 00:04:14.580 align:start position:0%
+the default permissions<c.colorE5E5E5> so scroll down
+ </c>
+
+00:04:14.580 --> 00:04:18.870 align:start position:0%
+the default permissions<c.colorE5E5E5> so scroll down
+and<00:04:15.580><c> click</c><00:04:15.819><c> on</c></c><c.colorCCCCCC><00:04:15.940><c> generate</c><00:04:16.720><c> token</c><00:04:17.880><c> this</c></c>
+
+00:04:18.870 --> 00:04:18.880 align:start position:0%
+and click on<c.colorCCCCCC> generate token this
+ </c>
+
+00:04:18.880 --> 00:04:21.960 align:start position:0%
+and click on<c.colorCCCCCC> generate token this
+generates</c><c.colorE5E5E5><00:04:19.510><c> an</c><00:04:19.780><c> access</c><00:04:20.200><c> token</c><00:04:20.470><c> in</c><00:04:20.829><c> github</c></c><c.colorCCCCCC><00:04:21.130><c> that</c></c>
+
+00:04:21.960 --> 00:04:21.970 align:start position:0%
+generates<c.colorE5E5E5> an access token in github</c><c.colorCCCCCC> that
+ </c>
+
+00:04:21.970 --> 00:04:25.620 align:start position:0%
+generates<c.colorE5E5E5> an access token in github</c><c.colorCCCCCC> that
+you<00:04:22.120><c> need</c><00:04:22.300><c> to</c><00:04:22.450><c> copy</c><00:04:23.190><c> then</c></c><c.colorE5E5E5><00:04:24.190><c> go</c><00:04:24.700><c> back</c><00:04:24.910><c> to</c><00:04:24.940><c> Jenkins</c></c>
+
+00:04:25.620 --> 00:04:25.630 align:start position:0%
+you need to copy then<c.colorE5E5E5> go back to Jenkins
+ </c>
+
+00:04:25.630 --> 00:04:29.969 align:start position:0%
+you need to copy then<c.colorE5E5E5> go back to Jenkins
+and<00:04:27.240><c> paste</c><00:04:28.240><c> it</c><00:04:28.479><c> in</c><00:04:28.720><c> the</c></c><c.colorCCCCCC><00:04:28.870><c> box</c></c><c.colorE5E5E5><00:04:29.110><c> for</c><00:04:29.470><c> the</c><00:04:29.530><c> access</c></c>
+
+00:04:29.969 --> 00:04:29.979 align:start position:0%
+<c.colorE5E5E5>and paste it in the</c><c.colorCCCCCC> box</c><c.colorE5E5E5> for the access
+ </c>
+
+00:04:29.979 --> 00:04:37.040 align:start position:0%
+<c.colorE5E5E5>and paste it in the</c><c.colorCCCCCC> box</c><c.colorE5E5E5> for the access
+token<00:04:31.680><c> finally</c><00:04:32.680><c> click</c><00:04:33.310><c> on</c><00:04:33.340><c> connect</c></c>
+
+00:04:37.040 --> 00:04:37.050 align:start position:0%
+ 
+ 
+
+00:04:37.050 --> 00:04:39.590 align:start position:0%
+ 
+the<00:04:37.890><c> next</c><00:04:38.220><c> step</c><00:04:38.430><c> is</c><00:04:38.640><c> to</c><c.colorCCCCCC><00:04:38.850><c> define</c><00:04:39.240><c> which</c></c>
+
+00:04:39.590 --> 00:04:39.600 align:start position:0%
+the next step is to<c.colorCCCCCC> define which
+ </c>
+
+00:04:39.600 --> 00:04:43.650 align:start position:0%
+the next step is to<c.colorCCCCCC> define which</c>
+<c.colorE5E5E5>organization<00:04:40.530><c> the</c><00:04:40.650><c> repository</c><00:04:41.250><c> belongs</c><00:04:41.670><c> to</c></c>
+
+00:04:43.650 --> 00:04:43.660 align:start position:0%
+<c.colorE5E5E5>organization the repository belongs to
+ </c>
+
+00:04:43.660 --> 00:04:46.410 align:start position:0%
+<c.colorE5E5E5>organization the repository belongs to
+my<00:04:44.440><c> personal</c><00:04:44.920><c> account</c><00:04:45.280><c> is</c><00:04:45.460><c> linked</c><00:04:45.880><c> to</c></c><c.colorCCCCCC><00:04:45.970><c> several</c></c>
+
+00:04:46.410 --> 00:04:46.420 align:start position:0%
+my personal account is linked to<c.colorCCCCCC> several
+ </c>
+
+00:04:46.420 --> 00:04:49.200 align:start position:0%
+my personal account is linked to<c.colorCCCCCC> several
+organizations</c><c.colorE5E5E5><00:04:47.370><c> related</c><00:04:48.370><c> to</c><00:04:48.490><c> my</c><00:04:48.640><c> work</c></c><c.colorCCCCCC><00:04:48.670><c> and</c></c>
+
+00:04:49.200 --> 00:04:49.210 align:start position:0%
+organizations<c.colorE5E5E5> related to my work</c><c.colorCCCCCC> and
+ </c>
+
+00:04:49.210 --> 00:04:51.660 align:start position:0%
+organizations<c.colorE5E5E5> related to my work</c><c.colorCCCCCC> and
+other<00:04:49.600><c> open</c></c><c.colorE5E5E5><00:04:50.050><c> source</c><00:04:50.230><c> projects</c><00:04:50.860><c> so</c><00:04:51.370><c> you</c><00:04:51.430><c> will</c></c>
+
+00:04:51.660 --> 00:04:51.670 align:start position:0%
+other open<c.colorE5E5E5> source projects so you will
+ </c>
+
+00:04:51.670 --> 00:04:54.090 align:start position:0%
+other open<c.colorE5E5E5> source projects so you will
+not<00:04:51.820><c> see</c><00:04:52.150><c> the</c><00:04:52.300><c> same</c><00:04:52.570><c> screen</c><00:04:53.020><c> here</c><00:04:53.500><c> but</c><00:04:53.860><c> your</c></c>
+
+00:04:54.090 --> 00:04:54.100 align:start position:0%
+not see the same screen here but your
+ 
+
+00:04:54.100 --> 00:04:57.890 align:start position:0%
+not see the same screen here but your
+account<00:04:54.490><c> will</c><c.colorCCCCCC><00:04:54.850><c> be</c><00:04:55.000><c> displayed</c></c><c.colorE5E5E5><00:04:55.770><c> this</c><00:04:56.770><c> is</c><00:04:56.980><c> mine</c></c>
+
+00:04:57.890 --> 00:04:57.900 align:start position:0%
+account will<c.colorCCCCCC> be displayed</c><c.colorE5E5E5> this is mine
+ </c>
+
+00:04:57.900 --> 00:05:01.520 align:start position:0%
+account will<c.colorCCCCCC> be displayed</c><c.colorE5E5E5> this is mine
+therefore<00:04:58.900><c> click</c><00:04:59.230><c> on</c><00:04:59.410><c> your</c></c><c.colorCCCCCC><00:04:59.770><c> account</c><00:05:00.340><c> name</c></c>
+
+00:05:01.520 --> 00:05:01.530 align:start position:0%
+therefore click on your<c.colorCCCCCC> account name
+ </c>
+
+00:05:01.530 --> 00:05:04.290 align:start position:0%
+therefore click on your<c.colorCCCCCC> account name</c>
+<c.colorE5E5E5>after</c><c.colorCCCCCC><00:05:02.530><c> that</c><00:05:03.040><c> you</c></c><c.colorE5E5E5><00:05:03.430><c> are</c><00:05:03.490><c> asked</c><00:05:03.880><c> to</c></c><c.colorCCCCCC><00:05:03.910><c> choose</c><00:05:04.270><c> a</c></c>
+
+00:05:04.290 --> 00:05:04.300 align:start position:0%
+<c.colorE5E5E5>after</c><c.colorCCCCCC> that you</c><c.colorE5E5E5> are asked to</c><c.colorCCCCCC> choose a
+ </c>
+
+00:05:04.300 --> 00:05:07.710 align:start position:0%
+<c.colorE5E5E5>after</c><c.colorCCCCCC> that you</c><c.colorE5E5E5> are asked to</c><c.colorCCCCCC> choose a
+repository</c><c.colorE5E5E5><00:05:05.640><c> this</c><00:05:06.640><c> is</c><00:05:06.820><c> the</c><00:05:06.970><c> repository</c><00:05:07.630><c> that</c></c>
+
+00:05:07.710 --> 00:05:07.720 align:start position:0%
+repository<c.colorE5E5E5> this is the repository that
+ </c>
+
+00:05:07.720 --> 00:05:11.160 align:start position:0%
+repository<c.colorE5E5E5> this is the repository that</c>
+<c.colorCCCCCC>wiii<00:05:08.110><c> be</c><00:05:08.560><c> pulled</c><00:05:09.100><c> out</c><00:05:09.370><c> from</c><00:05:09.910><c> the</c></c><c.colorE5E5E5><00:05:10.660><c> Jenkins</c></c>
+
+00:05:11.160 --> 00:05:11.170 align:start position:0%
+<c.colorCCCCCC>wiii be pulled out from the</c><c.colorE5E5E5> Jenkins
+ </c>
+
+00:05:11.170 --> 00:05:15.750 align:start position:0%
+<c.colorCCCCCC>wiii be pulled out from the</c><c.colorE5E5E5> Jenkins
+pipeline<00:05:11.770><c> job</c><00:05:12.450><c> in</c><00:05:13.450><c> this</c><00:05:14.380><c> case</c><00:05:14.680><c> I</c><00:05:14.950><c> choose</c><00:05:15.280><c> ends</c></c>
+
+00:05:15.750 --> 00:05:15.760 align:start position:0%
+<c.colorE5E5E5>pipeline job in this case I choose ends
+ </c>
+
+00:05:15.760 --> 00:05:19.380 align:start position:0%
+<c.colorE5E5E5>pipeline job in this case I choose ends
+on<00:05:15.880><c> Jenkins</c></c><c.colorCCCCCC><00:05:16.180><c> if</c><00:05:16.720><c> you</c><00:05:17.530><c> for</c><00:05:17.860><c> my</c><00:05:18.160><c> repository</c><00:05:18.490><c> you</c></c>
+
+00:05:19.380 --> 00:05:19.390 align:start position:0%
+<c.colorE5E5E5>on Jenkins</c><c.colorCCCCCC> if you for my repository you
+ </c>
+
+00:05:19.390 --> 00:05:21.540 align:start position:0%
+<c.colorE5E5E5>on Jenkins</c><c.colorCCCCCC> if you for my repository you
+should<00:05:19.660><c> have</c><00:05:19.780><c> the</c><00:05:19.930><c> same</c><00:05:20.170><c> repository</c><00:05:20.590><c> hands</c><00:05:21.430><c> on</c></c>
+
+00:05:21.540 --> 00:05:21.550 align:start position:0%
+should have the<c.colorCCCCCC> same repository hands on
+ </c>
+
+00:05:21.550 --> 00:05:25.800 align:start position:0%
+should have the<c.colorCCCCCC> same repository hands on
+Jenkins<00:05:21.790><c> in</c><00:05:22.240><c> your</c><00:05:22.570><c> account</c></c><c.colorE5E5E5><00:05:24.150><c> therefore</c><00:05:25.150><c> select</c></c>
+
+00:05:25.800 --> 00:05:25.810 align:start position:0%
+Jenkins<c.colorCCCCCC> in your account</c><c.colorE5E5E5> therefore select
+ </c>
+
+00:05:25.810 --> 00:05:28.110 align:start position:0%
+Jenkins<c.colorCCCCCC> in your account</c><c.colorE5E5E5> therefore select
+hands<00:05:26.260><c> on</c></c><c.colorCCCCCC><00:05:26.380><c> Jenkins</c></c><c.colorE5E5E5><00:05:26.920><c> and</c><00:05:27.220><c> click</c><00:05:27.520><c> on</c><00:05:27.700><c> create</c></c>
+
+00:05:28.110 --> 00:05:28.120 align:start position:0%
+hands on<c.colorCCCCCC> Jenkins</c><c.colorE5E5E5> and click on create
+ </c>
+
+00:05:28.120 --> 00:05:30.370 align:start position:0%
+hands on<c.colorCCCCCC> Jenkins</c><c.colorE5E5E5> and click on create
+pipeline</c>
+
+00:05:30.370 --> 00:05:30.380 align:start position:0%
+pipeline
+ 
+
+00:05:30.380 --> 00:05:33.940 align:start position:0%
+pipeline
+<c.colorE5E5E5>wait<00:05:31.280><c> few</c><00:05:31.670><c> seconds</c><00:05:32.240><c> until</c><00:05:32.390><c> Jenkins</c><00:05:33.320><c> completes</c></c>
+
+00:05:33.940 --> 00:05:33.950 align:start position:0%
+<c.colorE5E5E5>wait few seconds until Jenkins completes
+ </c>
+
+00:05:33.950 --> 00:05:36.150 align:start position:0%
+<c.colorE5E5E5>wait few seconds until Jenkins completes
+this<00:05:34.490><c> step</c></c>
+
+00:05:36.150 --> 00:05:36.160 align:start position:0%
+this step
+ 
+
+00:05:36.160 --> 00:05:39.330 align:start position:0%
+this step
+as<00:05:36.220><c> the</c><00:05:37.150><c> repository</c><c.colorCCCCCC><00:05:37.420><c> hands</c><00:05:38.260><c> on</c><00:05:38.410><c> Jenkins</c><00:05:38.680><c> does</c></c>
+
+00:05:39.330 --> 00:05:39.340 align:start position:0%
+as the repository<c.colorCCCCCC> hands on Jenkins does
+ </c>
+
+00:05:39.340 --> 00:05:42.860 align:start position:0%
+as the repository<c.colorCCCCCC> hands on Jenkins does
+not<00:05:39.640><c> contain</c><00:05:40.150><c> a</c></c><c.colorE5E5E5><00:05:40.180><c> Jenkins</c><00:05:40.840><c> file</c></c><c.colorCCCCCC><00:05:41.170><c> at</c><00:05:41.530><c> its</c></c><c.colorE5E5E5><00:05:42.040><c> root</c></c>
+
+00:05:42.860 --> 00:05:42.870 align:start position:0%
+not contain a<c.colorE5E5E5> Jenkins file</c><c.colorCCCCCC> at its</c><c.colorE5E5E5> root
+ </c>
+
+00:05:42.870 --> 00:05:45.840 align:start position:0%
+not contain a<c.colorE5E5E5> Jenkins file</c><c.colorCCCCCC> at its</c><c.colorE5E5E5> root
+Jenkins<00:05:43.870><c> cannot</c><00:05:44.200><c> find</c><00:05:44.530><c> a</c><00:05:44.650><c> Jenkins</c><00:05:45.070><c> file</c><00:05:45.340><c> and</c></c>
+
+00:05:45.840 --> 00:05:45.850 align:start position:0%
+Jenkins cannot find a Jenkins file<c.colorE5E5E5> and
+ </c>
+
+00:05:45.850 --> 00:05:48.300 align:start position:0%
+Jenkins cannot find a Jenkins file<c.colorE5E5E5> and
+prompts<00:05:46.390><c> you</c><00:05:46.540><c> to</c><00:05:46.570><c> create</c><00:05:47.020><c> one</c><00:05:47.440><c> with</c><00:05:48.070><c> the</c></c>
+
+00:05:48.300 --> 00:05:48.310 align:start position:0%
+prompts you to<c.colorE5E5E5> create one with the
+ </c>
+
+00:05:48.310 --> 00:05:51.840 align:start position:0%
+prompts you to<c.colorE5E5E5> create one with the
+visual<00:05:48.670><c> editor</c><00:05:49.650><c> you</c><00:05:50.650><c> will</c><00:05:50.800><c> recognize</c><00:05:51.400><c> here</c></c>
+
+00:05:51.840 --> 00:05:51.850 align:start position:0%
+visual editor<c.colorE5E5E5> you will recognize here
+ </c>
+
+00:05:51.850 --> 00:05:53.940 align:start position:0%
+visual editor<c.colorE5E5E5> you will recognize here</c>
+<c.colorE5E5E5>some<00:05:52.210><c> of</c><00:05:52.240><c> the</c><00:05:52.510><c> steps</c><00:05:52.780><c> that</c><00:05:52.960><c> we</c><00:05:53.260><c> scripted</c><00:05:53.800><c> in</c></c>
+
+00:05:53.940 --> 00:05:53.950 align:start position:0%
+<c.colorE5E5E5>some of the steps that we scripted in
+ </c>
+
+00:05:53.950 --> 00:05:56.940 align:start position:0%
+<c.colorE5E5E5>some of the steps that we scripted in</c>
+<c.colorCCCCCC>section<00:05:54.370><c> 4</c></c><c.colorE5E5E5><00:05:54.700><c> using</c><00:05:55.480><c> the</c><00:05:55.600><c> declarative</c><00:05:56.260><c> pipeline</c></c>
+
+00:05:56.940 --> 00:05:56.950 align:start position:0%
+<c.colorCCCCCC>section 4</c><c.colorE5E5E5> using the declarative pipeline
+ </c>
+
+00:05:56.950 --> 00:06:00.390 align:start position:0%
+<c.colorCCCCCC>section 4</c><c.colorE5E5E5> using the declarative pipeline
+syntax<00:05:58.050><c> here</c><00:05:59.050><c> we</c><00:05:59.530><c> are</c><00:05:59.560><c> doing</c></c><c.colorCCCCCC><00:05:59.740><c> a</c><00:05:59.950><c> similar</c></c><c.colorE5E5E5><00:06:00.160><c> thing</c></c>
+
+00:06:00.390 --> 00:06:00.400 align:start position:0%
+syntax here we are doing<c.colorCCCCCC> a similar</c><c.colorE5E5E5> thing
+ </c>
+
+00:06:00.400 --> 00:06:03.060 align:start position:0%
+syntax here we are doing<c.colorCCCCCC> a similar</c><c.colorE5E5E5> thing</c>
+<c.colorCCCCCC>but<00:06:01.120><c> we</c><00:06:01.330><c> use</c><00:06:01.480><c> the</c><00:06:01.660><c> visual</c><00:06:02.080><c> editor</c></c><c.colorE5E5E5><00:06:02.260><c> that</c></c>
+
+00:06:03.060 --> 00:06:03.070 align:start position:0%
+<c.colorCCCCCC>but we use the visual editor</c><c.colorE5E5E5> that
+ </c>
+
+00:06:03.070 --> 00:06:05.520 align:start position:0%
+<c.colorCCCCCC>but we use the visual editor</c><c.colorE5E5E5> that
+automatically<00:06:03.910><c> creates</c><00:06:04.510><c> the</c><00:06:04.750><c> source</c><00:06:05.140><c> code</c></c>
+
+00:06:05.520 --> 00:06:05.530 align:start position:0%
+automatically<c.colorE5E5E5> creates the source code
+ </c>
+
+00:06:05.530 --> 00:06:08.270 align:start position:0%
+automatically<c.colorE5E5E5> creates the source code
+from<00:06:06.130><c> the</c><00:06:06.310><c> steps</c><00:06:06.640><c> that</c><00:06:06.940><c> you</c><00:06:07.090><c> select</c><00:06:07.540><c> here</c></c>
+
+00:06:08.270 --> 00:06:08.280 align:start position:0%
+from the steps that you select<c.colorE5E5E5> here
+ </c>
+
+00:06:08.280 --> 00:06:11.520 align:start position:0%
+from the steps that you select<c.colorE5E5E5> here
+let's<00:06:09.280><c> create</c><00:06:09.610><c> a</c><00:06:09.880><c> dummy</c><00:06:10.270><c> pipeline</c><00:06:10.930><c> with</c><00:06:11.500><c> a</c></c>
+
+00:06:11.520 --> 00:06:11.530 align:start position:0%
+let's<c.colorE5E5E5> create a dummy pipeline with a
+ </c>
+
+00:06:11.530 --> 00:06:14.820 align:start position:0%
+let's<c.colorE5E5E5> create a dummy pipeline with a
+stage<00:06:11.920><c> to</c><00:06:12.250><c> build</c><00:06:12.600><c> three</c><00:06:13.600><c> parallel</c><00:06:13.990><c> stages</c><00:06:14.620><c> to</c></c>
+
+00:06:14.820 --> 00:06:14.830 align:start position:0%
+stage to build three parallel stages to
+ 
+
+00:06:14.830 --> 00:06:18.060 align:start position:0%
+stage to build three parallel stages to
+<c.colorE5E5E5>test<00:06:15.100><c> and</c><00:06:15.430><c> one</c><00:06:15.760><c> stage</c><00:06:16.120><c> to</c><00:06:16.390><c> deploy</c><00:06:16.750><c> for</c><00:06:17.710><c> sake</c><00:06:17.920><c> of</c></c>
+
+00:06:18.060 --> 00:06:18.070 align:start position:0%
+<c.colorE5E5E5>test and one stage to deploy for sake of
+ </c>
+
+00:06:18.070 --> 00:06:20.460 align:start position:0%
+<c.colorE5E5E5>test and one stage to deploy for sake of
+simplicity<00:06:18.280><c> we</c></c><c.colorCCCCCC><00:06:19.000><c> will</c><00:06:19.540><c> just</c><00:06:19.750><c> print</c><00:06:20.050><c> a</c><00:06:20.260><c> message</c></c>
+
+00:06:20.460 --> 00:06:20.470 align:start position:0%
+simplicity we<c.colorCCCCCC> will just print a message
+ </c>
+
+00:06:20.470 --> 00:06:24.030 align:start position:0%
+simplicity we<c.colorCCCCCC> will just print a message</c>
+<c.colorE5E5E5>to<00:06:20.980><c> a</c><00:06:21.010><c> console</c><00:06:21.520><c> output</c><00:06:21.670><c> in</c><00:06:22.120><c> these</c></c><c.colorCCCCCC><00:06:22.360><c> stages</c><00:06:23.080><c> we</c></c>
+
+00:06:24.030 --> 00:06:24.040 align:start position:0%
+<c.colorE5E5E5>to a console output in these</c><c.colorCCCCCC> stages we
+ </c>
+
+00:06:24.040 --> 00:06:26.340 align:start position:0%
+<c.colorE5E5E5>to a console output in these</c><c.colorCCCCCC> stages we
+want<00:06:24.220><c> to</c><00:06:24.340><c> run</c><00:06:24.520><c> this</c><00:06:24.730><c> dummy</c><00:06:25.030><c> pipeline</c><00:06:25.630><c> on</c><00:06:25.780><c> any</c></c>
+
+00:06:26.340 --> 00:06:26.350 align:start position:0%
+want to run this dummy pipeline on any
+ 
+
+00:06:26.350 --> 00:06:29.820 align:start position:0%
+want to run this dummy pipeline on any
+<c.colorE5E5E5>available<00:06:26.920><c> agent</c><00:06:27.430><c> so</c><00:06:28.030><c> keep</c><00:06:28.330><c> any</c><00:06:28.570><c> agent</c><00:06:29.230><c> under</c></c>
+
+00:06:29.820 --> 00:06:29.830 align:start position:0%
+<c.colorE5E5E5>available agent so keep any agent under
+ </c>
+
+00:06:29.830 --> 00:06:33.450 align:start position:0%
+<c.colorE5E5E5>available agent so keep any agent under
+pipeline<00:06:30.370><c> settings</c><00:06:31.650><c> click</c><00:06:32.650><c> on</c></c><c.colorCCCCCC><00:06:32.680><c> the</c><00:06:32.980><c> Add</c><00:06:33.130><c> icon</c></c>
+
+00:06:33.450 --> 00:06:33.460 align:start position:0%
+pipeline settings click on<c.colorCCCCCC> the Add icon
+ </c>
+
+00:06:33.460 --> 00:06:36.540 align:start position:0%
+pipeline settings click on<c.colorCCCCCC> the Add icon</c>
+<c.colorCCCCCC>in<00:06:34.090><c> the</c><00:06:34.450><c> pipeline</c></c><c.colorE5E5E5><00:06:34.980><c> visualization</c><00:06:35.980><c> to</c><00:06:36.190><c> add</c><00:06:36.340><c> the</c></c>
+
+00:06:36.540 --> 00:06:36.550 align:start position:0%
+<c.colorCCCCCC>in the pipeline</c><c.colorE5E5E5> visualization to add the
+ </c>
+
+00:06:36.550 --> 00:06:41.900 align:start position:0%
+<c.colorCCCCCC>in the pipeline</c><c.colorE5E5E5> visualization to add the
+stage<00:06:37.800><c> we</c><00:06:38.800><c> call</c><00:06:39.010><c> the</c><00:06:39.190><c> first</c><00:06:39.520><c> stage</c><00:06:40.120><c> build</c><00:06:40.720><c> and</c></c>
+
+00:06:41.900 --> 00:06:41.910 align:start position:0%
+stage<c.colorE5E5E5> we call the first stage build and
+ </c>
+
+00:06:41.910 --> 00:06:45.720 align:start position:0%
+stage<c.colorE5E5E5> we call the first stage build and
+we<00:06:42.910><c> are</c><00:06:43.030><c> the</c><00:06:43.180><c> step</c><00:06:43.540><c> inside</c><00:06:44.320><c> this</c><00:06:44.620><c> stage</c><00:06:44.950><c> by</c></c>
+
+00:06:45.720 --> 00:06:45.730 align:start position:0%
+we are the step inside this stage<c.colorE5E5E5> by
+ </c>
+
+00:06:45.730 --> 00:06:48.970 align:start position:0%
+we are the step inside this stage<c.colorE5E5E5> by
+clicking<00:06:46.240><c> on</c><00:06:46.420><c> add</c><00:06:46.720><c> step</c></c>
+
+00:06:48.970 --> 00:06:48.980 align:start position:0%
+<c.colorE5E5E5>clicking on add step
+ </c>
+
+00:06:48.980 --> 00:06:51.730 align:start position:0%
+<c.colorE5E5E5>clicking on add step
+in<00:06:49.400><c> this</c><00:06:49.880><c> step</c><00:06:50.210><c> we</c></c><c.colorCCCCCC><00:06:50.720><c> just</c><00:06:50.930><c> want</c><00:06:51.140><c> to</c><00:06:51.260><c> print</c></c><c.colorE5E5E5><00:06:51.500><c> the</c></c>
+
+00:06:51.730 --> 00:06:51.740 align:start position:0%
+in this step we<c.colorCCCCCC> just want to print</c><c.colorE5E5E5> the
+ </c>
+
+00:06:51.740 --> 00:06:55.390 align:start position:0%
+in this step we<c.colorCCCCCC> just want to print</c><c.colorE5E5E5> the
+message</c><c.colorCCCCCC><00:06:51.890><c> billed</c><00:06:52.520><c> as</c><00:06:52.790><c> a</c><00:06:53.300><c> step</c><00:06:53.750><c> example</c><00:06:54.680><c> so</c></c>
+
+00:06:55.390 --> 00:06:55.400 align:start position:0%
+message<c.colorCCCCCC> billed as a step example so
+ </c>
+
+00:06:55.400 --> 00:06:58.270 align:start position:0%
+message<c.colorCCCCCC> billed as a step example so
+click<00:06:55.790><c> on</c><00:06:55.970><c> print</c><00:06:56.360><c> message</c><00:06:56.990><c> and</c><00:06:57.290><c> add</c><00:06:57.950><c> the</c></c>
+
+00:06:58.270 --> 00:06:58.280 align:start position:0%
+click<c.colorCCCCCC> on print message and add the
+ </c>
+
+00:06:58.280 --> 00:07:00.900 align:start position:0%
+click<c.colorCCCCCC> on print message and add the
+message</c><c.colorE5E5E5><00:06:58.490><c> to</c><00:06:59.300><c> display</c><00:06:59.480><c> to</c><00:06:59.840><c> the</c><00:07:00.140><c> console</c><00:07:00.560><c> output</c></c>
+
+00:07:00.900 --> 00:07:00.910 align:start position:0%
+message<c.colorE5E5E5> to display to the console output
+ </c>
+
+00:07:00.910 --> 00:07:05.300 align:start position:0%
+message<c.colorE5E5E5> to display to the console output
+for<00:07:01.910><c> example</c></c><c.colorCCCCCC><00:07:02.170><c> building</c></c>
+
+00:07:05.300 --> 00:07:05.310 align:start position:0%
+ 
+ 
+
+00:07:05.310 --> 00:07:09.470 align:start position:0%
+ 
+now<00:07:06.270><c> we</c><00:07:06.870><c> add</c><00:07:07.080><c> another</c><00:07:07.560><c> stage</c><00:07:08.070><c> after</c><c.colorE5E5E5><00:07:08.970><c> the</c><00:07:09.150><c> build</c></c>
+
+00:07:09.470 --> 00:07:09.480 align:start position:0%
+now we add another stage after<c.colorE5E5E5> the build
+ </c>
+
+00:07:09.480 --> 00:07:12.200 align:start position:0%
+now we add another stage after<c.colorE5E5E5> the build
+stage<00:07:09.900><c> so</c><00:07:10.740><c> click</c><00:07:11.070><c> on</c><00:07:11.220><c> the</c><00:07:11.370><c> plus</c><00:07:11.639><c> sign</c></c>
+
+00:07:12.200 --> 00:07:12.210 align:start position:0%
+stage so click on the plus sign
+ 
+
+00:07:12.210 --> 00:07:15.800 align:start position:0%
+stage so click on the plus sign
+following<00:07:12.810><c> the</c><00:07:13.020><c> build</c><00:07:13.260><c> stage</c><c.colorE5E5E5><00:07:14.360><c> we</c><00:07:15.360><c> give</c><00:07:15.540><c> this</c></c>
+
+00:07:15.800 --> 00:07:15.810 align:start position:0%
+following the build stage<c.colorE5E5E5> we give this
+ </c>
+
+00:07:15.810 --> 00:07:19.800 align:start position:0%
+following the build stage<c.colorE5E5E5> we give this
+stage<00:07:16.139><c> the</c><00:07:16.440><c> name</c><00:07:16.650><c> test</c><00:07:17.370><c> Firefox</c></c>
+
+00:07:19.800 --> 00:07:19.810 align:start position:0%
+stage the name<c.colorE5E5E5> test Firefox
+ </c>
+
+00:07:19.810 --> 00:07:24.450 align:start position:0%
+stage the name<c.colorE5E5E5> test Firefox
+and<00:07:19.900><c> we</c><00:07:20.770><c> are</c><00:07:20.889><c> the</c><00:07:21.070><c> step</c><00:07:22.380><c> which</c><00:07:23.380><c> s</c><00:07:23.620><c> Acutes</c></c><c.colorCCCCCC><00:07:24.190><c> a</c></c>
+
+00:07:24.450 --> 00:07:24.460 align:start position:0%
+and we are the step which<c.colorE5E5E5> s Acutes</c><c.colorCCCCCC> a
+ </c>
+
+00:07:24.460 --> 00:07:27.020 align:start position:0%
+and we are the step which<c.colorE5E5E5> s Acutes</c><c.colorCCCCCC> a
+shell<00:07:25.030><c> script</c></c>
+
+00:07:27.020 --> 00:07:27.030 align:start position:0%
+shell script
+ 
+
+00:07:27.030 --> 00:07:31.280 align:start position:0%
+shell script
+in<00:07:27.120><c> this</c><00:07:27.930><c> box</c><c.colorCCCCCC><00:07:28.320><c> we</c><00:07:28.770><c> write</c><00:07:29.130><c> the</c><00:07:29.460><c> shell</c></c><c.colorE5E5E5><00:07:29.700><c> script</c><00:07:30.290><c> we</c></c>
+
+00:07:31.280 --> 00:07:31.290 align:start position:0%
+in this box<c.colorCCCCCC> we write the shell</c><c.colorE5E5E5> script we
+ </c>
+
+00:07:31.290 --> 00:07:34.100 align:start position:0%
+in this box<c.colorCCCCCC> we write the shell</c><c.colorE5E5E5> script we
+just<00:07:31.530><c> want</c><00:07:31.740><c> to</c></c><c.colorCCCCCC><00:07:31.830><c> output</c><00:07:32.430><c> a</c><00:07:32.460><c> message</c></c><c.colorE5E5E5><00:07:33.120><c> so</c><00:07:33.570><c> we</c><00:07:33.810><c> type</c></c>
+
+00:07:34.100 --> 00:07:34.110 align:start position:0%
+just want to<c.colorCCCCCC> output a message</c><c.colorE5E5E5> so we type
+ </c>
+
+00:07:34.110 --> 00:07:38.480 align:start position:0%
+just want to<c.colorCCCCCC> output a message</c><c.colorE5E5E5> so we type
+echo<00:07:34.830><c> quote</c><00:07:35.340><c> testing</c><00:07:36.180><c> Firefox</c><00:07:36.810><c> quote</c><00:07:37.490><c> to</c></c>
+
+00:07:38.480 --> 00:07:38.490 align:start position:0%
+echo quote testing Firefox quote<c.colorE5E5E5> to
+ </c>
+
+00:07:38.490 --> 00:07:42.190 align:start position:0%
+echo quote testing Firefox quote<c.colorE5E5E5> to
+simulate<00:07:38.730><c> a</c><00:07:39.150><c> test</c><00:07:39.540><c> on</c><00:07:39.870><c> the</c><00:07:40.110><c> Firefox</c><00:07:40.650><c> browser</c></c>
+
+00:07:42.190 --> 00:07:42.200 align:start position:0%
+simulate<c.colorE5E5E5> a test on the Firefox browser
+ </c>
+
+00:07:42.200 --> 00:07:45.920 align:start position:0%
+simulate<c.colorE5E5E5> a test on the Firefox browser</c>
+<c.colorE5E5E5>now<00:07:43.200><c> let's</c><00:07:43.860><c> add</c><00:07:44.160><c> another</c><00:07:44.190><c> stage</c><00:07:45.090><c> to</c><00:07:45.660><c> simulate</c></c>
+
+00:07:45.920 --> 00:07:45.930 align:start position:0%
+<c.colorE5E5E5>now let's add another stage to simulate
+ </c>
+
+00:07:45.930 --> 00:07:49.240 align:start position:0%
+<c.colorE5E5E5>now let's add another stage to simulate
+tests<00:07:46.890><c> running</c><00:07:47.280><c> on</c><00:07:47.640><c> a</c><00:07:47.670><c> different</c></c><c.colorCCCCCC><00:07:47.970><c> browser</c></c>
+
+00:07:49.240 --> 00:07:49.250 align:start position:0%
+tests<c.colorE5E5E5> running on a different</c><c.colorCCCCCC> browser
+ </c>
+
+00:07:49.250 --> 00:07:51.950 align:start position:0%
+tests<c.colorE5E5E5> running on a different</c><c.colorCCCCCC> browser</c>
+<c.colorE5E5E5>because<00:07:50.250><c> we</c><00:07:50.460><c> want</c><00:07:50.670><c> to</c><00:07:50.790><c> run</c><00:07:50.970><c> these</c><00:07:51.180><c> tests</c><00:07:51.780><c> in</c></c>
+
+00:07:51.950 --> 00:07:51.960 align:start position:0%
+<c.colorE5E5E5>because we want to run these tests in
+ </c>
+
+00:07:51.960 --> 00:07:55.400 align:start position:0%
+<c.colorE5E5E5>because we want to run these tests in</c>
+<c.colorCCCCCC>parallel<00:07:52.650><c> we</c><00:07:53.370><c> click</c><00:07:53.640><c> on</c><00:07:53.820><c> the</c><00:07:53.940><c> plus</c><00:07:54.150><c> sign</c><00:07:54.540><c> below</c></c>
+
+00:07:55.400 --> 00:07:55.410 align:start position:0%
+<c.colorCCCCCC>parallel we click on the plus sign below
+ </c>
+
+00:07:55.410 --> 00:07:59.440 align:start position:0%
+<c.colorCCCCCC>parallel we click on the plus sign below
+the</c><c.colorE5E5E5><00:07:56.190><c> test</c><00:07:56.490><c> Firefox</c><00:07:57.180><c> stage</c><00:07:57.510><c> we</c><00:07:57.960><c> just</c><00:07:58.260><c> created</c></c>
+
+00:07:59.440 --> 00:07:59.450 align:start position:0%
+the<c.colorE5E5E5> test Firefox stage we just created
+ </c>
+
+00:07:59.450 --> 00:08:03.140 align:start position:0%
+the<c.colorE5E5E5> test Firefox stage we just created
+here<00:08:00.450><c> we</c><00:08:01.169><c> repeat</c><00:08:01.560><c> the</c></c><c.colorCCCCCC><00:08:01.919><c> same</c><00:08:02.220><c> procedure</c><00:08:02.760><c> and</c></c>
+
+00:08:03.140 --> 00:08:03.150 align:start position:0%
+here we repeat the<c.colorCCCCCC> same procedure and
+ </c>
+
+00:08:03.150 --> 00:08:07.310 align:start position:0%
+here we repeat the<c.colorCCCCCC> same procedure and
+add<00:08:03.600><c> a</c><00:08:03.660><c> stage</c><00:08:04.290><c> to</c><00:08:04.800><c> simulate</c><00:08:05.090><c> tests</c></c><c.colorE5E5E5><00:08:06.090><c> running</c></c><c.colorCCCCCC><00:08:07.020><c> on</c></c>
+
+00:08:07.310 --> 00:08:07.320 align:start position:0%
+add<c.colorCCCCCC> a stage to simulate tests</c><c.colorE5E5E5> running</c><c.colorCCCCCC> on
+ </c>
+
+00:08:07.320 --> 00:08:11.390 align:start position:0%
+add<c.colorCCCCCC> a stage to simulate tests</c><c.colorE5E5E5> running</c><c.colorCCCCCC> on
+the<00:08:07.560><c> Chrome</c><00:08:07.919><c> browser</c><00:08:08.220><c> as</c><00:08:09.320><c> before</c></c><c.colorE5E5E5><00:08:10.320><c> we</c><00:08:10.950><c> execute</c></c>
+
+00:08:11.390 --> 00:08:11.400 align:start position:0%
+the Chrome browser<c.colorCCCCCC> as before</c><c.colorE5E5E5> we execute
+ </c>
+
+00:08:11.400 --> 00:08:14.380 align:start position:0%
+the Chrome browser<c.colorCCCCCC> as before</c><c.colorE5E5E5> we execute</c>
+<c.colorCCCCCC>a<00:08:11.850><c> shell</c><00:08:12.240><c> script</c></c><c.colorE5E5E5><00:08:12.500><c> to</c><00:08:13.500><c> echo</c><00:08:13.710><c> the</c><00:08:13.980><c> message</c></c>
+
+00:08:14.380 --> 00:08:14.390 align:start position:0%
+<c.colorCCCCCC>a shell script</c><c.colorE5E5E5> to echo the message
+ </c>
+
+00:08:14.390 --> 00:08:19.130 align:start position:0%
+<c.colorCCCCCC>a shell script</c><c.colorE5E5E5> to echo the message</c>
+<c.colorE5E5E5>testing<00:08:15.390><c> Chrome</c><00:08:16.790><c> finally</c><00:08:17.790><c> we</c><00:08:18.540><c> do</c><00:08:18.690><c> the</c><00:08:18.720><c> same</c></c>
+
+00:08:19.130 --> 00:08:19.140 align:start position:0%
+<c.colorE5E5E5>testing Chrome finally we do the same
+ </c>
+
+00:08:19.140 --> 00:08:22.570 align:start position:0%
+<c.colorE5E5E5>testing Chrome finally we do the same</c>
+<c.colorCCCCCC>for</c><c.colorE5E5E5><00:08:19.740><c> a</c><00:08:19.800><c> third</c><00:08:20.190><c> stage</c><00:08:20.700><c> that</c><00:08:21.270><c> we</c><00:08:21.450><c> call</c><00:08:21.720><c> test</c></c><c.colorCCCCCC><00:08:22.200><c> edge</c></c>
+
+00:08:22.570 --> 00:08:22.580 align:start position:0%
+<c.colorCCCCCC>for</c><c.colorE5E5E5> a third stage that we call test</c><c.colorCCCCCC> edge
+ </c>
+
+00:08:22.580 --> 00:08:25.970 align:start position:0%
+<c.colorCCCCCC>for</c><c.colorE5E5E5> a third stage that we call test</c><c.colorCCCCCC> edge</c>
+<c.colorE5E5E5>in<00:08:23.580><c> order</c></c><c.colorCCCCCC><00:08:23.730><c> to</c><00:08:24.000><c> simulate</c><00:08:24.240><c> tests</c><00:08:25.020><c> running</c><00:08:25.710><c> on</c></c>
+
+00:08:25.970 --> 00:08:25.980 align:start position:0%
+<c.colorE5E5E5>in order</c><c.colorCCCCCC> to simulate tests running on
+ </c>
+
+00:08:25.980 --> 00:08:29.579 align:start position:0%
+<c.colorE5E5E5>in order</c><c.colorCCCCCC> to simulate tests running on
+the<00:08:26.310><c> edge</c><00:08:26.460><c> browser</c></c>
+
+00:08:29.579 --> 00:08:29.589 align:start position:0%
+ 
+ 
+
+00:08:29.589 --> 00:08:32.850 align:start position:0%
+ 
+the<00:08:30.219><c> next</c><00:08:30.519><c> stage</c><00:08:30.759><c> is</c><00:08:31.089><c> deployed</c><00:08:31.569><c> and</c><00:08:31.809><c> it</c><00:08:32.439><c> occurs</c>
+
+00:08:32.850 --> 00:08:32.860 align:start position:0%
+the next stage is deployed and it occurs
+ 
+
+00:08:32.860 --> 00:08:36.719 align:start position:0%
+the next stage is deployed and it occurs
+after<c.colorE5E5E5><00:08:33.129><c> the</c><00:08:33.550><c> test</c><00:08:33.819><c> stages</c><00:08:34.659><c> so</c><00:08:35.560><c> we</c><00:08:35.919><c> click</c></c><c.colorCCCCCC><00:08:36.279><c> on</c></c><c.colorE5E5E5><00:08:36.519><c> the</c></c>
+
+00:08:36.719 --> 00:08:36.729 align:start position:0%
+after<c.colorE5E5E5> the test stages so we click</c><c.colorCCCCCC> on</c><c.colorE5E5E5> the
+ </c>
+
+00:08:36.729 --> 00:08:41.159 align:start position:0%
+after<c.colorE5E5E5> the test stages so we click</c><c.colorCCCCCC> on</c><c.colorE5E5E5> the
+plus</c><c.colorCCCCCC><00:08:36.939><c> sign</c><00:08:37.269><c> after</c><00:08:37.569><c> the</c><00:08:38.169><c> tests</c></c><c.colorE5E5E5><00:08:39.629><c> we</c><00:08:40.629><c> name</c><00:08:40.870><c> the</c></c>
+
+00:08:41.159 --> 00:08:41.169 align:start position:0%
+plus<c.colorCCCCCC> sign after the tests</c><c.colorE5E5E5> we name the
+ </c>
+
+00:08:41.169 --> 00:08:43.510 align:start position:0%
+plus<c.colorCCCCCC> sign after the tests</c><c.colorE5E5E5> we name the
+stage<00:08:41.469><c> deploy</c></c>
+
+00:08:43.510 --> 00:08:43.520 align:start position:0%
+stage deploy
+ 
+
+00:08:43.520 --> 00:08:47.560 align:start position:0%
+stage deploy
+we<00:08:44.390><c> are</c><00:08:44.570><c> the</c><00:08:44.750><c> step</c><00:08:45.490><c> which</c><00:08:46.490><c> prints</c><00:08:47.029><c> a</c><00:08:47.180><c> message</c>
+
+00:08:47.560 --> 00:08:47.570 align:start position:0%
+we are the step which prints a message
+ 
+
+00:08:47.570 --> 00:08:50.880 align:start position:0%
+we are the step which prints a message
+<c.colorCCCCCC>deploying</c>
+
+00:08:50.880 --> 00:08:50.890 align:start position:0%
+ 
+ 
+
+00:08:50.890 --> 00:08:53.460 align:start position:0%
+ 
+we<00:08:51.520><c> completed</c><00:08:51.910><c> the</c><00:08:52.150><c> pipeline</c><c.colorCCCCCC><00:08:52.600><c> so</c><00:08:52.750><c> we</c><00:08:53.080><c> click</c></c><c.colorE5E5E5><00:08:53.320><c> on</c></c>
+
+00:08:53.460 --> 00:08:53.470 align:start position:0%
+we completed the pipeline<c.colorCCCCCC> so we click</c><c.colorE5E5E5> on
+ </c>
+
+00:08:53.470 --> 00:08:55.710 align:start position:0%
+we completed the pipeline<c.colorCCCCCC> so we click</c><c.colorE5E5E5> on
+the<00:08:53.620><c> Save</c><00:08:53.890><c> button</c><00:08:53.920><c> on</c><00:08:54.670><c> the</c><00:08:54.910><c> top</c><00:08:55.150><c> right</c><00:08:55.510><c> hand</c></c>
+
+00:08:55.710 --> 00:08:55.720 align:start position:0%
+<c.colorE5E5E5>the Save button on the top right hand
+ </c>
+
+00:08:55.720 --> 00:08:57.809 align:start position:0%
+<c.colorE5E5E5>the Save button on the top right hand
+side</c>
+
+00:08:57.809 --> 00:08:57.819 align:start position:0%
+<c.colorE5E5E5>side
+ </c>
+
+00:08:57.819 --> 00:09:00.730 align:start position:0%
+<c.colorE5E5E5>side
+Jenkins<00:08:58.819><c> is</c><00:08:59.029><c> going</c><00:08:59.300><c> to</c><00:08:59.480><c> push</c><00:08:59.689><c> the</c></c><c.colorCCCCCC><00:08:59.720><c> source</c><00:09:00.319><c> code</c></c>
+
+00:09:00.730 --> 00:09:00.740 align:start position:0%
+<c.colorE5E5E5>Jenkins is going to push the</c><c.colorCCCCCC> source code
+ </c>
+
+00:09:00.740 --> 00:09:02.769 align:start position:0%
+<c.colorE5E5E5>Jenkins is going to push the</c><c.colorCCCCCC> source code
+for<00:09:01.189><c> this</c><00:09:01.309><c> pipeline</c></c><c.colorE5E5E5><00:09:01.699><c> to</c><00:09:02.449><c> the</c><00:09:02.569><c> github</c></c>
+
+00:09:02.769 --> 00:09:02.779 align:start position:0%
+for this pipeline<c.colorE5E5E5> to the github
+ </c>
+
+00:09:02.779 --> 00:09:03.879 align:start position:0%
+for this pipeline<c.colorE5E5E5> to the github
+repository</c>
+
+00:09:03.879 --> 00:09:03.889 align:start position:0%
+repository
+ 
+
+00:09:03.889 --> 00:09:06.639 align:start position:0%
+repository
+and<00:09:04.089><c> asks</c><00:09:05.089><c> for</c><00:09:05.149><c> a</c><00:09:05.360><c> commit</c><c.colorCCCCCC><00:09:05.779><c> message</c><00:09:06.290><c> and</c><00:09:06.529><c> a</c></c>
+
+00:09:06.639 --> 00:09:06.649 align:start position:0%
+and asks for a commit<c.colorCCCCCC> message and a
+ </c>
+
+00:09:06.649 --> 00:09:09.999 align:start position:0%
+and asks for a commit<c.colorCCCCCC> message and a
+branch<00:09:06.889><c> to</c><00:09:07.160><c> push</c></c><c.colorE5E5E5><00:09:07.430><c> to</c><00:09:08.259><c> we</c><00:09:09.259><c> type</c><00:09:09.499><c> a</c><00:09:09.649><c> commit</c></c>
+
+00:09:09.999 --> 00:09:10.009 align:start position:0%
+branch to push<c.colorE5E5E5> to we type a commit
+ </c>
+
+00:09:10.009 --> 00:09:14.590 align:start position:0%
+branch to push<c.colorE5E5E5> to we type a commit
+message</c><c.colorCCCCCC><00:09:10.040><c> add</c><00:09:11.029><c> multi</c><00:09:11.869><c> branch</c><00:09:12.110><c> pipeline</c></c><c.colorE5E5E5><00:09:12.740><c> and</c><00:09:13.600><c> we</c></c>
+
+00:09:14.590 --> 00:09:14.600 align:start position:0%
+message<c.colorCCCCCC> add multi branch pipeline</c><c.colorE5E5E5> and we
+ </c>
+
+00:09:14.600 --> 00:09:17.169 align:start position:0%
+message<c.colorCCCCCC> add multi branch pipeline</c><c.colorE5E5E5> and we
+commit<00:09:14.959><c> to</c><00:09:15.230><c> a</c><00:09:15.559><c> new</c><00:09:15.800><c> branch</c><00:09:16.129><c> then</c><00:09:16.730><c> you</c><00:09:16.850><c> can</c><00:09:16.999><c> name</c></c>
+
+00:09:17.169 --> 00:09:17.179 align:start position:0%
+commit to<c.colorE5E5E5> a new branch then you can name
+ </c>
+
+00:09:17.179 --> 00:09:20.710 align:start position:0%
+commit to<c.colorE5E5E5> a new branch then you can name
+as<00:09:17.389><c> you</c><00:09:17.629><c> want</c><00:09:18.339><c> if</c><00:09:19.339><c> you</c><00:09:19.519><c> prefer</c><00:09:19.910><c> you</c><00:09:20.420><c> can</c><00:09:20.540><c> also</c></c>
+
+00:09:20.710 --> 00:09:20.720 align:start position:0%
+as you want if you<c.colorE5E5E5> prefer you can also
+ </c>
+
+00:09:20.720 --> 00:09:22.509 align:start position:0%
+as you want if you<c.colorE5E5E5> prefer you can also
+commit<00:09:21.110><c> directly</c><00:09:21.649><c> to</c><00:09:21.800><c> the</c><00:09:21.920><c> master</c><00:09:22.309><c> branch</c></c>
+
+00:09:22.509 --> 00:09:22.519 align:start position:0%
+commit directly to the master branch
+ 
+
+00:09:22.519 --> 00:09:25.389 align:start position:0%
+commit directly to the master branch
+<c.colorE5E5E5>since<00:09:23.360><c> you</c><00:09:23.600><c> are</c><00:09:23.749><c> working</c><00:09:24.319><c> on</c><00:09:24.529><c> your</c><00:09:24.800><c> Fork</c><00:09:25.249><c> of</c></c>
+
+00:09:25.389 --> 00:09:25.399 align:start position:0%
+<c.colorE5E5E5>since you are working on your Fork of
+ </c>
+
+00:09:25.399 --> 00:09:30.280 align:start position:0%
+<c.colorE5E5E5>since you are working on your Fork of</c>
+<c.colorCCCCCC>the</c><c.colorE5E5E5><00:09:25.699><c> repository</c><00:09:27.490><c> finally</c><00:09:28.490><c> click</c><00:09:29.269><c> on</c><00:09:29.449><c> save</c><00:09:29.959><c> and</c></c>
+
+00:09:30.280 --> 00:09:30.290 align:start position:0%
+<c.colorCCCCCC>the</c><c.colorE5E5E5> repository finally click on save and
+ </c>
+
+00:09:30.290 --> 00:09:31.739 align:start position:0%
+<c.colorCCCCCC>the</c><c.colorE5E5E5> repository finally click on save and
+run</c>
+
+00:09:31.739 --> 00:09:31.749 align:start position:0%
+run
+ 
+
+00:09:31.749 --> 00:09:35.619 align:start position:0%
+run
+wait<00:09:32.749><c> a</c><00:09:32.779><c> few</c><00:09:33.199><c> seconds</c><00:09:33.740><c> until</c><c.colorE5E5E5><00:09:33.949><c> Jenkins</c><00:09:34.939><c> pushes</c></c>
+
+00:09:35.619 --> 00:09:35.629 align:start position:0%
+wait a few seconds until<c.colorE5E5E5> Jenkins pushes
+ </c>
+
+00:09:35.629 --> 00:09:39.690 align:start position:0%
+wait a few seconds until<c.colorE5E5E5> Jenkins pushes
+the<00:09:35.869><c> source</c><00:09:36.170><c> code</c><00:09:36.589><c> to</c><00:09:36.860><c> get</c><00:09:37.249><c> up</c></c>
+
+00:09:39.690 --> 00:09:39.700 align:start position:0%
+ 
+ 
+
+00:09:39.700 --> 00:09:42.150 align:start position:0%
+ 
+the<00:09:40.330><c> first</c><00:09:40.600><c> thing</c><00:09:40.930><c> that</c><c.colorE5E5E5><00:09:41.140><c> the</c><00:09:41.410><c> pipeline</c><00:09:41.650><c> job</c></c>
+
+00:09:42.150 --> 00:09:42.160 align:start position:0%
+the first thing that<c.colorE5E5E5> the pipeline job
+ </c>
+
+00:09:42.160 --> 00:09:44.910 align:start position:0%
+the first thing that<c.colorE5E5E5> the pipeline job
+does<00:09:42.460><c> is</c><00:09:42.700><c> to</c><00:09:43.150><c> index</c><00:09:43.630><c> all</c><00:09:43.870><c> the</c><00:09:44.110><c> branches</c><00:09:44.620><c> in</c><00:09:44.770><c> the</c></c>
+
+00:09:44.910 --> 00:09:44.920 align:start position:0%
+does is to index all the branches in the
+ 
+
+00:09:44.920 --> 00:09:46.920 align:start position:0%
+does is to index all the branches in the
+repository<c.colorCCCCCC><00:09:45.550><c> to</c><00:09:45.790><c> see</c><00:09:46.270><c> if</c><00:09:46.420><c> there</c><00:09:46.630><c> are</c></c><c.colorE5E5E5><00:09:46.660><c> multiple</c></c>
+
+00:09:46.920 --> 00:09:46.930 align:start position:0%
+repository<c.colorCCCCCC> to see if there are</c><c.colorE5E5E5> multiple
+ </c>
+
+00:09:46.930 --> 00:09:50.960 align:start position:0%
+repository<c.colorCCCCCC> to see if there are</c><c.colorE5E5E5> multiple
+branches<00:09:47.860><c> with</c><00:09:48.430><c> multiple</c></c><c.colorCCCCCC><00:09:49.210><c> jenkins</c><00:09:49.750><c> files</c></c>
+
+00:09:50.960 --> 00:09:50.970 align:start position:0%
+branches with multiple<c.colorCCCCCC> jenkins files
+ </c>
+
+00:09:50.970 --> 00:09:54.150 align:start position:0%
+branches with multiple<c.colorCCCCCC> jenkins files
+click<00:09:51.970><c> on</c><00:09:52.150><c> the</c></c><c.colorE5E5E5><00:09:52.210><c> running</c><00:09:52.690><c> pipeline</c><00:09:53.230><c> and</c><00:09:53.410><c> you</c></c>
+
+00:09:54.150 --> 00:09:54.160 align:start position:0%
+click on<c.colorCCCCCC> the</c><c.colorE5E5E5> running pipeline and you
+ </c>
+
+00:09:54.160 --> 00:09:56.670 align:start position:0%
+click on<c.colorCCCCCC> the</c><c.colorE5E5E5> running pipeline and you
+can<00:09:54.310><c> see</c><00:09:54.550><c> the</c><00:09:54.700><c> pipeline</c><00:09:55.120><c> running</c><00:09:55.420><c> with</c><00:09:56.320><c> a</c><00:09:56.350><c> nice</c></c>
+
+00:09:56.670 --> 00:09:56.680 align:start position:0%
+can see the pipeline running with a nice
+ 
+
+00:09:56.680 --> 00:09:58.809 align:start position:0%
+can see the pipeline running with a nice
+visualization
+
+00:09:58.809 --> 00:09:58.819 align:start position:0%
+visualization
+ 
+
+00:09:58.819 --> 00:10:02.469 align:start position:0%
+visualization
+you<00:09:59.539><c> can</c><00:09:59.689><c> inspect</c><00:10:00.100><c> single</c><00:10:01.100><c> stages</c><00:10:01.699><c> and</c><00:10:01.970><c> check</c>
+
+00:10:02.469 --> 00:10:02.479 align:start position:0%
+you can inspect single stages and check
+ 
+
+00:10:02.479 --> 00:10:04.989 align:start position:0%
+you can inspect single stages and check
+the<00:10:02.660><c> console</c><c.colorCCCCCC><00:10:03.079><c> output</c></c>
+
+00:10:04.989 --> 00:10:04.999 align:start position:0%
+the console<c.colorCCCCCC> output
+ </c>
+
+00:10:04.999 --> 00:10:07.460 align:start position:0%
+the console<c.colorCCCCCC> output
+finally<00:10:05.999><c> the</c><00:10:06.540><c> pipeline</c><00:10:06.959><c> completes</c></c>
+
+00:10:07.460 --> 00:10:07.470 align:start position:0%
+finally the pipeline completes
+ 
+
+00:10:07.470 --> 00:10:11.090 align:start position:0%
+finally the pipeline completes
+successfully<c.colorE5E5E5><00:10:07.889><c> as</c><00:10:08.549><c> expected</c><00:10:10.100><c> congratulations</c></c>
+
+00:10:11.090 --> 00:10:11.100 align:start position:0%
+successfully<c.colorE5E5E5> as expected congratulations
+ </c>
+
+00:10:11.100 --> 00:10:14.059 align:start position:0%
+successfully<c.colorE5E5E5> as expected congratulations
+you<00:10:11.609><c> just</c></c><c.colorCCCCCC><00:10:11.639><c> created</c><00:10:12.239><c> and</c><00:10:12.569><c> run</c><00:10:12.959><c> a</c><00:10:13.199><c> pipeline</c><00:10:13.559><c> job</c></c>
+
+00:10:14.059 --> 00:10:14.069 align:start position:0%
+<c.colorE5E5E5>you just</c><c.colorCCCCCC> created and run a pipeline job
+ </c>
+
+00:10:14.069 --> 00:10:18.769 align:start position:0%
+<c.colorE5E5E5>you just</c><c.colorCCCCCC> created and run a pipeline job</c>
+<c.colorE5E5E5>via<00:10:14.639><c> the</c><00:10:15.029><c> visual</c><00:10:15.329><c> editor</c><00:10:16.699><c> now</c><00:10:17.699><c> let's</c><00:10:18.329><c> see</c><00:10:18.569><c> what</c></c>
+
+00:10:18.769 --> 00:10:18.779 align:start position:0%
+<c.colorE5E5E5>via the visual editor now let's see what
+ </c>
+
+00:10:18.779 --> 00:10:22.220 align:start position:0%
+<c.colorE5E5E5>via the visual editor now let's see what
+happened<00:10:19.259><c> on</c><00:10:19.439><c> the</c><00:10:19.649><c> github</c><00:10:19.889><c> repository</c></c><c.colorCCCCCC><00:10:21.169><c> go</c><00:10:22.169><c> to</c></c>
+
+00:10:22.220 --> 00:10:22.230 align:start position:0%
+happened<c.colorE5E5E5> on the github repository</c><c.colorCCCCCC> go to
+ </c>
+
+00:10:22.230 --> 00:10:25.909 align:start position:0%
+happened<c.colorE5E5E5> on the github repository</c><c.colorCCCCCC> go to
+your<00:10:22.859><c> github</c><00:10:23.309><c> repository</c></c><c.colorE5E5E5><00:10:24.149><c> and</c><00:10:24.389><c> if</c><00:10:25.259><c> you</c><00:10:25.799><c> have</c></c>
+
+00:10:25.909 --> 00:10:25.919 align:start position:0%
+your github repository<c.colorE5E5E5> and if you have
+ </c>
+
+00:10:25.919 --> 00:10:30.280 align:start position:0%
+your github repository<c.colorE5E5E5> and if you have
+it<00:10:26.040><c> already</c><00:10:26.220><c> open</c><00:10:26.850><c> like</c><00:10:27.209><c> me</c><00:10:27.769><c> refresh</c><00:10:28.769><c> the</c><00:10:29.069><c> page</c></c>
+
+00:10:30.280 --> 00:10:30.290 align:start position:0%
+it already<c.colorE5E5E5> open like me refresh the page
+ </c>
+
+00:10:30.290 --> 00:10:33.710 align:start position:0%
+it already<c.colorE5E5E5> open like me refresh the page
+github<00:10:31.319><c> notifies</c><00:10:32.069><c> us</c><00:10:32.100><c> that</c><00:10:33.029><c> the</c><00:10:33.149><c> new</c><00:10:33.359><c> branch</c></c>
+
+00:10:33.710 --> 00:10:33.720 align:start position:0%
+github notifies us<c.colorE5E5E5> that the new branch
+ </c>
+
+00:10:33.720 --> 00:10:35.449 align:start position:0%
+github notifies us<c.colorE5E5E5> that the new branch
+has</c><c.colorCCCCCC><00:10:33.959><c> been</c><00:10:34.169><c> recently</c></c><c.colorE5E5E5><00:10:34.739><c> pushed</c><00:10:35.129><c> to</c><00:10:35.339><c> the</c></c>
+
+00:10:35.449 --> 00:10:35.459 align:start position:0%
+has<c.colorCCCCCC> been recently</c><c.colorE5E5E5> pushed to the
+ </c>
+
+00:10:35.459 --> 00:10:38.840 align:start position:0%
+has<c.colorCCCCCC> been recently</c><c.colorE5E5E5> pushed to the
+repository<00:10:36.559><c> this</c><00:10:37.559><c> is</c><00:10:37.739><c> the</c><00:10:37.889><c> branch</c><00:10:38.160><c> created</c></c>
+
+00:10:38.840 --> 00:10:38.850 align:start position:0%
+repository<c.colorE5E5E5> this is the branch created
+ </c>
+
+00:10:38.850 --> 00:10:42.470 align:start position:0%
+repository<c.colorE5E5E5> this is the branch created
+and<00:10:39.029><c> pushed</c><00:10:39.329><c> by</c><00:10:40.019><c> Jenkins</c></c><c.colorCCCCCC><00:10:40.910><c> click</c><00:10:41.910><c> on</c><00:10:42.089><c> it</c></c><c.colorE5E5E5><00:10:42.239><c> and</c></c>
+
+00:10:42.470 --> 00:10:42.480 align:start position:0%
+and pushed by<c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> click on it</c><c.colorE5E5E5> and
+ </c>
+
+00:10:42.480 --> 00:10:45.139 align:start position:0%
+and pushed by<c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> click on it</c><c.colorE5E5E5> and
+you'll<00:10:43.079><c> notice</c><00:10:43.350><c> that</c><00:10:43.889><c> the</c></c><c.colorCCCCCC><00:10:44.040><c> Jenkins</c><00:10:44.549><c> file</c><00:10:44.879><c> has</c></c>
+
+00:10:45.139 --> 00:10:45.149 align:start position:0%
+you'll notice<c.colorE5E5E5> that the</c><c.colorCCCCCC> Jenkins file has
+ </c>
+
+00:10:45.149 --> 00:10:48.799 align:start position:0%
+you'll notice<c.colorE5E5E5> that the</c><c.colorCCCCCC> Jenkins file has
+been</c><c.colorE5E5E5><00:10:45.179><c> added</c></c><c.colorCCCCCC><00:10:45.720><c> to</c><00:10:45.959><c> this</c><00:10:46.230><c> branch</c></c><c.colorE5E5E5><00:10:47.540><c> click</c><00:10:48.540><c> on</c><00:10:48.720><c> the</c></c>
+
+00:10:48.799 --> 00:10:48.809 align:start position:0%
+been<c.colorE5E5E5> added</c><c.colorCCCCCC> to this branch</c><c.colorE5E5E5> click on the
+ </c>
+
+00:10:48.809 --> 00:10:52.729 align:start position:0%
+been<c.colorE5E5E5> added</c><c.colorCCCCCC> to this branch</c><c.colorE5E5E5> click on the</c>
+<c.colorE5E5E5>Jenkins<00:10:49.259><c> file</c></c><c.colorCCCCCC><00:10:50.509><c> recognise</c><00:10:51.509><c> the</c><00:10:51.839><c> stages</c><00:10:52.439><c> we</c></c>
+
+00:10:52.729 --> 00:10:52.739 align:start position:0%
+<c.colorE5E5E5>Jenkins file</c><c.colorCCCCCC> recognise the stages we
+ </c>
+
+00:10:52.739 --> 00:10:55.999 align:start position:0%
+<c.colorE5E5E5>Jenkins file</c><c.colorCCCCCC> recognise the stages we
+created<00:10:53.339><c> with</c><00:10:53.730><c> the</c><00:10:53.879><c> visual</c><00:10:54.239><c> editor</c><00:10:55.009><c> Jenkins</c></c>
+
+00:10:55.999 --> 00:10:56.009 align:start position:0%
+created with the visual editor<c.colorCCCCCC> Jenkins
+ </c>
+
+00:10:56.009 --> 00:10:58.549 align:start position:0%
+created with the visual editor<c.colorCCCCCC> Jenkins</c>
+<c.colorE5E5E5>has<00:10:56.220><c> automatically</c></c><c.colorCCCCCC><00:10:56.970><c> created</c><00:10:57.600><c> the</c><00:10:58.109><c> pipeline</c></c>
+
+00:10:58.549 --> 00:10:58.559 align:start position:0%
+<c.colorE5E5E5>has automatically</c><c.colorCCCCCC> created the pipeline
+ </c>
+
+00:10:58.559 --> 00:11:01.909 align:start position:0%
+<c.colorE5E5E5>has automatically</c><c.colorCCCCCC> created the pipeline</c>
+<c.colorE5E5E5>source<00:10:58.949><c> code</c><00:10:59.309><c> for</c><00:10:59.639><c> you</c><00:11:00.410><c> this</c><00:11:01.410><c> is</c><00:11:01.559><c> the</c><00:11:01.679><c> end</c><00:11:01.799><c> of</c></c>
+
+00:11:01.909 --> 00:11:01.919 align:start position:0%
+<c.colorE5E5E5>source code for you this is the end of
+ </c>
+
+00:11:01.919 --> 00:11:04.549 align:start position:0%
+<c.colorE5E5E5>source code for you this is the end of
+this<00:11:02.100><c> video</c><00:11:02.399><c> where</c><00:11:03.329><c> we</c><00:11:03.540><c> created</c><00:11:04.079><c> a</c><00:11:04.230><c> multi</c></c>
+
+00:11:04.549 --> 00:11:04.559 align:start position:0%
+this video<c.colorE5E5E5> where we created a multi
+ </c>
+
+00:11:04.559 --> 00:11:07.069 align:start position:0%
+this video<c.colorE5E5E5> where we created a multi
+branch<00:11:04.829><c> pipeline</c><00:11:05.429><c> with</c><00:11:05.939><c> blue</c><00:11:06.209><c> oceans</c><00:11:06.629><c> visual</c></c>
+
+00:11:07.069 --> 00:11:07.079 align:start position:0%
+branch pipeline with blue oceans visual
+ 
+
+00:11:07.079 --> 00:11:10.039 align:start position:0%
+branch pipeline with blue oceans visual
+editor<00:11:07.529><c> watch</c><00:11:08.309><c> the</c><00:11:08.639><c> next</c><c.colorCCCCCC><00:11:08.850><c> video</c><00:11:09.239><c> where</c><00:11:09.869><c> we</c></c>
+
+00:11:10.039 --> 00:11:10.049 align:start position:0%
+editor watch the next<c.colorCCCCCC> video where we
+ </c>
+
+00:11:10.049 --> 00:11:12.710 align:start position:0%
+editor watch the next<c.colorCCCCCC> video where we
+will<00:11:10.079><c> explore</c></c><c.colorE5E5E5><00:11:10.619><c> pull</c><00:11:11.129><c> requests</c><00:11:11.819><c> in</c></c><c.colorCCCCCC><00:11:11.970><c> the</c><00:11:12.389><c> multi</c></c>
+
+00:11:12.710 --> 00:11:12.720 align:start position:0%
+will<c.colorCCCCCC> explore</c><c.colorE5E5E5> pull requests in</c><c.colorCCCCCC> the multi
+ </c>
+
+00:11:12.720 --> 00:11:15.649 align:start position:0%
+will<c.colorCCCCCC> explore</c><c.colorE5E5E5> pull requests in</c><c.colorCCCCCC> the multi
+branch</c><c.colorE5E5E5><00:11:12.989><c> pipeline</c></c>
+

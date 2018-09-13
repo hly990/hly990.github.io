@@ -1,0 +1,456 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+
+
+##
+
+00:00:00.310 --> 00:00:03.210 align:start position:0%
+ 
+welcome<00:00:01.150><c> to</c><00:00:01.360><c> the</c><00:00:01.480><c> first</c><00:00:01.689><c> section</c><c.colorCCCCCC><00:00:01.990><c> of</c><00:00:02.440><c> hands-on</c></c>
+
+00:00:03.210 --> 00:00:03.220 align:start position:0%
+welcome to the first section<c.colorCCCCCC> of hands-on
+ </c>
+
+00:00:03.220 --> 00:00:05.249 align:start position:0%
+welcome to the first section<c.colorCCCCCC> of hands-on
+continuous<00:00:03.790><c> integration</c><00:00:04.060><c> and</c><00:00:04.779><c> automation</c></c>
+
+00:00:05.249 --> 00:00:05.259 align:start position:0%
+continuous integration and automation
+ 
+
+00:00:05.259 --> 00:00:08.460 align:start position:0%
+continuous integration and automation
+<c.colorE5E5E5>with<00:00:05.950><c> Jenkins</c></c><c.colorCCCCCC><00:00:06.220><c> in</c><00:00:06.730><c> this</c><00:00:07.480><c> section</c><00:00:07.779><c> we</c><00:00:08.440><c> are</c></c>
+
+00:00:08.460 --> 00:00:08.470 align:start position:0%
+<c.colorE5E5E5>with Jenkins</c><c.colorCCCCCC> in this section we are
+ </c>
+
+00:00:08.470 --> 00:00:10.860 align:start position:0%
+<c.colorE5E5E5>with Jenkins</c><c.colorCCCCCC> in this section we are
+going<00:00:08.559><c> to</c><00:00:08.830><c> introduce</c><00:00:09.070><c> and</c><00:00:09.639><c> install</c><00:00:10.210><c> Jenkins</c></c>
+
+00:00:10.860 --> 00:00:10.870 align:start position:0%
+going<c.colorCCCCCC> to introduce and install Jenkins
+ </c>
+
+00:00:10.870 --> 00:00:13.410 align:start position:0%
+going<c.colorCCCCCC> to introduce and install Jenkins</c>
+<c.colorCCCCCC>you<00:00:11.590><c> will</c><00:00:11.740><c> learn</c><00:00:11.920><c> what</c><00:00:12.340><c> is</c><00:00:12.550><c> Jenkins</c></c>
+
+00:00:13.410 --> 00:00:13.420 align:start position:0%
+<c.colorCCCCCC>you will learn what is Jenkins
+ </c>
+
+00:00:13.420 --> 00:00:16.620 align:start position:0%
+<c.colorCCCCCC>you will learn what is Jenkins
+what<00:00:13.900><c> is</c><00:00:14.080><c> is</c><00:00:14.259><c> useful</c><00:00:14.950><c> and</c><00:00:15.190><c> how</c><00:00:15.940><c> to</c></c><c.colorE5E5E5><00:00:16.000><c> install</c><00:00:16.570><c> it</c></c>
+
+00:00:16.620 --> 00:00:16.630 align:start position:0%
+what is is useful and how to<c.colorE5E5E5> install it
+ </c>
+
+00:00:16.630 --> 00:00:18.740 align:start position:0%
+what is is useful and how to<c.colorE5E5E5> install it
+on</c><c.colorCCCCCC><00:00:16.960><c> your</c></c><c.colorE5E5E5><00:00:17.140><c> favorite</c><00:00:17.590><c> operating</c><00:00:18.130><c> system</c></c>
+
+00:00:18.740 --> 00:00:18.750 align:start position:0%
+<c.colorE5E5E5>on</c><c.colorCCCCCC> your</c><c.colorE5E5E5> favorite operating system
+ </c>
+
+00:00:18.750 --> 00:00:21.750 align:start position:0%
+<c.colorE5E5E5>on</c><c.colorCCCCCC> your</c><c.colorE5E5E5> favorite operating system
+finally</c><c.colorCCCCCC><00:00:19.750><c> we'll</c><00:00:20.260><c> look</c><00:00:20.289><c> at</c></c><c.colorE5E5E5><00:00:20.619><c> an</c><00:00:20.800><c> alternative</c><00:00:21.550><c> and</c></c>
+
+00:00:21.750 --> 00:00:21.760 align:start position:0%
+finally<c.colorCCCCCC> we'll look at</c><c.colorE5E5E5> an alternative and
+ </c>
+
+00:00:21.760 --> 00:00:24.150 align:start position:0%
+finally<c.colorCCCCCC> we'll look at</c><c.colorE5E5E5> an alternative and
+portable<00:00:22.300><c> way</c><00:00:22.480><c> to</c><00:00:22.539><c> install</c><00:00:23.050><c> Jenkins</c><00:00:23.619><c> using</c></c>
+
+00:00:24.150 --> 00:00:24.160 align:start position:0%
+portable way to install Jenkins<c.colorE5E5E5> using
+ </c>
+
+00:00:24.160 --> 00:00:26.370 align:start position:0%
+portable way to install Jenkins<c.colorE5E5E5> using
+docker<00:00:24.600><c> let's</c><00:00:25.600><c> start</c><00:00:25.930><c> by</c><00:00:26.230><c> introducing</c></c>
+
+00:00:26.370 --> 00:00:26.380 align:start position:0%
+docker<c.colorE5E5E5> let's start by introducing
+ </c>
+
+00:00:26.380 --> 00:00:29.220 align:start position:0%
+docker<c.colorE5E5E5> let's start by introducing
+Jenkins<00:00:27.279><c> the</c><00:00:27.760><c> tool</c><00:00:28.000><c> we</c></c><c.colorCCCCCC><00:00:28.269><c> are</c><00:00:28.359><c> going</c><00:00:28.570><c> to</c><00:00:28.720><c> use</c><00:00:28.960><c> in</c></c>
+
+00:00:29.220 --> 00:00:29.230 align:start position:0%
+Jenkins<c.colorE5E5E5> the tool we</c><c.colorCCCCCC> are going to use in
+ </c>
+
+00:00:29.230 --> 00:00:30.120 align:start position:0%
+Jenkins<c.colorE5E5E5> the tool we</c><c.colorCCCCCC> are going to use in
+this<00:00:29.380><c> video</c></c><c.colorE5E5E5><00:00:29.590><c> course</c></c>
+
+00:00:30.120 --> 00:00:30.130 align:start position:0%
+this video<c.colorE5E5E5> course
+ </c>
+
+00:00:30.130 --> 00:00:33.030 align:start position:0%
+this video<c.colorE5E5E5> course
+Jenkins</c><c.colorCCCCCC><00:00:31.119><c> is</c><00:00:31.330><c> an</c><00:00:31.630><c> open</c><00:00:31.900><c> source</c><00:00:32.110><c> tool</c><00:00:32.590><c> to</c></c>
+
+00:00:33.030 --> 00:00:33.040 align:start position:0%
+Jenkins<c.colorCCCCCC> is an open source tool to
+ </c>
+
+00:00:33.040 --> 00:00:35.190 align:start position:0%
+Jenkins<c.colorCCCCCC> is an open source tool to
+automate<00:00:33.520><c> software</c><00:00:34.210><c> development</c><00:00:34.750><c> processes</c></c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+automate software development processes
+ 
+
+00:00:35.200 --> 00:00:38.670 align:start position:0%
+automate software development processes
+<c.colorE5E5E5>it<00:00:36.130><c> is</c></c><c.colorCCCCCC><00:00:36.190><c> often</c><00:00:36.670><c> referred</c><00:00:37.149><c> to</c></c><c.colorE5E5E5><00:00:37.180><c> as</c><00:00:37.690><c> an</c></c><c.colorCCCCCC><00:00:38.140><c> automation</c></c>
+
+00:00:38.670 --> 00:00:38.680 align:start position:0%
+<c.colorE5E5E5>it is</c><c.colorCCCCCC> often referred to</c><c.colorE5E5E5> as an</c><c.colorCCCCCC> automation
+ </c>
+
+00:00:38.680 --> 00:00:41.220 align:start position:0%
+<c.colorE5E5E5>it is</c><c.colorCCCCCC> often referred to</c><c.colorE5E5E5> as an</c><c.colorCCCCCC> automation
+server</c><c.colorE5E5E5><00:00:39.070><c> and</c><00:00:39.399><c> at</c><00:00:39.940><c> the</c><00:00:40.180><c> moment</c></c><c.colorCCCCCC><00:00:40.360><c> it</c><00:00:40.780><c> is</c></c><c.colorE5E5E5><00:00:40.840><c> one</c><00:00:41.200><c> of</c></c>
+
+00:00:41.220 --> 00:00:41.230 align:start position:0%
+server<c.colorE5E5E5> and at the moment</c><c.colorCCCCCC> it is</c><c.colorE5E5E5> one of
+ </c>
+
+00:00:41.230 --> 00:00:43.950 align:start position:0%
+server<c.colorE5E5E5> and at the moment</c><c.colorCCCCCC> it is</c><c.colorE5E5E5> one of</c>
+<c.colorCCCCCC>the<00:00:41.410><c> most</c><00:00:41.649><c> popular</c><00:00:42.280><c> and</c><00:00:42.489><c> used</c></c><c.colorE5E5E5><00:00:42.960><c> continuous</c></c>
+
+00:00:43.950 --> 00:00:43.960 align:start position:0%
+<c.colorCCCCCC>the most popular and used</c><c.colorE5E5E5> continuous
+ </c>
+
+00:00:43.960 --> 00:00:47.400 align:start position:0%
+<c.colorCCCCCC>the most popular and used</c><c.colorE5E5E5> continuous
+integration<00:00:44.200><c> server</c></c><c.colorCCCCCC><00:00:44.890><c> or</c><00:00:45.430><c> CI</c><00:00:46.090><c> server</c></c><c.colorE5E5E5><00:00:46.570><c> will</c></c>
+
+00:00:47.400 --> 00:00:47.410 align:start position:0%
+integration server<c.colorCCCCCC> or CI server</c><c.colorE5E5E5> will
+ </c>
+
+00:00:47.410 --> 00:00:49.560 align:start position:0%
+integration server<c.colorCCCCCC> or CI server</c><c.colorE5E5E5> will
+introduce<00:00:47.680><c> continuous</c><00:00:48.399><c> integration</c></c><c.colorCCCCCC><00:00:48.640><c> in</c><00:00:49.270><c> more</c></c>
+
+00:00:49.560 --> 00:00:49.570 align:start position:0%
+introduce continuous integration<c.colorCCCCCC> in more
+ </c>
+
+00:00:49.570 --> 00:00:52.590 align:start position:0%
+introduce continuous integration<c.colorCCCCCC> in more
+detail<00:00:49.960><c> in</c><00:00:50.260><c> Section</c><00:00:51.010><c> three</c></c><c.colorE5E5E5><00:00:51.399><c> Jenkins</c><00:00:52.360><c> is</c></c>
+
+00:00:52.590 --> 00:00:52.600 align:start position:0%
+detail<c.colorCCCCCC> in Section three</c><c.colorE5E5E5> Jenkins is
+ </c>
+
+00:00:52.600 --> 00:00:55.229 align:start position:0%
+detail<c.colorCCCCCC> in Section three</c><c.colorE5E5E5> Jenkins is
+written<00:00:53.199><c> in</c><00:00:53.350><c> Java</c><00:00:53.649><c> and</c><00:00:53.920><c> this</c><00:00:54.550><c> makes</c><00:00:55.030><c> it</c></c>
+
+00:00:55.229 --> 00:00:55.239 align:start position:0%
+written in Java<c.colorE5E5E5> and this makes it
+ </c>
+
+00:00:55.239 --> 00:00:57.779 align:start position:0%
+written in Java<c.colorE5E5E5> and this makes it
+runnable<00:00:55.750><c> on</c><00:00:55.930><c> any</c><00:00:56.320><c> operating</c><00:00:56.739><c> system</c><00:00:56.890><c> support</c></c>
+
+00:00:57.779 --> 00:00:57.789 align:start position:0%
+<c.colorE5E5E5>runnable on any operating system support
+ </c>
+
+00:00:57.789 --> 00:01:00.389 align:start position:0%
+<c.colorE5E5E5>runnable on any operating system support
+in<00:00:57.940><c> Java</c><00:00:58.440><c> if</c><00:00:59.440><c> you</c><00:00:59.680><c> want</c><00:00:59.829><c> to</c><00:00:59.949><c> know</c><00:01:00.070><c> more</c></c><c.colorCCCCCC><00:01:00.340><c> about</c></c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+in Java<c.colorE5E5E5> if you want to know more</c><c.colorCCCCCC> about
+ </c>
+
+00:01:00.399 --> 00:01:03.060 align:start position:0%
+in Java<c.colorE5E5E5> if you want to know more</c><c.colorCCCCCC> about
+Jenkins<00:01:01.170><c> continue</c><00:01:02.170><c> watching</c><00:01:02.379><c> this</c><00:01:02.770><c> video</c></c>
+
+00:01:03.060 --> 00:01:03.070 align:start position:0%
+Jenkins<c.colorCCCCCC> continue watching this video
+ </c>
+
+00:01:03.070 --> 00:01:05.219 align:start position:0%
+Jenkins<c.colorCCCCCC> continue watching this video</c>
+<c.colorE5E5E5>course<00:01:03.520><c> and</c></c><c.colorCCCCCC><00:01:03.699><c> check</c></c><c.colorE5E5E5><00:01:03.789><c> out</c><00:01:04.330><c> the</c><00:01:04.629><c> official</c><00:01:04.720><c> web</c></c>
+
+00:01:05.219 --> 00:01:05.229 align:start position:0%
+<c.colorE5E5E5>course and</c><c.colorCCCCCC> check</c><c.colorE5E5E5> out the official web
+ </c>
+
+00:01:05.229 --> 00:01:08.490 align:start position:0%
+<c.colorE5E5E5>course and</c><c.colorCCCCCC> check</c><c.colorE5E5E5> out the official web
+site</c><c.colorCCCCCC><00:01:05.260><c> at</c><00:01:05.890><c> Jenkins</c><00:01:06.369><c> dot</c></c><c.colorE5E5E5><00:01:06.670><c> IO</c><00:01:07.110><c> let's</c><00:01:08.110><c> see</c><00:01:08.320><c> what</c></c>
+
+00:01:08.490 --> 00:01:08.500 align:start position:0%
+<c.colorE5E5E5>site</c><c.colorCCCCCC> at Jenkins dot</c><c.colorE5E5E5> IO let's see what
+ </c>
+
+00:01:08.500 --> 00:01:10.590 align:start position:0%
+<c.colorE5E5E5>site</c><c.colorCCCCCC> at Jenkins dot</c><c.colorE5E5E5> IO let's see what
+Jenkins<00:01:08.979><c> is</c><00:01:09.189><c> useful</c><00:01:09.700><c> if</c><00:01:10.119><c> you</c><00:01:10.360><c> are</c><00:01:10.390><c> already</c></c>
+
+00:01:10.590 --> 00:01:10.600 align:start position:0%
+Jenkins is useful if<c.colorE5E5E5> you are already
+ </c>
+
+00:01:10.600 --> 00:01:13.980 align:start position:0%
+Jenkins is useful if<c.colorE5E5E5> you are already</c>
+<c.colorE5E5E5>using<00:01:11.049><c> Jenkins</c><00:01:11.740><c> you</c><00:01:12.640><c> probably</c><00:01:13.090><c> run</c><00:01:13.390><c> some</c><00:01:13.750><c> sort</c></c>
+
+00:01:13.980 --> 00:01:13.990 align:start position:0%
+<c.colorE5E5E5>using Jenkins you probably run some sort
+ </c>
+
+00:01:13.990 --> 00:01:16.020 align:start position:0%
+<c.colorE5E5E5>using Jenkins you probably run some sort
+of<00:01:14.170><c> software</c><00:01:14.680><c> development</c><00:01:15.189><c> process</c><00:01:15.670><c> with</c><00:01:15.880><c> it</c></c>
+
+00:01:16.020 --> 00:01:16.030 align:start position:0%
+<c.colorE5E5E5>of software development process with it
+ </c>
+
+00:01:16.030 --> 00:01:18.570 align:start position:0%
+<c.colorE5E5E5>of software development process with it
+like<00:01:16.450><c> running</c><00:01:16.960><c> tests</c><00:01:17.439><c> after</c><00:01:17.799><c> a</c><00:01:17.830><c> code</c></c><c.colorCCCCCC><00:01:18.130><c> commit</c></c>
+
+00:01:18.570 --> 00:01:18.580 align:start position:0%
+like running<c.colorE5E5E5> tests after a code</c><c.colorCCCCCC> commit
+ </c>
+
+00:01:18.580 --> 00:01:21.300 align:start position:0%
+like running<c.colorE5E5E5> tests after a code</c><c.colorCCCCCC> commit</c>
+<c.colorE5E5E5>building<00:01:19.270><c> software</c><00:01:19.540><c> and</c><00:01:20.020><c> packaging</c><00:01:20.710><c> it</c><00:01:20.860><c> in</c><00:01:21.159><c> a</c></c>
+
+00:01:21.300 --> 00:01:21.310 align:start position:0%
+<c.colorE5E5E5>building software and packaging it in a
+ </c>
+
+00:01:21.310 --> 00:01:24.390 align:start position:0%
+<c.colorE5E5E5>building software and packaging it in a
+format<00:01:21.790><c> like</c><00:01:22.330><c> a</c><00:01:22.570><c> zip</c><00:01:22.900><c> file</c><00:01:23.200><c> or</c><00:01:23.619><c> a</c><00:01:23.650><c> jar</c><00:01:24.070><c> file</c></c>
+
+00:01:24.390 --> 00:01:24.400 align:start position:0%
+format<c.colorE5E5E5> like a zip file or a jar file
+ </c>
+
+00:01:24.400 --> 00:01:26.870 align:start position:0%
+format<c.colorE5E5E5> like a zip file or a jar file
+Jenkins</c><c.colorCCCCCC><00:01:25.299><c> can</c><00:01:25.810><c> also</c><00:01:25.960><c> trigger</c><00:01:26.350><c> jobs</c></c>
+
+00:01:26.870 --> 00:01:26.880 align:start position:0%
+Jenkins<c.colorCCCCCC> can also trigger jobs
+ </c>
+
+00:01:26.880 --> 00:01:29.730 align:start position:0%
+Jenkins<c.colorCCCCCC> can also trigger jobs</c>
+<c.colorE5E5E5>automatically<00:01:27.880><c> at</c><00:01:28.060><c> specific</c><00:01:28.600><c> times</c><00:01:28.900><c> like</c><00:01:29.710><c> a</c></c>
+
+00:01:29.730 --> 00:01:29.740 align:start position:0%
+<c.colorE5E5E5>automatically at specific times like a
+ </c>
+
+00:01:29.740 --> 00:01:32.310 align:start position:0%
+<c.colorE5E5E5>automatically at specific times like a
+cron<00:01:30.189><c> job</c><00:01:30.220><c> in</c><00:01:30.790><c> UNIX</c><00:01:31.240><c> or</c><00:01:31.390><c> under</c><00:01:32.110><c> specific</c></c>
+
+00:01:32.310 --> 00:01:32.320 align:start position:0%
+cron job<c.colorE5E5E5> in UNIX or under specific
+ </c>
+
+00:01:32.320 --> 00:01:35.429 align:start position:0%
+cron job<c.colorE5E5E5> in UNIX or under specific
+conditions</c><c.colorCCCCCC><00:01:32.820><c> like</c><00:01:33.820><c> after</c><00:01:34.360><c> a</c><00:01:34.390><c> code</c><00:01:34.720><c> commits</c><00:01:35.170><c> on</c></c>
+
+00:01:35.429 --> 00:01:35.439 align:start position:0%
+conditions<c.colorCCCCCC> like after a code commits on
+ </c>
+
+00:01:35.439 --> 00:01:37.800 align:start position:0%
+conditions<c.colorCCCCCC> like after a code commits on</c>
+<c.colorCCCCCC>gate<00:01:35.740><c> the</c><00:01:36.310><c> main</c><00:01:36.490><c> use</c><00:01:36.700><c> case</c><00:01:36.970><c> for</c></c><c.colorE5E5E5><00:01:37.000><c> Jenkins</c></c><c.colorCCCCCC><00:01:37.450><c> is</c></c>
+
+00:01:37.800 --> 00:01:37.810 align:start position:0%
+<c.colorCCCCCC>gate the main use case for</c><c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> is
+ </c>
+
+00:01:37.810 --> 00:01:40.440 align:start position:0%
+<c.colorCCCCCC>gate the main use case for</c><c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> is</c>
+<c.colorE5E5E5>probably<00:01:38.590><c> as</c><00:01:38.770><c> a</c><00:01:38.799><c> continuous</c><00:01:39.460><c> integration</c><00:01:39.790><c> or</c></c>
+
+00:01:40.440 --> 00:01:40.450 align:start position:0%
+<c.colorE5E5E5>probably as a continuous integration or
+ </c>
+
+00:01:40.450 --> 00:01:43.160 align:start position:0%
+<c.colorE5E5E5>probably as a continuous integration or
+CI<00:01:40.869><c> server</c><00:01:41.409><c> this</c><00:01:42.040><c> is</c><00:01:42.280><c> a</c><00:01:42.520><c> software</c><00:01:43.000><c> development</c></c>
+
+00:01:43.160 --> 00:01:43.170 align:start position:0%
+CI server<c.colorE5E5E5> this is a software development
+ </c>
+
+00:01:43.170 --> 00:01:45.960 align:start position:0%
+CI server<c.colorE5E5E5> this is a software development</c>
+<c.colorCCCCCC>practice<00:01:44.170><c> whereby</c></c><c.colorE5E5E5><00:01:44.649><c> members</c><00:01:45.520><c> of</c><00:01:45.670><c> a</c><00:01:45.759><c> team</c></c>
+
+00:01:45.960 --> 00:01:45.970 align:start position:0%
+<c.colorCCCCCC>practice whereby</c><c.colorE5E5E5> members of a team
+ </c>
+
+00:01:45.970 --> 00:01:48.899 align:start position:0%
+<c.colorCCCCCC>practice whereby</c><c.colorE5E5E5> members of a team
+integrate<00:01:46.659><c> build</c><00:01:47.560><c> and</c><00:01:47.890><c> test</c><00:01:48.490><c> their</c><00:01:48.729><c> code</c></c>
+
+00:01:48.899 --> 00:01:48.909 align:start position:0%
+integrate build and test their code
+ 
+
+00:01:48.909 --> 00:01:51.319 align:start position:0%
+integrate build and test their code
+frequently<00:01:49.630><c> in</c><00:01:49.840><c> a</c><00:01:49.960><c> development</c><c.colorCCCCCC><00:01:50.500><c> environment</c></c>
+
+00:01:51.319 --> 00:01:51.329 align:start position:0%
+frequently in a development<c.colorCCCCCC> environment
+ </c>
+
+00:01:51.329 --> 00:01:54.060 align:start position:0%
+frequently in a development<c.colorCCCCCC> environment</c>
+<c.colorE5E5E5>Jenkins<00:01:52.329><c> facilitates</c><00:01:53.110><c> the</c><00:01:53.409><c> introduction</c><00:01:53.979><c> of</c></c>
+
+00:01:54.060 --> 00:01:54.070 align:start position:0%
+<c.colorE5E5E5>Jenkins facilitates the introduction of
+ </c>
+
+00:01:54.070 --> 00:01:56.130 align:start position:0%
+<c.colorE5E5E5>Jenkins facilitates the introduction of
+continuous<00:01:54.579><c> integration</c><00:01:54.640><c> in</c><00:01:55.390><c> software</c><00:01:55.840><c> team</c></c>
+
+00:01:56.130 --> 00:01:56.140 align:start position:0%
+continuous integration<c.colorE5E5E5> in software team
+ </c>
+
+00:01:56.140 --> 00:01:58.770 align:start position:0%
+continuous integration<c.colorE5E5E5> in software team
+and<00:01:56.350><c> is</c><00:01:56.530><c> extremely</c></c><c.colorCCCCCC><00:01:56.829><c> flexible</c><00:01:57.640><c> to</c><00:01:58.210><c> adapt</c><00:01:58.509><c> to</c></c>
+
+00:01:58.770 --> 00:01:58.780 align:start position:0%
+and is extremely<c.colorCCCCCC> flexible to adapt to
+ </c>
+
+00:01:58.780 --> 00:02:02.340 align:start position:0%
+and is extremely<c.colorCCCCCC> flexible to adapt to
+specific<00:01:59.380><c> workflows</c><00:02:00.299><c> finally</c></c><c.colorE5E5E5><00:02:01.299><c> Jenkins</c></c><c.colorCCCCCC><00:02:02.079><c> to</c></c>
+
+00:02:02.340 --> 00:02:02.350 align:start position:0%
+specific workflows finally<c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> to
+ </c>
+
+00:02:02.350 --> 00:02:04.800 align:start position:0%
+specific workflows finally<c.colorE5E5E5> Jenkins</c><c.colorCCCCCC> to
+introduce</c><c.colorE5E5E5><00:02:03.219><c> many</c></c><c.colorCCCCCC><00:02:03.460><c> new</c><00:02:03.790><c> features</c></c><c.colorE5E5E5><00:02:04.060><c> that</c></c><c.colorCCCCCC><00:02:04.329><c> make</c><00:02:04.780><c> it</c></c>
+
+00:02:04.800 --> 00:02:04.810 align:start position:0%
+<c.colorCCCCCC>introduce</c><c.colorE5E5E5> many</c><c.colorCCCCCC> new features</c><c.colorE5E5E5> that</c><c.colorCCCCCC> make it
+ </c>
+
+00:02:04.810 --> 00:02:07.230 align:start position:0%
+<c.colorCCCCCC>introduce</c><c.colorE5E5E5> many</c><c.colorCCCCCC> new features</c><c.colorE5E5E5> that</c><c.colorCCCCCC> make it</c>
+<c.colorE5E5E5>suitable<00:02:05.350><c> for</c></c><c.colorCCCCCC><00:02:05.560><c> other</c><00:02:05.979><c> software</c><00:02:06.579><c> development</c></c>
+
+00:02:07.230 --> 00:02:07.240 align:start position:0%
+<c.colorE5E5E5>suitable for</c><c.colorCCCCCC> other software development
+ </c>
+
+00:02:07.240 --> 00:02:09.600 align:start position:0%
+<c.colorE5E5E5>suitable for</c><c.colorCCCCCC> other software development
+practices<00:02:07.719><c> like</c><00:02:08.170><c> continuous</c><00:02:08.920><c> delivery</c><00:02:09.129><c> and</c></c>
+
+00:02:09.600 --> 00:02:09.610 align:start position:0%
+practices like continuous delivery and
+ 
+
+00:02:09.610 --> 00:02:11.850 align:start position:0%
+practices like continuous delivery and
+continuous<00:02:10.149><c> deployment</c><c.colorE5E5E5><00:02:10.360><c> that</c><00:02:11.230><c> are</c><00:02:11.379><c> aimed</c><00:02:11.650><c> at</c></c>
+
+00:02:11.850 --> 00:02:11.860 align:start position:0%
+continuous deployment<c.colorE5E5E5> that are aimed at
+ </c>
+
+00:02:11.860 --> 00:02:13.490 align:start position:0%
+continuous deployment<c.colorE5E5E5> that are aimed at
+shipping<00:02:12.430><c> software</c><00:02:12.640><c> fast</c></c>
+
+00:02:13.490 --> 00:02:13.500 align:start position:0%
+shipping software<c.colorE5E5E5> fast
+ </c>
+
+00:02:13.500 --> 00:02:15.860 align:start position:0%
+shipping software<c.colorE5E5E5> fast</c>
+<c.colorCCCCCC>to<00:02:13.710><c> production</c><00:02:14.100><c> you'll</c><00:02:14.700><c> find</c><00:02:15.030><c> more</c><00:02:15.480><c> on</c><00:02:15.720><c> these</c></c>
+
+00:02:15.860 --> 00:02:15.870 align:start position:0%
+<c.colorCCCCCC>to production you'll find more on these
+ </c>
+
+00:02:15.870 --> 00:02:18.920 align:start position:0%
+<c.colorCCCCCC>to production you'll find more on these</c>
+<c.colorE5E5E5>topics<00:02:16.410><c> in</c><00:02:16.650><c> section</c></c><c.colorCCCCCC><00:02:17.250><c> four</c></c><c.colorE5E5E5><00:02:17.550><c> this</c></c><c.colorCCCCCC><00:02:17.820><c> is</c><00:02:18.450><c> the</c><00:02:18.810><c> end</c></c>
+
+00:02:18.920 --> 00:02:18.930 align:start position:0%
+<c.colorE5E5E5>topics in section</c><c.colorCCCCCC> four</c><c.colorE5E5E5> this</c><c.colorCCCCCC> is the end
+ </c>
+
+00:02:18.930 --> 00:02:21.260 align:start position:0%
+<c.colorE5E5E5>topics in section</c><c.colorCCCCCC> four</c><c.colorE5E5E5> this</c><c.colorCCCCCC> is the end</c>
+<c.colorE5E5E5>of<00:02:19.110><c> this</c></c><c.colorCCCCCC><00:02:19.320><c> video</c></c><c.colorE5E5E5><00:02:19.740><c> where</c><00:02:20.040><c> we</c><00:02:20.220><c> introduce</c><00:02:20.670><c> Jenkins</c></c>
+
+00:02:21.260 --> 00:02:21.270 align:start position:0%
+<c.colorE5E5E5>of this</c><c.colorCCCCCC> video</c><c.colorE5E5E5> where we introduce Jenkins
+ </c>
+
+00:02:21.270 --> 00:02:24.200 align:start position:0%
+<c.colorE5E5E5>of this</c><c.colorCCCCCC> video</c><c.colorE5E5E5> where we introduce Jenkins</c>
+<c.colorE5E5E5>watch<00:02:22.230><c> the</c><00:02:22.470><c> next</c><00:02:22.740><c> video</c><00:02:22.920><c> where</c><00:02:23.520><c> we</c><00:02:23.880><c> will</c><00:02:23.910><c> be</c></c>
+
+00:02:24.200 --> 00:02:24.210 align:start position:0%
+<c.colorE5E5E5>watch the next video where we will be
+ </c>
+
+00:02:24.210 --> 00:02:28.100 align:start position:0%
+<c.colorE5E5E5>watch the next video where we will be
+installing<00:02:24.630><c> Jenkins</c><00:02:25.320><c> on</c><00:02:25.560><c> Windows</c></c>
+
