@@ -153,7 +153,7 @@
       position = GetArgsFromHref(urlinfo,'position');
       source = GetArgsFromHref(urlinfo,'source');
 
-      position = parseInt(position);
+      
       // var player = window.player = videojs('my-video', {
       //   sources: [{
       //     src: url,
@@ -186,6 +186,8 @@
       
       
       player.ready(function() {
+            position = parseInt(position);
+            console.log("position:"+position)
             // the call to src is asynchronous under the covers
             // player.src({ src: objs[position].src });
             player.src(objs[position].src)
