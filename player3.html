@@ -154,6 +154,10 @@
       var objs,index,position,source;
       index=0;
 
+      urlinfo=window.location.href; //获取当前页面的url
+      position = GetArgsFromHref(urlinfo,'position');
+      source = GetArgsFromHref(urlinfo,'source');
+
       // var player = window.player = videojs('my-video', {
       //   sources: [{
       //     src: url,
@@ -177,50 +181,44 @@
           controls: true,
       });
 
-     
+      $.getJSON('data/'+source+'.json',function(data){ 
+        objs = data
+        //alert(JSON.stringify(data)) 
+      }); 
 
       player.ready(function() {
-             $.getJSON('data/'+source+'.json',function(data){ 
-                objs = data
-                //alert(JSON.stringify(data))
-                urlinfo=window.location.href; //获取当前页面的url
-                position = GetArgsFromHref(urlinfo,'position');
-                source = GetArgsFromHref(urlinfo,'source');
+        position = parseInt(position);
+        console.log("position:"+position)
+        // the call to src is asynchronous under the covers
+        // player.src({ src: objs[position].src });
+        player.src(objs[position].src)
+        // this says "delete this text track whenever the source next changes"
+        // (in other words manual cleanup is off, auto cleanup is on)
+        // but because the call to src(...) was asynchronous, and addRemoteTextTrack is synchronous, the order of
+        // operations is:
+        //    1. I call src - it sets a timeout for 1ms to set the actual source
+        //    2. I call addRemoteTextTrack - it immediately adds the text track
+        //    3. I'm done, and now (or 1ms from now), the source gets actually set
+        //    4. as part of setting the source, my remote track gets cleaned up - deleted - gone - blown away
+        // Nobody sees subtitles and everyone is sad.
+         player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
 
-                position = parseInt(position);
-                console.log("position:"+position)
-                // the call to src is asynchronous under the covers
-                // player.src({ src: objs[position].src });
-                player.src(objs[position].src)
-                // this says "delete this text track whenever the source next changes"
-                // (in other words manual cleanup is off, auto cleanup is on)
-                // but because the call to src(...) was asynchronous, and addRemoteTextTrack is synchronous, the order of
-                // operations is:
-                //    1. I call src - it sets a timeout for 1ms to set the actual source
-                //    2. I call addRemoteTextTrack - it immediately adds the text track
-                //    3. I'm done, and now (or 1ms from now), the source gets actually set
-                //    4. as part of setting the source, my remote track gets cleaned up - deleted - gone - blown away
-                // Nobody sees subtitles and everyone is sad.
-                 player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
+        /*
+        // This would work, though:
+        // Under the covers, ready must queue functions to happen in a setTimeout - haven't looked to be sure
+        player.ready(function() {
+           player.addRemoteTextTrack({ src: 'https://download-a.akamaihd.net/files/media_video/9a/wsb_E_r720P.vtt' }, false);
+        });
+        */
 
-                /*
-                // This would work, though:
-                // Under the covers, ready must queue functions to happen in a setTimeout - haven't looked to be sure
-                player.ready(function() {
-                   player.addRemoteTextTrack({ src: 'https://download-a.akamaihd.net/files/media_video/9a/wsb_E_r720P.vtt' }, false);
-                });
-                */
-
-                /*
-                // And this works, because our setTimeout function will get invoked after the previously-scheduled one:
-                setTimeout(function() {
-                   player.addRemoteTextTrack({ src: 'https://download-a.akamaihd.net/files/media_video/9a/wsb_E_r720P.vtt' }, false);
-                }, 1);
-                */
-                index = parseInt(position) 
-            }); 
-            
-         });
+        /*
+        // And this works, because our setTimeout function will get invoked after the previously-scheduled one:
+        setTimeout(function() {
+           player.addRemoteTextTrack({ src: 'https://download-a.akamaihd.net/files/media_video/9a/wsb_E_r720P.vtt' }, false);
+        }, 1);
+        */
+        index = parseInt(position) 
+      });
 
       $("#prev").click(function(){
         console.log("prev index=="+index)
