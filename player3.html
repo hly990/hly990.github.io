@@ -177,7 +177,7 @@
       player.ready(function() {
             // the call to src is asynchronous under the covers
             // player.src({ src: objs[position].src });
-            player.src(objs[index].src)
+            player.src(objs[position].src)
             // this says "delete this text track whenever the source next changes"
             // (in other words manual cleanup is off, auto cleanup is on)
             // but because the call to src(...) was asynchronous, and addRemoteTextTrack is synchronous, the order of
