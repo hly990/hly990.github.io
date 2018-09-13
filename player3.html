@@ -153,14 +153,7 @@
     $(document).ready(function() {
       var objs,index,position,source;
       index=0;
-      urlinfo=window.location.href; //获取当前页面的url
-      // var url = GetArgsFromHref(urlinfo,'url');
-      // var caption = GetArgsFromHref(urlinfo,'caption');
 
-      position = GetArgsFromHref(urlinfo,'position');
-      source = GetArgsFromHref(urlinfo,'source');
-
-      
       // var player = window.player = videojs('my-video', {
       //   sources: [{
       //     src: url,
@@ -179,20 +172,19 @@
       //     "nativeTextTracks": false
       //   }
       // })
-
-      $.getJSON('data/'+source+'.json',function(data){ 
-        objs = data
-        //alert(JSON.stringify(data))
-      }); 
-
-      var player = videojs('my-video', {
+       var player = videojs('my-video', {
           fluid: true,
           controls: true,
       });
 
-      
-      
-      player.ready(function() {
+      $.getJSON('data/'+source+'.json',function(data){ 
+        objs = data
+        //alert(JSON.stringify(data))
+        urlinfo=window.location.href; //获取当前页面的url
+        position = GetArgsFromHref(urlinfo,'position');
+        source = GetArgsFromHref(urlinfo,'source');
+
+        player.ready(function() {
             position = parseInt(position);
             console.log("position:"+position)
             // the call to src is asynchronous under the covers
@@ -226,6 +218,9 @@
             index = parseInt(position) 
          });
 
+      }); 
+
+     
       $("#prev").click(function(){
         console.log("prev index=="+index)
         if(index==0){
