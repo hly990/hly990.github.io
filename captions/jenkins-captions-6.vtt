@@ -11,1255 +11,1255 @@ scroll:up
 
 ##
 
-00:00:00.280 --> 00:00:02.430 align:start position:0%
+00:00:00.280 --> 00:00:02.430 align:center position:0%
  
 welcome<00:00:01.120><c> to</c><00:00:01.360><c> the</c><00:00:01.480><c> second</c><00:00:01.870><c> section</c><00:00:02.080><c> of</c>
 
-00:00:02.430 --> 00:00:02.440 align:start position:0%
+00:00:02.430 --> 00:00:02.440 align:center position:0%
 welcome to the second section of
  
 
-00:00:02.440 --> 00:00:04.409 align:start position:0%
+00:00:02.440 --> 00:00:04.409 align:center position:0%
 welcome to the second section of
 <c.colorE5E5E5>hands-on<00:00:03.129><c> continuous</c><00:00:03.669><c> integration</c><00:00:03.940><c> and</c></c>
 
-00:00:04.409 --> 00:00:04.419 align:start position:0%
+00:00:04.409 --> 00:00:04.419 align:center position:0%
 <c.colorE5E5E5>hands-on continuous integration and
  </c>
 
-00:00:04.419 --> 00:00:07.559 align:start position:0%
+00:00:04.419 --> 00:00:07.559 align:center position:0%
 <c.colorE5E5E5>hands-on continuous integration and</c>
 <c.colorCCCCCC>automation<00:00:05.049><c> with</c><00:00:05.529><c> Jenkins</c><00:00:06.039><c> in</c><00:00:06.309><c> this</c><00:00:07.269><c> section</c></c>
 
-00:00:07.559 --> 00:00:07.569 align:start position:0%
+00:00:07.559 --> 00:00:07.569 align:center position:0%
 <c.colorCCCCCC>automation with Jenkins in this section
  </c>
 
-00:00:07.569 --> 00:00:09.960 align:start position:0%
+00:00:07.569 --> 00:00:09.960 align:center position:0%
 <c.colorCCCCCC>automation with Jenkins in this section
 we<00:00:08.050><c> are</c><00:00:08.080><c> going</c></c><c.colorE5E5E5><00:00:08.170><c> to</c><00:00:08.500><c> introduce</c><00:00:08.710><c> key</c><00:00:09.310><c> concepts</c></c>
 
-00:00:09.960 --> 00:00:09.970 align:start position:0%
+00:00:09.960 --> 00:00:09.970 align:center position:0%
 we are going<c.colorE5E5E5> to introduce key concepts
  </c>
 
-00:00:09.970 --> 00:00:12.600 align:start position:0%
+00:00:09.970 --> 00:00:12.600 align:center position:0%
 we are going<c.colorE5E5E5> to introduce key concepts</c>
 <c.colorE5E5E5>and</c><c.colorCCCCCC><00:00:10.240><c> the</c><00:00:10.870><c> essential</c></c><c.colorE5E5E5><00:00:11.320><c> aspects</c><00:00:11.890><c> of</c><00:00:12.070><c> Jenkins</c></c>
 
-00:00:12.600 --> 00:00:12.610 align:start position:0%
+00:00:12.600 --> 00:00:12.610 align:center position:0%
 <c.colorE5E5E5>and</c><c.colorCCCCCC> the essential</c><c.colorE5E5E5> aspects of Jenkins
  </c>
 
-00:00:12.610 --> 00:00:14.400 align:start position:0%
+00:00:12.610 --> 00:00:14.400 align:center position:0%
 <c.colorE5E5E5>and</c><c.colorCCCCCC> the essential</c><c.colorE5E5E5> aspects of Jenkins</c>
 <c.colorCCCCCC>that<00:00:13.180><c> we</c><00:00:13.300><c> will</c></c><c.colorE5E5E5><00:00:13.450><c> use</c><00:00:13.690><c> it</c><00:00:13.900><c> throughout</c><00:00:14.170><c> the</c></c>
 
-00:00:14.400 --> 00:00:14.410 align:start position:0%
+00:00:14.400 --> 00:00:14.410 align:center position:0%
 <c.colorCCCCCC>that we will</c><c.colorE5E5E5> use it throughout the
  </c>
 
-00:00:14.410 --> 00:00:16.529 align:start position:0%
+00:00:14.410 --> 00:00:16.529 align:center position:0%
 <c.colorCCCCCC>that we will</c><c.colorE5E5E5> use it throughout the</c>
 <c.colorE5E5E5>course</c><c.colorCCCCCC><00:00:14.680><c> we</c><00:00:15.010><c> will</c><00:00:15.519><c> explore</c><00:00:15.940><c> the</c><00:00:16.150><c> Jenkins</c></c>
 
-00:00:16.529 --> 00:00:16.539 align:start position:0%
+00:00:16.529 --> 00:00:16.539 align:center position:0%
 <c.colorE5E5E5>course</c><c.colorCCCCCC> we will explore the Jenkins
  </c>
 
-00:00:16.539 --> 00:00:18.419 align:start position:0%
+00:00:16.539 --> 00:00:18.419 align:center position:0%
 <c.colorE5E5E5>course</c><c.colorCCCCCC> we will explore the Jenkins
 dashboard<00:00:17.199><c> and</c><00:00:17.410><c> have</c><00:00:17.740><c> a</c></c><c.colorE5E5E5><00:00:17.769><c> look</c><00:00:18.009><c> at</c><00:00:18.189><c> the</c><00:00:18.279><c> most</c></c>
 
-00:00:18.419 --> 00:00:18.429 align:start position:0%
+00:00:18.419 --> 00:00:18.429 align:center position:0%
 dashboard and<c.colorCCCCCC> have a</c><c.colorE5E5E5> look at the most
  </c>
 
-00:00:18.429 --> 00:00:20.939 align:start position:0%
+00:00:18.429 --> 00:00:20.939 align:center position:0%
 dashboard and<c.colorCCCCCC> have a</c><c.colorE5E5E5> look at the most
 important<00:00:19.060><c> options</c><00:00:19.570><c> in</c><00:00:19.779><c> the</c><00:00:20.079><c> Jenkins</c><00:00:20.470><c> admin</c></c>
 
-00:00:20.939 --> 00:00:20.949 align:start position:0%
+00:00:20.939 --> 00:00:20.949 align:center position:0%
 important options in the Jenkins<c.colorE5E5E5> admin
  </c>
 
-00:00:20.949 --> 00:00:21.689 align:start position:0%
+00:00:20.949 --> 00:00:21.689 align:center position:0%
 important options in the Jenkins<c.colorE5E5E5> admin
 console</c>
 
-00:00:21.689 --> 00:00:21.699 align:start position:0%
+00:00:21.689 --> 00:00:21.699 align:center position:0%
 console
  
 
-00:00:21.699 --> 00:00:24.479 align:start position:0%
+00:00:21.699 --> 00:00:24.479 align:center position:0%
 console
 finally<00:00:22.480><c> the</c><00:00:22.779><c> practical</c><c.colorE5E5E5><00:00:23.349><c> part</c><00:00:23.589><c> of</c><00:00:23.829><c> section</c></c><c.colorCCCCCC><00:00:24.070><c> 2</c></c>
 
-00:00:24.479 --> 00:00:24.489 align:start position:0%
+00:00:24.479 --> 00:00:24.489 align:center position:0%
 finally the practical<c.colorE5E5E5> part of section</c><c.colorCCCCCC> 2
  </c>
 
-00:00:24.489 --> 00:00:26.729 align:start position:0%
+00:00:24.489 --> 00:00:26.729 align:center position:0%
 finally the practical<c.colorE5E5E5> part of section</c><c.colorCCCCCC> 2
 is<00:00:24.699><c> to</c></c><c.colorE5E5E5><00:00:24.970><c> configure</c><00:00:25.539><c> and</c><00:00:25.720><c> run</c><00:00:25.779><c> our</c><00:00:26.349><c> first</c></c>
 
-00:00:26.729 --> 00:00:26.739 align:start position:0%
+00:00:26.729 --> 00:00:26.739 align:center position:0%
 is to<c.colorE5E5E5> configure and run our first
  </c>
 
-00:00:26.739 --> 00:00:29.249 align:start position:0%
+00:00:26.739 --> 00:00:29.249 align:center position:0%
 is to<c.colorE5E5E5> configure and run our first
 Jenkins<00:00:27.400><c> job</c><00:00:27.669><c> let's</c><00:00:28.390><c> start</c><00:00:28.689><c> by</c></c><c.colorCCCCCC><00:00:28.900><c> making</c><00:00:29.109><c> the</c></c>
 
-00:00:29.249 --> 00:00:29.259 align:start position:0%
+00:00:29.249 --> 00:00:29.259 align:center position:0%
 Jenkins job<c.colorE5E5E5> let's start by</c><c.colorCCCCCC> making the
  </c>
 
-00:00:29.259 --> 00:00:32.069 align:start position:0%
+00:00:29.259 --> 00:00:32.069 align:center position:0%
 Jenkins job<c.colorE5E5E5> let's start by</c><c.colorCCCCCC> making the</c>
 <c.colorE5E5E5>tour<00:00:29.560><c> of</c><00:00:29.800><c> the</c><00:00:30.130><c> Jenkins</c><00:00:30.489><c> dashboard</c><00:00:31.179><c> in</c><00:00:31.449><c> this</c></c>
 
-00:00:32.069 --> 00:00:32.079 align:start position:0%
+00:00:32.069 --> 00:00:32.079 align:center position:0%
 <c.colorE5E5E5>tour of the Jenkins dashboard in this
  </c>
 
-00:00:32.079 --> 00:00:34.530 align:start position:0%
+00:00:32.079 --> 00:00:34.530 align:center position:0%
 <c.colorE5E5E5>tour of the Jenkins dashboard in this
 video<00:00:32.470><c> we'll</c><00:00:33.010><c> explore</c><00:00:33.370><c> together</c><00:00:33.670><c> the</c><00:00:34.180><c> Jenkins</c></c>
 
-00:00:34.530 --> 00:00:34.540 align:start position:0%
+00:00:34.530 --> 00:00:34.540 align:center position:0%
 video we'll explore together<c.colorE5E5E5> the Jenkins
  </c>
 
-00:00:34.540 --> 00:00:37.770 align:start position:0%
+00:00:34.540 --> 00:00:37.770 align:center position:0%
 video we'll explore together<c.colorE5E5E5> the Jenkins
 dashboard<00:00:35.200><c> and</c><00:00:35.380><c> learn</c><00:00:36.010><c> key</c><00:00:36.400><c> concepts</c><00:00:37.000><c> such</c><00:00:37.750><c> as</c></c>
 
-00:00:37.770 --> 00:00:37.780 align:start position:0%
+00:00:37.770 --> 00:00:37.780 align:center position:0%
 dashboard<c.colorE5E5E5> and learn key concepts such as
  </c>
 
-00:00:37.780 --> 00:00:42.810 align:start position:0%
+00:00:37.780 --> 00:00:42.810 align:center position:0%
 dashboard<c.colorE5E5E5> and learn key concepts such as
 jobs<00:00:38.350><c> bills</c><00:00:39.360><c> views</c><00:00:40.410><c> plugins</c><00:00:41.410><c> etc</c><00:00:42.220><c> we</c><00:00:42.790><c> will</c></c>
 
-00:00:42.810 --> 00:00:42.820 align:start position:0%
+00:00:42.810 --> 00:00:42.820 align:center position:0%
 jobs bills<c.colorE5E5E5> views plugins etc we will
  </c>
 
-00:00:42.820 --> 00:00:44.820 align:start position:0%
+00:00:42.820 --> 00:00:44.820 align:center position:0%
 jobs bills<c.colorE5E5E5> views plugins etc we will</c>
 <c.colorCCCCCC>also</c><c.colorE5E5E5><00:00:43.240><c> have</c><00:00:43.360><c> a</c></c><c.colorCCCCCC><00:00:43.390><c> brief</c><00:00:43.750><c> look</c><00:00:43.780><c> at</c></c><c.colorE5E5E5><00:00:44.380><c> the</c><00:00:44.650><c> most</c></c>
 
-00:00:44.820 --> 00:00:44.830 align:start position:0%
+00:00:44.820 --> 00:00:44.830 align:center position:0%
 <c.colorCCCCCC>also</c><c.colorE5E5E5> have a</c><c.colorCCCCCC> brief look at</c><c.colorE5E5E5> the most
  </c>
 
-00:00:44.830 --> 00:00:47.280 align:start position:0%
+00:00:44.830 --> 00:00:47.280 align:center position:0%
 <c.colorCCCCCC>also</c><c.colorE5E5E5> have a</c><c.colorCCCCCC> brief look at</c><c.colorE5E5E5> the most
 important<00:00:45.460><c> options</c><00:00:46.000><c> in</c><00:00:46.240><c> the</c><00:00:46.450><c> Jenkins</c><00:00:46.900><c> admin</c></c>
 
-00:00:47.280 --> 00:00:47.290 align:start position:0%
+00:00:47.280 --> 00:00:47.290 align:center position:0%
 important options in the<c.colorE5E5E5> Jenkins admin
  </c>
 
-00:00:47.290 --> 00:00:50.130 align:start position:0%
+00:00:47.290 --> 00:00:50.130 align:center position:0%
 important options in the<c.colorE5E5E5> Jenkins admin
 console<00:00:47.740><c> this</c><00:00:48.460><c> image</c><00:00:48.880><c> identifies</c><00:00:49.660><c> the</c><00:00:49.990><c> most</c></c>
 
-00:00:50.130 --> 00:00:50.140 align:start position:0%
+00:00:50.130 --> 00:00:50.140 align:center position:0%
 console<c.colorE5E5E5> this image identifies the most
  </c>
 
-00:00:50.140 --> 00:00:52.110 align:start position:0%
+00:00:50.140 --> 00:00:52.110 align:center position:0%
 console<c.colorE5E5E5> this image identifies the most
 important<00:00:50.830><c> elements</c><00:00:51.430><c> of</c><00:00:51.580><c> the</c><00:00:51.790><c> Jenkins</c></c>
 
-00:00:52.110 --> 00:00:52.120 align:start position:0%
+00:00:52.110 --> 00:00:52.120 align:center position:0%
 important elements of the Jenkins
  
 
-00:00:52.120 --> 00:00:54.630 align:start position:0%
+00:00:52.120 --> 00:00:54.630 align:center position:0%
 important elements of the Jenkins
 dashboard<c.colorE5E5E5><00:00:52.720><c> and</c><00:00:52.930><c> you</c><00:00:53.260><c> can</c><00:00:53.410><c> use</c></c><c.colorCCCCCC><00:00:53.620><c> it</c><00:00:53.830><c> as</c><00:00:54.010><c> a</c><00:00:54.070><c> cheat</c></c>
 
-00:00:54.630 --> 00:00:54.640 align:start position:0%
+00:00:54.630 --> 00:00:54.640 align:center position:0%
 dashboard<c.colorE5E5E5> and you can use</c><c.colorCCCCCC> it as a cheat
  </c>
 
-00:00:54.640 --> 00:00:57.120 align:start position:0%
+00:00:54.640 --> 00:00:57.120 align:center position:0%
 dashboard<c.colorE5E5E5> and you can use</c><c.colorCCCCCC> it as a cheat
 sheet<00:00:54.670><c> to</c></c><c.colorE5E5E5><00:00:55.390><c> navigate</c><00:00:56.230><c> the</c><00:00:56.500><c> Jenkins</c><00:00:56.920><c> user</c></c>
 
-00:00:57.120 --> 00:00:57.130 align:start position:0%
+00:00:57.120 --> 00:00:57.130 align:center position:0%
 sheet<c.colorCCCCCC> to</c><c.colorE5E5E5> navigate the Jenkins user
  </c>
 
-00:00:57.130 --> 00:01:00.660 align:start position:0%
+00:00:57.130 --> 00:01:00.660 align:center position:0%
 sheet<c.colorCCCCCC> to</c><c.colorE5E5E5> navigate the Jenkins user
 interface<00:00:58.230><c> now</c><00:00:59.230><c> let's</c><00:00:59.890><c> look</c><00:01:00.160><c> at</c><00:01:00.430><c> these</c></c>
 
-00:01:00.660 --> 00:01:00.670 align:start position:0%
+00:01:00.660 --> 00:01:00.670 align:center position:0%
 interface now let's look at these
  
 
-00:01:00.670 --> 00:01:03.780 align:start position:0%
+00:01:00.670 --> 00:01:03.780 align:center position:0%
 interface now let's look at these
 <c.colorCCCCCC>elements<00:01:01.270><c> directly</c><00:01:01.780><c> in</c><00:01:02.020><c> Jenkins</c><00:01:02.290><c> on</c><00:01:02.800><c> the</c></c><c.colorE5E5E5><00:01:03.610><c> left</c></c>
 
-00:01:03.780 --> 00:01:03.790 align:start position:0%
+00:01:03.780 --> 00:01:03.790 align:center position:0%
 <c.colorCCCCCC>elements directly in Jenkins on the</c><c.colorE5E5E5> left
  </c>
 
-00:01:03.790 --> 00:01:06.450 align:start position:0%
+00:01:03.790 --> 00:01:06.450 align:center position:0%
 <c.colorCCCCCC>elements directly in Jenkins on the</c><c.colorE5E5E5> left
 hand<00:01:04.119><c> side</c><00:01:04.420><c> we</c><00:01:05.110><c> find</c><00:01:05.379><c> the</c><00:01:05.680><c> sidebar</c></c><c.colorCCCCCC><00:01:06.220><c> menu</c></c>
 
-00:01:06.450 --> 00:01:06.460 align:start position:0%
+00:01:06.450 --> 00:01:06.460 align:center position:0%
 <c.colorE5E5E5>hand side we find the sidebar</c><c.colorCCCCCC> menu
  </c>
 
-00:01:06.460 --> 00:01:09.240 align:start position:0%
+00:01:06.460 --> 00:01:09.240 align:center position:0%
 <c.colorE5E5E5>hand side we find the sidebar</c><c.colorCCCCCC> menu</c>
 <c.colorE5E5E5>giving<00:01:07.270><c> access</c><00:01:07.480><c> to</c><00:01:07.750><c> Jenkins</c><00:01:08.470><c> admin</c><00:01:08.950><c> tools</c></c>
 
-00:01:09.240 --> 00:01:09.250 align:start position:0%
+00:01:09.240 --> 00:01:09.250 align:center position:0%
 <c.colorE5E5E5>giving access to Jenkins admin tools
  </c>
 
-00:01:09.250 --> 00:01:12.930 align:start position:0%
+00:01:09.250 --> 00:01:12.930 align:center position:0%
 <c.colorE5E5E5>giving access to Jenkins admin tools
 like<00:01:09.850><c> many</c><00:01:10.270><c> Jenkins</c><00:01:10.900><c> the</c><00:01:11.650><c> list</c><00:01:11.890><c> of</c><00:01:12.100><c> users</c><00:01:12.640><c> and</c></c>
 
-00:01:12.930 --> 00:01:12.940 align:start position:0%
+00:01:12.930 --> 00:01:12.940 align:center position:0%
 like<c.colorE5E5E5> many Jenkins the list of users and
  </c>
 
-00:01:12.940 --> 00:01:15.380 align:start position:0%
+00:01:12.940 --> 00:01:15.380 align:center position:0%
 like<c.colorE5E5E5> many Jenkins the list of users and
 the</c><c.colorCCCCCC><00:01:13.090><c> people</c><00:01:13.540><c> and</c></c><c.colorE5E5E5><00:01:13.780><c> the</c><00:01:14.380><c> list</c><00:01:14.560><c> of</c><00:01:14.740><c> credentials</c></c>
 
-00:01:15.380 --> 00:01:15.390 align:start position:0%
+00:01:15.380 --> 00:01:15.390 align:center position:0%
 the<c.colorCCCCCC> people and</c><c.colorE5E5E5> the list of credentials
  </c>
 
-00:01:15.390 --> 00:01:18.840 align:start position:0%
+00:01:15.390 --> 00:01:18.840 align:center position:0%
 the<c.colorCCCCCC> people and</c><c.colorE5E5E5> the list of credentials</c>
 <c.colorE5E5E5>the<00:01:16.390><c> sidebar</c><00:01:16.900><c> menu</c><00:01:17.050><c> also</c></c><c.colorCCCCCC><00:01:17.680><c> allows</c><00:01:18.370><c> to</c><00:01:18.700><c> create</c></c>
 
-00:01:18.840 --> 00:01:18.850 align:start position:0%
+00:01:18.840 --> 00:01:18.850 align:center position:0%
 <c.colorE5E5E5>the sidebar menu also</c><c.colorCCCCCC> allows to create
  </c>
 
-00:01:18.850 --> 00:01:22.469 align:start position:0%
+00:01:18.850 --> 00:01:22.469 align:center position:0%
 <c.colorE5E5E5>the sidebar menu also</c><c.colorCCCCCC> allows to create
 new<00:01:19.479><c> jobs</c><00:01:19.510><c> via</c><00:01:20.380><c> the</c><00:01:20.620><c> new</c><00:01:20.830><c> item</c><00:01:21.340><c> button</c></c><c.colorE5E5E5><00:01:21.370><c> a</c><00:01:21.940><c> new</c></c>
 
-00:01:22.469 --> 00:01:22.479 align:start position:0%
+00:01:22.469 --> 00:01:22.479 align:center position:0%
 new jobs<c.colorCCCCCC> via the new item button</c><c.colorE5E5E5> a new
  </c>
 
-00:01:22.479 --> 00:01:25.440 align:start position:0%
+00:01:22.479 --> 00:01:25.440 align:center position:0%
 new jobs<c.colorCCCCCC> via the new item button</c><c.colorE5E5E5> a new
 views<00:01:23.050><c> button</c><00:01:23.550><c> will</c><00:01:24.550><c> explore</c><00:01:24.940><c> these</c><00:01:25.240><c> options</c></c>
 
-00:01:25.440 --> 00:01:25.450 align:start position:0%
+00:01:25.440 --> 00:01:25.450 align:center position:0%
 views button<c.colorE5E5E5> will explore these options
  </c>
 
-00:01:25.450 --> 00:01:27.380 align:start position:0%
+00:01:25.450 --> 00:01:27.380 align:center position:0%
 views button<c.colorE5E5E5> will explore these options</c>
 <c.colorCCCCCC>in<00:01:25.960><c> the</c><00:01:26.170><c> next</c><00:01:26.470><c> videos</c></c>
 
-00:01:27.380 --> 00:01:27.390 align:start position:0%
+00:01:27.380 --> 00:01:27.390 align:center position:0%
 <c.colorCCCCCC>in the next videos
  </c>
 
-00:01:27.390 --> 00:01:29.910 align:start position:0%
+00:01:27.390 --> 00:01:29.910 align:center position:0%
 <c.colorCCCCCC>in the next videos
 the<00:01:28.390><c> central</c><00:01:28.780><c> part</c><00:01:29.080><c> of</c><00:01:29.290><c> the</c><00:01:29.350><c> Jenkins</c></c>
 
-00:01:29.910 --> 00:01:29.920 align:start position:0%
+00:01:29.910 --> 00:01:29.920 align:center position:0%
 the central part of the<c.colorCCCCCC> Jenkins
  </c>
 
-00:01:29.920 --> 00:01:33.330 align:start position:0%
+00:01:29.920 --> 00:01:33.330 align:center position:0%
 the central part of the<c.colorCCCCCC> Jenkins
 dashboard<00:01:30.520><c> is</c><00:01:30.729><c> taken</c><00:01:31.180><c> by</c><00:01:31.360><c> the</c></c><c.colorE5E5E5><00:01:31.420><c> all</c><00:01:31.810><c> view</c><00:01:32.620><c> this</c></c>
 
-00:01:33.330 --> 00:01:33.340 align:start position:0%
+00:01:33.330 --> 00:01:33.340 align:center position:0%
 dashboard is taken by the<c.colorE5E5E5> all view this
  </c>
 
-00:01:33.340 --> 00:01:36.210 align:start position:0%
+00:01:33.340 --> 00:01:36.210 align:center position:0%
 dashboard is taken by the<c.colorE5E5E5> all view this
 view<00:01:33.729><c> lists</c><00:01:34.390><c> all</c><00:01:34.690><c> the</c><00:01:35.049><c> jobs</c><00:01:35.409><c> present</c><00:01:36.100><c> in</c></c>
 
-00:01:36.210 --> 00:01:36.220 align:start position:0%
+00:01:36.210 --> 00:01:36.220 align:center position:0%
 view<c.colorE5E5E5> lists all the jobs present in
  </c>
 
-00:01:36.220 --> 00:01:40.080 align:start position:0%
+00:01:36.220 --> 00:01:40.080 align:center position:0%
 view<c.colorE5E5E5> lists all the jobs present in</c>
 <c.colorCCCCCC>Jenkins<00:01:36.760><c> I</c><00:01:37.770><c> created</c><00:01:38.770><c> some</c></c><c.colorE5E5E5><00:01:39.010><c> madami</c><00:01:39.370><c> jobs</c><00:01:39.729><c> to</c></c>
 
-00:01:40.080 --> 00:01:40.090 align:start position:0%
+00:01:40.080 --> 00:01:40.090 align:center position:0%
 <c.colorCCCCCC>Jenkins I created some</c><c.colorE5E5E5> madami jobs to
  </c>
 
-00:01:40.090 --> 00:01:43.080 align:start position:0%
+00:01:40.090 --> 00:01:43.080 align:center position:0%
 <c.colorCCCCCC>Jenkins I created some</c><c.colorE5E5E5> madami jobs to
 populate<00:01:40.630><c> the</c><00:01:40.870><c> old</c><00:01:41.260><c> view</c><00:01:41.790><c> you</c><00:01:42.790><c> can</c><00:01:42.940><c> also</c></c>
 
-00:01:43.080 --> 00:01:43.090 align:start position:0%
+00:01:43.080 --> 00:01:43.090 align:center position:0%
 populate the old view you can<c.colorE5E5E5> also
  </c>
 
-00:01:43.090 --> 00:01:45.660 align:start position:0%
+00:01:43.090 --> 00:01:45.660 align:center position:0%
 populate the old view you can<c.colorE5E5E5> also
 create<00:01:43.450><c> a</c><00:01:43.540><c> new</c><00:01:43.690><c> views</c><00:01:44.170><c> from</c><00:01:44.530><c> here</c><00:01:44.920><c> by</c><00:01:45.520><c> clicking</c></c>
 
-00:01:45.660 --> 00:01:45.670 align:start position:0%
+00:01:45.660 --> 00:01:45.670 align:center position:0%
 create a new views from here by clicking
  
 
-00:01:45.670 --> 00:01:49.230 align:start position:0%
+00:01:45.670 --> 00:01:49.230 align:center position:0%
 create a new views from here by clicking
 <c.colorE5E5E5>on<00:01:46.450><c> the</c><00:01:46.720><c> plus</c><00:01:46.960><c> button</c><00:01:46.990><c> and</c><00:01:47.799><c> select</c><00:01:48.610><c> the</c><00:01:48.909><c> jobs</c></c>
 
-00:01:49.230 --> 00:01:49.240 align:start position:0%
+00:01:49.230 --> 00:01:49.240 align:center position:0%
 <c.colorE5E5E5>on the plus button and select the jobs
  </c>
 
-00:01:49.240 --> 00:01:53.039 align:start position:0%
+00:01:49.240 --> 00:01:53.039 align:center position:0%
 <c.colorE5E5E5>on the plus button and select the jobs</c>
 <c.colorCCCCCC>you<00:01:49.720><c> want</c><00:01:49.900><c> to</c><00:01:50.080><c> display</c><00:01:50.500><c> in</c><00:01:50.740><c> a</c><00:01:50.920><c> view</c><00:01:51.450><c> inside</c></c><c.colorE5E5E5><00:01:52.450><c> the</c></c>
 
-00:01:53.039 --> 00:01:53.049 align:start position:0%
+00:01:53.039 --> 00:01:53.049 align:center position:0%
 <c.colorCCCCCC>you want to display in a view inside</c><c.colorE5E5E5> the
  </c>
 
-00:01:53.049 --> 00:01:56.700 align:start position:0%
+00:01:53.049 --> 00:01:56.700 align:center position:0%
 <c.colorCCCCCC>you want to display in a view inside</c><c.colorE5E5E5> the
 old<00:01:53.380><c> view</c><00:01:53.799><c> the</c><00:01:54.460><c> jobs</c><00:01:54.760><c> or</c><00:01:55.060><c> projects</c><00:01:55.869><c> are</c><00:01:56.020><c> listed</c></c>
 
-00:01:56.700 --> 00:01:56.710 align:start position:0%
+00:01:56.700 --> 00:01:56.710 align:center position:0%
 <c.colorE5E5E5>old view the jobs or projects are listed
  </c>
 
-00:01:56.710 --> 00:01:59.670 align:start position:0%
+00:01:56.710 --> 00:01:59.670 align:center position:0%
 <c.colorE5E5E5>old view the jobs or projects are listed
 in<00:01:56.920><c> here</c><00:01:57.820><c> are</c><00:01:58.000><c> displayed</c><00:01:58.540><c> the</c><00:01:58.960><c> build</c><00:01:59.200><c> status</c></c>
 
-00:01:59.670 --> 00:01:59.680 align:start position:0%
+00:01:59.670 --> 00:01:59.680 align:center position:0%
 in here<c.colorE5E5E5> are displayed the build status
  </c>
 
-00:01:59.680 --> 00:02:03.090 align:start position:0%
+00:01:59.680 --> 00:02:03.090 align:center position:0%
 in here<c.colorE5E5E5> are displayed the build status
 of<00:02:00.159><c> the</c><00:02:00.430><c> latest</c><00:02:00.820><c> run</c><00:02:01.090><c> of</c><00:02:01.330><c> the</c><00:02:01.479><c> job</c><00:02:01.799><c> success</c><00:02:02.799><c> in</c></c>
 
-00:02:03.090 --> 00:02:03.100 align:start position:0%
+00:02:03.090 --> 00:02:03.100 align:center position:0%
 <c.colorE5E5E5>of the latest run of the job success in
  </c>
 
-00:02:03.100 --> 00:02:06.390 align:start position:0%
+00:02:03.100 --> 00:02:06.390 align:center position:0%
 <c.colorE5E5E5>of the latest run of the job success in
 this<00:02:03.580><c> case</c><00:02:04.020><c> the</c><00:02:05.020><c> build</c><00:02:05.229><c> trend</c><00:02:05.619><c> using</c><00:02:06.310><c> a</c></c>
 
-00:02:06.390 --> 00:02:06.400 align:start position:0%
+00:02:06.390 --> 00:02:06.400 align:center position:0%
 this case the build trend<c.colorE5E5E5> using a
  </c>
 
-00:02:06.400 --> 00:02:09.330 align:start position:0%
+00:02:06.400 --> 00:02:09.330 align:center position:0%
 this case the build trend<c.colorE5E5E5> using a
 weather<00:02:06.640><c> icon</c><00:02:07.180><c> depicting</c><00:02:07.689><c> how</c><00:02:08.319><c> the</c><00:02:08.380><c> last</c></c><c.colorCCCCCC><00:02:08.830><c> 5</c></c>
 
-00:02:09.330 --> 00:02:09.340 align:start position:0%
+00:02:09.330 --> 00:02:09.340 align:center position:0%
 weather icon depicting how the last<c.colorCCCCCC> 5
  </c>
 
-00:02:09.340 --> 00:02:12.960 align:start position:0%
+00:02:09.340 --> 00:02:12.960 align:center position:0%
 weather icon depicting how the last<c.colorCCCCCC> 5
 runs<00:02:09.700><c> of</c><00:02:10.000><c> the</c><00:02:10.119><c> job</c><00:02:10.390><c> went</c><00:02:11.250><c> several</c></c><c.colorE5E5E5><00:02:12.250><c> types</c><00:02:12.730><c> of</c></c>
 
-00:02:12.960 --> 00:02:12.970 align:start position:0%
+00:02:12.960 --> 00:02:12.970 align:center position:0%
 runs of the job went several<c.colorE5E5E5> types of
  </c>
 
-00:02:12.970 --> 00:02:14.130 align:start position:0%
+00:02:12.970 --> 00:02:14.130 align:center position:0%
 runs of the job went several<c.colorE5E5E5> types of
 weather<00:02:13.300><c> icons</c></c>
 
-00:02:14.130 --> 00:02:14.140 align:start position:0%
+00:02:14.130 --> 00:02:14.140 align:center position:0%
 weather icons
  
 
-00:02:14.140 --> 00:02:17.340 align:start position:0%
+00:02:14.140 --> 00:02:17.340 align:center position:0%
 weather icons
 ranging<00:02:14.680><c> from</c><c.colorCCCCCC><00:02:14.920><c> sunny</c></c><c.colorE5E5E5><00:02:15.490><c> all</c><00:02:16.180><c> the</c><00:02:16.840><c> latest</c><00:02:17.020><c> bells</c></c>
 
-00:02:17.340 --> 00:02:17.350 align:start position:0%
+00:02:17.340 --> 00:02:17.350 align:center position:0%
 ranging from<c.colorCCCCCC> sunny</c><c.colorE5E5E5> all the latest bells
  </c>
 
-00:02:17.350 --> 00:02:20.610 align:start position:0%
+00:02:17.350 --> 00:02:20.610 align:center position:0%
 ranging from<c.colorCCCCCC> sunny</c><c.colorE5E5E5> all the latest bells
 were<00:02:17.710><c> successful</c></c><c.colorCCCCCC><00:02:18.459><c> to</c><00:02:19.240><c> cloudy</c><00:02:19.630><c> very</c><00:02:20.230><c> cloudy</c></c>
 
-00:02:20.610 --> 00:02:20.620 align:start position:0%
+00:02:20.610 --> 00:02:20.620 align:center position:0%
 were successful<c.colorCCCCCC> to cloudy very cloudy
  </c>
 
-00:02:20.620 --> 00:02:23.730 align:start position:0%
+00:02:20.620 --> 00:02:23.730 align:center position:0%
 were successful<c.colorCCCCCC> to cloudy very cloudy
 rainy<00:02:21.310><c> and</c><00:02:21.640><c> even</c><00:02:22.120><c> stormy</c></c><c.colorE5E5E5><00:02:22.690><c> all</c><00:02:23.110><c> the</c><00:02:23.560><c> latest</c></c>
 
-00:02:23.730 --> 00:02:23.740 align:start position:0%
+00:02:23.730 --> 00:02:23.740 align:center position:0%
 rainy and even stormy<c.colorE5E5E5> all the latest
  </c>
 
-00:02:23.740 --> 00:02:26.940 align:start position:0%
+00:02:23.740 --> 00:02:26.940 align:center position:0%
 rainy and even stormy<c.colorE5E5E5> all the latest</c>
 <c.colorE5E5E5>bills<00:02:24.100><c> failed</c><00:02:24.610><c> then</c><00:02:25.420><c> you</c><00:02:26.080><c> have</c><00:02:26.230><c> the</c><00:02:26.500><c> name</c><00:02:26.740><c> of</c></c>
 
-00:02:26.940 --> 00:02:26.950 align:start position:0%
+00:02:26.940 --> 00:02:26.950 align:center position:0%
 <c.colorE5E5E5>bills failed then you have the name of
  </c>
 
-00:02:26.950 --> 00:02:30.690 align:start position:0%
+00:02:26.950 --> 00:02:30.690 align:center position:0%
 <c.colorE5E5E5>bills failed then you have the name of
 the<00:02:27.340><c> job</c><00:02:27.580><c> or</c><00:02:27.880><c> project</c><00:02:29.040><c> when</c><00:02:30.040><c> it</c><00:02:30.160><c> was</c><00:02:30.370><c> last</c></c>
 
-00:02:30.690 --> 00:02:30.700 align:start position:0%
+00:02:30.690 --> 00:02:30.700 align:center position:0%
 <c.colorE5E5E5>the job or project when it was last
  </c>
 
-00:02:30.700 --> 00:02:33.800 align:start position:0%
+00:02:30.700 --> 00:02:33.800 align:center position:0%
 <c.colorE5E5E5>the job or project when it was last
 executed<00:02:30.880><c> successfully</c><00:02:32.190><c> or</c><00:02:33.190><c> unsuccessfully</c></c>
 
-00:02:33.800 --> 00:02:33.810 align:start position:0%
+00:02:33.800 --> 00:02:33.810 align:center position:0%
 executed successfully or unsuccessfully
  
 
-00:02:33.810 --> 00:02:39.000 align:start position:0%
+00:02:33.810 --> 00:02:39.000 align:center position:0%
 executed successfully or unsuccessfully
 <c.colorE5E5E5>and<00:02:34.810><c> how</c><00:02:35.709><c> long</c><00:02:36.040><c> it</c><00:02:36.310><c> took</c><00:02:36.550><c> to</c><00:02:36.850><c> execute</c><00:02:38.010><c> finally</c></c>
 
-00:02:39.000 --> 00:02:39.010 align:start position:0%
+00:02:39.000 --> 00:02:39.010 align:center position:0%
 <c.colorE5E5E5>and how long it took to execute finally
  </c>
 
-00:02:39.010 --> 00:02:41.460 align:start position:0%
+00:02:39.010 --> 00:02:41.460 align:center position:0%
 <c.colorE5E5E5>and how long it took to execute finally
 you<00:02:39.459><c> have</c><00:02:39.550><c> the</c><00:02:39.760><c> button</c><00:02:40.150><c> to</c><00:02:40.390><c> start</c><00:02:40.720><c> a</c><00:02:40.930><c> job</c><00:02:41.170><c> or</c></c>
 
-00:02:41.460 --> 00:02:41.470 align:start position:0%
+00:02:41.460 --> 00:02:41.470 align:center position:0%
 you<c.colorE5E5E5> have the button to start a job or
  </c>
 
-00:02:41.470 --> 00:02:45.510 align:start position:0%
+00:02:41.470 --> 00:02:45.510 align:center position:0%
 you<c.colorE5E5E5> have the button to start a job or
 project<00:02:42.120><c> on</c><00:02:43.120><c> the</c></c><c.colorCCCCCC><00:02:43.780><c> left-hand</c><00:02:44.200><c> side</c></c><c.colorE5E5E5><00:02:44.310><c> below</c><00:02:45.310><c> the</c></c>
 
-00:02:45.510 --> 00:02:45.520 align:start position:0%
+00:02:45.510 --> 00:02:45.520 align:center position:0%
 project<c.colorE5E5E5> on the</c><c.colorCCCCCC> left-hand side</c><c.colorE5E5E5> below the
  </c>
 
-00:02:45.520 --> 00:02:47.640 align:start position:0%
+00:02:45.520 --> 00:02:47.640 align:center position:0%
 project<c.colorE5E5E5> on the</c><c.colorCCCCCC> left-hand side</c><c.colorE5E5E5> below the
 sidebar<00:02:46.060><c> menu</c><00:02:46.090><c> there</c></c><c.colorCCCCCC><00:02:46.930><c> are</c><00:02:47.080><c> two</c><00:02:47.410><c> other</c></c>
 
-00:02:47.640 --> 00:02:47.650 align:start position:0%
+00:02:47.640 --> 00:02:47.650 align:center position:0%
 sidebar menu<c.colorE5E5E5> there</c><c.colorCCCCCC> are two other
  </c>
 
-00:02:47.650 --> 00:02:50.880 align:start position:0%
+00:02:47.650 --> 00:02:50.880 align:center position:0%
 sidebar menu<c.colorE5E5E5> there</c><c.colorCCCCCC> are two other</c>
 <c.colorCCCCCC>elements</c><c.colorE5E5E5><00:02:48.370><c> the</c></c><c.colorCCCCCC><00:02:48.730><c> bills</c><00:02:49.390><c> queue</c><00:02:50.050><c> and</c><00:02:50.290><c> the</c><00:02:50.680><c> built</c></c>
 
-00:02:50.880 --> 00:02:50.890 align:start position:0%
+00:02:50.880 --> 00:02:50.890 align:center position:0%
 <c.colorCCCCCC>elements</c><c.colorE5E5E5> the</c><c.colorCCCCCC> bills queue and the built
  </c>
 
-00:02:50.890 --> 00:02:54.300 align:start position:0%
+00:02:50.890 --> 00:02:54.300 align:center position:0%
 <c.colorCCCCCC>elements</c><c.colorE5E5E5> the</c><c.colorCCCCCC> bills queue and the built
 executors<00:02:51.760><c> status</c><00:02:52.320><c> they</c><00:02:53.320><c> is</c></c><c.colorE5E5E5><00:02:53.470><c> coming</c><00:02:53.890><c> to</c><00:02:54.070><c> play</c></c>
 
-00:02:54.300 --> 00:02:54.310 align:start position:0%
+00:02:54.300 --> 00:02:54.310 align:center position:0%
 executors status they is<c.colorE5E5E5> coming to play
  </c>
 
-00:02:54.310 --> 00:02:56.820 align:start position:0%
+00:02:54.310 --> 00:02:56.820 align:center position:0%
 executors status they is<c.colorE5E5E5> coming to play
 when<00:02:54.670><c> jobs</c><00:02:55.030><c> are</c><00:02:55.269><c> executed</c><00:02:55.959><c> in</c></c><c.colorCCCCCC><00:02:56.050><c> Jenkins</c></c><c.colorE5E5E5><00:02:56.590><c> in</c></c>
 
-00:02:56.820 --> 00:02:56.830 align:start position:0%
+00:02:56.820 --> 00:02:56.830 align:center position:0%
 when jobs are executed in<c.colorCCCCCC> Jenkins</c><c.colorE5E5E5> in
  </c>
 
-00:02:56.830 --> 00:03:00.120 align:start position:0%
+00:02:56.830 --> 00:03:00.120 align:center position:0%
 when jobs are executed in<c.colorCCCCCC> Jenkins</c><c.colorE5E5E5> in
 fact<00:02:57.519><c> every</c><00:02:58.180><c> time</c><00:02:58.209><c> a</c><00:02:58.420><c> job</c><00:02:58.810><c> runs</c><00:02:59.230><c> it</c><00:02:59.650><c> is</c></c>
 
-00:03:00.120 --> 00:03:00.130 align:start position:0%
+00:03:00.120 --> 00:03:00.130 align:center position:0%
 fact every time<c.colorE5E5E5> a job runs it is
  </c>
 
-00:03:00.130 --> 00:03:03.240 align:start position:0%
+00:03:00.130 --> 00:03:03.240 align:center position:0%
 fact every time<c.colorE5E5E5> a job runs it is
 assigned<00:03:00.519><c> to</c><00:03:00.970><c> an</c><00:03:01.150><c> executor</c><00:03:01.980><c> when</c><00:03:02.980><c> several</c></c>
 
-00:03:03.240 --> 00:03:03.250 align:start position:0%
+00:03:03.240 --> 00:03:03.250 align:center position:0%
 assigned to<c.colorE5E5E5> an executor when several
  </c>
 
-00:03:03.250 --> 00:03:06.030 align:start position:0%
+00:03:03.250 --> 00:03:06.030 align:center position:0%
 assigned to<c.colorE5E5E5> an executor when several
 jobs<00:03:03.820><c> run</c><00:03:04.239><c> at</c><00:03:04.510><c> the</c><00:03:04.690><c> same</c><00:03:04.959><c> time</c><00:03:05.350><c> all</c><00:03:05.980><c> the</c></c>
 
-00:03:06.030 --> 00:03:06.040 align:start position:0%
+00:03:06.030 --> 00:03:06.040 align:center position:0%
 jobs run at the same time all the
  
 
-00:03:06.040 --> 00:03:08.430 align:start position:0%
+00:03:06.040 --> 00:03:08.430 align:center position:0%
 jobs run at the same time all the
 <c.colorE5E5E5>executors<00:03:06.880><c> can</c><00:03:07.120><c> be</c><00:03:07.239><c> busy</c><00:03:07.450><c> and</c><00:03:07.750><c> the</c><00:03:08.110><c> next</c></c>
 
-00:03:08.430 --> 00:03:08.440 align:start position:0%
+00:03:08.430 --> 00:03:08.440 align:center position:0%
 <c.colorE5E5E5>executors can be busy and the next
  </c>
 
-00:03:08.440 --> 00:03:11.250 align:start position:0%
+00:03:08.440 --> 00:03:11.250 align:center position:0%
 <c.colorE5E5E5>executors can be busy and the next
 scheduled<00:03:09.100><c> job</c><00:03:09.400><c> is</c><00:03:09.760><c> put</c><00:03:10.269><c> into</c><00:03:10.600><c> the</c><00:03:11.019><c> bills</c></c>
 
-00:03:11.250 --> 00:03:11.260 align:start position:0%
+00:03:11.250 --> 00:03:11.260 align:center position:0%
 scheduled job<c.colorE5E5E5> is put into the bills
  </c>
 
-00:03:11.260 --> 00:03:14.130 align:start position:0%
+00:03:11.260 --> 00:03:14.130 align:center position:0%
 scheduled job<c.colorE5E5E5> is put into the bills
 queue<00:03:11.769><c> waiting</c><00:03:12.730><c> for</c><00:03:12.970><c> an</c><00:03:13.060><c> executor</c><00:03:13.690><c> to</c><00:03:13.720><c> become</c></c>
 
-00:03:14.130 --> 00:03:14.140 align:start position:0%
+00:03:14.130 --> 00:03:14.140 align:center position:0%
 queue<c.colorE5E5E5> waiting for an executor to become
  </c>
 
-00:03:14.140 --> 00:03:17.009 align:start position:0%
+00:03:14.140 --> 00:03:17.009 align:center position:0%
 queue<c.colorE5E5E5> waiting for an executor to become
 available</c><c.colorCCCCCC><00:03:14.850><c> to</c><00:03:15.850><c> illustrate</c><00:03:16.480><c> the</c></c><c.colorE5E5E5><00:03:16.810><c> build</c></c>
 
-00:03:17.009 --> 00:03:17.019 align:start position:0%
+00:03:17.009 --> 00:03:17.019 align:center position:0%
 <c.colorE5E5E5>available</c><c.colorCCCCCC> to illustrate the</c><c.colorE5E5E5> build
  </c>
 
-00:03:17.019 --> 00:03:20.190 align:start position:0%
+00:03:17.019 --> 00:03:20.190 align:center position:0%
 <c.colorE5E5E5>available</c><c.colorCCCCCC> to illustrate the</c><c.colorE5E5E5> build</c>
 <c.colorCCCCCC>executor<00:03:17.739><c> and</c><00:03:17.860><c> builds</c></c><c.colorE5E5E5><00:03:18.790><c> queue</c></c><c.colorCCCCCC><00:03:19.120><c> I'm</c><00:03:19.390><c> going</c><00:03:20.049><c> to</c></c>
 
-00:03:20.190 --> 00:03:20.200 align:start position:0%
+00:03:20.190 --> 00:03:20.200 align:center position:0%
 <c.colorCCCCCC>executor and builds</c><c.colorE5E5E5> queue</c><c.colorCCCCCC> I'm going to
  </c>
 
-00:03:20.200 --> 00:03:23.280 align:start position:0%
+00:03:20.200 --> 00:03:23.280 align:center position:0%
 <c.colorCCCCCC>executor and builds</c><c.colorE5E5E5> queue</c><c.colorCCCCCC> I'm going to
 run<00:03:20.410><c> three</c><00:03:20.980><c> jobs</c><00:03:21.430><c> at</c><00:03:21.760><c> a</c><00:03:21.820><c> very</c></c><c.colorE5E5E5><00:03:22.239><c> short</c><00:03:22.690><c> interval</c></c>
 
-00:03:23.280 --> 00:03:23.290 align:start position:0%
+00:03:23.280 --> 00:03:23.290 align:center position:0%
 run three jobs at a very<c.colorE5E5E5> short interval
  </c>
 
-00:03:23.290 --> 00:03:27.360 align:start position:0%
+00:03:23.290 --> 00:03:27.360 align:center position:0%
 run three jobs at a very<c.colorE5E5E5> short interval</c>
 <c.colorE5E5E5>by<00:03:24.070><c> clicking</c><00:03:24.610><c> on</c><00:03:24.790><c> the</c><00:03:25.060><c> start</c><00:03:25.390><c> job</c><00:03:25.870><c> icon</c><00:03:26.500><c> as</c><00:03:26.680><c> you</c></c>
 
-00:03:27.360 --> 00:03:27.370 align:start position:0%
+00:03:27.360 --> 00:03:27.370 align:center position:0%
 <c.colorE5E5E5>by clicking on the start job icon as you
  </c>
 
-00:03:27.370 --> 00:03:30.210 align:start position:0%
+00:03:27.370 --> 00:03:30.210 align:center position:0%
 <c.colorE5E5E5>by clicking on the start job icon as you
 can<00:03:27.519><c> see</c><00:03:27.790><c> the</c><00:03:28.480><c> first</c><00:03:28.750><c> two</c><00:03:29.049><c> jobs</c><00:03:29.410><c> are</c><00:03:29.680><c> assigned</c></c>
 
-00:03:30.210 --> 00:03:30.220 align:start position:0%
+00:03:30.210 --> 00:03:30.220 align:center position:0%
 can see the<c.colorE5E5E5> first two jobs are assigned
  </c>
 
-00:03:30.220 --> 00:03:33.300 align:start position:0%
+00:03:30.220 --> 00:03:33.300 align:center position:0%
 can see the<c.colorE5E5E5> first two jobs are assigned</c>
 <c.colorE5E5E5>to<00:03:30.610><c> the</c><00:03:30.730><c> two</c><00:03:31.000><c> executors</c><00:03:31.810><c> while</c><00:03:32.380><c> the</c><00:03:32.650><c> third</c><00:03:32.950><c> one</c></c>
 
-00:03:33.300 --> 00:03:33.310 align:start position:0%
+00:03:33.300 --> 00:03:33.310 align:center position:0%
 <c.colorE5E5E5>to the two executors while the third one
  </c>
 
-00:03:33.310 --> 00:03:36.270 align:start position:0%
+00:03:33.310 --> 00:03:36.270 align:center position:0%
 <c.colorE5E5E5>to the two executors while the third one
 is<00:03:33.700><c> put</c><00:03:34.150><c> in</c><00:03:34.390><c> a</c><00:03:34.480><c> queue</c><00:03:34.780><c> when</c><00:03:35.500><c> an</c><00:03:35.650><c> executor</c></c>
 
-00:03:36.270 --> 00:03:36.280 align:start position:0%
+00:03:36.270 --> 00:03:36.280 align:center position:0%
 is put in a queue<c.colorE5E5E5> when an executor
  </c>
 
-00:03:36.280 --> 00:03:38.940 align:start position:0%
+00:03:36.280 --> 00:03:38.940 align:center position:0%
 is put in a queue<c.colorE5E5E5> when an executor
 becomes<00:03:36.640><c> available</c></c><c.colorCCCCCC><00:03:36.940><c> the</c><00:03:37.900><c> job</c></c><c.colorE5E5E5><00:03:38.200><c> in</c><00:03:38.470><c> the</c><00:03:38.680><c> queue</c></c>
 
-00:03:38.940 --> 00:03:38.950 align:start position:0%
+00:03:38.940 --> 00:03:38.950 align:center position:0%
 becomes available<c.colorCCCCCC> the job</c><c.colorE5E5E5> in the queue
  </c>
 
-00:03:38.950 --> 00:03:42.180 align:start position:0%
+00:03:38.950 --> 00:03:42.180 align:center position:0%
 becomes available<c.colorCCCCCC> the job</c><c.colorE5E5E5> in the queue
 is<00:03:39.190><c> assigned</c><00:03:39.700><c> to</c><00:03:39.940><c> the</c><00:03:40.150><c> executor</c><00:03:41.190><c> multiple</c></c>
 
-00:03:42.180 --> 00:03:42.190 align:start position:0%
+00:03:42.180 --> 00:03:42.190 align:center position:0%
 is assigned to<c.colorE5E5E5> the executor multiple
  </c>
 
-00:03:42.190 --> 00:03:44.940 align:start position:0%
+00:03:42.190 --> 00:03:44.940 align:center position:0%
 is assigned to<c.colorE5E5E5> the executor multiple
 executors<00:03:42.820><c> allow</c><00:03:43.239><c> to</c><00:03:43.299><c> run</c></c><c.colorCCCCCC><00:03:43.630><c> several</c><00:03:44.380><c> jobs</c><00:03:44.739><c> in</c></c>
 
-00:03:44.940 --> 00:03:44.950 align:start position:0%
+00:03:44.940 --> 00:03:44.950 align:center position:0%
 executors allow to run<c.colorCCCCCC> several jobs in
  </c>
 
-00:03:44.950 --> 00:03:47.550 align:start position:0%
+00:03:44.950 --> 00:03:47.550 align:center position:0%
 executors allow to run<c.colorCCCCCC> several jobs in
 parallel<00:03:45.579><c> and</c><00:03:45.760><c> you</c><00:03:46.060><c> can</c><00:03:46.209><c> configure</c><00:03:46.630><c> how</c><00:03:47.019><c> many</c></c>
 
-00:03:47.550 --> 00:03:47.560 align:start position:0%
+00:03:47.550 --> 00:03:47.560 align:center position:0%
 parallel and you can configure how<c.colorCCCCCC> many
  </c>
 
-00:03:47.560 --> 00:03:49.590 align:start position:0%
+00:03:47.560 --> 00:03:49.590 align:center position:0%
 parallel and you can configure how<c.colorCCCCCC> many
 executors<00:03:48.160><c> you</c><00:03:48.310><c> want</c><00:03:48.519><c> to</c><00:03:48.640><c> assign</c><00:03:48.910><c> to</c><00:03:49.120><c> Jenkins</c></c>
 
-00:03:49.590 --> 00:03:49.600 align:start position:0%
+00:03:49.590 --> 00:03:49.600 align:center position:0%
 executors you want to assign<c.colorCCCCCC> to Jenkins
  </c>
 
-00:03:49.600 --> 00:03:51.930 align:start position:0%
+00:03:49.600 --> 00:03:51.930 align:center position:0%
 executors you want to assign<c.colorCCCCCC> to Jenkins</c>
 <c.colorE5E5E5>usually<00:03:50.470><c> not</c><00:03:50.739><c> exceeding</c><00:03:51.400><c> the</c></c><c.colorCCCCCC><00:03:51.579><c> number</c><00:03:51.850><c> of</c></c>
 
-00:03:51.930 --> 00:03:51.940 align:start position:0%
+00:03:51.930 --> 00:03:51.940 align:center position:0%
 <c.colorE5E5E5>usually not exceeding the</c><c.colorCCCCCC> number of
  </c>
 
-00:03:51.940 --> 00:03:54.420 align:start position:0%
+00:03:51.940 --> 00:03:54.420 align:center position:0%
 <c.colorE5E5E5>usually not exceeding the</c><c.colorCCCCCC> number of
 processors<00:03:52.630><c> in</c><00:03:52.930><c> the</c><00:03:53.079><c> machine</c><00:03:53.470><c> where</c><00:03:53.920><c> Jenkins</c></c>
 
-00:03:54.420 --> 00:03:54.430 align:start position:0%
+00:03:54.420 --> 00:03:54.430 align:center position:0%
 processors in<c.colorCCCCCC> the machine where Jenkins
  </c>
 
-00:03:54.430 --> 00:03:57.090 align:start position:0%
+00:03:54.430 --> 00:03:57.090 align:center position:0%
 processors in<c.colorCCCCCC> the machine where Jenkins
 is<00:03:54.579><c> running</c><00:03:55.000><c> let's</c></c><c.colorE5E5E5><00:03:55.989><c> define</c><00:03:56.440><c> some</c><00:03:56.709><c> key</c></c>
 
-00:03:57.090 --> 00:03:57.100 align:start position:0%
+00:03:57.090 --> 00:03:57.100 align:center position:0%
 is running let's<c.colorE5E5E5> define some key
  </c>
 
-00:03:57.100 --> 00:03:59.490 align:start position:0%
+00:03:57.100 --> 00:03:59.490 align:center position:0%
 is running let's<c.colorE5E5E5> define some key
 concepts<00:03:57.670><c> we</c><00:03:57.940><c> saw</c><00:03:58.120><c> in</c><00:03:58.269><c> action</c></c><c.colorCCCCCC><00:03:58.450><c> in</c><00:03:58.840><c> the</c></c><c.colorE5E5E5><00:03:59.079><c> Jenkins</c></c>
 
-00:03:59.490 --> 00:03:59.500 align:start position:0%
+00:03:59.490 --> 00:03:59.500 align:center position:0%
 concepts we saw in action<c.colorCCCCCC> in the</c><c.colorE5E5E5> Jenkins
  </c>
 
-00:03:59.500 --> 00:04:03.539 align:start position:0%
+00:03:59.500 --> 00:04:03.539 align:center position:0%
 concepts we saw in action<c.colorCCCCCC> in the</c><c.colorE5E5E5> Jenkins
 dashboard<00:04:00.040><c> first</c><00:04:01.000><c> a</c><00:04:01.360><c> job</c><00:04:01.870><c> or</c><00:04:02.110><c> project</c><00:04:02.549><c> which</c></c>
 
-00:04:03.539 --> 00:04:03.549 align:start position:0%
+00:04:03.539 --> 00:04:03.549 align:center position:0%
 dashboard first<c.colorE5E5E5> a job or project which
  </c>
 
-00:04:03.549 --> 00:04:06.300 align:start position:0%
+00:04:03.549 --> 00:04:06.300 align:center position:0%
 dashboard first<c.colorE5E5E5> a job or project which
 is<00:04:03.730><c> a</c><00:04:03.760><c> runnable</c><00:04:04.269><c> tasks</c><00:04:04.630><c> like</c><00:04:05.170><c> running</c><00:04:05.769><c> tests</c></c>
 
-00:04:06.300 --> 00:04:06.310 align:start position:0%
+00:04:06.300 --> 00:04:06.310 align:center position:0%
 is a runnable<c.colorE5E5E5> tasks like running tests
  </c>
 
-00:04:06.310 --> 00:04:09.030 align:start position:0%
+00:04:06.310 --> 00:04:09.030 align:center position:0%
 is a runnable<c.colorE5E5E5> tasks like running tests
 compiling<00:04:07.299><c> code</c><00:04:07.709><c> deploying</c><00:04:08.709><c> to</c><00:04:08.950><c> an</c></c>
 
-00:04:09.030 --> 00:04:09.040 align:start position:0%
+00:04:09.030 --> 00:04:09.040 align:center position:0%
 compiling code deploying to an
  
 
-00:04:09.040 --> 00:04:11.849 align:start position:0%
+00:04:09.040 --> 00:04:11.849 align:center position:0%
 compiling code deploying to an
 environment<00:04:09.310><c> etc</c><c.colorE5E5E5><00:04:10.079><c> in</c><00:04:11.079><c> the</c></c><c.colorCCCCCC><00:04:11.440><c> chunkies</c></c>
 
-00:04:11.849 --> 00:04:11.859 align:start position:0%
+00:04:11.849 --> 00:04:11.859 align:center position:0%
 environment etc<c.colorE5E5E5> in the</c><c.colorCCCCCC> chunkies
  </c>
 
-00:04:11.859 --> 00:04:15.180 align:start position:0%
+00:04:11.859 --> 00:04:15.180 align:center position:0%
 environment etc<c.colorE5E5E5> in the</c><c.colorCCCCCC> chunkies
 dashboard</c><c.colorE5E5E5><00:04:12.489><c> we</c><00:04:12.880><c> saw</c><00:04:13.120><c> three</c><00:04:13.540><c> jobs</c><00:04:13.959><c> or</c><00:04:14.380><c> projects</c></c>
 
-00:04:15.180 --> 00:04:15.190 align:start position:0%
+00:04:15.180 --> 00:04:15.190 align:center position:0%
 dashboard<c.colorE5E5E5> we saw three jobs or projects
  </c>
 
-00:04:15.190 --> 00:04:17.520 align:start position:0%
+00:04:15.190 --> 00:04:17.520 align:center position:0%
 dashboard<c.colorE5E5E5> we saw three jobs or projects</c>
 <c.colorE5E5E5>a<00:04:15.400><c> build</c><00:04:16.030><c> is</c></c><c.colorCCCCCC><00:04:16.329><c> the</c><00:04:16.660><c> result</c><00:04:17.019><c> of</c><00:04:17.229><c> a</c><00:04:17.320><c> single</c></c>
 
-00:04:17.520 --> 00:04:17.530 align:start position:0%
+00:04:17.520 --> 00:04:17.530 align:center position:0%
 <c.colorE5E5E5>a build is</c><c.colorCCCCCC> the result of a single
  </c>
 
-00:04:17.530 --> 00:04:20.969 align:start position:0%
+00:04:17.530 --> 00:04:20.969 align:center position:0%
 <c.colorE5E5E5>a build is</c><c.colorCCCCCC> the result of a single
 execution</c><c.colorE5E5E5><00:04:18.160><c> of</c><00:04:18.459><c> a</c><00:04:18.549><c> job</c><00:04:18.870><c> each</c><00:04:19.870><c> build</c></c><c.colorCCCCCC><00:04:20.380><c> is</c><00:04:20.620><c> an</c></c>
 
-00:04:20.969 --> 00:04:20.979 align:start position:0%
+00:04:20.969 --> 00:04:20.979 align:center position:0%
 execution<c.colorE5E5E5> of a job each build</c><c.colorCCCCCC> is an
  </c>
 
-00:04:20.979 --> 00:04:24.240 align:start position:0%
+00:04:20.979 --> 00:04:24.240 align:center position:0%
 execution<c.colorE5E5E5> of a job each build</c><c.colorCCCCCC> is an
 Associated<00:04:21.459><c> status</c><00:04:22.150><c> and</c><00:04:22.419><c> in</c><00:04:23.200><c> the</c><00:04:23.349><c> example</c><00:04:23.710><c> we</c></c>
 
-00:04:24.240 --> 00:04:24.250 align:start position:0%
+00:04:24.240 --> 00:04:24.250 align:center position:0%
 Associated status and in the example<c.colorCCCCCC> we
  </c>
 
-00:04:24.250 --> 00:04:27.210 align:start position:0%
+00:04:24.250 --> 00:04:27.210 align:center position:0%
 Associated status and in the example<c.colorCCCCCC> we
 had<00:04:24.430><c> two</c><00:04:24.820><c> successful</c><00:04:25.090><c> builds</c><00:04:25.990><c> and</c><00:04:26.169><c> one</c><00:04:26.830><c> failed</c></c>
 
-00:04:27.210 --> 00:04:27.220 align:start position:0%
+00:04:27.210 --> 00:04:27.220 align:center position:0%
 had two successful<c.colorCCCCCC> builds and one failed
  </c>
 
-00:04:27.220 --> 00:04:27.990 align:start position:0%
+00:04:27.220 --> 00:04:27.990 align:center position:0%
 had two successful<c.colorCCCCCC> builds and one failed</c>
 <c.colorCCCCCC>build</c>
 
-00:04:27.990 --> 00:04:28.000 align:start position:0%
+00:04:27.990 --> 00:04:28.000 align:center position:0%
 <c.colorCCCCCC>build
  </c>
 
-00:04:28.000 --> 00:04:30.540 align:start position:0%
+00:04:28.000 --> 00:04:30.540 align:center position:0%
 <c.colorCCCCCC>build
 we<00:04:28.390><c> also</c><00:04:28.570><c> saw</c><00:04:28.930><c> the</c><00:04:28.990><c> bill</c><00:04:29.320><c> trend</c></c><c.colorE5E5E5><00:04:29.740><c> in</c><00:04:30.040><c> the</c><00:04:30.280><c> form</c></c>
 
-00:04:30.540 --> 00:04:30.550 align:start position:0%
+00:04:30.540 --> 00:04:30.550 align:center position:0%
 we also saw the<c.colorCCCCCC> bill trend</c><c.colorE5E5E5> in the form
  </c>
 
-00:04:30.550 --> 00:04:33.810 align:start position:0%
+00:04:30.550 --> 00:04:33.810 align:center position:0%
 we also saw the<c.colorCCCCCC> bill trend</c><c.colorE5E5E5> in the form
 of<00:04:30.760><c> a</c><00:04:31.030><c> weather</c><00:04:31.240><c> icon</c><00:04:31.810><c> sunny</c><00:04:32.770><c> cloudy</c><00:04:33.490><c> rainy</c></c>
 
-00:04:33.810 --> 00:04:33.820 align:start position:0%
+00:04:33.810 --> 00:04:33.820 align:center position:0%
 of a weather icon sunny cloudy rainy
  
 
-00:04:33.820 --> 00:04:37.170 align:start position:0%
+00:04:33.820 --> 00:04:37.170 align:center position:0%
 of a weather icon sunny cloudy rainy
 stormy<00:04:34.330><c> etc</c><00:04:35.140><c> finally</c><c.colorCCCCCC><00:04:35.830><c> we</c><00:04:36.490><c> look</c><00:04:36.640><c> at</c><00:04:36.820><c> views</c></c>
 
-00:04:37.170 --> 00:04:37.180 align:start position:0%
+00:04:37.170 --> 00:04:37.180 align:center position:0%
 stormy etc finally<c.colorCCCCCC> we look at views
  </c>
 
-00:04:37.180 --> 00:04:40.470 align:start position:0%
+00:04:37.180 --> 00:04:40.470 align:center position:0%
 stormy etc finally<c.colorCCCCCC> we look at views
 which<00:04:37.930><c> are</c><00:04:38.170><c> a</c><00:04:38.320><c> way</c><00:04:38.590><c> to</c><00:04:38.650><c> display</c><00:04:39.190><c> jobs</c><00:04:39.700><c> in</c><00:04:40.000><c> tarp</c></c>
 
-00:04:40.470 --> 00:04:40.480 align:start position:0%
+00:04:40.470 --> 00:04:40.480 align:center position:0%
 which are a<c.colorCCCCCC> way to display jobs in tarp
  </c>
 
-00:04:40.480 --> 00:04:44.040 align:start position:0%
+00:04:40.480 --> 00:04:44.040 align:center position:0%
 which are a<c.colorCCCCCC> way to display jobs in tarp
 categories<00:04:41.260><c> in</c><00:04:41.760><c> particular</c></c><c.colorE5E5E5><00:04:42.760><c> we</c><00:04:43.360><c> look</c><00:04:43.540><c> at</c><00:04:43.810><c> the</c></c>
 
-00:04:44.040 --> 00:04:44.050 align:start position:0%
+00:04:44.040 --> 00:04:44.050 align:center position:0%
 categories in particular<c.colorE5E5E5> we look at the
  </c>
 
-00:04:44.050 --> 00:04:46.710 align:start position:0%
+00:04:44.050 --> 00:04:46.710 align:center position:0%
 categories in particular<c.colorE5E5E5> we look at the
 old<00:04:44.290><c> view</c><00:04:44.710><c> listing</c><00:04:45.490><c> all</c><00:04:45.700><c> the</c><00:04:45.970><c> jobs</c><00:04:46.270><c> currently</c></c>
 
-00:04:46.710 --> 00:04:46.720 align:start position:0%
+00:04:46.710 --> 00:04:46.720 align:center position:0%
 old view listing all the jobs currently
  
 
-00:04:46.720 --> 00:04:50.040 align:start position:0%
+00:04:46.720 --> 00:04:50.040 align:center position:0%
 old view listing all the jobs currently
 <c.colorCCCCCC>present<00:04:47.410><c> in</c><00:04:47.470><c> Jenkins</c></c><c.colorE5E5E5><00:04:48.330><c> now</c><00:04:49.330><c> let's</c><00:04:49.810><c> have</c><00:04:49.990><c> a</c></c>
 
-00:04:50.040 --> 00:04:50.050 align:start position:0%
+00:04:50.040 --> 00:04:50.050 align:center position:0%
 <c.colorCCCCCC>present in Jenkins</c><c.colorE5E5E5> now let's have a
  </c>
 
-00:04:50.050 --> 00:04:52.740 align:start position:0%
+00:04:50.050 --> 00:04:52.740 align:center position:0%
 <c.colorCCCCCC>present in Jenkins</c><c.colorE5E5E5> now let's have a
 quick<00:04:50.320><c> overview</c></c><c.colorCCCCCC><00:04:50.650><c> of</c><00:04:51.340><c> the</c></c><c.colorE5E5E5><00:04:51.670><c> manage</c><00:04:52.060><c> Jenkins</c></c>
 
-00:04:52.740 --> 00:04:52.750 align:start position:0%
+00:04:52.740 --> 00:04:52.750 align:center position:0%
 quick<c.colorE5E5E5> overview</c><c.colorCCCCCC> of the</c><c.colorE5E5E5> manage Jenkins
  </c>
 
-00:04:52.750 --> 00:04:55.290 align:start position:0%
+00:04:52.750 --> 00:04:55.290 align:center position:0%
 quick<c.colorE5E5E5> overview</c><c.colorCCCCCC> of the</c><c.colorE5E5E5> manage Jenkins
 menu<00:04:53.230><c> which</c><00:04:53.590><c> is</c><00:04:53.770><c> the</c><00:04:53.950><c> admin</c><00:04:54.400><c> console</c><00:04:54.880><c> to</c></c>
 
-00:04:55.290 --> 00:04:55.300 align:start position:0%
+00:04:55.290 --> 00:04:55.300 align:center position:0%
 menu<c.colorE5E5E5> which is the admin console to
  </c>
 
-00:04:55.300 --> 00:04:58.560 align:start position:0%
+00:04:55.300 --> 00:04:58.560 align:center position:0%
 menu<c.colorE5E5E5> which is the admin console to
 administer<00:04:56.050><c> Jenkins</c><00:04:56.620><c> we</c><00:04:57.400><c> saw</c><00:04:57.580><c> the</c><00:04:57.910><c> link</c><00:04:58.150><c> to</c></c>
 
-00:04:58.560 --> 00:04:58.570 align:start position:0%
+00:04:58.560 --> 00:04:58.570 align:center position:0%
 administer Jenkins<c.colorE5E5E5> we saw the link to
  </c>
 
-00:04:58.570 --> 00:05:00.780 align:start position:0%
+00:04:58.570 --> 00:05:00.780 align:center position:0%
 administer Jenkins<c.colorE5E5E5> we saw the link to
 manage</c><c.colorCCCCCC><00:04:58.900><c> shangkun's</c><00:04:59.470><c> in</c><00:04:59.590><c> the</c><00:04:59.770><c> sidebar</c><00:05:00.010><c> menu</c><00:05:00.430><c> in</c></c>
 
-00:05:00.780 --> 00:05:00.790 align:start position:0%
+00:05:00.780 --> 00:05:00.790 align:center position:0%
 manage<c.colorCCCCCC> shangkun's in the sidebar menu in
  </c>
 
-00:05:00.790 --> 00:05:03.660 align:start position:0%
+00:05:00.790 --> 00:05:03.660 align:center position:0%
 manage<c.colorCCCCCC> shangkun's in the sidebar menu in
 the<00:05:00.910><c> previous</c><00:05:01.300><c> demo</c></c><c.colorE5E5E5><00:05:01.540><c> this</c><00:05:02.350><c> image</c><00:05:02.830><c> identifies</c></c>
 
-00:05:03.660 --> 00:05:03.670 align:start position:0%
+00:05:03.660 --> 00:05:03.670 align:center position:0%
 the previous demo<c.colorE5E5E5> this image identifies
  </c>
 
-00:05:03.670 --> 00:05:06.030 align:start position:0%
+00:05:03.670 --> 00:05:06.030 align:center position:0%
 the previous demo<c.colorE5E5E5> this image identifies
 the<00:05:04.000><c> most</c><00:05:04.180><c> important</c><00:05:04.870><c> options</c><00:05:05.350><c> of</c><00:05:05.530><c> manage</c></c>
 
-00:05:06.030 --> 00:05:06.040 align:start position:0%
+00:05:06.030 --> 00:05:06.040 align:center position:0%
 the most important options of manage
  
 
-00:05:06.040 --> 00:05:08.850 align:start position:0%
+00:05:06.040 --> 00:05:08.850 align:center position:0%
 the most important options of manage
 Jenkins<c.colorCCCCCC><00:05:06.700><c> and</c><00:05:07.030><c> you</c><00:05:07.600><c> can</c><00:05:07.750><c> use</c></c><c.colorE5E5E5><00:05:07.990><c> it</c><00:05:08.200><c> as</c><00:05:08.410><c> a</c><00:05:08.440><c> cheat</c></c>
 
-00:05:08.850 --> 00:05:08.860 align:start position:0%
+00:05:08.850 --> 00:05:08.860 align:center position:0%
 Jenkins<c.colorCCCCCC> and you can use</c><c.colorE5E5E5> it as a cheat
  </c>
 
-00:05:08.860 --> 00:05:12.090 align:start position:0%
+00:05:08.860 --> 00:05:12.090 align:center position:0%
 Jenkins<c.colorCCCCCC> and you can use</c><c.colorE5E5E5> it as a cheat
 sheet</c><c.colorCCCCCC><00:05:08.890><c> to</c></c><c.colorE5E5E5><00:05:09.880><c> navigate</c><00:05:10.390><c> Jenkins</c><00:05:11.080><c> admin</c><00:05:11.530><c> console</c></c>
 
-00:05:12.090 --> 00:05:12.100 align:start position:0%
+00:05:12.090 --> 00:05:12.100 align:center position:0%
 sheet<c.colorCCCCCC> to</c><c.colorE5E5E5> navigate Jenkins admin console
  </c>
 
-00:05:12.100 --> 00:05:15.090 align:start position:0%
+00:05:12.100 --> 00:05:15.090 align:center position:0%
 sheet<c.colorCCCCCC> to</c><c.colorE5E5E5> navigate Jenkins admin console</c>
 <c.colorE5E5E5>this</c><c.colorCCCCCC><00:05:12.790><c> is</c><00:05:12.850><c> a</c><00:05:13.180><c> very</c><00:05:13.450><c> brief</c></c><c.colorE5E5E5><00:05:13.810><c> overview</c><00:05:14.080><c> but</c><00:05:14.860><c> it's</c></c>
 
-00:05:15.090 --> 00:05:15.100 align:start position:0%
+00:05:15.090 --> 00:05:15.100 align:center position:0%
 <c.colorE5E5E5>this</c><c.colorCCCCCC> is a very brief</c><c.colorE5E5E5> overview but it's
  </c>
 
-00:05:15.100 --> 00:05:17.010 align:start position:0%
+00:05:15.100 --> 00:05:17.010 align:center position:0%
 <c.colorE5E5E5>this</c><c.colorCCCCCC> is a very brief</c><c.colorE5E5E5> overview but it's
 important<00:05:15.760><c> to</c><00:05:15.910><c> know</c><00:05:16.060><c> where</c><00:05:16.330><c> these</c><00:05:16.540><c> options</c></c>
 
-00:05:17.010 --> 00:05:17.020 align:start position:0%
+00:05:17.010 --> 00:05:17.020 align:center position:0%
 important<c.colorE5E5E5> to know where these options
  </c>
 
-00:05:17.020 --> 00:05:19.080 align:start position:0%
+00:05:17.020 --> 00:05:19.080 align:center position:0%
 important<c.colorE5E5E5> to know where these options
 are<00:05:17.320><c> in</c><00:05:17.710><c> case</c><00:05:18.160><c> you</c><00:05:18.310><c> are</c><00:05:18.370><c> going</c><00:05:18.520><c> to</c><00:05:18.730><c> administer</c></c>
 
-00:05:19.080 --> 00:05:19.090 align:start position:0%
+00:05:19.080 --> 00:05:19.090 align:center position:0%
 are in case<c.colorE5E5E5> you are going to administer
  </c>
 
-00:05:19.090 --> 00:05:21.810 align:start position:0%
+00:05:19.090 --> 00:05:21.810 align:center position:0%
 are in case<c.colorE5E5E5> you are going to administer
 Jenkins<00:05:19.870><c> for</c><00:05:20.080><c> a</c><00:05:20.110><c> development</c><00:05:20.680><c> team</c><00:05:20.950><c> let's</c><00:05:21.610><c> go</c></c>
 
-00:05:21.810 --> 00:05:21.820 align:start position:0%
+00:05:21.810 --> 00:05:21.820 align:center position:0%
 Jenkins for a development<c.colorE5E5E5> team let's go
  </c>
 
-00:05:21.820 --> 00:05:23.550 align:start position:0%
+00:05:21.820 --> 00:05:23.550 align:center position:0%
 Jenkins for a development<c.colorE5E5E5> team let's go
 back<00:05:22.000><c> to</c><00:05:22.180><c> Jenkins</c><00:05:22.750><c> and</c><00:05:22.900><c> click</c><00:05:23.169><c> on</c><00:05:23.350><c> manage</c></c>
 
-00:05:23.550 --> 00:05:23.560 align:start position:0%
+00:05:23.550 --> 00:05:23.560 align:center position:0%
 <c.colorE5E5E5>back to Jenkins and click on manage
  </c>
 
-00:05:23.560 --> 00:05:26.760 align:start position:0%
+00:05:23.560 --> 00:05:26.760 align:center position:0%
 <c.colorE5E5E5>back to Jenkins and click on manage</c>
 <c.colorE5E5E5>Jenkins<00:05:24.460><c> this</c><00:05:25.090><c> opens</c><00:05:25.570><c> all</c></c><c.colorCCCCCC><00:05:25.780><c> the</c><00:05:26.110><c> options</c><00:05:26.560><c> in</c></c>
 
-00:05:26.760 --> 00:05:26.770 align:start position:0%
+00:05:26.760 --> 00:05:26.770 align:center position:0%
 <c.colorE5E5E5>Jenkins this opens all</c><c.colorCCCCCC> the options in
  </c>
 
-00:05:26.770 --> 00:05:29.040 align:start position:0%
+00:05:26.770 --> 00:05:29.040 align:center position:0%
 <c.colorE5E5E5>Jenkins this opens all</c><c.colorCCCCCC> the options in
 the<00:05:26.919><c> admin</c><00:05:27.250><c> console</c><00:05:27.790><c> we</c><00:05:28.480><c> are</c><00:05:28.540><c> now</c><00:05:28.660><c> going</c><00:05:28.960><c> to</c></c>
 
-00:05:29.040 --> 00:05:29.050 align:start position:0%
+00:05:29.040 --> 00:05:29.050 align:center position:0%
 the admin console we are now going to
  
 
-00:05:29.050 --> 00:05:31.610 align:start position:0%
+00:05:29.050 --> 00:05:31.610 align:center position:0%
 the admin console we are now going to
 explore<00:05:29.590><c> the</c><00:05:29.919><c> most</c><c.colorE5E5E5><00:05:30.040><c> important</c><00:05:30.730><c> options</c></c>
 
-00:05:31.610 --> 00:05:31.620 align:start position:0%
+00:05:31.610 --> 00:05:31.620 align:center position:0%
 explore the most<c.colorE5E5E5> important options
  </c>
 
-00:05:31.620 --> 00:05:34.830 align:start position:0%
+00:05:31.620 --> 00:05:34.830 align:center position:0%
 explore the most<c.colorE5E5E5> important options</c>
 <c.colorE5E5E5>configure<00:05:32.620><c> system</c><00:05:33.250><c> is</c><00:05:33.460><c> where</c><00:05:34.060><c> you</c><00:05:34.180><c> can</c><00:05:34.360><c> set</c></c><c.colorCCCCCC><00:05:34.630><c> up</c></c>
 
-00:05:34.830 --> 00:05:34.840 align:start position:0%
+00:05:34.830 --> 00:05:34.840 align:center position:0%
 <c.colorE5E5E5>configure system is where you can set</c><c.colorCCCCCC> up
  </c>
 
-00:05:34.840 --> 00:05:37.590 align:start position:0%
+00:05:34.840 --> 00:05:37.590 align:center position:0%
 <c.colorE5E5E5>configure system is where you can set</c><c.colorCCCCCC> up
 a<00:05:34.990><c> global</c><00:05:35.410><c> configurations</c><00:05:36.280><c> for</c><00:05:36.640><c> Jenkins</c><00:05:36.940><c> such</c></c>
 
-00:05:37.590 --> 00:05:37.600 align:start position:0%
+00:05:37.590 --> 00:05:37.600 align:center position:0%
 a<c.colorCCCCCC> global configurations for Jenkins such
  </c>
 
-00:05:37.600 --> 00:05:40.140 align:start position:0%
+00:05:37.600 --> 00:05:40.140 align:center position:0%
 a<c.colorCCCCCC> global configurations for Jenkins such
 as<00:05:37.810><c> number</c><00:05:38.320><c> of</c><00:05:38.350><c> executors</c><00:05:39.190><c> environment</c></c>
 
-00:05:40.140 --> 00:05:40.150 align:start position:0%
+00:05:40.140 --> 00:05:40.150 align:center position:0%
 as number of executors environment
  
 
-00:05:40.150 --> 00:05:42.360 align:start position:0%
+00:05:40.150 --> 00:05:42.360 align:center position:0%
 as number of executors environment
 variables<00:05:40.690><c> global</c><c.colorCCCCCC><00:05:41.410><c> version</c><00:05:41.860><c> control</c></c>
 
-00:05:42.360 --> 00:05:42.370 align:start position:0%
+00:05:42.360 --> 00:05:42.370 align:center position:0%
 variables global<c.colorCCCCCC> version control
  </c>
 
-00:05:42.370 --> 00:05:46.200 align:start position:0%
+00:05:42.370 --> 00:05:46.200 align:center position:0%
 variables global<c.colorCCCCCC> version control
 configuration<00:05:43.360><c> etc</c><00:05:44.140><c> I</c><00:05:44.430><c> go</c><00:05:45.430><c> back</c><00:05:45.610><c> to</c><00:05:45.820><c> manage</c></c>
 
-00:05:46.200 --> 00:05:46.210 align:start position:0%
+00:05:46.200 --> 00:05:46.210 align:center position:0%
 configuration etc I go back to manage
  
 
-00:05:46.210 --> 00:05:49.800 align:start position:0%
+00:05:46.210 --> 00:05:49.800 align:center position:0%
 configuration etc I go back to manage
 Jenkins<c.colorCCCCCC><00:05:46.960><c> and</c><00:05:47.490><c> click</c><00:05:48.490><c> on</c><00:05:48.640><c> configure</c><00:05:48.880><c> global</c></c>
 
-00:05:49.800 --> 00:05:49.810 align:start position:0%
+00:05:49.800 --> 00:05:49.810 align:center position:0%
 Jenkins<c.colorCCCCCC> and click on configure global
  </c>
 
-00:05:49.810 --> 00:05:52.770 align:start position:0%
+00:05:49.810 --> 00:05:52.770 align:center position:0%
 Jenkins<c.colorCCCCCC> and click on configure global
 security</c><c.colorE5E5E5><00:05:50.669><c> this</c><00:05:51.669><c> is</c><00:05:51.850><c> where</c><00:05:52.030><c> you</c><00:05:52.210><c> can</c><00:05:52.330><c> set</c></c><c.colorCCCCCC><00:05:52.600><c> up</c></c>
 
-00:05:52.770 --> 00:05:52.780 align:start position:0%
+00:05:52.770 --> 00:05:52.780 align:center position:0%
 security<c.colorE5E5E5> this is where you can set</c><c.colorCCCCCC> up
  </c>
 
-00:05:52.780 --> 00:05:55.290 align:start position:0%
+00:05:52.780 --> 00:05:55.290 align:center position:0%
 security<c.colorE5E5E5> this is where you can set</c><c.colorCCCCCC> up
 access</c><c.colorE5E5E5><00:05:53.050><c> control</c></c><c.colorCCCCCC><00:05:53.740><c> for</c><00:05:54.040><c> Jenkins</c><00:05:54.280><c> and</c><00:05:54.700><c> other</c></c>
 
-00:05:55.290 --> 00:05:55.300 align:start position:0%
+00:05:55.290 --> 00:05:55.300 align:center position:0%
 access<c.colorE5E5E5> control</c><c.colorCCCCCC> for Jenkins and other
  </c>
 
-00:05:55.300 --> 00:05:58.380 align:start position:0%
+00:05:55.300 --> 00:05:58.380 align:center position:0%
 access<c.colorE5E5E5> control</c><c.colorCCCCCC> for Jenkins and other
 security<00:05:56.020><c> options</c><00:05:56.440><c> I</c><00:05:56.710><c> go</c><00:05:57.550><c> back</c><00:05:57.760><c> to</c><00:05:58.000><c> manage</c></c>
 
-00:05:58.380 --> 00:05:58.390 align:start position:0%
+00:05:58.380 --> 00:05:58.390 align:center position:0%
 security options<c.colorCCCCCC> I go back to manage
  </c>
 
-00:05:58.390 --> 00:06:02.909 align:start position:0%
+00:05:58.390 --> 00:06:02.909 align:center position:0%
 security options<c.colorCCCCCC> I go back to manage
 Jenkins</c><c.colorE5E5E5><00:05:59.050><c> and</c><00:05:59.740><c> click</c><00:06:00.130><c> on</c><00:06:00.310><c> manage</c><00:06:00.729><c> plugins</c><00:06:01.919><c> this</c></c>
 
-00:06:02.909 --> 00:06:02.919 align:start position:0%
+00:06:02.909 --> 00:06:02.919 align:center position:0%
 Jenkins<c.colorE5E5E5> and click on manage plugins this
  </c>
 
-00:06:02.919 --> 00:06:05.190 align:start position:0%
+00:06:02.919 --> 00:06:05.190 align:center position:0%
 Jenkins<c.colorE5E5E5> and click on manage plugins this
 is<00:06:03.100><c> where</c><00:06:03.340><c> you</c><00:06:03.550><c> can</c><00:06:03.729><c> install</c><00:06:04.090><c> plug-ins</c><00:06:04.750><c> which</c></c>
 
-00:06:05.190 --> 00:06:05.200 align:start position:0%
+00:06:05.190 --> 00:06:05.200 align:center position:0%
 is where you can install<c.colorE5E5E5> plug-ins which
  </c>
 
-00:06:05.200 --> 00:06:07.320 align:start position:0%
+00:06:05.200 --> 00:06:07.320 align:center position:0%
 is where you can install<c.colorE5E5E5> plug-ins which
 are</c><c.colorCCCCCC><00:06:05.410><c> extensions</c></c><c.colorE5E5E5><00:06:06.100><c> to</c><00:06:06.430><c> Jenkins</c><00:06:06.970><c> core</c></c>
 
-00:06:07.320 --> 00:06:07.330 align:start position:0%
+00:06:07.320 --> 00:06:07.330 align:center position:0%
 are<c.colorCCCCCC> extensions</c><c.colorE5E5E5> to Jenkins core
  </c>
 
-00:06:07.330 --> 00:06:09.600 align:start position:0%
+00:06:07.330 --> 00:06:09.600 align:center position:0%
 are<c.colorCCCCCC> extensions</c><c.colorE5E5E5> to Jenkins core
 functionality<00:06:08.140><c> we</c><00:06:08.620><c> already</c></c><c.colorCCCCCC><00:06:08.950><c> install</c><00:06:09.400><c> the</c></c>
 
-00:06:09.600 --> 00:06:09.610 align:start position:0%
+00:06:09.600 --> 00:06:09.610 align:center position:0%
 functionality we<c.colorE5E5E5> already</c><c.colorCCCCCC> install the
  </c>
 
-00:06:09.610 --> 00:06:11.640 align:start position:0%
+00:06:09.610 --> 00:06:11.640 align:center position:0%
 functionality we<c.colorE5E5E5> already</c><c.colorCCCCCC> install the
 most<00:06:09.790><c> common</c></c><c.colorE5E5E5><00:06:10.210><c> plugins</c><00:06:10.690><c> during</c><00:06:11.169><c> the</c><00:06:11.260><c> Jenkins</c></c>
 
-00:06:11.640 --> 00:06:11.650 align:start position:0%
+00:06:11.640 --> 00:06:11.650 align:center position:0%
 most common<c.colorE5E5E5> plugins during the Jenkins
  </c>
 
-00:06:11.650 --> 00:06:13.890 align:start position:0%
+00:06:11.650 --> 00:06:13.890 align:center position:0%
 most common<c.colorE5E5E5> plugins during the Jenkins
 installation<00:06:12.460><c> in</c><00:06:12.640><c> section</c></c><c.colorCCCCCC><00:06:13.150><c> 1</c><00:06:13.390><c> or</c><00:06:13.630><c> you</c><00:06:13.750><c> can</c></c>
 
-00:06:13.890 --> 00:06:13.900 align:start position:0%
+00:06:13.890 --> 00:06:13.900 align:center position:0%
 installation in<c.colorE5E5E5> section</c><c.colorCCCCCC> 1 or you can
  </c>
 
-00:06:13.900 --> 00:06:16.230 align:start position:0%
+00:06:13.900 --> 00:06:16.230 align:center position:0%
 installation in<c.colorE5E5E5> section</c><c.colorCCCCCC> 1 or you can
 further<00:06:14.200><c> extend</c><00:06:14.800><c> Jenkins</c><00:06:15.340><c> with</c><00:06:15.669><c> additional</c></c>
 
-00:06:16.230 --> 00:06:16.240 align:start position:0%
+00:06:16.230 --> 00:06:16.240 align:center position:0%
 further extend Jenkins<c.colorCCCCCC> with additional
  </c>
 
-00:06:16.240 --> 00:06:20.040 align:start position:0%
+00:06:16.240 --> 00:06:20.040 align:center position:0%
 further extend Jenkins<c.colorCCCCCC> with additional
 plugins<00:06:16.540><c> I</c><00:06:17.110><c> go</c><00:06:18.070><c> back</c><00:06:18.220><c> to</c><00:06:18.400><c> manage</c><00:06:18.760><c> Jenkins</c></c><c.colorE5E5E5><00:06:19.419><c> and</c></c>
 
-00:06:20.040 --> 00:06:20.050 align:start position:0%
+00:06:20.040 --> 00:06:20.050 align:center position:0%
 plugins<c.colorCCCCCC> I go back to manage Jenkins</c><c.colorE5E5E5> and
  </c>
 
-00:06:20.050 --> 00:06:23.040 align:start position:0%
+00:06:20.050 --> 00:06:23.040 align:center position:0%
 plugins<c.colorCCCCCC> I go back to manage Jenkins</c><c.colorE5E5E5> and
 click<00:06:20.320><c> on</c><00:06:20.470><c> manage</c><00:06:20.830><c> nodes</c></c><c.colorCCCCCC><00:06:21.430><c> a</c><00:06:21.850><c> node</c><00:06:22.660><c> is</c><00:06:22.990><c> a</c></c>
 
-00:06:23.040 --> 00:06:23.050 align:start position:0%
+00:06:23.040 --> 00:06:23.050 align:center position:0%
 click on manage nodes<c.colorCCCCCC> a node is a
  </c>
 
-00:06:23.050 --> 00:06:25.760 align:start position:0%
+00:06:23.050 --> 00:06:25.760 align:center position:0%
 click on manage nodes<c.colorCCCCCC> a node is a
 machine</c><c.colorE5E5E5><00:06:23.650><c> part</c><00:06:24.190><c> of</c><00:06:24.460><c> the</c><00:06:24.610><c> Jenkins</c><00:06:25.000><c> environment</c></c>
 
-00:06:25.760 --> 00:06:25.770 align:start position:0%
+00:06:25.760 --> 00:06:25.770 align:center position:0%
 machine<c.colorE5E5E5> part of the Jenkins environment
  </c>
 
-00:06:25.770 --> 00:06:29.460 align:start position:0%
+00:06:25.770 --> 00:06:29.460 align:center position:0%
 machine<c.colorE5E5E5> part of the Jenkins environment</c>
 <c.colorE5E5E5>incapable<00:06:26.770><c> of</c><00:06:27.010><c> executing</c><00:06:27.940><c> a</c><00:06:28.030><c> job</c></c><c.colorCCCCCC><00:06:28.300><c> if</c><00:06:29.110><c> you</c><00:06:29.290><c> run</c></c>
 
-00:06:29.460 --> 00:06:29.470 align:start position:0%
+00:06:29.460 --> 00:06:29.470 align:center position:0%
 <c.colorE5E5E5>incapable of executing a job</c><c.colorCCCCCC> if you run
  </c>
 
-00:06:29.470 --> 00:06:31.620 align:start position:0%
+00:06:29.470 --> 00:06:31.620 align:center position:0%
 <c.colorE5E5E5>incapable of executing a job</c><c.colorCCCCCC> if you run
 Jenkins<00:06:30.040><c> on</c><00:06:30.190><c> a</c><00:06:30.220><c> single</c><00:06:30.610><c> machine</c><00:06:30.760><c> the</c><00:06:31.360><c> only</c></c>
 
-00:06:31.620 --> 00:06:31.630 align:start position:0%
+00:06:31.620 --> 00:06:31.630 align:center position:0%
 Jenkins on a single machine<c.colorCCCCCC> the only
  </c>
 
-00:06:31.630 --> 00:06:34.500 align:start position:0%
+00:06:31.630 --> 00:06:34.500 align:center position:0%
 Jenkins on a single machine<c.colorCCCCCC> the only
 node<00:06:31.810><c> is</c><00:06:32.080><c> master</c><00:06:32.860><c> other</c><00:06:33.669><c> machines</c><00:06:34.210><c> can</c><00:06:34.479><c> be</c></c>
 
-00:06:34.500 --> 00:06:34.510 align:start position:0%
+00:06:34.500 --> 00:06:34.510 align:center position:0%
 node is master other machines can be
  
 
-00:06:34.510 --> 00:06:37.170 align:start position:0%
+00:06:34.510 --> 00:06:37.170 align:center position:0%
 node is master other machines can be
 controlled<00:06:35.140><c> by</c><00:06:35.470><c> the</c><00:06:35.530><c> master</c><00:06:36.190><c> node</c><00:06:36.400><c> and</c><c.colorCCCCCC><00:06:36.669><c> added</c></c>
 
-00:06:37.170 --> 00:06:37.180 align:start position:0%
+00:06:37.170 --> 00:06:37.180 align:center position:0%
 controlled by the master node and<c.colorCCCCCC> added
  </c>
 
-00:06:37.180 --> 00:06:39.450 align:start position:0%
+00:06:37.180 --> 00:06:39.450 align:center position:0%
 controlled by the master node and<c.colorCCCCCC> added</c>
 <c.colorE5E5E5>to<00:06:37.419><c> the</c><00:06:37.510><c> Jenkins</c><00:06:37.870><c> configuration</c><00:06:38.740><c> to</c><00:06:38.950><c> offload</c></c>
 
-00:06:39.450 --> 00:06:39.460 align:start position:0%
+00:06:39.450 --> 00:06:39.460 align:center position:0%
 <c.colorE5E5E5>to the Jenkins configuration to offload
  </c>
 
-00:06:39.460 --> 00:06:41.480 align:start position:0%
+00:06:39.460 --> 00:06:41.480 align:center position:0%
 <c.colorE5E5E5>to the Jenkins configuration to offload
 work<00:06:39.910><c> from</c><00:06:40.570><c> the</c><00:06:40.690><c> master</c><00:06:41.050><c> node</c></c>
 
-00:06:41.480 --> 00:06:41.490 align:start position:0%
+00:06:41.480 --> 00:06:41.490 align:center position:0%
 work<c.colorE5E5E5> from the master node
  </c>
 
-00:06:41.490 --> 00:06:44.510 align:start position:0%
+00:06:41.490 --> 00:06:44.510 align:center position:0%
 work<c.colorE5E5E5> from the master node
 in<00:06:42.090><c> this</c><00:06:42.420><c> case</c><00:06:42.720><c> the</c><00:06:43.290><c> additional</c><00:06:43.830><c> machines</c><00:06:44.280><c> are</c></c>
 
-00:06:44.510 --> 00:06:44.520 align:start position:0%
+00:06:44.510 --> 00:06:44.520 align:center position:0%
 in this<c.colorE5E5E5> case the additional machines are
  </c>
 
-00:06:44.520 --> 00:06:48.470 align:start position:0%
+00:06:44.520 --> 00:06:48.470 align:center position:0%
 in this<c.colorE5E5E5> case the additional machines are
 called<00:06:44.760><c> slave</c><00:06:45.330><c> or</c><00:06:45.690><c> agent</c><00:06:46.620><c> nodes</c><00:06:47.150><c> agent</c><00:06:48.150><c> nodes</c></c>
 
-00:06:48.470 --> 00:06:48.480 align:start position:0%
+00:06:48.470 --> 00:06:48.480 align:center position:0%
 called slave or<c.colorE5E5E5> agent nodes agent nodes
  </c>
 
-00:06:48.480 --> 00:06:51.050 align:start position:0%
+00:06:48.480 --> 00:06:51.050 align:center position:0%
 called slave or<c.colorE5E5E5> agent nodes agent nodes
 are<00:06:49.050><c> useful</c><00:06:49.500><c> to</c><00:06:49.650><c> run</c><00:06:49.770><c> memory</c></c><c.colorCCCCCC><00:06:50.160><c> intensive</c><00:06:50.730><c> jobs</c></c>
 
-00:06:51.050 --> 00:06:51.060 align:start position:0%
+00:06:51.050 --> 00:06:51.060 align:center position:0%
 are useful to run memory<c.colorCCCCCC> intensive jobs
  </c>
 
-00:06:51.060 --> 00:06:53.750 align:start position:0%
+00:06:51.060 --> 00:06:53.750 align:center position:0%
 are useful to run memory<c.colorCCCCCC> intensive jobs</c>
 <c.colorE5E5E5>without<00:06:51.540><c> affecting</c><00:06:52.200><c> the</c><00:06:52.350><c> master</c><00:06:52.740><c> node</c><00:06:52.980><c> or</c><00:06:53.370><c> to</c></c>
 
-00:06:53.750 --> 00:06:53.760 align:start position:0%
+00:06:53.750 --> 00:06:53.760 align:center position:0%
 <c.colorE5E5E5>without affecting the master node or to
  </c>
 
-00:06:53.760 --> 00:06:56.260 align:start position:0%
+00:06:53.760 --> 00:06:56.260 align:center position:0%
 <c.colorE5E5E5>without affecting the master node or to
 test<00:06:53.970><c> code</c></c><c.colorCCCCCC><00:06:54.300><c> on</c><00:06:54.750><c> a</c><00:06:54.810><c> specific</c></c><c.colorE5E5E5><00:06:55.260><c> environment</c></c>
 
-00:06:56.260 --> 00:06:56.270 align:start position:0%
+00:06:56.260 --> 00:06:56.270 align:center position:0%
 test code<c.colorCCCCCC> on a specific</c><c.colorE5E5E5> environment
  </c>
 
-00:06:56.270 --> 00:06:59.780 align:start position:0%
+00:06:56.270 --> 00:06:59.780 align:center position:0%
 test code<c.colorCCCCCC> on a specific</c><c.colorE5E5E5> environment</c>
 <c.colorCCCCCC>let's<00:06:57.270><c> review</c><00:06:57.600><c> some</c></c><c.colorE5E5E5><00:06:57.690><c> key</c><00:06:58.200><c> concepts</c><00:06:58.800><c> we</c><00:06:59.340><c> saw</c><00:06:59.580><c> in</c></c>
 
-00:06:59.780 --> 00:06:59.790 align:start position:0%
+00:06:59.780 --> 00:06:59.790 align:center position:0%
 <c.colorCCCCCC>let's review some</c><c.colorE5E5E5> key concepts we saw in
  </c>
 
-00:06:59.790 --> 00:07:02.900 align:start position:0%
+00:06:59.790 --> 00:07:02.900 align:center position:0%
 <c.colorCCCCCC>let's review some</c><c.colorE5E5E5> key concepts we saw in
 the<00:06:59.940><c> Jenkins</c><00:07:00.360><c> admin</c><00:07:00.750><c> console</c></c><c.colorCCCCCC><00:07:01.640><c> plugins</c></c><c.colorE5E5E5><00:07:02.640><c> are</c></c>
 
-00:07:02.900 --> 00:07:02.910 align:start position:0%
+00:07:02.900 --> 00:07:02.910 align:center position:0%
 the Jenkins admin console<c.colorCCCCCC> plugins</c><c.colorE5E5E5> are
  </c>
 
-00:07:02.910 --> 00:07:04.700 align:start position:0%
+00:07:02.910 --> 00:07:04.700 align:center position:0%
 the Jenkins admin console<c.colorCCCCCC> plugins</c><c.colorE5E5E5> are
 extensions<00:07:03.420><c> to</c><00:07:03.930><c> Jenkins</c><00:07:04.440><c> core</c></c>
 
-00:07:04.700 --> 00:07:04.710 align:start position:0%
+00:07:04.700 --> 00:07:04.710 align:center position:0%
 extensions<c.colorE5E5E5> to Jenkins core
  </c>
 
-00:07:04.710 --> 00:07:08.030 align:start position:0%
+00:07:04.710 --> 00:07:08.030 align:center position:0%
 extensions<c.colorE5E5E5> to Jenkins core
 functionalities<00:07:05.550><c> nodes</c><00:07:06.540><c> are</c><00:07:06.840><c> machines</c></c><c.colorCCCCCC><00:07:07.410><c> part</c></c>
 
-00:07:08.030 --> 00:07:08.040 align:start position:0%
+00:07:08.030 --> 00:07:08.040 align:center position:0%
 functionalities nodes are machines<c.colorCCCCCC> part
  </c>
 
-00:07:08.040 --> 00:07:10.250 align:start position:0%
+00:07:08.040 --> 00:07:10.250 align:center position:0%
 functionalities nodes are machines<c.colorCCCCCC> part
 of<00:07:08.310><c> the</c></c><c.colorE5E5E5><00:07:08.460><c> Jenkins</c><00:07:08.940><c> environment</c><00:07:09.540><c> and</c><00:07:09.690><c> capable</c></c>
 
-00:07:10.250 --> 00:07:10.260 align:start position:0%
+00:07:10.250 --> 00:07:10.260 align:center position:0%
 of the<c.colorE5E5E5> Jenkins environment and capable
  </c>
 
-00:07:10.260 --> 00:07:13.820 align:start position:0%
+00:07:10.260 --> 00:07:13.820 align:center position:0%
 of the<c.colorE5E5E5> Jenkins environment and capable
 of<00:07:10.470><c> executing</c><00:07:11.130><c> a</c><00:07:11.640><c> job</c></c><c.colorCCCCCC><00:07:12.030><c> nodes</c><00:07:12.660><c> are</c><00:07:13.020><c> categorized</c></c>
 
-00:07:13.820 --> 00:07:13.830 align:start position:0%
+00:07:13.820 --> 00:07:13.830 align:center position:0%
 of executing<c.colorE5E5E5> a job</c><c.colorCCCCCC> nodes are categorized
  </c>
 
-00:07:13.830 --> 00:07:17.630 align:start position:0%
+00:07:13.830 --> 00:07:17.630 align:center position:0%
 of executing<c.colorE5E5E5> a job</c><c.colorCCCCCC> nodes are categorized
 into<00:07:14.100><c> master</c><00:07:14.940><c> nodes</c></c><c.colorE5E5E5><00:07:15.180><c> and</c><00:07:15.480><c> slaves</c><00:07:16.260><c> or</c><00:07:16.740><c> agents</c></c>
 
-00:07:17.630 --> 00:07:17.640 align:start position:0%
+00:07:17.630 --> 00:07:17.640 align:center position:0%
 into master nodes<c.colorE5E5E5> and slaves or agents
  </c>
 
-00:07:17.640 --> 00:07:20.510 align:start position:0%
+00:07:17.640 --> 00:07:20.510 align:center position:0%
 into master nodes<c.colorE5E5E5> and slaves or agents
 nodes<00:07:18.380><c> this</c><00:07:19.380><c> is</c><00:07:19.620><c> the</c><00:07:19.770><c> end</c><00:07:19.920><c> of</c><00:07:20.100><c> this</c><00:07:20.250><c> video</c></c>
 
-00:07:20.510 --> 00:07:20.520 align:start position:0%
+00:07:20.510 --> 00:07:20.520 align:center position:0%
 nodes this<c.colorE5E5E5> is the end of this video
  </c>
 
-00:07:20.520 --> 00:07:23.030 align:start position:0%
+00:07:20.520 --> 00:07:23.030 align:center position:0%
 nodes this<c.colorE5E5E5> is the end of this video</c>
 <c.colorE5E5E5>where<00:07:20.940><c> we</c></c><c.colorCCCCCC><00:07:21.090><c> explored</c><00:07:21.630><c> the</c></c><c.colorE5E5E5><00:07:21.930><c> Jenkins</c><00:07:22.380><c> dashboard</c></c>
 
-00:07:23.030 --> 00:07:23.040 align:start position:0%
+00:07:23.030 --> 00:07:23.040 align:center position:0%
 <c.colorE5E5E5>where we</c><c.colorCCCCCC> explored the</c><c.colorE5E5E5> Jenkins dashboard
  </c>
 
-00:07:23.040 --> 00:07:25.790 align:start position:0%
+00:07:23.040 --> 00:07:25.790 align:center position:0%
 <c.colorE5E5E5>where we</c><c.colorCCCCCC> explored the</c><c.colorE5E5E5> Jenkins dashboard</c>
 <c.colorE5E5E5>watch<00:07:23.700><c> the</c><00:07:24.000><c> next</c></c><c.colorCCCCCC><00:07:24.210><c> video</c><00:07:24.630><c> where</c><00:07:25.230><c> we</c><00:07:25.470><c> will</c><00:07:25.620><c> be</c></c>
 
-00:07:25.790 --> 00:07:25.800 align:start position:0%
+00:07:25.790 --> 00:07:25.800 align:center position:0%
 <c.colorE5E5E5>watch the next</c><c.colorCCCCCC> video where we will be
  </c>
 
-00:07:25.800 --> 00:07:29.780 align:start position:0%
+00:07:25.800 --> 00:07:29.780 align:center position:0%
 <c.colorE5E5E5>watch the next</c><c.colorCCCCCC> video where we will be</c>
 <c.colorE5E5E5>looking<00:07:26.190><c> at</c><00:07:26.250><c> job</c><00:07:26.780><c> configuration</c></c>
 
