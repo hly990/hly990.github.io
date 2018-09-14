@@ -2,10 +2,11 @@ WEBVTT
 Kind: captions
 Language: en
 Style:
-::cue(c.colorCCCCCC) { color: rgb(204,204,204);
- }
-::cue(c.colorE5E5E5) { color: rgb(229,229,229);
- }
+
+ ::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
 ##
 
 00:00:00.280 --> 00:00:02.430 align:start position:0%
