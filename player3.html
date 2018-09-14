@@ -183,6 +183,7 @@
           controls: true,
       });
 
+      $.ajaxSettings.async = false;
       $.getJSON('data/'+source+'.json',function(data){ 
         objs = data
         //alert(JSON.stringify(data)) 
@@ -272,7 +273,7 @@
       return retval;
      }
   </script>
- 
+
 </body>
 
 </html>
