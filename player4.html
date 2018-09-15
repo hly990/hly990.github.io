@@ -29,7 +29,7 @@
   <div class="px-video-container" id="myvid">
     <div class="px-video-img-captions-container">
         <div class="px-video-captions hide" aria-hidden="true"></div>
-        <video width="640" height="360" poster="media/foo.jpg" controls>
+        <video width="640" height="360" poster="" controls>
             <source src="http://opghp3ucb.bkt.clouddn.com/Install%20Jenkins%20Install%20Jenkins%20On%20MacOs.mp4" type="video/mp4" />
             <track kind="captions" label="English captions" src="captions/jenkins-captions-3.vtt" srclang="en" default />
         </video>
@@ -44,9 +44,9 @@
       new InitPxVideo({
           "videoId": "myvid",
           "captionsOnDefault": true,
-          "seekInterval": 20,
+          "seekInterval": 10,
           "videoTitle": "clips of stand-up comedy",
-          "debug": true
+          "debug": false
       });
     </script>
 
