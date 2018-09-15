@@ -14,6 +14,9 @@ scroll:up
 00:00:00.280 --> 00:00:02.430 align:start position:0%
  
 welcome<00:00:01.120><c> to</c><00:00:01.360><c> the</c><00:00:01.480><c> second</c><00:00:01.870><c> section</c><00:00:02.080><c> of</c>
+
+00:00:02.430 --> 00:00:02.440 align:start position:0%
+welcome to the second section of
  
 
 00:00:02.440 --> 00:00:04.409 align:start position:0%
@@ -28,91 +31,145 @@ welcome to the second section of
 <c.colorE5E5E5>hands-on continuous integration and</c>
 <c.colorCCCCCC>automation<00:00:05.049><c> with</c><00:00:05.529><c> Jenkins</c><00:00:06.039><c> in</c><00:00:06.309><c> this</c><00:00:07.269><c> section</c></c>
 
+00:00:07.559 --> 00:00:07.569 align:start position:0%
+<c.colorCCCCCC>automation with Jenkins in this section
+ </c>
 
 00:00:07.569 --> 00:00:09.960 align:start position:0%
 <c.colorCCCCCC>automation with Jenkins in this section
 we<00:00:08.050><c> are</c><00:00:08.080><c> going</c></c><c.colorE5E5E5><00:00:08.170><c> to</c><00:00:08.500><c> introduce</c><00:00:08.710><c> key</c><00:00:09.310><c> concepts</c></c>
 
+00:00:09.960 --> 00:00:09.970 align:start position:0%
+we are going<c.colorE5E5E5> to introduce key concepts
+ </c>
 
 00:00:09.970 --> 00:00:12.600 align:start position:0%
 we are going<c.colorE5E5E5> to introduce key concepts</c>
 <c.colorE5E5E5>and</c><c.colorCCCCCC><00:00:10.240><c> the</c><00:00:10.870><c> essential</c></c><c.colorE5E5E5><00:00:11.320><c> aspects</c><00:00:11.890><c> of</c><00:00:12.070><c> Jenkins</c></c>
 
+00:00:12.600 --> 00:00:12.610 align:start position:0%
+<c.colorE5E5E5>and</c><c.colorCCCCCC> the essential</c><c.colorE5E5E5> aspects of Jenkins
+ </c>
 
 00:00:12.610 --> 00:00:14.400 align:start position:0%
 <c.colorE5E5E5>and</c><c.colorCCCCCC> the essential</c><c.colorE5E5E5> aspects of Jenkins</c>
 <c.colorCCCCCC>that<00:00:13.180><c> we</c><00:00:13.300><c> will</c></c><c.colorE5E5E5><00:00:13.450><c> use</c><00:00:13.690><c> it</c><00:00:13.900><c> throughout</c><00:00:14.170><c> the</c></c>
 
+00:00:14.400 --> 00:00:14.410 align:start position:0%
+<c.colorCCCCCC>that we will</c><c.colorE5E5E5> use it throughout the
+ </c>
 
 00:00:14.410 --> 00:00:16.529 align:start position:0%
 <c.colorCCCCCC>that we will</c><c.colorE5E5E5> use it throughout the</c>
 <c.colorE5E5E5>course</c><c.colorCCCCCC><00:00:14.680><c> we</c><00:00:15.010><c> will</c><00:00:15.519><c> explore</c><00:00:15.940><c> the</c><00:00:16.150><c> Jenkins</c></c>
 
+00:00:16.529 --> 00:00:16.539 align:start position:0%
+<c.colorE5E5E5>course</c><c.colorCCCCCC> we will explore the Jenkins
+ </c>
 
 00:00:16.539 --> 00:00:18.419 align:start position:0%
 <c.colorE5E5E5>course</c><c.colorCCCCCC> we will explore the Jenkins
 dashboard<00:00:17.199><c> and</c><00:00:17.410><c> have</c><00:00:17.740><c> a</c></c><c.colorE5E5E5><00:00:17.769><c> look</c><00:00:18.009><c> at</c><00:00:18.189><c> the</c><00:00:18.279><c> most</c></c>
 
+00:00:18.419 --> 00:00:18.429 align:start position:0%
+dashboard and<c.colorCCCCCC> have a</c><c.colorE5E5E5> look at the most
+ </c>
 
 00:00:18.429 --> 00:00:20.939 align:start position:0%
 dashboard and<c.colorCCCCCC> have a</c><c.colorE5E5E5> look at the most
 important<00:00:19.060><c> options</c><00:00:19.570><c> in</c><00:00:19.779><c> the</c><00:00:20.079><c> Jenkins</c><00:00:20.470><c> admin</c></c>
 
+00:00:20.939 --> 00:00:20.949 align:start position:0%
+important options in the Jenkins<c.colorE5E5E5> admin
+ </c>
 
 00:00:20.949 --> 00:00:21.689 align:start position:0%
 important options in the Jenkins<c.colorE5E5E5> admin
 console</c>
+
+00:00:21.689 --> 00:00:21.699 align:start position:0%
+console
  
 
 00:00:21.699 --> 00:00:24.479 align:start position:0%
 console
 finally<00:00:22.480><c> the</c><00:00:22.779><c> practical</c><c.colorE5E5E5><00:00:23.349><c> part</c><00:00:23.589><c> of</c><00:00:23.829><c> section</c></c><c.colorCCCCCC><00:00:24.070><c> 2</c></c>
 
+00:00:24.479 --> 00:00:24.489 align:start position:0%
+finally the practical<c.colorE5E5E5> part of section</c><c.colorCCCCCC> 2
+ </c>
 
 00:00:24.489 --> 00:00:26.729 align:start position:0%
 finally the practical<c.colorE5E5E5> part of section</c><c.colorCCCCCC> 2
 is<00:00:24.699><c> to</c></c><c.colorE5E5E5><00:00:24.970><c> configure</c><00:00:25.539><c> and</c><00:00:25.720><c> run</c><00:00:25.779><c> our</c><00:00:26.349><c> first</c></c>
 
+00:00:26.729 --> 00:00:26.739 align:start position:0%
+is to<c.colorE5E5E5> configure and run our first
+ </c>
 
 00:00:26.739 --> 00:00:29.249 align:start position:0%
 is to<c.colorE5E5E5> configure and run our first
 Jenkins<00:00:27.400><c> job</c><00:00:27.669><c> let's</c><00:00:28.390><c> start</c><00:00:28.689><c> by</c></c><c.colorCCCCCC><00:00:28.900><c> making</c><00:00:29.109><c> the</c></c>
 
+00:00:29.249 --> 00:00:29.259 align:start position:0%
+Jenkins job<c.colorE5E5E5> let's start by</c><c.colorCCCCCC> making the
+ </c>
 
 00:00:29.259 --> 00:00:32.069 align:start position:0%
 Jenkins job<c.colorE5E5E5> let's start by</c><c.colorCCCCCC> making the</c>
 <c.colorE5E5E5>tour<00:00:29.560><c> of</c><00:00:29.800><c> the</c><00:00:30.130><c> Jenkins</c><00:00:30.489><c> dashboard</c><00:00:31.179><c> in</c><00:00:31.449><c> this</c></c>
 
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+<c.colorE5E5E5>tour of the Jenkins dashboard in this
+ </c>
 
 00:00:32.079 --> 00:00:34.530 align:start position:0%
 <c.colorE5E5E5>tour of the Jenkins dashboard in this
 video<00:00:32.470><c> we'll</c><00:00:33.010><c> explore</c><00:00:33.370><c> together</c><00:00:33.670><c> the</c><00:00:34.180><c> Jenkins</c></c>
 
+00:00:34.530 --> 00:00:34.540 align:start position:0%
+video we'll explore together<c.colorE5E5E5> the Jenkins
+ </c>
 
 00:00:34.540 --> 00:00:37.770 align:start position:0%
 video we'll explore together<c.colorE5E5E5> the Jenkins
 dashboard<00:00:35.200><c> and</c><00:00:35.380><c> learn</c><00:00:36.010><c> key</c><00:00:36.400><c> concepts</c><00:00:37.000><c> such</c><00:00:37.750><c> as</c></c>
 
+00:00:37.770 --> 00:00:37.780 align:start position:0%
+dashboard<c.colorE5E5E5> and learn key concepts such as
+ </c>
 
 00:00:37.780 --> 00:00:42.810 align:start position:0%
 dashboard<c.colorE5E5E5> and learn key concepts such as
 jobs<00:00:38.350><c> bills</c><00:00:39.360><c> views</c><00:00:40.410><c> plugins</c><00:00:41.410><c> etc</c><00:00:42.220><c> we</c><00:00:42.790><c> will</c></c>
 
+00:00:42.810 --> 00:00:42.820 align:start position:0%
+jobs bills<c.colorE5E5E5> views plugins etc we will
+ </c>
 
 00:00:42.820 --> 00:00:44.820 align:start position:0%
 jobs bills<c.colorE5E5E5> views plugins etc we will</c>
 <c.colorCCCCCC>also</c><c.colorE5E5E5><00:00:43.240><c> have</c><00:00:43.360><c> a</c></c><c.colorCCCCCC><00:00:43.390><c> brief</c><00:00:43.750><c> look</c><00:00:43.780><c> at</c></c><c.colorE5E5E5><00:00:44.380><c> the</c><00:00:44.650><c> most</c></c>
 
+00:00:44.820 --> 00:00:44.830 align:start position:0%
+<c.colorCCCCCC>also</c><c.colorE5E5E5> have a</c><c.colorCCCCCC> brief look at</c><c.colorE5E5E5> the most
+ </c>
 
 00:00:44.830 --> 00:00:47.280 align:start position:0%
 <c.colorCCCCCC>also</c><c.colorE5E5E5> have a</c><c.colorCCCCCC> brief look at</c><c.colorE5E5E5> the most
 important<00:00:45.460><c> options</c><00:00:46.000><c> in</c><00:00:46.240><c> the</c><00:00:46.450><c> Jenkins</c><00:00:46.900><c> admin</c></c>
 
+00:00:47.280 --> 00:00:47.290 align:start position:0%
+important options in the<c.colorE5E5E5> Jenkins admin
+ </c>
 
 00:00:47.290 --> 00:00:50.130 align:start position:0%
 important options in the<c.colorE5E5E5> Jenkins admin
 console<00:00:47.740><c> this</c><00:00:48.460><c> image</c><00:00:48.880><c> identifies</c><00:00:49.660><c> the</c><00:00:49.990><c> most</c></c>
 
+00:00:50.130 --> 00:00:50.140 align:start position:0%
+console<c.colorE5E5E5> this image identifies the most
+ </c>
 
 00:00:50.140 --> 00:00:52.110 align:start position:0%
 console<c.colorE5E5E5> this image identifies the most
