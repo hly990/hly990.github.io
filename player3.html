@@ -229,7 +229,7 @@
         //    3. I'm done, and now (or 1ms from now), the source gets actually set
         //    4. as part of setting the source, my remote track gets cleaned up - deleted - gone - blown away
         // Nobody sees subtitles and everyone is sad.
-         player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',scroll: 'up', default: 'default',}, false);  
+         player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
 
         /*
         // This would work, though:
@@ -255,7 +255,7 @@
         }
         index-=1
         player.src(objs[index].src)
-        player.addRemoteTextTrack({src: objs[index].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',scroll: 'up',default: 'default',}, false);  
+        player.addRemoteTextTrack({src: objs[index].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
         player.ready(function(){
           player.play()
           //alert("player")
@@ -267,7 +267,7 @@
         console.log("next index=="+index)
         index+=1
         player.src(objs[index].src)
-        player.addRemoteTextTrack({src: objs[index].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',scroll: 'up',default: 'default',}, false);  
+        player.addRemoteTextTrack({src: objs[index].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
         player.ready(function(){
           player.play()
           //alert("player")
