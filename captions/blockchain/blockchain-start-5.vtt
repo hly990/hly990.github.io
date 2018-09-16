@@ -1,0 +1,1430 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.440 --> 00:00:02.590 align:start position:0%
+ 
+in<00:00:00.500><c> this</c><c.colorCCCCCC><00:00:01.190><c> section</c><00:00:01.639><c> you</c><00:00:01.730><c> saw</c><00:00:01.940><c> an</c><00:00:02.030><c> introduction</c></c>
+
+00:00:02.590 --> 00:00:02.600 align:start position:0%
+in this<c.colorCCCCCC> section you saw an introduction
+ </c>
+
+00:00:02.600 --> 00:00:04.180 align:start position:0%
+in this<c.colorCCCCCC> section you saw an introduction</c>
+<c.colorCCCCCC>to<00:00:02.720><c> the</c><00:00:02.810><c> application</c><00:00:03.500><c> will</c><00:00:03.680><c> be</c></c><c.colorE5E5E5><00:00:03.710><c> building</c></c>
+
+00:00:04.180 --> 00:00:04.190 align:start position:0%
+<c.colorCCCCCC>to the application will be</c><c.colorE5E5E5> building
+ </c>
+
+00:00:04.190 --> 00:00:05.620 align:start position:0%
+<c.colorCCCCCC>to the application will be</c><c.colorE5E5E5> building
+throughout<00:00:04.399><c> the</c><00:00:04.550><c> rest</c><00:00:04.790><c> of</c><00:00:04.880><c> this</c><00:00:05.000><c> course</c></c>
+
+00:00:05.620 --> 00:00:05.630 align:start position:0%
+throughout the rest of<c.colorE5E5E5> this course
+ </c>
+
+00:00:05.630 --> 00:00:07.749 align:start position:0%
+throughout the rest of<c.colorE5E5E5> this course
+you<00:00:06.319><c> got</c><00:00:06.470><c> an</c><00:00:06.560><c> introduction</c></c><c.colorCCCCCC><00:00:06.890><c> to</c><00:00:07.100><c> reacting</c></c>
+
+00:00:07.749 --> 00:00:07.759 align:start position:0%
+you got an introduction<c.colorCCCCCC> to reacting
+ </c>
+
+00:00:07.759 --> 00:00:10.089 align:start position:0%
+you got an introduction<c.colorCCCCCC> to reacting
+Redux</c><c.colorE5E5E5><00:00:08.179><c> and</c><00:00:08.539><c> saw</c><00:00:08.869><c> how</c><00:00:09.139><c> we'll</c><00:00:09.349><c> use</c><00:00:09.650><c> them</c><00:00:09.919><c> along</c></c>
+
+00:00:10.089 --> 00:00:10.099 align:start position:0%
+Redux<c.colorE5E5E5> and saw how we'll use them along
+ </c>
+
+00:00:10.099 --> 00:00:11.919 align:start position:0%
+Redux<c.colorE5E5E5> and saw how we'll use them along
+with<00:00:10.309><c> our</c><00:00:10.549><c> smart</c><00:00:10.909><c> contract</c><00:00:11.450><c> to</c><00:00:11.659><c> build</c><00:00:11.839><c> a</c></c>
+
+00:00:11.919 --> 00:00:11.929 align:start position:0%
+with<c.colorE5E5E5> our smart contract to build a
+ </c>
+
+00:00:11.929 --> 00:00:13.989 align:start position:0%
+with<c.colorE5E5E5> our smart contract to build a
+decentralized<00:00:12.559><c> application</c><00:00:13.369><c> that</c><00:00:13.759><c> allows</c></c>
+
+00:00:13.989 --> 00:00:13.999 align:start position:0%
+decentralized application that allows
+ 
+
+00:00:13.999 --> 00:00:16.450 align:start position:0%
+decentralized application that allows
+<c.colorE5E5E5>users<00:00:14.480><c> to</c><00:00:14.509><c> buy</c><00:00:14.869><c> and</c><00:00:15.079><c> sell</c><00:00:15.320><c> items</c><00:00:15.559><c> in</c><00:00:15.919><c> an</c><00:00:16.010><c> online</c></c>
+
+00:00:16.450 --> 00:00:16.460 align:start position:0%
+<c.colorE5E5E5>users to buy and sell items in an online
+ </c>
+
+00:00:16.460 --> 00:00:18.610 align:start position:0%
+<c.colorE5E5E5>users to buy and sell items in an online
+marketplace<00:00:16.880><c> and</c><00:00:17.390><c> transfer</c><00:00:18.020><c> the</c><00:00:18.110><c> proceeds</c></c>
+
+00:00:18.610 --> 00:00:18.620 align:start position:0%
+marketplace<c.colorE5E5E5> and transfer the proceeds
+ </c>
+
+00:00:18.620 --> 00:00:20.470 align:start position:0%
+marketplace<c.colorE5E5E5> and transfer the proceeds
+from<00:00:18.770><c> their</c><00:00:18.950><c> sales</c><00:00:19.250><c> into</c><00:00:19.820><c> their</c></c><c.colorCCCCCC><00:00:20.030><c> aetherium</c></c>
+
+00:00:20.470 --> 00:00:20.480 align:start position:0%
+from their sales into their<c.colorCCCCCC> aetherium
+ </c>
+
+00:00:20.480 --> 00:00:22.690 align:start position:0%
+from their sales into their<c.colorCCCCCC> aetherium
+wallet<00:00:20.840><c> to</c><00:00:21.770><c> build</c><00:00:21.980><c> this</c></c><c.colorE5E5E5><00:00:22.130><c> you'll</c><00:00:22.400><c> need</c><00:00:22.520><c> some</c></c>
+
+00:00:22.690 --> 00:00:22.700 align:start position:0%
+wallet to build this<c.colorE5E5E5> you'll need some
+ </c>
+
+00:00:22.700 --> 00:00:24.670 align:start position:0%
+wallet to build this<c.colorE5E5E5> you'll need some
+very<00:00:22.970><c> specific</c><00:00:23.240><c> tools</c><00:00:23.810><c> and</c><00:00:24.140><c> in</c><00:00:24.230><c> this</c><00:00:24.440><c> video</c></c>
+
+00:00:24.670 --> 00:00:24.680 align:start position:0%
+very specific<c.colorE5E5E5> tools and in this video
+ </c>
+
+00:00:24.680 --> 00:00:26.710 align:start position:0%
+very specific<c.colorE5E5E5> tools and in this video</c>
+<c.colorCCCCCC>I'm<00:00:25.160><c> going</c><00:00:25.430><c> to</c><00:00:25.490><c> introduce</c></c><c.colorE5E5E5><00:00:25.640><c> those</c><00:00:26.090><c> tools</c><00:00:26.390><c> to</c></c>
+
+00:00:26.710 --> 00:00:26.720 align:start position:0%
+<c.colorCCCCCC>I'm going to introduce</c><c.colorE5E5E5> those tools to
+ </c>
+
+00:00:26.720 --> 00:00:28.870 align:start position:0%
+<c.colorCCCCCC>I'm going to introduce</c><c.colorE5E5E5> those tools to
+you<00:00:26.930><c> and</c><00:00:27.200><c> teach</c><00:00:27.470><c> you</c><00:00:27.500><c> what</c><00:00:27.830><c> role</c><00:00:28.100><c> they</c><00:00:28.280><c> play</c><00:00:28.580><c> in</c></c>
+
+00:00:28.870 --> 00:00:28.880 align:start position:0%
+you and teach you<c.colorE5E5E5> what role they play in
+ </c>
+
+00:00:28.880 --> 00:00:31.330 align:start position:0%
+you and teach you<c.colorE5E5E5> what role they play in</c>
+<c.colorE5E5E5>our<00:00:29.030><c> development</c><00:00:29.420><c> lifecycle</c></c><c.colorCCCCCC><00:00:30.220><c> you're</c><00:00:31.220><c> gonna</c></c>
+
+00:00:31.330 --> 00:00:31.340 align:start position:0%
+<c.colorE5E5E5>our development lifecycle</c><c.colorCCCCCC> you're gonna
+ </c>
+
+00:00:31.340 --> 00:00:34.090 align:start position:0%
+<c.colorE5E5E5>our development lifecycle</c><c.colorCCCCCC> you're gonna
+be<00:00:31.490><c> using</c><00:00:31.700><c> nodejs</c></c><c.colorE5E5E5><00:00:32.419><c> the</c><00:00:33.109><c> truffle</c><00:00:33.559><c> framework</c></c>
+
+00:00:34.090 --> 00:00:34.100 align:start position:0%
+be using nodejs<c.colorE5E5E5> the truffle framework
+ </c>
+
+00:00:34.100 --> 00:00:38.229 align:start position:0%
+be using nodejs<c.colorE5E5E5> the truffle framework</c>
+<c.colorCCCCCC>ganache<00:00:35.030><c> meta</c><00:00:35.809><c> mask</c></c><c.colorE5E5E5><00:00:36.109><c> and</c><00:00:36.440><c> visual</c><00:00:36.920><c> code</c><00:00:37.239><c> let's</c></c>
+
+00:00:38.229 --> 00:00:38.239 align:start position:0%
+<c.colorCCCCCC>ganache meta mask</c><c.colorE5E5E5> and visual code let's
+ </c>
+
+00:00:38.239 --> 00:00:39.880 align:start position:0%
+<c.colorCCCCCC>ganache meta mask</c><c.colorE5E5E5> and visual code let's
+go<00:00:38.390><c> through</c><00:00:38.659><c> each</c></c><c.colorCCCCCC><00:00:38.690><c> of</c><00:00:38.899><c> these</c></c><c.colorE5E5E5><00:00:39.170><c> and</c><00:00:39.530><c> discover</c></c>
+
+00:00:39.880 --> 00:00:39.890 align:start position:0%
+go through each<c.colorCCCCCC> of these</c><c.colorE5E5E5> and discover
+ </c>
+
+00:00:39.890 --> 00:00:41.610 align:start position:0%
+go through each<c.colorCCCCCC> of these</c><c.colorE5E5E5> and discover
+how<00:00:40.159><c> they</c></c><c.colorCCCCCC><00:00:40.339><c> help</c><00:00:40.609><c> us</c><00:00:40.760><c> build</c><00:00:40.940><c> world-class</c></c>
+
+00:00:41.610 --> 00:00:41.620 align:start position:0%
+how they<c.colorCCCCCC> help us build world-class
+ </c>
+
+00:00:41.620 --> 00:00:44.110 align:start position:0%
+how they<c.colorCCCCCC> help us build world-class</c>
+<c.colorE5E5E5>scalable<00:00:42.620><c> and</c><00:00:42.800><c> secure</c><00:00:43.120><c> decentralized</c></c>
+
+00:00:44.110 --> 00:00:44.120 align:start position:0%
+<c.colorE5E5E5>scalable and secure decentralized
+ </c>
+
+00:00:44.120 --> 00:00:47.380 align:start position:0%
+<c.colorE5E5E5>scalable and secure decentralized
+applications</c><c.colorCCCCCC><00:00:45.039><c> the</c></c><c.colorE5E5E5><00:00:46.039><c> first</c><00:00:46.309><c> tool</c><00:00:46.489><c> is</c><00:00:46.519><c> no</c><00:00:46.879><c> js'</c></c>
+
+00:00:47.380 --> 00:00:47.390 align:start position:0%
+applications<c.colorCCCCCC> the</c><c.colorE5E5E5> first tool is no js'
+ </c>
+
+00:00:47.390 --> 00:00:49.090 align:start position:0%
+applications<c.colorCCCCCC> the</c><c.colorE5E5E5> first tool is no js'</c>
+<c.colorE5E5E5>and<00:00:47.749><c> you</c><00:00:48.019><c> can</c><00:00:48.199><c> get</c><00:00:48.350><c> it</c><00:00:48.469><c> for</c><00:00:48.620><c> your</c><00:00:48.679><c> operating</c></c>
+
+00:00:49.090 --> 00:00:49.100 align:start position:0%
+<c.colorE5E5E5>and you can get it for your operating
+ </c>
+
+00:00:49.100 --> 00:00:52.209 align:start position:0%
+<c.colorE5E5E5>and you can get it for your operating</c>
+<c.colorE5E5E5>system</c><c.colorCCCCCC><00:00:49.219><c> at</c></c><c.colorE5E5E5><00:00:49.699><c> node.js</c><00:00:49.989><c> org</c><00:00:51.010><c> node</c><00:00:52.010><c> is</c><00:00:52.190><c> a</c></c>
+
+00:00:52.209 --> 00:00:52.219 align:start position:0%
+<c.colorE5E5E5>system</c><c.colorCCCCCC> at</c><c.colorE5E5E5> node.js org node is a
+ </c>
+
+00:00:52.219 --> 00:00:54.369 align:start position:0%
+<c.colorE5E5E5>system</c><c.colorCCCCCC> at</c><c.colorE5E5E5> node.js org node is a
+JavaScript<00:00:52.879><c> runtime</c><00:00:53.329><c> engine</c><00:00:53.899><c> that</c></c><c.colorCCCCCC><00:00:54.199><c> we'll</c><00:00:54.350><c> use</c></c>
+
+00:00:54.369 --> 00:00:54.379 align:start position:0%
+JavaScript runtime<c.colorE5E5E5> engine that</c><c.colorCCCCCC> we'll use
+ </c>
+
+00:00:54.379 --> 00:00:56.770 align:start position:0%
+JavaScript runtime<c.colorE5E5E5> engine that</c><c.colorCCCCCC> we'll use</c>
+<c.colorCCCCCC>to<00:00:54.889><c> host</c><00:00:55.129><c> the</c><00:00:55.370><c> react</c><00:00:55.699><c> application</c><00:00:56.539><c> that</c></c>
+
+00:00:56.770 --> 00:00:56.780 align:start position:0%
+<c.colorCCCCCC>to host the react application that
+ </c>
+
+00:00:56.780 --> 00:00:58.599 align:start position:0%
+<c.colorCCCCCC>to host the react application that</c>
+<c.colorE5E5E5>provides<00:00:57.170><c> the</c><00:00:57.409><c> user</c><00:00:57.649><c> interface</c><00:00:58.159><c> for</c></c><c.colorCCCCCC><00:00:58.489><c> our</c></c>
+
+00:00:58.599 --> 00:00:58.609 align:start position:0%
+<c.colorE5E5E5>provides the user interface for</c><c.colorCCCCCC> our
+ </c>
+
+00:00:58.609 --> 00:01:01.239 align:start position:0%
+<c.colorE5E5E5>provides the user interface for</c><c.colorCCCCCC> our
+online<00:00:58.789><c> marketplace</c><00:00:59.629><c> if</c><00:00:59.960><c> you</c><00:01:00.889><c> already</c><00:01:01.010><c> have</c></c>
+
+00:01:01.239 --> 00:01:01.249 align:start position:0%
+online marketplace if you already have
+ 
+
+00:01:01.249 --> 00:01:03.340 align:start position:0%
+online marketplace if you already have
+node<00:01:01.519><c> installed</c><c.colorE5E5E5><00:01:01.969><c> take</c><00:01:02.600><c> a</c><00:01:02.629><c> few</c><00:01:02.960><c> minutes</c><00:01:03.229><c> and</c></c>
+
+00:01:03.340 --> 00:01:03.350 align:start position:0%
+node installed<c.colorE5E5E5> take a few minutes and
+ </c>
+
+00:01:03.350 --> 00:01:05.229 align:start position:0%
+node installed<c.colorE5E5E5> take a few minutes and</c>
+<c.colorE5E5E5>see<00:01:03.530><c> what</c></c><c.colorCCCCCC><00:01:03.679><c> version</c><00:01:04.100><c> you</c><00:01:04.190><c> have</c><00:01:04.400><c> and</c><00:01:04.700><c> update</c><00:01:04.879><c> it</c></c>
+
+00:01:05.229 --> 00:01:05.239 align:start position:0%
+<c.colorE5E5E5>see what</c><c.colorCCCCCC> version you have and update it
+ </c>
+
+00:01:05.239 --> 00:01:07.170 align:start position:0%
+<c.colorE5E5E5>see what</c><c.colorCCCCCC> version you have and update it
+if<00:01:05.390><c> it's</c><00:01:05.570><c> not</c><00:01:05.720><c> the</c><00:01:05.930><c> latest</c></c><c.colorE5E5E5><00:01:06.080><c> version</c></c>
+
+00:01:07.170 --> 00:01:07.180 align:start position:0%
+if it's not the latest<c.colorE5E5E5> version
+ </c>
+
+00:01:07.180 --> 00:01:10.090 align:start position:0%
+if it's not the latest<c.colorE5E5E5> version
+personally<00:01:08.180><c> I'm</c><00:01:08.360><c> a</c><00:01:08.390><c> fan</c></c><c.colorCCCCCC><00:01:08.510><c> of</c><00:01:08.780><c> the</c><00:01:08.960><c> LTS</c><00:01:09.470><c> versions</c></c>
+
+00:01:10.090 --> 00:01:10.100 align:start position:0%
+<c.colorE5E5E5>personally I'm a fan</c><c.colorCCCCCC> of the LTS versions
+ </c>
+
+00:01:10.100 --> 00:01:13.120 align:start position:0%
+<c.colorE5E5E5>personally I'm a fan</c><c.colorCCCCCC> of the LTS versions
+LTS<00:01:10.640><c> stands</c><00:01:11.030><c> for</c><00:01:11.270><c> long-term</c><00:01:11.810><c> support</c></c><c.colorE5E5E5><00:01:12.320><c> it's</c></c>
+
+00:01:13.120 --> 00:01:13.130 align:start position:0%
+LTS stands for<c.colorCCCCCC> long-term support</c><c.colorE5E5E5> it's
+ </c>
+
+00:01:13.130 --> 00:01:15.280 align:start position:0%
+LTS stands for<c.colorCCCCCC> long-term support</c><c.colorE5E5E5> it's
+stable<00:01:13.640><c> and</c><00:01:13.850><c> as</c><00:01:13.970><c> the</c><00:01:14.150><c> name</c><00:01:14.330><c> implies</c><00:01:14.750><c> has</c><00:01:15.260><c> a</c></c>
+
+00:01:15.280 --> 00:01:15.290 align:start position:0%
+stable<c.colorE5E5E5> and as the name implies has a
+ </c>
+
+00:01:15.290 --> 00:01:16.840 align:start position:0%
+stable<c.colorE5E5E5> and as the name implies has a
+commitment</c><c.colorCCCCCC><00:01:15.740><c> to</c><00:01:15.980><c> being</c><00:01:16.100><c> supported</c><00:01:16.670><c> in</c><00:01:16.760><c> the</c></c>
+
+00:01:16.840 --> 00:01:16.850 align:start position:0%
+commitment<c.colorCCCCCC> to being supported in the
+ </c>
+
+00:01:16.850 --> 00:01:20.140 align:start position:0%
+commitment<c.colorCCCCCC> to being supported in the
+future<00:01:17.230><c> node</c></c><c.colorE5E5E5><00:01:18.230><c> also</c><00:01:18.650><c> comes</c><00:01:18.890><c> packaged</c><00:01:19.400><c> with</c><00:01:19.520><c> NPM</c></c>
+
+00:01:20.140 --> 00:01:20.150 align:start position:0%
+future<c.colorCCCCCC> node</c><c.colorE5E5E5> also comes packaged with NPM
+ </c>
+
+00:01:20.150 --> 00:01:22.840 align:start position:0%
+future<c.colorCCCCCC> node</c><c.colorE5E5E5> also comes packaged with NPM
+the<00:01:20.510><c> package</c><00:01:20.960><c> manager</c><00:01:21.410><c> for</c><00:01:21.440><c> node</c></c><c.colorCCCCCC><00:01:21.770><c> J</c></c><c.colorE5E5E5><00:01:21.980><c> s</c><00:01:22.160><c> you'll</c></c>
+
+00:01:22.840 --> 00:01:22.850 align:start position:0%
+the package<c.colorE5E5E5> manager for node</c><c.colorCCCCCC> J</c><c.colorE5E5E5> s you'll
+ </c>
+
+00:01:22.850 --> 00:01:24.190 align:start position:0%
+the package<c.colorE5E5E5> manager for node</c><c.colorCCCCCC> J</c><c.colorE5E5E5> s you'll
+be</c><c.colorCCCCCC><00:01:22.970><c> using</c><00:01:23.300><c> this</c><00:01:23.480><c> to</c></c><c.colorE5E5E5><00:01:23.720><c> install</c><00:01:24.050><c> the</c></c>
+
+00:01:24.190 --> 00:01:24.200 align:start position:0%
+be<c.colorCCCCCC> using this to</c><c.colorE5E5E5> install the
+ </c>
+
+00:01:24.200 --> 00:01:25.750 align:start position:0%
+be<c.colorCCCCCC> using this to</c><c.colorE5E5E5> install the
+dependencies<00:01:24.800><c> needed</c><00:01:25.130><c> by</c><00:01:25.280><c> our</c><00:01:25.310><c> react</c></c>
+
+00:01:25.750 --> 00:01:25.760 align:start position:0%
+dependencies needed by our react
+ 
+
+00:01:25.760 --> 00:01:28.660 align:start position:0%
+dependencies needed by our react
+application<00:01:26.890><c> those</c><00:01:27.890><c> dependencies</c><00:01:28.520><c> are</c>
+
+00:01:28.660 --> 00:01:28.670 align:start position:0%
+application those dependencies are
+ 
+
+00:01:28.670 --> 00:01:30.430 align:start position:0%
+application those dependencies are
+stored<00:01:28.940><c> in</c><00:01:29.060><c> a</c><00:01:29.150><c> file</c><00:01:29.450><c> in</c><c.colorE5E5E5><00:01:29.660><c> the</c><00:01:29.780><c> project</c><00:01:30.290><c> folder</c></c>
+
+00:01:30.430 --> 00:01:30.440 align:start position:0%
+stored in a file in<c.colorE5E5E5> the project folder
+ </c>
+
+00:01:30.440 --> 00:01:33.130 align:start position:0%
+stored in a file in<c.colorE5E5E5> the project folder</c>
+<c.colorE5E5E5>called</c><c.colorCCCCCC><00:01:30.800><c> package</c><00:01:31.220><c> JSON</c></c><c.colorE5E5E5><00:01:31.730><c> I've</c><00:01:32.210><c> configured</c></c>
+
+00:01:33.130 --> 00:01:33.140 align:start position:0%
+<c.colorE5E5E5>called</c><c.colorCCCCCC> package JSON</c><c.colorE5E5E5> I've configured
+ </c>
+
+00:01:33.140 --> 00:01:35.110 align:start position:0%
+<c.colorE5E5E5>called</c><c.colorCCCCCC> package JSON</c><c.colorE5E5E5> I've configured</c>
+<c.colorCCCCCC>everything<00:01:33.740><c> that</c><00:01:33.890><c> our</c><00:01:33.920><c> react</c><00:01:34.310><c> application</c><00:01:35.000><c> is</c></c>
+
+00:01:35.110 --> 00:01:35.120 align:start position:0%
+<c.colorCCCCCC>everything that our react application is
+ </c>
+
+00:01:35.120 --> 00:01:37.060 align:start position:0%
+<c.colorCCCCCC>everything that our react application is
+going<00:01:35.300><c> to</c></c><c.colorE5E5E5><00:01:35.360><c> need</c><00:01:35.690><c> so</c><00:01:36.110><c> that</c><00:01:36.140><c> all</c><00:01:36.410><c> you</c><00:01:36.620><c> have</c><00:01:36.770><c> to</c><00:01:36.890><c> do</c></c>
+
+00:01:37.060 --> 00:01:37.070 align:start position:0%
+going<c.colorCCCCCC> to</c><c.colorE5E5E5> need so that all you have to do
+ </c>
+
+00:01:37.070 --> 00:01:39.070 align:start position:0%
+going<c.colorCCCCCC> to</c><c.colorE5E5E5> need so that all you have to do
+is<00:01:37.340><c> download</c><00:01:37.640><c> the</c><00:01:37.940><c> code</c><00:01:38.180><c> and</c><00:01:38.420><c> type</c><00:01:38.840><c> NPM</c></c>
+
+00:01:39.070 --> 00:01:39.080 align:start position:0%
+is<c.colorE5E5E5> download the code and type NPM
+ </c>
+
+00:01:39.080 --> 00:01:41.290 align:start position:0%
+is<c.colorE5E5E5> download the code and type NPM
+install<00:01:39.620><c> to</c><00:01:40.190><c> download</c><00:01:40.610><c> and</c></c><c.colorCCCCCC><00:01:40.790><c> install</c><00:01:41.150><c> the</c></c>
+
+00:01:41.290 --> 00:01:41.300 align:start position:0%
+install to download and<c.colorCCCCCC> install the
+ </c>
+
+00:01:41.300 --> 00:01:43.080 align:start position:0%
+install to download and<c.colorCCCCCC> install the
+dependencies</c>
+
+00:01:43.080 --> 00:01:43.090 align:start position:0%
+dependencies
+ 
+
+00:01:43.090 --> 00:01:44.819 align:start position:0%
+dependencies
+the<00:01:43.299><c> next</c><00:01:43.600><c> tool</c><00:01:43.750><c> on</c><00:01:43.930><c> our</c><c.colorE5E5E5><00:01:43.960><c> list</c><00:01:44.259><c> is</c><00:01:44.409><c> the</c><00:01:44.470><c> truffle</c></c>
+
+00:01:44.819 --> 00:01:44.829 align:start position:0%
+the next tool on our<c.colorE5E5E5> list is the truffle
+ </c>
+
+00:01:44.829 --> 00:01:47.850 align:start position:0%
+the next tool on our<c.colorE5E5E5> list is the truffle
+framework<00:01:45.630><c> will</c><00:01:46.630><c> use</c><00:01:46.840><c> the</c><00:01:47.020><c> truffle</c><00:01:47.380><c> framework</c></c>
+
+00:01:47.850 --> 00:01:47.860 align:start position:0%
+framework will use the truffle framework
+ 
+
+00:01:47.860 --> 00:01:50.039 align:start position:0%
+framework will use the truffle framework
+for<c.colorE5E5E5><00:01:48.100><c> compiling</c><00:01:48.520><c> testing</c><00:01:49.240><c> and</c><00:01:49.390><c> deploying</c><00:01:49.750><c> the</c></c>
+
+00:01:50.039 --> 00:01:50.049 align:start position:0%
+for<c.colorE5E5E5> compiling testing and deploying the
+ </c>
+
+00:01:50.049 --> 00:01:52.170 align:start position:0%
+for<c.colorE5E5E5> compiling testing and deploying the
+smart<00:01:50.350><c> contracts</c><00:01:50.920><c> we</c><00:01:51.100><c> write</c><00:01:51.430><c> in</c><00:01:51.640><c> a</c><00:01:51.759><c> solidity</c></c>
+
+00:01:52.170 --> 00:01:52.180 align:start position:0%
+smart contracts we write in a solidity
+ 
+
+00:01:52.180 --> 00:01:54.899 align:start position:0%
+smart contracts we write in a solidity
+programming<00:01:52.810><c> language</c><00:01:53.430><c> truffle</c><00:01:54.430><c> provides</c><00:01:54.759><c> a</c>
+
+00:01:54.899 --> 00:01:54.909 align:start position:0%
+programming language truffle provides a
+ 
+
+00:01:54.909 --> 00:01:56.609 align:start position:0%
+programming language truffle provides a
+framework<00:01:55.210><c> that</c><00:01:55.570><c> makes</c><c.colorE5E5E5><00:01:55.630><c> these</c><00:01:55.930><c> tasks</c><00:01:56.409><c> easy</c></c>
+
+00:01:56.609 --> 00:01:56.619 align:start position:0%
+framework that makes<c.colorE5E5E5> these tasks easy
+ </c>
+
+00:01:56.619 --> 00:01:59.730 align:start position:0%
+framework that makes<c.colorE5E5E5> these tasks easy
+fast<00:01:57.280><c> and</c><00:01:57.670><c> repeatable</c><00:01:58.270><c> it's</c><00:01:59.140><c> a</c><00:01:59.259><c> popular</c><00:01:59.710><c> open</c></c>
+
+00:01:59.730 --> 00:01:59.740 align:start position:0%
+fast and repeatable it's a popular open
+ 
+
+00:01:59.740 --> 00:02:01.649 align:start position:0%
+fast and repeatable it's a popular open
+<c.colorE5E5E5>source<00:02:00.039><c> tool</c><00:02:00.520><c> and</c></c><c.colorCCCCCC><00:02:00.729><c> will</c><00:02:00.820><c> definitely</c><00:02:01.330><c> make</c><00:02:01.509><c> our</c></c>
+
+00:02:01.649 --> 00:02:01.659 align:start position:0%
+<c.colorE5E5E5>source tool and</c><c.colorCCCCCC> will definitely make our
+ </c>
+
+00:02:01.659 --> 00:02:03.450 align:start position:0%
+<c.colorE5E5E5>source tool and</c><c.colorCCCCCC> will definitely make our
+development<00:02:02.200><c> process</c><00:02:02.380><c> easier</c><00:02:03.130><c> and</c><00:02:03.340><c> more</c></c>
+
+00:02:03.450 --> 00:02:03.460 align:start position:0%
+development process easier<c.colorCCCCCC> and more
+ </c>
+
+00:02:03.460 --> 00:02:05.850 align:start position:0%
+development process easier<c.colorCCCCCC> and more
+enjoyable<00:02:03.840><c> we're</c><00:02:04.840><c> going</c><00:02:04.960><c> to</c><00:02:05.020><c> use</c><00:02:05.170><c> NPM</c><00:02:05.679><c> to</c></c>
+
+00:02:05.850 --> 00:02:05.860 align:start position:0%
+enjoyable<c.colorCCCCCC> we're going to use NPM to
+ </c>
+
+00:02:05.860 --> 00:02:07.889 align:start position:0%
+enjoyable<c.colorCCCCCC> we're going to use NPM to
+install<00:02:06.280><c> this</c><00:02:06.549><c> but</c><00:02:07.210><c> the</c><00:02:07.360><c> thing</c><00:02:07.390><c> that</c><00:02:07.720><c> makes</c></c>
+
+00:02:07.889 --> 00:02:07.899 align:start position:0%
+install this but the thing<c.colorCCCCCC> that makes
+ </c>
+
+00:02:07.899 --> 00:02:09.540 align:start position:0%
+install this but the thing<c.colorCCCCCC> that makes
+this<00:02:08.110><c> different</c><00:02:08.170><c> from</c><00:02:08.739><c> the</c><00:02:08.860><c> packages</c><00:02:09.399><c> we</c></c>
+
+00:02:09.540 --> 00:02:09.550 align:start position:0%
+this different<c.colorCCCCCC> from the packages we
+ </c>
+
+00:02:09.550 --> 00:02:12.449 align:start position:0%
+this different<c.colorCCCCCC> from the packages we
+installed<00:02:09.970><c> for</c></c><c.colorE5E5E5><00:02:10.239><c> nodejs</c><00:02:10.750><c> with</c><00:02:11.140><c> NPM</c><00:02:11.650><c> is</c><00:02:11.860><c> that</c></c>
+
+00:02:12.449 --> 00:02:12.459 align:start position:0%
+installed for<c.colorE5E5E5> nodejs with NPM is that
+ </c>
+
+00:02:12.459 --> 00:02:14.640 align:start position:0%
+installed for<c.colorE5E5E5> nodejs with NPM is that
+little</c><c.colorCCCCCC><00:02:12.790><c> dash</c></c><c.colorE5E5E5><00:02:13.030><c> G</c><00:02:13.480><c> flag</c><00:02:13.840><c> in</c><00:02:14.080><c> the</c><00:02:14.200><c> install</c></c>
+
+00:02:14.640 --> 00:02:14.650 align:start position:0%
+little<c.colorCCCCCC> dash</c><c.colorE5E5E5> G flag in the install
+ </c>
+
+00:02:14.650 --> 00:02:17.940 align:start position:0%
+little<c.colorCCCCCC> dash</c><c.colorE5E5E5> G flag in the install
+command<00:02:15.299><c> normally</c><00:02:16.299><c> NPM</c><00:02:16.840><c> installs</c><00:02:17.290><c> packages</c></c>
+
+00:02:17.940 --> 00:02:17.950 align:start position:0%
+command normally NPM installs packages
+ 
+
+00:02:17.950 --> 00:02:19.470 align:start position:0%
+command normally NPM installs packages
+in<00:02:18.069><c> your</c><00:02:18.100><c> project</c><00:02:18.730><c> directory</c><00:02:19.209><c> and</c><c.colorE5E5E5><00:02:19.360><c> they're</c></c>
+
+00:02:19.470 --> 00:02:19.480 align:start position:0%
+in your project directory and<c.colorE5E5E5> they're
+ </c>
+
+00:02:19.480 --> 00:02:22.020 align:start position:0%
+in your project directory and<c.colorE5E5E5> they're
+only</c><c.colorCCCCCC><00:02:19.630><c> available</c><00:02:20.260><c> within</c></c><c.colorE5E5E5><00:02:20.410><c> that</c><00:02:20.650><c> project</c><00:02:21.250><c> the</c></c>
+
+00:02:22.020 --> 00:02:22.030 align:start position:0%
+only<c.colorCCCCCC> available within</c><c.colorE5E5E5> that project the
+ </c>
+
+00:02:22.030 --> 00:02:24.660 align:start position:0%
+only<c.colorCCCCCC> available within</c><c.colorE5E5E5> that project the
+dash<00:02:22.269><c> G</c><00:02:22.630><c> flag</c><00:02:22.959><c> tells</c><00:02:23.380><c> NPM</c><00:02:23.920><c> to</c><00:02:24.190><c> install</c><00:02:24.519><c> this</c></c>
+
+00:02:24.660 --> 00:02:24.670 align:start position:0%
+<c.colorE5E5E5>dash G flag tells NPM to install this
+ </c>
+
+00:02:24.670 --> 00:02:27.180 align:start position:0%
+<c.colorE5E5E5>dash G flag tells NPM to install this
+package<00:02:24.910><c> globally</c><00:02:25.690><c> the</c><00:02:26.350><c> end</c><00:02:26.560><c> result</c><00:02:26.920><c> is</c><00:02:27.069><c> we</c></c>
+
+00:02:27.180 --> 00:02:27.190 align:start position:0%
+package globally the end result is we
+ 
+
+00:02:27.190 --> 00:02:29.009 align:start position:0%
+package globally the end result is we
+have<00:02:27.340><c> a</c><00:02:27.370><c> command</c><c.colorE5E5E5><00:02:27.700><c> called</c><00:02:28.060><c> truffle</c><00:02:28.599><c> that</c><00:02:28.870><c> we</c></c>
+
+00:02:29.009 --> 00:02:29.019 align:start position:0%
+have a command<c.colorE5E5E5> called truffle that we
+ </c>
+
+00:02:29.019 --> 00:02:30.960 align:start position:0%
+have a command<c.colorE5E5E5> called truffle that we
+can<00:02:29.200><c> use</c><00:02:29.380><c> to</c><00:02:29.410><c> compile</c><00:02:29.920><c> and</c><00:02:30.160><c> deploy</c></c><c.colorCCCCCC><00:02:30.430><c> our</c><00:02:30.640><c> smart</c></c>
+
+00:02:30.960 --> 00:02:30.970 align:start position:0%
+can use to<c.colorE5E5E5> compile and deploy</c><c.colorCCCCCC> our smart
+ </c>
+
+00:02:30.970 --> 00:02:33.600 align:start position:0%
+can use to<c.colorE5E5E5> compile and deploy</c><c.colorCCCCCC> our smart
+contracts</c><c.colorE5E5E5><00:02:31.590><c> you</c><00:02:32.590><c> can</c><00:02:32.739><c> download</c><00:02:32.980><c> the</c><00:02:33.250><c> truffle</c></c>
+
+00:02:33.600 --> 00:02:33.610 align:start position:0%
+contracts<c.colorE5E5E5> you can download the truffle
+ </c>
+
+00:02:33.610 --> 00:02:36.110 align:start position:0%
+contracts<c.colorE5E5E5> you can download the truffle
+framework<00:02:34.060><c> from</c><00:02:34.269><c> truffle</c><00:02:34.780><c> framework</c></c><c.colorCCCCCC><00:02:35.260><c> calm</c><00:02:35.799><c> as</c></c>
+
+00:02:36.110 --> 00:02:36.120 align:start position:0%
+framework from truffle framework<c.colorCCCCCC> calm as
+ </c>
+
+00:02:36.120 --> 00:02:39.360 align:start position:0%
+framework from truffle framework<c.colorCCCCCC> calm as
+you<00:02:37.120><c> may</c><00:02:37.390><c> be</c></c><c.colorE5E5E5><00:02:37.450><c> aware</c><00:02:37.650><c> executing</c><00:02:38.650><c> a</c><00:02:38.739><c> transaction</c></c>
+
+00:02:39.360 --> 00:02:39.370 align:start position:0%
+you<c.colorCCCCCC> may be</c><c.colorE5E5E5> aware executing a transaction
+ </c>
+
+00:02:39.370 --> 00:02:40.920 align:start position:0%
+you<c.colorCCCCCC> may be</c><c.colorE5E5E5> aware executing a transaction
+on</c><c.colorCCCCCC><00:02:39.430><c> the</c></c><c.colorE5E5E5><00:02:39.549><c> etherion</c><00:02:40.030><c> blockchain</c><00:02:40.510><c> requires</c></c>
+
+00:02:40.920 --> 00:02:40.930 align:start position:0%
+on<c.colorCCCCCC> the</c><c.colorE5E5E5> etherion blockchain requires
+ </c>
+
+00:02:40.930 --> 00:02:43.080 align:start position:0%
+on<c.colorCCCCCC> the</c><c.colorE5E5E5> etherion blockchain requires
+creating<00:02:41.440><c> the</c><00:02:41.530><c> transaction</c><00:02:42.250><c> waiting</c></c><c.colorCCCCCC><00:02:42.849><c> for</c><00:02:43.000><c> the</c></c>
+
+00:02:43.080 --> 00:02:43.090 align:start position:0%
+creating the transaction<c.colorE5E5E5> waiting</c><c.colorCCCCCC> for the
+ </c>
+
+00:02:43.090 --> 00:02:44.850 align:start position:0%
+creating the transaction<c.colorE5E5E5> waiting</c><c.colorCCCCCC> for the
+miners<00:02:43.450><c> to</c></c><c.colorE5E5E5><00:02:43.480><c> confirm</c><00:02:43.989><c> it</c><00:02:44.170><c> and</c><00:02:44.290><c> most</c></c>
+
+00:02:44.850 --> 00:02:44.860 align:start position:0%
+miners to<c.colorE5E5E5> confirm it and most
+ </c>
+
+00:02:44.860 --> 00:02:47.160 align:start position:0%
+miners to<c.colorE5E5E5> confirm it and most
+importantly<00:02:45.459><c> it</c></c><c.colorCCCCCC><00:02:45.760><c> requires</c><00:02:46.120><c> ether</c><00:02:46.599><c> to</c><00:02:46.750><c> pay</c><00:02:46.930><c> for</c></c>
+
+00:02:47.160 --> 00:02:47.170 align:start position:0%
+importantly it<c.colorCCCCCC> requires ether to pay for
+ </c>
+
+00:02:47.170 --> 00:02:49.470 align:start position:0%
+importantly it<c.colorCCCCCC> requires ether to pay for
+it<00:02:47.260><c> all</c></c><c.colorE5E5E5><00:02:47.350><c> that</c><00:02:48.340><c> can</c><00:02:48.459><c> be</c></c><c.colorCCCCCC><00:02:48.489><c> a</c><00:02:48.579><c> serious</c><00:02:48.850><c> hamper</c><00:02:49.450><c> to</c></c>
+
+00:02:49.470 --> 00:02:49.480 align:start position:0%
+it all<c.colorE5E5E5> that can be</c><c.colorCCCCCC> a serious hamper to
+ </c>
+
+00:02:49.480 --> 00:02:51.590 align:start position:0%
+it all<c.colorE5E5E5> that can be</c><c.colorCCCCCC> a serious hamper to</c>
+<c.colorE5E5E5>developing<00:02:50.049><c> blockchain</c><00:02:50.560><c> applications</c></c>
+
+00:02:51.590 --> 00:02:51.600 align:start position:0%
+<c.colorE5E5E5>developing blockchain applications
+ </c>
+
+00:02:51.600 --> 00:02:54.000 align:start position:0%
+<c.colorE5E5E5>developing blockchain applications</c>
+<c.colorE5E5E5>fortunately</c><c.colorCCCCCC><00:02:52.600><c> for</c><00:02:52.780><c> us</c><00:02:52.810><c> it's</c><00:02:53.350><c> not</c><00:02:53.650><c> a</c><00:02:53.680><c> problem</c></c>
+
+00:02:54.000 --> 00:02:54.010 align:start position:0%
+<c.colorE5E5E5>fortunately</c><c.colorCCCCCC> for us it's not a problem
+ </c>
+
+00:02:54.010 --> 00:02:55.920 align:start position:0%
+<c.colorE5E5E5>fortunately</c><c.colorCCCCCC> for us it's not a problem
+because<00:02:54.340><c> we're</c><00:02:54.760><c> going</c></c><c.colorE5E5E5><00:02:54.880><c> to</c><00:02:54.940><c> use</c><00:02:55.000><c> ganache</c><00:02:55.570><c> to</c></c>
+
+00:02:55.920 --> 00:02:55.930 align:start position:0%
+because we're going<c.colorE5E5E5> to use ganache to
+ </c>
+
+00:02:55.930 --> 00:02:57.840 align:start position:0%
+because we're going<c.colorE5E5E5> to use ganache to
+provide<00:02:56.230><c> a</c><00:02:56.260><c> complete</c><00:02:56.470><c> aetherium</c><00:02:57.160><c> blockchain</c></c>
+
+00:02:57.840 --> 00:02:57.850 align:start position:0%
+provide a complete<c.colorE5E5E5> aetherium blockchain
+ </c>
+
+00:02:57.850 --> 00:02:59.069 align:start position:0%
+provide a complete<c.colorE5E5E5> aetherium blockchain</c>
+<c.colorE5E5E5>right<00:02:58.239><c> on</c><00:02:58.390><c> your</c><00:02:58.510><c> computer</c></c>
+
+00:02:59.069 --> 00:02:59.079 align:start position:0%
+<c.colorE5E5E5>right on your computer
+ </c>
+
+00:02:59.079 --> 00:03:01.590 align:start position:0%
+<c.colorE5E5E5>right on your computer
+ganache<00:03:00.069><c> will</c><00:03:00.280><c> create</c><00:03:00.519><c> accounts</c></c><c.colorCCCCCC><00:03:01.120><c> already</c></c>
+
+00:03:01.590 --> 00:03:01.600 align:start position:0%
+ganache will create accounts<c.colorCCCCCC> already
+ </c>
+
+00:03:01.600 --> 00:03:03.599 align:start position:0%
+ganache will create accounts<c.colorCCCCCC> already
+funded<00:03:01.870><c> with</c><00:03:02.140><c> ether</c><00:03:02.590><c> for</c></c><c.colorE5E5E5><00:03:02.829><c> you</c><00:03:02.980><c> to</c><00:03:03.100><c> test</c><00:03:03.370><c> with</c></c>
+
+00:03:03.599 --> 00:03:03.609 align:start position:0%
+funded with ether for<c.colorE5E5E5> you to test with
+ </c>
+
+00:03:03.609 --> 00:03:06.059 align:start position:0%
+funded with ether for<c.colorE5E5E5> you to test with</c>
+<c.colorE5E5E5>it<00:03:04.269><c> runs</c><00:03:04.569><c> locally</c><00:03:04.840><c> on</c><00:03:05.170><c> your</c></c><c.colorCCCCCC><00:03:05.200><c> computer</c><00:03:05.890><c> so</c></c>
+
+00:03:06.059 --> 00:03:06.069 align:start position:0%
+<c.colorE5E5E5>it runs locally on your</c><c.colorCCCCCC> computer so
+ </c>
+
+00:03:06.069 --> 00:03:08.370 align:start position:0%
+<c.colorE5E5E5>it runs locally on your</c><c.colorCCCCCC> computer so
+there's<00:03:06.220><c> no</c><00:03:06.370><c> network</c></c><c.colorE5E5E5><00:03:06.640><c> delay</c><00:03:07.090><c> and</c><00:03:07.390><c> it</c><00:03:08.079><c> does</c><00:03:08.230><c> the</c></c>
+
+00:03:08.370 --> 00:03:08.380 align:start position:0%
+there's no network<c.colorE5E5E5> delay and it does the
+ </c>
+
+00:03:08.380 --> 00:03:10.289 align:start position:0%
+there's no network<c.colorE5E5E5> delay and it does the
+mining<00:03:08.769><c> almost</c><00:03:09.069><c> instantly</c><00:03:09.640><c> so</c></c><c.colorCCCCCC><00:03:09.730><c> there's</c></c><c.colorE5E5E5><00:03:09.910><c> no</c></c>
+
+00:03:10.289 --> 00:03:10.299 align:start position:0%
+mining almost instantly so<c.colorCCCCCC> there's</c><c.colorE5E5E5> no
+ </c>
+
+00:03:10.299 --> 00:03:12.120 align:start position:0%
+mining almost instantly so<c.colorCCCCCC> there's</c><c.colorE5E5E5> no
+need<00:03:10.480><c> to</c><00:03:10.540><c> wait</c><00:03:10.840><c> for</c><00:03:10.870><c> external</c><00:03:11.380><c> sources</c><00:03:11.859><c> to</c></c>
+
+00:03:12.120 --> 00:03:12.130 align:start position:0%
+need<c.colorE5E5E5> to wait for external sources to
+ </c>
+
+00:03:12.130 --> 00:03:14.580 align:start position:0%
+need<c.colorE5E5E5> to wait for external sources to
+continue<00:03:12.730><c> my</c><00:03:13.480><c> favorite</c><00:03:13.900><c> feature</c><00:03:14.079><c> of</c><00:03:14.290><c> ganache</c></c>
+
+00:03:14.580 --> 00:03:14.590 align:start position:0%
+continue my favorite feature<c.colorE5E5E5> of ganache
+ </c>
+
+00:03:14.590 --> 00:03:17.099 align:start position:0%
+continue my favorite feature<c.colorE5E5E5> of ganache
+by<00:03:14.950><c> far</c><00:03:15.310><c> is</c><00:03:15.609><c> the</c><00:03:15.670><c> ability</c><00:03:16.060><c> to</c><00:03:16.299><c> restart</c><00:03:16.989><c> the</c></c>
+
+00:03:17.099 --> 00:03:17.109 align:start position:0%
+by far is the<c.colorE5E5E5> ability to restart the
+ </c>
+
+00:03:17.109 --> 00:03:19.440 align:start position:0%
+by far is the<c.colorE5E5E5> ability to restart the
+ganache<00:03:17.410><c> application</c><00:03:18.280><c> which</c><00:03:18.790><c> resets</c><00:03:19.239><c> my</c></c>
+
+00:03:19.440 --> 00:03:19.450 align:start position:0%
+ganache application which resets my
+ 
+
+00:03:19.450 --> 00:03:21.599 align:start position:0%
+ganache application which resets my
+entire<00:03:19.810><c> blockchain</c><00:03:20.590><c> allowing</c><00:03:21.010><c> me</c><00:03:21.160><c> to</c><00:03:21.190><c> start</c>
+
+00:03:21.599 --> 00:03:21.609 align:start position:0%
+entire blockchain allowing me to start
+ 
+
+00:03:21.609 --> 00:03:23.789 align:start position:0%
+entire blockchain allowing me to start
+over<c.colorE5E5E5><00:03:21.760><c> instantly</c><00:03:22.329><c> and</c><00:03:22.690><c> since</c><00:03:23.319><c> everything</c></c><c.colorCCCCCC><00:03:23.590><c> is</c></c>
+
+00:03:23.789 --> 00:03:23.799 align:start position:0%
+over<c.colorE5E5E5> instantly and since everything</c><c.colorCCCCCC> is
+ </c>
+
+00:03:23.799 --> 00:03:25.890 align:start position:0%
+over<c.colorE5E5E5> instantly and since everything</c><c.colorCCCCCC> is</c>
+<c.colorE5E5E5>running</c><c.colorCCCCCC><00:03:24.130><c> locally</c><00:03:24.579><c> there's</c><00:03:25.090><c> no</c><00:03:25.359><c> worries</c><00:03:25.720><c> about</c></c>
+
+00:03:25.890 --> 00:03:25.900 align:start position:0%
+<c.colorE5E5E5>running</c><c.colorCCCCCC> locally there's no worries about
+ </c>
+
+00:03:25.900 --> 00:03:28.170 align:start position:0%
+<c.colorE5E5E5>running</c><c.colorCCCCCC> locally there's no worries about
+having</c><c.colorE5E5E5><00:03:26.200><c> to</c><00:03:26.470><c> spend</c><00:03:26.709><c> real</c><00:03:27.040><c> ether</c><00:03:27.489><c> to</c><00:03:27.730><c> test</c><00:03:28.000><c> my</c></c>
+
+00:03:28.170 --> 00:03:28.180 align:start position:0%
+having<c.colorE5E5E5> to spend real ether to test my
+ </c>
+
+00:03:28.180 --> 00:03:30.809 align:start position:0%
+having<c.colorE5E5E5> to spend real ether to test my
+smart<00:03:28.480><c> contracts</c><00:03:29.130><c> ganache</c><00:03:30.130><c> is</c><00:03:30.340><c> made</c><00:03:30.549><c> by</c><00:03:30.760><c> the</c></c>
+
+00:03:30.809 --> 00:03:30.819 align:start position:0%
+smart contracts<c.colorE5E5E5> ganache is made by the
+ </c>
+
+00:03:30.819 --> 00:03:32.340 align:start position:0%
+smart contracts<c.colorE5E5E5> ganache is made by the
+same<00:03:31.150><c> folks</c><00:03:31.480><c> who</c><00:03:31.660><c> made</c><00:03:31.840><c> the</c><00:03:31.930><c> truffle</c></c>
+
+00:03:32.340 --> 00:03:32.350 align:start position:0%
+same<c.colorE5E5E5> folks who made the truffle
+ </c>
+
+00:03:32.350 --> 00:03:34.530 align:start position:0%
+same<c.colorE5E5E5> folks who made the truffle
+framework<00:03:32.829><c> consensus</c><00:03:33.609><c> and</c><00:03:33.819><c> you'll</c><00:03:34.180><c> find</c><00:03:34.450><c> a</c></c>
+
+00:03:34.530 --> 00:03:34.540 align:start position:0%
+<c.colorE5E5E5>framework consensus and you'll find a
+ </c>
+
+00:03:34.540 --> 00:03:37.379 align:start position:0%
+<c.colorE5E5E5>framework consensus and you'll find a
+link</c><c.colorCCCCCC><00:03:34.750><c> for</c></c><c.colorE5E5E5><00:03:34.989><c> it</c><00:03:35.109><c> on</c><00:03:35.200><c> the</c><00:03:35.319><c> same</c><00:03:35.590><c> website</c><00:03:36.389><c> meta</c></c>
+
+00:03:37.379 --> 00:03:37.389 align:start position:0%
+link<c.colorCCCCCC> for</c><c.colorE5E5E5> it on the same website meta
+ </c>
+
+00:03:37.389 --> 00:03:39.720 align:start position:0%
+link<c.colorCCCCCC> for</c><c.colorE5E5E5> it on the same website meta</c>
+<c.colorCCCCCC>mask<00:03:37.630><c> is</c><00:03:37.810><c> a</c></c><c.colorE5E5E5><00:03:37.840><c> network</c><00:03:38.230><c> bridge</c><00:03:38.560><c> what</c><00:03:39.280><c> that</c><00:03:39.459><c> means</c></c>
+
+00:03:39.720 --> 00:03:39.730 align:start position:0%
+<c.colorCCCCCC>mask is a</c><c.colorE5E5E5> network bridge what that means
+ </c>
+
+00:03:39.730 --> 00:03:42.300 align:start position:0%
+<c.colorCCCCCC>mask is a</c><c.colorE5E5E5> network bridge what that means
+is<00:03:40.120><c> meta</c><00:03:40.900><c> mask</c><00:03:41.109><c> allows</c><00:03:41.500><c> the</c><00:03:41.709><c> users</c></c><c.colorCCCCCC><00:03:42.130><c> of</c><00:03:42.280><c> your</c></c>
+
+00:03:42.300 --> 00:03:42.310 align:start position:0%
+is meta mask allows the users<c.colorCCCCCC> of your
+ </c>
+
+00:03:42.310 --> 00:03:44.670 align:start position:0%
+is meta mask allows the users<c.colorCCCCCC> of your
+decentralized<00:03:43.060><c> application</c><00:03:43.840><c> to</c><00:03:44.170><c> talk</c><00:03:44.410><c> to</c><00:03:44.560><c> the</c></c>
+
+00:03:44.670 --> 00:03:44.680 align:start position:0%
+decentralized application to talk to the
+ 
+
+00:03:44.680 --> 00:03:46.500 align:start position:0%
+decentralized application to talk to the
+etherium<00:03:45.190><c> network</c><00:03:45.519><c> without</c><c.colorCCCCCC><00:03:45.760><c> needing</c><00:03:46.359><c> their</c></c>
+
+00:03:46.500 --> 00:03:46.510 align:start position:0%
+etherium network without<c.colorCCCCCC> needing their
+ </c>
+
+00:03:46.510 --> 00:03:49.140 align:start position:0%
+etherium network without<c.colorCCCCCC> needing their
+own<00:03:46.660><c> aetherium</c><00:03:47.230><c> node</c><00:03:47.910><c> alternatives</c><00:03:48.910><c> to</c><00:03:49.030><c> using</c></c>
+
+00:03:49.140 --> 00:03:49.150 align:start position:0%
+own<c.colorCCCCCC> aetherium node alternatives to using
+ </c>
+
+00:03:49.150 --> 00:03:51.449 align:start position:0%
+own<c.colorCCCCCC> aetherium node alternatives to using</c>
+<c.colorCCCCCC>meta<00:03:49.510><c> masks</c><00:03:49.780><c> require</c><00:03:50.170><c> generating</c><00:03:50.739><c> QR</c><00:03:51.129><c> codes</c></c>
+
+00:03:51.449 --> 00:03:51.459 align:start position:0%
+<c.colorCCCCCC>meta masks require generating QR codes
+ </c>
+
+00:03:51.459 --> 00:03:53.759 align:start position:0%
+<c.colorCCCCCC>meta masks require generating QR codes
+or<00:03:51.790><c> copying</c></c><c.colorE5E5E5><00:03:52.299><c> and</c><00:03:52.510><c> pasting</c><00:03:52.659><c> smart</c><00:03:53.290><c> contract</c></c>
+
+00:03:53.759 --> 00:03:53.769 align:start position:0%
+or copying<c.colorE5E5E5> and pasting smart contract
+ </c>
+
+00:03:53.769 --> 00:03:56.220 align:start position:0%
+or copying<c.colorE5E5E5> and pasting smart contract
+addresses<00:03:54.459><c> gas</c><00:03:54.849><c> limits</c><00:03:55.299><c> and</c><00:03:55.480><c> either</c><00:03:55.720><c> amounts</c></c>
+
+00:03:56.220 --> 00:03:56.230 align:start position:0%
+addresses<c.colorE5E5E5> gas limits and either amounts
+ </c>
+
+00:03:56.230 --> 00:03:56.530 align:start position:0%
+addresses<c.colorE5E5E5> gas limits and either amounts
+into</c>
+
+00:03:56.530 --> 00:03:56.540 align:start position:0%
+into
+ 
+
+00:03:56.540 --> 00:03:59.440 align:start position:0%
+into
+wallet<00:03:56.930><c> application</c><00:03:58.090><c> integrating</c><00:03:59.090><c> with</c><00:03:59.209><c> meta</c>
+
+00:03:59.440 --> 00:03:59.450 align:start position:0%
+wallet application integrating with meta
+ 
+
+00:03:59.450 --> 00:04:01.179 align:start position:0%
+wallet application integrating with meta
+<c.colorE5E5E5>mask<00:03:59.689><c> removes</c><00:04:00.230><c> those</c><00:04:00.469><c> requirements</c><00:04:00.920><c> and</c></c>
+
+00:04:01.179 --> 00:04:01.189 align:start position:0%
+<c.colorE5E5E5>mask removes those requirements and
+ </c>
+
+00:04:01.189 --> 00:04:03.699 align:start position:0%
+<c.colorE5E5E5>mask removes those requirements and
+allows<00:04:01.459><c> us</c><00:04:01.819><c> as</c><00:04:02.030><c> developers</c></c><c.colorCCCCCC><00:04:02.230><c> to</c><00:04:03.230><c> prompt</c><00:04:03.530><c> the</c></c>
+
+00:04:03.699 --> 00:04:03.709 align:start position:0%
+<c.colorE5E5E5>allows us as developers</c><c.colorCCCCCC> to prompt the
+ </c>
+
+00:04:03.709 --> 00:04:05.709 align:start position:0%
+<c.colorE5E5E5>allows us as developers</c><c.colorCCCCCC> to prompt the
+user<00:04:03.739><c> with</c><00:04:04.189><c> a</c><00:04:04.219><c> single</c><00:04:04.760><c> prefilled</c><00:04:05.480><c> in</c></c>
+
+00:04:05.709 --> 00:04:05.719 align:start position:0%
+user with a single<c.colorCCCCCC> prefilled in
+ </c>
+
+00:04:05.719 --> 00:04:07.929 align:start position:0%
+user with a single<c.colorCCCCCC> prefilled in
+transaction<00:04:06.590><c> screen</c><00:04:06.950><c> for</c><00:04:07.219><c> them</c></c><c.colorE5E5E5><00:04:07.370><c> to</c><00:04:07.579><c> review</c></c>
+
+00:04:07.929 --> 00:04:07.939 align:start position:0%
+transaction<c.colorCCCCCC> screen for them</c><c.colorE5E5E5> to review
+ </c>
+
+00:04:07.939 --> 00:04:10.780 align:start position:0%
+transaction<c.colorCCCCCC> screen for them</c><c.colorE5E5E5> to review
+for<00:04:08.090><c> accuracy</c><00:04:08.750><c> and</c><00:04:08.930><c> then</c><00:04:09.170><c> click</c><00:04:09.469><c> Submit</c><00:04:09.890><c> meta</c></c>
+
+00:04:10.780 --> 00:04:10.790 align:start position:0%
+for accuracy<c.colorE5E5E5> and then click Submit meta
+ </c>
+
+00:04:10.790 --> 00:04:12.610 align:start position:0%
+for accuracy<c.colorE5E5E5> and then click Submit meta
+mask<00:04:11.000><c> is</c></c><c.colorCCCCCC><00:04:11.180><c> available</c><00:04:11.629><c> for</c><00:04:11.780><c> Chrome</c><00:04:12.049><c> Firefox</c></c>
+
+00:04:12.610 --> 00:04:12.620 align:start position:0%
+mask is<c.colorCCCCCC> available for Chrome Firefox
+ </c>
+
+00:04:12.620 --> 00:04:15.429 align:start position:0%
+mask is<c.colorCCCCCC> available for Chrome Firefox
+Opera<00:04:13.189><c> and</c><00:04:13.549><c> the</c></c><c.colorE5E5E5><00:04:13.730><c> new</c><00:04:14.030><c> brave</c><00:04:14.359><c> browser</c><00:04:14.780><c> so</c><00:04:15.319><c> if</c></c>
+
+00:04:15.429 --> 00:04:15.439 align:start position:0%
+Opera and<c.colorCCCCCC> the</c><c.colorE5E5E5> new brave browser so if
+ </c>
+
+00:04:15.439 --> 00:04:16.659 align:start position:0%
+Opera and<c.colorCCCCCC> the</c><c.colorE5E5E5> new brave browser so if
+you're<00:04:15.560><c> not</c><00:04:15.709><c> using</c><00:04:15.920><c> one</c></c><c.colorCCCCCC><00:04:16.070><c> of</c><00:04:16.190><c> those</c></c><c.colorE5E5E5><00:04:16.340><c> browsers</c></c>
+
+00:04:16.659 --> 00:04:16.669 align:start position:0%
+you're not using<c.colorE5E5E5> one</c><c.colorCCCCCC> of those</c><c.colorE5E5E5> browsers
+ </c>
+
+00:04:16.669 --> 00:04:18.879 align:start position:0%
+you're not using<c.colorE5E5E5> one</c><c.colorCCCCCC> of those</c><c.colorE5E5E5> browsers
+currently<00:04:17.419><c> you'll</c><00:04:17.720><c> need</c><00:04:17.989><c> to</c><00:04:18.199><c> for</c><00:04:18.410><c> this</c><00:04:18.500><c> course</c></c>
+
+00:04:18.879 --> 00:04:18.889 align:start position:0%
+currently you'll need to for this course
+ 
+
+00:04:18.889 --> 00:04:21.189 align:start position:0%
+currently you'll need to for this course
+and<00:04:19.130><c> you</c><c.colorCCCCCC><00:04:19.639><c> can</c><00:04:19.789><c> download</c></c><c.colorE5E5E5><00:04:19.940><c> meta</c><00:04:20.419><c> mask</c><00:04:20.660><c> from</c><00:04:20.959><c> meta</c></c>
+
+00:04:21.189 --> 00:04:21.199 align:start position:0%
+and you<c.colorCCCCCC> can download</c><c.colorE5E5E5> meta mask from meta
+ </c>
+
+00:04:21.199 --> 00:04:24.969 align:start position:0%
+and you<c.colorCCCCCC> can download</c><c.colorE5E5E5> meta mask from meta</c>
+<c.colorE5E5E5>mask</c><c.colorCCCCCC><00:04:21.470><c> Co</c><00:04:22.600><c> one</c><00:04:23.600><c> other</c><00:04:23.750><c> tip</c><00:04:23.990><c> I</c><00:04:24.139><c> have</c><00:04:24.320><c> is</c><00:04:24.380><c> to</c><00:04:24.590><c> use</c></c>
+
+00:04:24.969 --> 00:04:24.979 align:start position:0%
+<c.colorE5E5E5>mask</c><c.colorCCCCCC> Co one other tip I have is to use
+ </c>
+
+00:04:24.979 --> 00:04:27.879 align:start position:0%
+<c.colorE5E5E5>mask</c><c.colorCCCCCC> Co one other tip I have is to use
+user<00:04:25.340><c> profiles</c><00:04:25.940><c> in</c><00:04:26.210><c> your</c><00:04:26.449><c> browser</c><00:04:26.720><c> set</c><00:04:27.710><c> up</c><00:04:27.800><c> a</c></c>
+
+00:04:27.879 --> 00:04:27.889 align:start position:0%
+user profiles in your browser<c.colorCCCCCC> set up a
+ </c>
+
+00:04:27.889 --> 00:04:29.920 align:start position:0%
+user profiles in your browser<c.colorCCCCCC> set up a
+profile<00:04:28.370><c> specifically</c><00:04:29.180><c> for</c><00:04:29.419><c> your</c><00:04:29.599><c> smart</c></c>
+
+00:04:29.920 --> 00:04:29.930 align:start position:0%
+profile specifically for your smart
+ 
+
+00:04:29.930 --> 00:04:32.020 align:start position:0%
+profile specifically for your smart
+contract<00:04:30.440><c> development</c><00:04:30.979><c> this</c><c.colorCCCCCC><00:04:31.639><c> is</c><00:04:31.699><c> going</c><00:04:31.970><c> to</c></c>
+
+00:04:32.020 --> 00:04:32.030 align:start position:0%
+contract development this<c.colorCCCCCC> is going to
+ </c>
+
+00:04:32.030 --> 00:04:33.730 align:start position:0%
+contract development this<c.colorCCCCCC> is going to</c>
+<c.colorE5E5E5>keep<00:04:32.210><c> your</c><00:04:32.419><c> profile</c><00:04:32.930><c> and</c><00:04:33.199><c> your</c><00:04:33.289><c> meta</c><00:04:33.530><c> mask</c></c>
+
+00:04:33.730 --> 00:04:33.740 align:start position:0%
+<c.colorE5E5E5>keep your profile and your meta mask
+ </c>
+
+00:04:33.740 --> 00:04:35.650 align:start position:0%
+<c.colorE5E5E5>keep your profile and your meta mask
+configuration<00:04:34.639><c> separate</c><00:04:35.240><c> from</c><00:04:35.419><c> other</c></c>
+
+00:04:35.650 --> 00:04:35.660 align:start position:0%
+configuration<c.colorE5E5E5> separate from other
+ </c>
+
+00:04:35.660 --> 00:04:38.200 align:start position:0%
+configuration<c.colorE5E5E5> separate from other
+profiles</c><c.colorCCCCCC><00:04:35.990><c> in</c><00:04:36.440><c> your</c><00:04:36.560><c> browser</c><00:04:36.830><c> this</c></c><c.colorE5E5E5><00:04:37.610><c> absolutely</c></c>
+
+00:04:38.200 --> 00:04:38.210 align:start position:0%
+profiles<c.colorCCCCCC> in your browser this</c><c.colorE5E5E5> absolutely
+ </c>
+
+00:04:38.210 --> 00:04:40.330 align:start position:0%
+profiles<c.colorCCCCCC> in your browser this</c><c.colorE5E5E5> absolutely
+eliminates<00:04:38.990><c> the</c><00:04:39.110><c> possibility</c><00:04:39.320><c> of</c><00:04:39.860><c> sending</c></c>
+
+00:04:40.330 --> 00:04:40.340 align:start position:0%
+<c.colorE5E5E5>eliminates the possibility of sending
+ </c>
+
+00:04:40.340 --> 00:04:42.460 align:start position:0%
+<c.colorE5E5E5>eliminates the possibility of sending
+ether<00:04:40.880><c> from</c><00:04:41.180><c> your</c><00:04:41.330><c> personal</c><00:04:41.780><c> account</c><00:04:42.139><c> to</c><00:04:42.259><c> your</c></c>
+
+00:04:42.460 --> 00:04:42.470 align:start position:0%
+ether<c.colorE5E5E5> from your personal account to your
+ </c>
+
+00:04:42.470 --> 00:04:45.520 align:start position:0%
+ether<c.colorE5E5E5> from your personal account to your
+test</c><c.colorCCCCCC><00:04:42.770><c> Network</c><00:04:43.190><c> now</c><00:04:44.030><c> doing</c><00:04:44.360><c> so</c><00:04:44.509><c> is</c><00:04:44.630><c> unlikely</c><00:04:45.080><c> to</c></c>
+
+00:04:45.520 --> 00:04:45.530 align:start position:0%
+<c.colorE5E5E5>test</c><c.colorCCCCCC> Network now doing so is unlikely to
+ </c>
+
+00:04:45.530 --> 00:04:48.279 align:start position:0%
+<c.colorE5E5E5>test</c><c.colorCCCCCC> Network now doing so is unlikely to
+work<00:04:45.919><c> or</c><00:04:46.220><c> cause</c><00:04:46.430><c> any</c><00:04:46.460><c> harm</c></c><c.colorE5E5E5><00:04:47.090><c> but</c><00:04:47.660><c> it</c><00:04:47.780><c> gives</c><00:04:47.990><c> me</c></c><c.colorCCCCCC><00:04:48.110><c> a</c></c>
+
+00:04:48.279 --> 00:04:48.289 align:start position:0%
+work or cause any<c.colorCCCCCC> harm</c><c.colorE5E5E5> but it gives me</c><c.colorCCCCCC> a
+ </c>
+
+00:04:48.289 --> 00:04:50.379 align:start position:0%
+work or cause any<c.colorCCCCCC> harm</c><c.colorE5E5E5> but it gives me</c><c.colorCCCCCC> a
+level<00:04:48.800><c> of</c><00:04:48.889><c> comfort</c></c><c.colorE5E5E5><00:04:49.160><c> knowing</c><00:04:49.699><c> that</c><00:04:49.820><c> everything</c></c>
+
+00:04:50.379 --> 00:04:50.389 align:start position:0%
+level of comfort<c.colorE5E5E5> knowing that everything
+ </c>
+
+00:04:50.389 --> 00:04:53.110 align:start position:0%
+level of comfort<c.colorE5E5E5> knowing that everything
+is<00:04:50.539><c> safely</c><00:04:50.900><c> isolated</c><00:04:51.650><c> and</c><00:04:52.099><c> all</c><00:04:52.789><c> the</c><00:04:52.910><c> code</c></c>
+
+00:04:53.110 --> 00:04:53.120 align:start position:0%
+is safely isolated and all the code
+ 
+
+00:04:53.120 --> 00:04:54.879 align:start position:0%
+is safely isolated and all the code
+examples<00:04:53.599><c> in</c><c.colorE5E5E5><00:04:53.690><c> this</c><00:04:53.810><c> course</c><00:04:54.110><c> you'll</c><00:04:54.440><c> see</c><00:04:54.680><c> me</c></c>
+
+00:04:54.879 --> 00:04:54.889 align:start position:0%
+examples in<c.colorE5E5E5> this course you'll see me
+ </c>
+
+00:04:54.889 --> 00:04:57.370 align:start position:0%
+examples in<c.colorE5E5E5> this course you'll see me</c>
+<c.colorE5E5E5>using<00:04:55.310><c> Microsoft's</c><00:04:55.970><c> Visual</c><00:04:56.000><c> Code</c><00:04:56.599><c> you're</c></c>
+
+00:04:57.370 --> 00:04:57.380 align:start position:0%
+<c.colorE5E5E5>using Microsoft's Visual Code you're
+ </c>
+
+00:04:57.380 --> 00:04:58.749 align:start position:0%
+<c.colorE5E5E5>using Microsoft's Visual Code you're
+free<00:04:57.620><c> to</c></c><c.colorCCCCCC><00:04:57.740><c> use</c><00:04:57.889><c> any</c><00:04:58.160><c> editor</c></c><c.colorE5E5E5><00:04:58.370><c> you're</c></c>
+
+00:04:58.749 --> 00:04:58.759 align:start position:0%
+free<c.colorE5E5E5> to</c><c.colorCCCCCC> use any editor</c><c.colorE5E5E5> you're
+ </c>
+
+00:04:58.759 --> 00:05:00.610 align:start position:0%
+free<c.colorE5E5E5> to</c><c.colorCCCCCC> use any editor</c><c.colorE5E5E5> you're
+comfortable<00:04:59.240><c> with</c><00:04:59.389><c> but</c><00:05:00.050><c> if</c><00:05:00.139><c> you</c><00:05:00.229><c> don't</c><00:05:00.440><c> have</c></c>
+
+00:05:00.610 --> 00:05:00.620 align:start position:0%
+comfortable with<c.colorE5E5E5> but if you don't have
+ </c>
+
+00:05:00.620 --> 00:05:03.189 align:start position:0%
+comfortable with<c.colorE5E5E5> but if you don't have
+one<00:05:00.830><c> currently</c><00:05:01.340><c> I</c><00:05:01.520><c> recommend</c><00:05:02.270><c> visual</c><00:05:02.659><c> code</c></c><c.colorCCCCCC><00:05:02.930><c> I</c></c>
+
+00:05:03.189 --> 00:05:03.199 align:start position:0%
+one<c.colorE5E5E5> currently I recommend visual code</c><c.colorCCCCCC> I
+ </c>
+
+00:05:03.199 --> 00:05:05.680 align:start position:0%
+one<c.colorE5E5E5> currently I recommend visual code</c><c.colorCCCCCC> I
+can<00:05:04.070><c> go</c><00:05:04.190><c> on</c></c><c.colorE5E5E5><00:05:04.340><c> and</c><00:05:04.520><c> on</c><00:05:04.550><c> about</c><00:05:04.760><c> the</c><00:05:04.970><c> features</c><00:05:05.360><c> but</c></c>
+
+00:05:05.680 --> 00:05:05.690 align:start position:0%
+can go on<c.colorE5E5E5> and on about the features but
+ </c>
+
+00:05:05.690 --> 00:05:07.360 align:start position:0%
+can go on<c.colorE5E5E5> and on about the features but
+I'll<00:05:05.810><c> spare</c><00:05:06.110><c> you</c><00:05:06.199><c> the</c><00:05:06.320><c> details</c><00:05:06.349><c> and</c><00:05:07.070><c> avoid</c></c>
+
+00:05:07.360 --> 00:05:07.370 align:start position:0%
+I'll<c.colorE5E5E5> spare you the details and avoid
+ </c>
+
+00:05:07.370 --> 00:05:09.189 align:start position:0%
+I'll<c.colorE5E5E5> spare you the details and avoid
+making<00:05:07.580><c> this</c></c><c.colorCCCCCC><00:05:07.849><c> sound</c><00:05:08.090><c> like</c></c><c.colorE5E5E5><00:05:08.180><c> a</c><00:05:08.240><c> sales</c><00:05:08.599><c> pitch</c><00:05:08.870><c> oh</c></c>
+
+00:05:09.189 --> 00:05:09.199 align:start position:0%
+making<c.colorE5E5E5> this</c><c.colorCCCCCC> sound like</c><c.colorE5E5E5> a sales pitch oh
+ </c>
+
+00:05:09.199 --> 00:05:12.159 align:start position:0%
+making<c.colorE5E5E5> this</c><c.colorCCCCCC> sound like</c><c.colorE5E5E5> a sales pitch oh
+but<00:05:10.130><c> did</c><00:05:10.220><c> I</c></c><c.colorCCCCCC><00:05:10.340><c> mention</c><00:05:10.490><c> it's</c><00:05:10.789><c> free</c></c><c.colorE5E5E5><00:05:10.849><c> anyway</c></c><c.colorCCCCCC><00:05:11.330><c> if</c></c>
+
+00:05:12.159 --> 00:05:12.169 align:start position:0%
+<c.colorE5E5E5>but did I</c><c.colorCCCCCC> mention it's free</c><c.colorE5E5E5> anyway</c><c.colorCCCCCC> if
+ </c>
+
+00:05:12.169 --> 00:05:14.260 align:start position:0%
+<c.colorE5E5E5>but did I</c><c.colorCCCCCC> mention it's free</c><c.colorE5E5E5> anyway</c><c.colorCCCCCC> if
+you're<00:05:12.770><c> so</c><00:05:12.949><c> inclined</c></c><c.colorE5E5E5><00:05:13.070><c> you</c><00:05:13.520><c> can</c><00:05:13.669><c> download</c><00:05:13.940><c> it</c></c>
+
+00:05:14.260 --> 00:05:14.270 align:start position:0%
+you're so inclined<c.colorE5E5E5> you can download it
+ </c>
+
+00:05:14.270 --> 00:05:17.710 align:start position:0%
+you're so inclined<c.colorE5E5E5> you can download it
+from<00:05:14.389><c> code</c><00:05:14.720><c> that</c></c><c.colorCCCCCC><00:05:14.990><c> visual</c><00:05:15.320><c> studio</c><00:05:15.680><c> comm</c><00:05:16.720><c> the</c></c>
+
+00:05:17.710 --> 00:05:17.720 align:start position:0%
+from code<c.colorE5E5E5> that</c><c.colorCCCCCC> visual studio comm the
+ </c>
+
+00:05:17.720 --> 00:05:18.939 align:start position:0%
+from code<c.colorE5E5E5> that</c><c.colorCCCCCC> visual studio comm the
+last<00:05:17.930><c> thing</c><00:05:18.110><c> I</c><00:05:18.169><c> want</c></c><c.colorE5E5E5><00:05:18.349><c> to</c><00:05:18.409><c> touch</c><00:05:18.560><c> on</c><00:05:18.740><c> in</c><00:05:18.919><c> this</c></c>
+
+00:05:18.939 --> 00:05:18.949 align:start position:0%
+last thing I want<c.colorE5E5E5> to touch on in this
+ </c>
+
+00:05:18.949 --> 00:05:20.680 align:start position:0%
+last thing I want<c.colorE5E5E5> to touch on in this
+video<00:05:19.220><c> is</c><00:05:19.430><c> the</c><00:05:19.789><c> folder</c><00:05:20.150><c> layout</c><00:05:20.449><c> of</c><00:05:20.599><c> our</c></c>
+
+00:05:20.680 --> 00:05:20.690 align:start position:0%
+video<c.colorE5E5E5> is the folder layout of our
+ </c>
+
+00:05:20.690 --> 00:05:22.990 align:start position:0%
+video<c.colorE5E5E5> is the folder layout of our
+project<00:05:21.229><c> as</c><00:05:21.349><c> your</c><00:05:22.099><c> project</c><00:05:22.550><c> grows</c><00:05:22.820><c> in</c></c>
+
+00:05:22.990 --> 00:05:23.000 align:start position:0%
+project<c.colorE5E5E5> as your project grows in
+ </c>
+
+00:05:23.000 --> 00:05:25.180 align:start position:0%
+project<c.colorE5E5E5> as your project grows in
+complexity<00:05:23.539><c> having</c><00:05:24.260><c> good</c><00:05:24.470><c> organization</c></c>
+
+00:05:25.180 --> 00:05:25.190 align:start position:0%
+complexity having good organization
+ 
+
+00:05:25.190 --> 00:05:27.670 align:start position:0%
+complexity having good organization
+skills<00:05:25.460><c> is</c><00:05:25.699><c> a</c><00:05:25.729><c> must</c><c.colorE5E5E5><00:05:26.090><c> to</c></c><c.colorCCCCCC><00:05:26.360><c> help</c><00:05:27.139><c> you</c><00:05:27.229><c> understand</c></c>
+
+00:05:27.670 --> 00:05:27.680 align:start position:0%
+skills is a must<c.colorE5E5E5> to</c><c.colorCCCCCC> help you understand
+ </c>
+
+00:05:27.680 --> 00:05:29.620 align:start position:0%
+skills is a must<c.colorE5E5E5> to</c><c.colorCCCCCC> help you understand
+how<00:05:27.770><c> this</c><00:05:28.039><c> project</c><00:05:28.310><c> is</c><00:05:28.610><c> organized</c><00:05:29.120><c> I</c><00:05:29.419><c> thought</c></c>
+
+00:05:29.620 --> 00:05:29.630 align:start position:0%
+how<c.colorCCCCCC> this project is organized I thought
+ </c>
+
+00:05:29.630 --> 00:05:30.909 align:start position:0%
+how<c.colorCCCCCC> this project is organized I thought
+it<00:05:29.750><c> would</c><00:05:29.840><c> be</c><00:05:29.960><c> worth</c><00:05:30.139><c> highlighting</c><00:05:30.440><c> some</c><00:05:30.889><c> of</c></c>
+
+00:05:30.909 --> 00:05:30.919 align:start position:0%
+it would be worth highlighting some of
+ 
+
+00:05:30.919 --> 00:05:33.610 align:start position:0%
+it would be worth highlighting some of
+the<00:05:31.039><c> important</c><00:05:31.550><c> folders</c><00:05:32.409><c> starting</c><00:05:33.409><c> at</c><c.colorE5E5E5><00:05:33.500><c> the</c></c>
+
+00:05:33.610 --> 00:05:33.620 align:start position:0%
+the important folders starting at<c.colorE5E5E5> the
+ </c>
+
+00:05:33.620 --> 00:05:35.589 align:start position:0%
+the important folders starting at<c.colorE5E5E5> the
+top<00:05:33.830><c> we</c><00:05:34.159><c> have</c><00:05:34.190><c> the</c><00:05:34.370><c> build</c><00:05:34.580><c> folder</c><00:05:34.820><c> when</c><00:05:35.479><c> we</c></c>
+
+00:05:35.589 --> 00:05:35.599 align:start position:0%
+<c.colorE5E5E5>top we have the build folder when we
+ </c>
+
+00:05:35.599 --> 00:05:37.629 align:start position:0%
+<c.colorE5E5E5>top we have the build folder when we</c>
+<c.colorE5E5E5>compile</c><c.colorCCCCCC><00:05:35.960><c> our</c><00:05:36.139><c> smart</c><00:05:36.409><c> contracts</c><00:05:36.949><c> the</c><00:05:37.250><c> output</c></c>
+
+00:05:37.629 --> 00:05:37.639 align:start position:0%
+<c.colorE5E5E5>compile</c><c.colorCCCCCC> our smart contracts the output
+ </c>
+
+00:05:37.639 --> 00:05:39.219 align:start position:0%
+<c.colorE5E5E5>compile</c><c.colorCCCCCC> our smart contracts the output
+is<00:05:37.729><c> stored</c><00:05:37.940><c> here</c><00:05:38.449><c> so</c><00:05:38.659><c> that</c><00:05:38.810><c> our</c></c><c.colorE5E5E5><00:05:38.840><c> react</c></c>
+
+00:05:39.219 --> 00:05:39.229 align:start position:0%
+is stored<c.colorCCCCCC> here so that our</c><c.colorE5E5E5> react
+ </c>
+
+00:05:39.229 --> 00:05:42.250 align:start position:0%
+is stored<c.colorCCCCCC> here so that our</c><c.colorE5E5E5> react
+application<00:05:39.889><c> can</c><00:05:40.070><c> find</c><00:05:40.370><c> them</c><00:05:41.020><c> below</c><00:05:42.020><c> that</c></c>
+
+00:05:42.250 --> 00:05:42.260 align:start position:0%
+application can find them below<c.colorE5E5E5> that
+ </c>
+
+00:05:42.260 --> 00:05:44.379 align:start position:0%
+application can find them below<c.colorE5E5E5> that
+you'll<00:05:42.560><c> find</c></c><c.colorCCCCCC><00:05:42.620><c> the</c><00:05:42.919><c> contracts</c><00:05:43.460><c> folder</c><00:05:43.669><c> where</c></c>
+
+00:05:44.379 --> 00:05:44.389 align:start position:0%
+you'll find<c.colorCCCCCC> the contracts folder where
+ </c>
+
+00:05:44.389 --> 00:05:46.270 align:start position:0%
+you'll find<c.colorCCCCCC> the contracts folder where</c>
+<c.colorE5E5E5>we<00:05:44.570><c> will</c><00:05:44.720><c> store</c><00:05:45.050><c> the</c><00:05:45.229><c> solidity</c><00:05:45.710><c> code</c><00:05:46.070><c> that</c></c>
+
+00:05:46.270 --> 00:05:46.280 align:start position:0%
+<c.colorE5E5E5>we will store the solidity code that
+ </c>
+
+00:05:46.280 --> 00:05:49.870 align:start position:0%
+<c.colorE5E5E5>we will store the solidity code that</c>
+<c.colorE5E5E5>makes<00:05:46.490><c> up</c><00:05:46.699><c> our</c><00:05:46.849><c> smart</c><00:05:47.180><c> contract</c><00:05:48.220><c> SRC</c><00:05:49.220><c> or</c><00:05:49.550><c> the</c></c>
+
+00:05:49.870 --> 00:05:49.880 align:start position:0%
+<c.colorE5E5E5>makes up our smart contract SRC or the
+ </c>
+
+00:05:49.880 --> 00:05:52.000 align:start position:0%
+<c.colorE5E5E5>makes up our smart contract SRC or the
+source<00:05:50.180><c> folder</c></c><c.colorCCCCCC><00:05:50.419><c> is</c></c><c.colorE5E5E5><00:05:50.750><c> where</c><00:05:51.320><c> we'll</c><00:05:51.470><c> store</c><00:05:51.800><c> all</c></c>
+
+00:05:52.000 --> 00:05:52.010 align:start position:0%
+source folder<c.colorCCCCCC> is</c><c.colorE5E5E5> where we'll store all
+ </c>
+
+00:05:52.010 --> 00:05:53.770 align:start position:0%
+source folder<c.colorCCCCCC> is</c><c.colorE5E5E5> where we'll store all
+of<00:05:52.039><c> the</c><00:05:52.280><c> source</c><00:05:52.610><c> code</c><00:05:52.970><c> for</c><00:05:53.240><c> our</c><00:05:53.300><c> react</c></c>
+
+00:05:53.770 --> 00:05:53.780 align:start position:0%
+of<c.colorE5E5E5> the source code for our react
+ </c>
+
+00:05:53.780 --> 00:05:55.510 align:start position:0%
+of<c.colorE5E5E5> the source code for our react
+application</c>
+
+00:05:55.510 --> 00:05:55.520 align:start position:0%
+application
+ 
+
+00:05:55.520 --> 00:05:57.460 align:start position:0%
+application
+inside<00:05:56.120><c> the</c><00:05:56.270><c> source</c><c.colorE5E5E5><00:05:56.509><c> folder</c><00:05:56.780><c> you'll</c><00:05:57.080><c> find</c></c><c.colorCCCCCC><00:05:57.139><c> the</c></c>
+
+00:05:57.460 --> 00:05:57.470 align:start position:0%
+inside the source<c.colorE5E5E5> folder you'll find</c><c.colorCCCCCC> the
+ </c>
+
+00:05:57.470 --> 00:05:59.890 align:start position:0%
+inside the source<c.colorE5E5E5> folder you'll find</c><c.colorCCCCCC> the
+containers<00:05:58.099><c> folder</c></c><c.colorE5E5E5><00:05:58.550><c> that</c><00:05:59.000><c> makes</c><00:05:59.300><c> up</c><00:05:59.509><c> our</c><00:05:59.629><c> main</c></c>
+
+00:05:59.890 --> 00:05:59.900 align:start position:0%
+containers folder<c.colorE5E5E5> that makes up our main
+ </c>
+
+00:05:59.900 --> 00:06:02.260 align:start position:0%
+containers folder<c.colorE5E5E5> that makes up our main
+UI<00:06:00.199><c> elements</c><00:06:00.830><c> such</c></c><c.colorCCCCCC><00:06:00.979><c> as</c><00:06:01.129><c> the</c><00:06:01.250><c> home</c><00:06:01.430><c> screen</c><00:06:01.910><c> the</c></c>
+
+00:06:02.260 --> 00:06:02.270 align:start position:0%
+UI elements such<c.colorCCCCCC> as the home screen the
+ </c>
+
+00:06:02.270 --> 00:06:04.420 align:start position:0%
+UI elements such<c.colorCCCCCC> as the home screen the
+add<00:06:02.419><c> item</c><00:06:02.780><c> screen</c><00:06:03.259><c> and</c><00:06:03.620><c> the</c><00:06:03.740><c> claim</c><00:06:04.009><c> fund</c></c>
+
+00:06:04.420 --> 00:06:04.430 align:start position:0%
+add item screen and the claim fund
+ 
+
+00:06:04.430 --> 00:06:08.110 align:start position:0%
+add item screen and the claim fund
+screen<00:06:05.169><c> the</c><00:06:06.169><c> core</c><00:06:06.500><c> folder</c><c.colorE5E5E5><00:06:06.800><c> is</c><00:06:07.159><c> where</c><00:06:07.699><c> we'll</c></c><c.colorCCCCCC><00:06:07.940><c> be</c></c>
+
+00:06:08.110 --> 00:06:08.120 align:start position:0%
+screen the core folder<c.colorE5E5E5> is where we'll</c><c.colorCCCCCC> be
+ </c>
+
+00:06:08.120 --> 00:06:10.059 align:start position:0%
+screen the core folder<c.colorE5E5E5> is where we'll</c><c.colorCCCCCC> be
+storing<00:06:08.599><c> the</c><00:06:08.720><c> code</c><00:06:08.960><c> for</c><00:06:09.349><c> our</c><00:06:09.379><c> actions</c><00:06:09.949><c> and</c></c>
+
+00:06:10.059 --> 00:06:10.069 align:start position:0%
+storing the code for our actions and
+ 
+
+00:06:10.069 --> 00:06:12.670 align:start position:0%
+storing the code for our actions and
+reducers<c.colorCCCCCC><00:06:10.639><c> and</c><00:06:10.940><c> now</c><00:06:11.810><c> you</c><00:06:11.870><c> have</c><00:06:12.080><c> all</c><00:06:12.349><c> the</c><00:06:12.500><c> tools</c></c>
+
+00:06:12.670 --> 00:06:12.680 align:start position:0%
+reducers<c.colorCCCCCC> and now you have all the tools
+ </c>
+
+00:06:12.680 --> 00:06:14.129 align:start position:0%
+reducers<c.colorCCCCCC> and now you have all the tools
+you<00:06:12.949><c> need</c><00:06:13.039><c> to</c><00:06:13.520><c> build</c><00:06:13.639><c> decentralized</c></c>
+
+00:06:14.129 --> 00:06:14.139 align:start position:0%
+you<c.colorCCCCCC> need to build decentralized
+ </c>
+
+00:06:14.139 --> 00:06:16.540 align:start position:0%
+you<c.colorCCCCCC> need to build decentralized
+applications<00:06:15.139><c> on</c><00:06:15.319><c> the</c><00:06:15.470><c> etherium</c><00:06:15.979><c> blockchain</c></c>
+
+00:06:16.540 --> 00:06:16.550 align:start position:0%
+<c.colorCCCCCC>applications on the etherium blockchain
+ </c>
+
+00:06:16.550 --> 00:06:18.550 align:start position:0%
+<c.colorCCCCCC>applications on the etherium blockchain
+so<00:06:17.150><c> it's</c><00:06:17.270><c> time</c><00:06:17.419><c> to</c><00:06:17.449><c> roll</c><00:06:17.720><c> up</c><00:06:17.750><c> your</c></c><c.colorE5E5E5><00:06:17.960><c> sleeves</c><00:06:18.289><c> and</c></c>
+
+00:06:18.550 --> 00:06:18.560 align:start position:0%
+so it's time to<c.colorCCCCCC> roll up your</c><c.colorE5E5E5> sleeves and
+ </c>
+
+00:06:18.560 --> 00:06:21.070 align:start position:0%
+so it's time to<c.colorCCCCCC> roll up your</c><c.colorE5E5E5> sleeves and
+get<00:06:18.740><c> your</c><00:06:18.949><c> hands</c><00:06:19.129><c> dirty</c></c><c.colorCCCCCC><00:06:19.370><c> in</c><00:06:19.669><c> the</c><00:06:20.509><c> next</c><00:06:20.810><c> section</c></c>
+
+00:06:21.070 --> 00:06:21.080 align:start position:0%
+get<c.colorE5E5E5> your hands dirty</c><c.colorCCCCCC> in the next section
+ </c>
+
+00:06:21.080 --> 00:06:22.450 align:start position:0%
+get<c.colorE5E5E5> your hands dirty</c><c.colorCCCCCC> in the next section
+we're<00:06:21.199><c> gonna</c><00:06:21.319><c> build</c><00:06:21.590><c> our</c></c><c.colorE5E5E5><00:06:21.710><c> first</c><00:06:22.069><c> smart</c></c>
+
+00:06:22.450 --> 00:06:22.460 align:start position:0%
+we're<c.colorCCCCCC> gonna build our</c><c.colorE5E5E5> first smart
+ </c>
+
+00:06:22.460 --> 00:06:25.059 align:start position:0%
+we're<c.colorCCCCCC> gonna build our</c><c.colorE5E5E5> first smart
+contract<00:06:23.030><c> in</c><00:06:23.240><c> doing</c><00:06:24.139><c> so</c><00:06:24.319><c> I'm</c><00:06:24.530><c> gonna</c><00:06:24.650><c> teach</c><00:06:24.919><c> you</c></c>
+
+00:06:25.059 --> 00:06:25.069 align:start position:0%
+contract<c.colorE5E5E5> in doing so I'm gonna teach you
+ </c>
+
+00:06:25.069 --> 00:06:27.790 align:start position:0%
+contract<c.colorE5E5E5> in doing so I'm gonna teach you
+about<00:06:25.129><c> datatypes</c><00:06:25.909><c> functions</c><00:06:26.720><c> modifiers</c><00:06:27.440><c> and</c></c>
+
+00:06:27.790 --> 00:06:27.800 align:start position:0%
+about<c.colorE5E5E5> datatypes functions modifiers and
+ </c>
+
+00:06:27.800 --> 00:06:29.589 align:start position:0%
+about<c.colorE5E5E5> datatypes functions modifiers and
+how<00:06:28.190><c> to</c><00:06:28.250><c> bring</c></c><c.colorCCCCCC><00:06:28.430><c> all</c><00:06:28.669><c> of</c></c><c.colorE5E5E5><00:06:28.699><c> those</c><00:06:28.909><c> together</c><00:06:29.150><c> to</c></c>
+
+00:06:29.589 --> 00:06:29.599 align:start position:0%
+how to bring<c.colorCCCCCC> all of</c><c.colorE5E5E5> those together to
+ </c>
+
+00:06:29.599 --> 00:06:31.240 align:start position:0%
+how to bring<c.colorCCCCCC> all of</c><c.colorE5E5E5> those together to</c>
+<c.colorCCCCCC>implement<00:06:30.110><c> your</c><00:06:30.199><c> business</c><00:06:30.620><c> logic</c></c><c.colorE5E5E5><00:06:30.800><c> and</c><00:06:31.220><c> a</c></c>
+
+00:06:31.240 --> 00:06:31.250 align:start position:0%
+<c.colorCCCCCC>implement your business logic</c><c.colorE5E5E5> and a
+ </c>
+
+00:06:31.250 --> 00:06:33.430 align:start position:0%
+<c.colorCCCCCC>implement your business logic</c><c.colorE5E5E5> and a
+smart<00:06:31.580><c> contract</c></c><c.colorCCCCCC><00:06:31.789><c> I</c><00:06:32.330><c> hope</c><00:06:33.110><c> you're</c><00:06:33.289><c> as</c><00:06:33.409><c> excited</c></c>
+
+00:06:33.430 --> 00:06:33.440 align:start position:0%
+smart contract<c.colorCCCCCC> I hope you're as excited
+ </c>
+
+00:06:33.440 --> 00:06:35.620 align:start position:0%
+smart contract<c.colorCCCCCC> I hope you're as excited
+as<00:06:33.979><c> I</c><00:06:34.190><c> am</c></c><c.colorE5E5E5><00:06:34.220><c> and</c><00:06:34.639><c> I'll</c><00:06:34.849><c> see</c><00:06:35.060><c> you</c><00:06:35.150><c> in</c><00:06:35.270><c> the</c><00:06:35.360><c> next</c></c>
+
+00:06:35.620 --> 00:06:35.630 align:start position:0%
+as I am<c.colorE5E5E5> and I'll see you in the next
+ </c>
+
+00:06:35.630 --> 00:06:38.020 align:start position:0%
+as I am<c.colorE5E5E5> and I'll see you in the next</c>
+<c.colorE5E5E5>section</c>
+

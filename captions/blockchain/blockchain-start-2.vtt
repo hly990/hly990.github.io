@@ -1,0 +1,1862 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.310 --> 00:00:02.699 align:start position:0%
+ 
+in<00:00:00.420><c> section</c><c.colorCCCCCC><00:00:01.420><c> 1</c></c><c.colorE5E5E5><00:00:01.629><c> we're</c><00:00:02.080><c> gonna</c><00:00:02.170><c> start</c><00:00:02.590><c> at</c><00:00:02.679><c> the</c></c>
+
+00:00:02.699 --> 00:00:02.709 align:start position:0%
+in section<c.colorCCCCCC> 1</c><c.colorE5E5E5> we're gonna start at the
+ </c>
+
+00:00:02.709 --> 00:00:04.619 align:start position:0%
+in section<c.colorCCCCCC> 1</c><c.colorE5E5E5> we're gonna start at the</c>
+<c.colorE5E5E5>end<00:00:02.979><c> I'm</c><00:00:03.489><c> gonna</c><00:00:03.699><c> show</c><00:00:03.969><c> you</c><00:00:04.030><c> what</c><00:00:04.390><c> the</c></c><c.colorCCCCCC><00:00:04.480><c> end</c></c>
+
+00:00:04.619 --> 00:00:04.629 align:start position:0%
+<c.colorE5E5E5>end I'm gonna show you what the</c><c.colorCCCCCC> end
+ </c>
+
+00:00:04.629 --> 00:00:06.480 align:start position:0%
+<c.colorE5E5E5>end I'm gonna show you what the</c><c.colorCCCCCC> end
+project<00:00:05.259><c> looks</c><00:00:05.529><c> like</c><00:00:05.770><c> so</c></c><c.colorE5E5E5><00:00:06.100><c> that</c><00:00:06.189><c> you</c></c><c.colorCCCCCC><00:00:06.250><c> have</c><00:00:06.460><c> a</c></c>
+
+00:00:06.480 --> 00:00:06.490 align:start position:0%
+<c.colorCCCCCC>project looks like so</c><c.colorE5E5E5> that you</c><c.colorCCCCCC> have a
+ </c>
+
+00:00:06.490 --> 00:00:08.220 align:start position:0%
+<c.colorCCCCCC>project looks like so</c><c.colorE5E5E5> that you</c><c.colorCCCCCC> have a
+solid<00:00:07.029><c> understanding</c></c><c.colorE5E5E5><00:00:07.120><c> of</c><00:00:07.839><c> what</c><00:00:08.050><c> we'll</c><00:00:08.200><c> be</c></c>
+
+00:00:08.220 --> 00:00:08.230 align:start position:0%
+solid understanding<c.colorE5E5E5> of what we'll be
+ </c>
+
+00:00:08.230 --> 00:00:10.980 align:start position:0%
+solid understanding<c.colorE5E5E5> of what we'll be</c>
+<c.colorCCCCCC>building<00:00:08.650><c> throughout</c></c><c.colorE5E5E5><00:00:09.130><c> this</c><00:00:09.400><c> course</c><00:00:09.990><c> we'll</c></c>
+
+00:00:10.980 --> 00:00:10.990 align:start position:0%
+<c.colorCCCCCC>building throughout</c><c.colorE5E5E5> this course we'll
+ </c>
+
+00:00:10.990 --> 00:00:12.870 align:start position:0%
+<c.colorCCCCCC>building throughout</c><c.colorE5E5E5> this course we'll</c>
+<c.colorCCCCCC>learn<00:00:11.110><c> how</c><00:00:11.350><c> posting</c><00:00:11.890><c> an</c><00:00:12.010><c> item</c><00:00:12.280><c> for</c><00:00:12.430><c> sale</c></c><c.colorE5E5E5><00:00:12.640><c> in</c></c>
+
+00:00:12.870 --> 00:00:12.880 align:start position:0%
+<c.colorCCCCCC>learn how posting an item for sale</c><c.colorE5E5E5> in
+ </c>
+
+00:00:12.880 --> 00:00:14.490 align:start position:0%
+<c.colorCCCCCC>learn how posting an item for sale</c><c.colorE5E5E5> in
+the</c><c.colorCCCCCC><00:00:12.970><c> marketplace</c><00:00:13.540><c> interacts</c><00:00:14.200><c> with</c><00:00:14.380><c> the</c></c>
+
+00:00:14.490 --> 00:00:14.500 align:start position:0%
+the<c.colorCCCCCC> marketplace interacts with the
+ </c>
+
+00:00:14.500 --> 00:00:16.859 align:start position:0%
+the<c.colorCCCCCC> marketplace interacts with the
+etherium<00:00:15.040><c> network</c><00:00:15.430><c> and</c><00:00:15.670><c> you'll</c><00:00:16.509><c> learn</c><00:00:16.660><c> how</c></c><c.colorE5E5E5><00:00:16.720><c> to</c></c>
+
+00:00:16.859 --> 00:00:16.869 align:start position:0%
+etherium network and you'll learn how<c.colorE5E5E5> to
+ </c>
+
+00:00:16.869 --> 00:00:19.230 align:start position:0%
+etherium network and you'll learn how<c.colorE5E5E5> to
+send<00:00:17.259><c> funds</c><00:00:17.619><c> and</c><00:00:17.949><c> sign</c><00:00:18.189><c> transactions</c><00:00:19.060><c> to</c></c>
+
+00:00:19.230 --> 00:00:19.240 align:start position:0%
+<c.colorE5E5E5>send funds and sign transactions to
+ </c>
+
+00:00:19.240 --> 00:00:21.109 align:start position:0%
+<c.colorE5E5E5>send funds and sign transactions to
+purchase<00:00:19.599><c> an</c><00:00:19.720><c> item</c><00:00:20.050><c> on</c><00:00:20.140><c> the</c><00:00:20.259><c> marketplace</c></c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+purchase an<c.colorE5E5E5> item on the marketplace
+ </c>
+
+00:00:21.119 --> 00:00:23.790 align:start position:0%
+purchase an<c.colorE5E5E5> item on the marketplace
+you'll<00:00:22.119><c> see</c><00:00:22.359><c> how</c><00:00:22.509><c> to</c><00:00:22.570><c> confirm</c><00:00:22.960><c> a</c><00:00:23.019><c> transaction</c></c>
+
+00:00:23.790 --> 00:00:23.800 align:start position:0%
+<c.colorE5E5E5>you'll see how to confirm a transaction
+ </c>
+
+00:00:23.800 --> 00:00:26.040 align:start position:0%
+<c.colorE5E5E5>you'll see how to confirm a transaction
+that's<00:00:23.949><c> been</c><00:00:24.220><c> successfully</c><00:00:24.910><c> mined</c><00:00:25.210><c> and</c><00:00:25.419><c> then</c></c>
+
+00:00:26.040 --> 00:00:26.050 align:start position:0%
+that's<c.colorE5E5E5> been successfully mined and then
+ </c>
+
+00:00:26.050 --> 00:00:27.689 align:start position:0%
+that's<c.colorE5E5E5> been successfully mined and then
+we'll<00:00:26.380><c> go</c><00:00:26.529><c> through</c></c><c.colorCCCCCC><00:00:26.560><c> setting</c></c><c.colorE5E5E5><00:00:27.189><c> up</c><00:00:27.310><c> all</c><00:00:27.550><c> the</c></c>
+
+00:00:27.689 --> 00:00:27.699 align:start position:0%
+we'll go through<c.colorCCCCCC> setting</c><c.colorE5E5E5> up all the
+ </c>
+
+00:00:27.699 --> 00:00:29.339 align:start position:0%
+we'll go through<c.colorCCCCCC> setting</c><c.colorE5E5E5> up all the
+tools<00:00:27.909><c> that</c><00:00:28.179><c> you're</c></c><c.colorCCCCCC><00:00:28.509><c> going</c></c><c.colorE5E5E5><00:00:28.720><c> to</c><00:00:28.810><c> need</c><00:00:28.990><c> to</c><00:00:29.259><c> be</c></c>
+
+00:00:29.339 --> 00:00:29.349 align:start position:0%
+tools that you're<c.colorCCCCCC> going</c><c.colorE5E5E5> to need to be
+ </c>
+
+00:00:29.349 --> 00:00:31.860 align:start position:0%
+tools that you're<c.colorCCCCCC> going</c><c.colorE5E5E5> to need to be
+successful</c><c.colorCCCCCC><00:00:29.529><c> in</c><00:00:30.189><c> this</c><00:00:30.339><c> course</c></c>
+
+00:00:31.860 --> 00:00:31.870 align:start position:0%
+successful<c.colorCCCCCC> in this course
+ </c>
+
+00:00:31.870 --> 00:00:33.360 align:start position:0%
+successful<c.colorCCCCCC> in this course
+well<00:00:32.439><c> now</c></c><c.colorE5E5E5><00:00:32.590><c> that</c><00:00:32.740><c> we</c><00:00:32.800><c> have</c><00:00:32.950><c> a</c><00:00:32.980><c> general</c></c>
+
+00:00:33.360 --> 00:00:33.370 align:start position:0%
+well now<c.colorE5E5E5> that we have a general
+ </c>
+
+00:00:33.370 --> 00:00:35.130 align:start position:0%
+well now<c.colorE5E5E5> that we have a general
+understanding<00:00:33.430><c> of</c><00:00:34.240><c> the</c><00:00:34.360><c> role</c><00:00:34.570><c> of</c><00:00:34.600><c> smart</c></c>
+
+00:00:35.130 --> 00:00:35.140 align:start position:0%
+understanding<c.colorE5E5E5> of the role of smart
+ </c>
+
+00:00:35.140 --> 00:00:37.800 align:start position:0%
+understanding<c.colorE5E5E5> of the role of smart
+contracts<00:00:35.740><c> decentralized</c><00:00:36.670><c> applications</c><00:00:36.910><c> and</c></c>
+
+00:00:37.800 --> 00:00:37.810 align:start position:0%
+contracts decentralized applications<c.colorE5E5E5> and
+ </c>
+
+00:00:37.810 --> 00:00:39.510 align:start position:0%
+contracts decentralized applications<c.colorE5E5E5> and
+project<00:00:38.590><c> that</c><00:00:38.739><c> we'll</c><00:00:38.860><c> be</c><00:00:39.010><c> building</c><00:00:39.220><c> in</c><00:00:39.489><c> this</c></c>
+
+00:00:39.510 --> 00:00:39.520 align:start position:0%
+project<c.colorE5E5E5> that we'll be building in this
+ </c>
+
+00:00:39.520 --> 00:00:41.700 align:start position:0%
+project<c.colorE5E5E5> that we'll be building in this</c>
+<c.colorE5E5E5>course<00:00:39.940><c> let's</c><00:00:40.840><c> take</c><00:00:41.050><c> a</c><00:00:41.080><c> look</c><00:00:41.320><c> at</c><00:00:41.410><c> the</c><00:00:41.500><c> life</c></c>
+
+00:00:41.700 --> 00:00:41.710 align:start position:0%
+<c.colorE5E5E5>course let's take a look at the life
+ </c>
+
+00:00:41.710 --> 00:00:43.799 align:start position:0%
+<c.colorE5E5E5>course let's take a look at the life
+cycle</c><c.colorCCCCCC><00:00:41.739><c> of</c><00:00:42.250><c> events</c><00:00:42.610><c> that</c><00:00:42.970><c> occur</c><00:00:43.360><c> when</c><00:00:43.660><c> we're</c></c>
+
+00:00:43.799 --> 00:00:43.809 align:start position:0%
+cycle<c.colorCCCCCC> of events that occur when we're
+ </c>
+
+00:00:43.809 --> 00:00:45.660 align:start position:0%
+cycle<c.colorCCCCCC> of events that occur when we're
+posting<00:00:44.230><c> an</c><00:00:44.380><c> item</c><00:00:44.620><c> for</c><00:00:44.770><c> sale</c><00:00:45.040><c> in</c><00:00:45.370><c> our</c><00:00:45.460><c> online</c></c>
+
+00:00:45.660 --> 00:00:45.670 align:start position:0%
+posting an item for<c.colorCCCCCC> sale in our online
+ </c>
+
+00:00:45.670 --> 00:00:49.020 align:start position:0%
+posting an item for<c.colorCCCCCC> sale in our online
+marketplace<00:00:46.540><c> in</c><00:00:47.070><c> this</c><00:00:48.070><c> video</c><00:00:48.370><c> we're</c><00:00:48.850><c> going</c></c><c.colorE5E5E5><00:00:48.940><c> to</c></c>
+
+00:00:49.020 --> 00:00:49.030 align:start position:0%
+marketplace<c.colorCCCCCC> in this video we're going</c><c.colorE5E5E5> to
+ </c>
+
+00:00:49.030 --> 00:00:51.060 align:start position:0%
+marketplace<c.colorCCCCCC> in this video we're going</c><c.colorE5E5E5> to
+learn<00:00:49.150><c> about</c></c><c.colorCCCCCC><00:00:49.210><c> the</c><00:00:49.570><c> role</c><00:00:49.809><c> of</c><00:00:49.840><c> react</c><00:00:50.440><c> and</c><00:00:50.680><c> redux</c></c>
+
+00:00:51.060 --> 00:00:51.070 align:start position:0%
+learn about<c.colorCCCCCC> the role of react and redux
+ </c>
+
+00:00:51.070 --> 00:00:53.610 align:start position:0%
+learn about<c.colorCCCCCC> the role of react and redux
+in<00:00:51.400><c> our</c><00:00:51.550><c> application</c></c><c.colorE5E5E5><00:00:52.300><c> we're</c><00:00:53.230><c> going</c><00:00:53.379><c> to</c><00:00:53.440><c> use</c></c>
+
+00:00:53.610 --> 00:00:53.620 align:start position:0%
+in our application<c.colorE5E5E5> we're going to use
+ </c>
+
+00:00:53.620 --> 00:00:55.920 align:start position:0%
+in our application<c.colorE5E5E5> we're going to use
+react<00:00:54.070><c> to</c><00:00:54.220><c> create</c><00:00:54.520><c> the</c><00:00:54.670><c> form</c><00:00:55.090><c> that</c></c><c.colorCCCCCC><00:00:55.540><c> provides</c></c>
+
+00:00:55.920 --> 00:00:55.930 align:start position:0%
+react to create the form that<c.colorCCCCCC> provides
+ </c>
+
+00:00:55.930 --> 00:00:58.020 align:start position:0%
+react to create the form that<c.colorCCCCCC> provides
+the<00:00:56.140><c> user</c><00:00:56.379><c> interface</c></c><c.colorE5E5E5><00:00:56.949><c> for</c></c><c.colorCCCCCC><00:00:57.220><c> our</c><00:00:57.430><c> user</c><00:00:57.670><c> to</c><00:00:57.910><c> add</c></c>
+
+00:00:58.020 --> 00:00:58.030 align:start position:0%
+the user interface<c.colorE5E5E5> for</c><c.colorCCCCCC> our user to add
+ </c>
+
+00:00:58.030 --> 00:01:00.330 align:start position:0%
+the user interface<c.colorE5E5E5> for</c><c.colorCCCCCC> our user to add
+an<00:00:58.330><c> item</c></c><c.colorE5E5E5><00:00:58.449><c> to</c><00:00:58.690><c> the</c><00:00:58.720><c> marketplace</c></c><c.colorCCCCCC><00:00:59.190><c> and</c><00:01:00.190><c> then</c></c>
+
+00:01:00.330 --> 00:01:00.340 align:start position:0%
+an item<c.colorE5E5E5> to the marketplace</c><c.colorCCCCCC> and then
+ </c>
+
+00:01:00.340 --> 00:01:01.979 align:start position:0%
+an item<c.colorE5E5E5> to the marketplace</c><c.colorCCCCCC> and then
+we're<00:01:00.430><c> going</c><00:01:00.520><c> to</c></c><c.colorE5E5E5><00:01:00.580><c> get</c><00:01:00.760><c> an</c><00:01:00.850><c> overview</c><00:01:01.330><c> of</c><00:01:01.570><c> how</c></c>
+
+00:01:01.979 --> 00:01:01.989 align:start position:0%
+we're going<c.colorCCCCCC> to</c><c.colorE5E5E5> get an overview of how
+ </c>
+
+00:01:01.989 --> 00:01:03.900 align:start position:0%
+we're going<c.colorCCCCCC> to</c><c.colorE5E5E5> get an overview of how</c>
+<c.colorCCCCCC>our<00:01:02.140><c> application</c><00:01:02.580><c> communicates</c><00:01:03.580><c> with</c><00:01:03.760><c> the</c></c>
+
+00:01:03.900 --> 00:01:03.910 align:start position:0%
+<c.colorCCCCCC>our application communicates with the
+ </c>
+
+00:01:03.910 --> 00:01:05.280 align:start position:0%
+<c.colorCCCCCC>our application communicates with the
+etherium<00:01:04.449><c> blockchain</c></c>
+
+00:01:05.280 --> 00:01:05.290 align:start position:0%
+etherium blockchain
+ 
+
+00:01:05.290 --> 00:01:06.540 align:start position:0%
+etherium blockchain
+and<00:01:05.380><c> we're</c><00:01:05.710><c> going</c><c.colorCCCCCC><00:01:05.800><c> to</c></c><c.colorE5E5E5><00:01:05.860><c> take</c><00:01:06.040><c> a</c><00:01:06.070><c> look</c><00:01:06.280><c> at</c><00:01:06.369><c> some</c></c>
+
+00:01:06.540 --> 00:01:06.550 align:start position:0%
+and we're going<c.colorCCCCCC> to</c><c.colorE5E5E5> take a look at some
+ </c>
+
+00:01:06.550 --> 00:01:08.480 align:start position:0%
+and we're going<c.colorCCCCCC> to</c><c.colorE5E5E5> take a look at some</c>
+<c.colorE5E5E5>of<00:01:06.640><c> the</c><00:01:06.729><c> code</c></c><c.colorCCCCCC><00:01:06.970><c> that</c><00:01:07.240><c> ties</c><00:01:07.540><c> this</c><00:01:07.810><c> all</c><00:01:08.020><c> together</c></c>
+
+00:01:08.480 --> 00:01:08.490 align:start position:0%
+<c.colorE5E5E5>of the code</c><c.colorCCCCCC> that ties this all together
+ </c>
+
+00:01:08.490 --> 00:01:11.040 align:start position:0%
+<c.colorE5E5E5>of the code</c><c.colorCCCCCC> that ties this all together</c>
+<c.colorE5E5E5>that<00:01:09.490><c> code</c><00:01:09.729><c> is</c><00:01:09.850><c> going</c><00:01:09.970><c> to</c><00:01:10.030><c> execute</c><00:01:10.090><c> the</c><00:01:10.720><c> smart</c></c>
+
+00:01:11.040 --> 00:01:11.050 align:start position:0%
+<c.colorE5E5E5>that code is going to execute the smart
+ </c>
+
+00:01:11.050 --> 00:01:13.230 align:start position:0%
+<c.colorE5E5E5>that code is going to execute the smart
+contract<00:01:11.290><c> function</c><00:01:12.100><c> out</c><00:01:12.250><c> on</c><00:01:12.550><c> the</c><00:01:12.759><c> etherium</c></c>
+
+00:01:13.230 --> 00:01:13.240 align:start position:0%
+contract function out<c.colorE5E5E5> on the etherium
+ </c>
+
+00:01:13.240 --> 00:01:15.600 align:start position:0%
+contract function out<c.colorE5E5E5> on the etherium
+blockchain<00:01:13.840><c> and</c><00:01:14.050><c> once</c><00:01:14.830><c> that</c><00:01:15.009><c> update</c></c><c.colorCCCCCC><00:01:15.460><c> is</c></c>
+
+00:01:15.600 --> 00:01:15.610 align:start position:0%
+blockchain and once that update<c.colorCCCCCC> is
+ </c>
+
+00:01:15.610 --> 00:01:17.660 align:start position:0%
+blockchain and once that update<c.colorCCCCCC> is
+complete<00:01:16.149><c> or</c><00:01:16.450><c> that</c></c><c.colorE5E5E5><00:01:16.630><c> execution</c><00:01:17.350><c> is</c><00:01:17.440><c> complete</c></c>
+
+00:01:17.660 --> 00:01:17.670 align:start position:0%
+complete or that<c.colorE5E5E5> execution is complete
+ </c>
+
+00:01:17.670 --> 00:01:20.370 align:start position:0%
+complete or that<c.colorE5E5E5> execution is complete</c>
+<c.colorCCCCCC>we're<00:01:18.670><c> going</c><00:01:18.790><c> to</c><00:01:18.850><c> get</c><00:01:19.000><c> some</c></c><c.colorE5E5E5><00:01:19.330><c> information</c><00:01:19.780><c> back</c></c>
+
+00:01:20.370 --> 00:01:20.380 align:start position:0%
+<c.colorCCCCCC>we're going to get some</c><c.colorE5E5E5> information back
+ </c>
+
+00:01:20.380 --> 00:01:22.590 align:start position:0%
+<c.colorCCCCCC>we're going to get some</c><c.colorE5E5E5> information back
+that</c><c.colorCCCCCC><00:01:20.410><c> we'll</c><00:01:20.830><c> use</c><00:01:20.860><c> to</c><00:01:21.190><c> update</c></c><c.colorE5E5E5><00:01:21.880><c> the</c><00:01:22.090><c> state</c><00:01:22.330><c> of</c></c>
+
+00:01:22.590 --> 00:01:22.600 align:start position:0%
+that<c.colorCCCCCC> we'll use to update</c><c.colorE5E5E5> the state of
+ </c>
+
+00:01:22.600 --> 00:01:25.680 align:start position:0%
+that<c.colorCCCCCC> we'll use to update</c><c.colorE5E5E5> the state of
+our<00:01:22.720><c> user</c><00:01:22.960><c> interface</c><00:01:23.789><c> so</c><00:01:24.789><c> the</c><00:01:24.910><c> most</c><00:01:25.060><c> important</c></c>
+
+00:01:25.680 --> 00:01:25.690 align:start position:0%
+our user interface<c.colorE5E5E5> so the most important
+ </c>
+
+00:01:25.690 --> 00:01:27.240 align:start position:0%
+our user interface<c.colorE5E5E5> so the most important
+takeaway<00:01:26.170><c> from</c><00:01:26.229><c> this</c><00:01:26.470><c> video</c><00:01:26.860><c> is</c></c>
+
+00:01:27.240 --> 00:01:27.250 align:start position:0%
+takeaway from this<c.colorE5E5E5> video is
+ </c>
+
+00:01:27.250 --> 00:01:28.680 align:start position:0%
+takeaway from this<c.colorE5E5E5> video is
+understanding<00:01:27.910><c> which</c><00:01:28.119><c> part</c><00:01:28.479><c> of</c><00:01:28.570><c> our</c></c>
+
+00:01:28.680 --> 00:01:28.690 align:start position:0%
+understanding which part<c.colorE5E5E5> of our
+ </c>
+
+00:01:28.690 --> 00:01:30.540 align:start position:0%
+understanding which part<c.colorE5E5E5> of our
+application</c><c.colorCCCCCC><00:01:28.840><c> is</c><00:01:29.590><c> communicating</c><00:01:30.340><c> with</c></c><c.colorE5E5E5><00:01:30.369><c> the</c></c>
+
+00:01:30.540 --> 00:01:30.550 align:start position:0%
+application<c.colorCCCCCC> is communicating with</c><c.colorE5E5E5> the
+ </c>
+
+00:01:30.550 --> 00:01:32.370 align:start position:0%
+application<c.colorCCCCCC> is communicating with</c><c.colorE5E5E5> the
+blockchain</c><c.colorCCCCCC><00:01:30.820><c> during</c></c><c.colorE5E5E5><00:01:31.539><c> different</c><00:01:31.869><c> parts</c><00:01:32.170><c> of</c><00:01:32.259><c> the</c></c>
+
+00:01:32.370 --> 00:01:32.380 align:start position:0%
+blockchain<c.colorCCCCCC> during</c><c.colorE5E5E5> different parts of the
+ </c>
+
+00:01:32.380 --> 00:01:35.160 align:start position:0%
+blockchain<c.colorCCCCCC> during</c><c.colorE5E5E5> different parts of the</c>
+<c.colorCCCCCC>life<00:01:32.590><c> cycle</c><00:01:32.890><c> in</c><00:01:33.250><c> our</c><00:01:34.240><c> online</c><00:01:34.570><c> marketplace</c></c>
+
+00:01:35.160 --> 00:01:35.170 align:start position:0%
+<c.colorCCCCCC>life cycle in our online marketplace
+ </c>
+
+00:01:35.170 --> 00:01:37.020 align:start position:0%
+<c.colorCCCCCC>life cycle in our online marketplace
+we're<00:01:35.380><c> going</c><00:01:35.500><c> to</c><00:01:35.560><c> post</c></c><c.colorE5E5E5><00:01:35.800><c> items</c><00:01:36.280><c> for</c><00:01:36.520><c> sale</c><00:01:36.550><c> like</c></c>
+
+00:01:37.020 --> 00:01:37.030 align:start position:0%
+we're<c.colorCCCCCC> going to post</c><c.colorE5E5E5> items for sale like
+ </c>
+
+00:01:37.030 --> 00:01:39.389 align:start position:0%
+we're<c.colorCCCCCC> going to post</c><c.colorE5E5E5> items for sale like
+the<00:01:37.179><c> one</c><00:01:37.330><c> you</c><00:01:37.450><c> see</c><00:01:37.660><c> here</c><00:01:38.220><c> we're</c><00:01:39.220><c> going</c><00:01:39.340><c> to</c></c>
+
+00:01:39.389 --> 00:01:39.399 align:start position:0%
+the one you see here<c.colorE5E5E5> we're going to
+ </c>
+
+00:01:39.399 --> 00:01:42.059 align:start position:0%
+the one you see here<c.colorE5E5E5> we're going to
+build<00:01:39.610><c> this</c><00:01:39.789><c> out</c><00:01:39.970><c> as</c><00:01:40.209><c> a</c><00:01:40.240><c> react</c></c><c.colorCCCCCC><00:01:40.690><c> component</c><00:01:41.440><c> so</c></c>
+
+00:01:42.059 --> 00:01:42.069 align:start position:0%
+build this out as a react<c.colorCCCCCC> component so
+ </c>
+
+00:01:42.069 --> 00:01:43.620 align:start position:0%
+build this out as a react<c.colorCCCCCC> component so
+the<00:01:42.340><c> thing</c><00:01:42.520><c> about</c><00:01:42.550><c> react</c><00:01:43.149><c> if</c><00:01:43.330><c> you're</c><00:01:43.479><c> not</c></c>
+
+00:01:43.620 --> 00:01:43.630 align:start position:0%
+the thing about react if you're not
+ 
+
+00:01:43.630 --> 00:01:46.290 align:start position:0%
+the thing about react if you're not
+familiar<00:01:43.840><c> with</c><c.colorCCCCCC><00:01:44.140><c> it</c><00:01:44.530><c> is</c><00:01:44.679><c> you</c><00:01:45.429><c> build</c><00:01:45.700><c> components</c></c>
+
+00:01:46.290 --> 00:01:46.300 align:start position:0%
+familiar with<c.colorCCCCCC> it is you build components
+ </c>
+
+00:01:46.300 --> 00:01:49.080 align:start position:0%
+familiar with<c.colorCCCCCC> it is you build components</c>
+<c.colorE5E5E5>to<00:01:46.750><c> display</c><00:01:47.259><c> the</c><00:01:47.740><c> graphical</c><00:01:48.429><c> elements</c><00:01:48.880><c> on</c><00:01:48.970><c> the</c></c>
+
+00:01:49.080 --> 00:01:49.090 align:start position:0%
+<c.colorE5E5E5>to display the graphical elements on the
+ </c>
+
+00:01:49.090 --> 00:01:51.809 align:start position:0%
+<c.colorE5E5E5>to display the graphical elements on the
+page<00:01:49.390><c> and</c><00:01:49.720><c> then</c></c><c.colorCCCCCC><00:01:50.259><c> you</c></c><c.colorE5E5E5><00:01:50.319><c> manage</c><00:01:50.979><c> the</c><00:01:51.130><c> interaction</c></c>
+
+00:01:51.809 --> 00:01:51.819 align:start position:0%
+page and then<c.colorCCCCCC> you</c><c.colorE5E5E5> manage the interaction
+ </c>
+
+00:01:51.819 --> 00:01:53.999 align:start position:0%
+page and then<c.colorCCCCCC> you</c><c.colorE5E5E5> manage the interaction
+of<00:01:52.000><c> those</c><00:01:52.149><c> components</c><00:01:52.990><c> through</c><00:01:53.410><c> managing</c><00:01:53.920><c> the</c></c>
+
+00:01:53.999 --> 00:01:54.009 align:start position:0%
+of those<c.colorE5E5E5> components through managing the
+ </c>
+
+00:01:54.009 --> 00:01:56.969 align:start position:0%
+of those<c.colorE5E5E5> components through managing the
+state<00:01:54.420><c> so</c><00:01:55.420><c> in</c><00:01:55.720><c> our</c><00:01:55.810><c> example</c><00:01:55.959><c> here</c><00:01:56.319><c> we've</c><00:01:56.800><c> got</c></c>
+
+00:01:56.969 --> 00:01:56.979 align:start position:0%
+state so in our example here<c.colorE5E5E5> we've got
+ </c>
+
+00:01:56.979 --> 00:01:59.669 align:start position:0%
+state so in our example here<c.colorE5E5E5> we've got
+this<00:01:57.280><c> product</c><00:01:57.819><c> that's</c><00:01:58.119><c> for</c><00:01:58.300><c> sale</c><00:01:58.569><c> and</c><00:01:58.929><c> it</c><00:01:59.530><c> has</c></c>
+
+00:01:59.669 --> 00:01:59.679 align:start position:0%
+this product<c.colorE5E5E5> that's for sale and it has
+ </c>
+
+00:01:59.679 --> 00:02:02.400 align:start position:0%
+this product<c.colorE5E5E5> that's for sale and it has
+a<00:01:59.709><c> title</c><00:02:00.099><c> a</c><00:02:00.490><c> description</c><00:02:00.520><c> a</c><00:02:01.420><c> price</c><00:02:01.899><c> and</c></c>
+
+00:02:02.400 --> 00:02:02.410 align:start position:0%
+a title<c.colorE5E5E5> a description a price and
+ </c>
+
+00:02:02.410 --> 00:02:03.809 align:start position:0%
+a title<c.colorE5E5E5> a description a price and
+whether<00:02:02.740><c> or</c><00:02:02.920><c> not</c><00:02:03.009><c> it's</c><00:02:03.190><c> been</c><00:02:03.310><c> shipped</c><00:02:03.640><c> and</c></c>
+
+00:02:03.809 --> 00:02:03.819 align:start position:0%
+whether or<c.colorE5E5E5> not it's been shipped and
+ </c>
+
+00:02:03.819 --> 00:02:06.930 align:start position:0%
+whether or<c.colorE5E5E5> not it's been shipped and
+received<00:02:04.240><c> all</c></c><c.colorCCCCCC><00:02:04.569><c> of</c><00:02:04.840><c> those</c><00:02:04.990><c> represent</c></c><c.colorE5E5E5><00:02:05.770><c> state</c><00:02:06.130><c> so</c></c>
+
+00:02:06.930 --> 00:02:06.940 align:start position:0%
+received<c.colorE5E5E5> all</c><c.colorCCCCCC> of those represent</c><c.colorE5E5E5> state so
+ </c>
+
+00:02:06.940 --> 00:02:08.850 align:start position:0%
+received<c.colorE5E5E5> all</c><c.colorCCCCCC> of those represent</c><c.colorE5E5E5> state so
+we'll<00:02:07.149><c> have</c><00:02:07.360><c> this</c><00:02:07.599><c> same</c><00:02:07.929><c> component</c><00:02:08.619><c> that</c><00:02:08.770><c> we</c></c>
+
+00:02:08.850 --> 00:02:08.860 align:start position:0%
+we'll<c.colorE5E5E5> have this same component that we
+ </c>
+
+00:02:08.860 --> 00:02:11.130 align:start position:0%
+we'll<c.colorE5E5E5> have this same component that we
+use</c><c.colorCCCCCC><00:02:09.099><c> over</c><00:02:09.520><c> and</c><00:02:09.640><c> over</c><00:02:10.060><c> and</c><00:02:10.270><c> then</c><00:02:10.750><c> we</c><00:02:10.899><c> use</c></c>
+
+00:02:11.130 --> 00:02:11.140 align:start position:0%
+use<c.colorCCCCCC> over and over and then we use
+ </c>
+
+00:02:11.140 --> 00:02:13.710 align:start position:0%
+use<c.colorCCCCCC> over and over and then we use
+changes</c><c.colorE5E5E5><00:02:11.860><c> in</c></c><c.colorCCCCCC><00:02:11.920><c> the</c><00:02:12.160><c> state</c><00:02:12.520><c> to</c><00:02:12.940><c> display</c><00:02:13.360><c> what's</c></c>
+
+00:02:13.710 --> 00:02:13.720 align:start position:0%
+changes<c.colorE5E5E5> in</c><c.colorCCCCCC> the state to display what's
+ </c>
+
+00:02:13.720 --> 00:02:16.020 align:start position:0%
+changes<c.colorE5E5E5> in</c><c.colorCCCCCC> the state to display what's
+displayed</c><c.colorE5E5E5><00:02:13.990><c> on</c><00:02:14.380><c> that</c><00:02:14.410><c> component</c></c><c.colorCCCCCC><00:02:14.860><c> one</c><00:02:15.849><c> of</c><00:02:15.970><c> the</c></c>
+
+00:02:16.020 --> 00:02:16.030 align:start position:0%
+displayed<c.colorE5E5E5> on that component</c><c.colorCCCCCC> one of the
+ </c>
+
+00:02:16.030 --> 00:02:18.570 align:start position:0%
+displayed<c.colorE5E5E5> on that component</c><c.colorCCCCCC> one of the
+popular<00:02:16.540><c> methods</c><00:02:17.110><c> for</c><00:02:17.319><c> managing</c></c><c.colorE5E5E5><00:02:17.680><c> state</c></c><c.colorCCCCCC><00:02:18.340><c> in</c></c>
+
+00:02:18.570 --> 00:02:18.580 align:start position:0%
+popular methods for managing<c.colorE5E5E5> state</c><c.colorCCCCCC> in
+ </c>
+
+00:02:18.580 --> 00:02:20.850 align:start position:0%
+popular methods for managing<c.colorE5E5E5> state</c><c.colorCCCCCC> in
+react<00:02:19.360><c> applications</c><00:02:20.140><c> is</c><00:02:20.319><c> through</c><00:02:20.560><c> the</c><00:02:20.680><c> use</c><00:02:20.709><c> of</c></c>
+
+00:02:20.850 --> 00:02:20.860 align:start position:0%
+react applications is through the use<c.colorCCCCCC> of
+ </c>
+
+00:02:20.860 --> 00:02:21.900 align:start position:0%
+react applications is through the use<c.colorCCCCCC> of
+a<00:02:21.130><c> redux</c></c>
+
+00:02:21.900 --> 00:02:21.910 align:start position:0%
+<c.colorCCCCCC>a redux
+ </c>
+
+00:02:21.910 --> 00:02:24.750 align:start position:0%
+<c.colorCCCCCC>a redux
+now<00:02:22.810><c> the</c><00:02:22.900><c> Redux</c><00:02:23.440><c> store</c><00:02:23.830><c> is</c></c><c.colorE5E5E5><00:02:24.040><c> where</c><00:02:24.280><c> we</c><00:02:24.400><c> store</c></c>
+
+00:02:24.750 --> 00:02:24.760 align:start position:0%
+now the<c.colorCCCCCC> Redux store is</c><c.colorE5E5E5> where we store
+ </c>
+
+00:02:24.760 --> 00:02:26.970 align:start position:0%
+now the<c.colorCCCCCC> Redux store is</c><c.colorE5E5E5> where we store</c>
+<c.colorCCCCCC>the<00:02:25.000><c> information</c></c><c.colorE5E5E5><00:02:25.410><c> that</c><00:02:26.410><c> we're</c><00:02:26.620><c> going</c><00:02:26.709><c> to</c><00:02:26.800><c> use</c></c>
+
+00:02:26.970 --> 00:02:26.980 align:start position:0%
+<c.colorCCCCCC>the information</c><c.colorE5E5E5> that we're going to use
+ </c>
+
+00:02:26.980 --> 00:02:30.089 align:start position:0%
+<c.colorCCCCCC>the information</c><c.colorE5E5E5> that we're going to use
+to</c><c.colorCCCCCC><00:02:27.160><c> populate</c><00:02:27.670><c> the</c><00:02:27.819><c> state</c><00:02:28.120><c> so</c><00:02:28.959><c> what</c><00:02:29.380><c> happens</c><00:02:29.739><c> is</c></c>
+
+00:02:30.089 --> 00:02:30.099 align:start position:0%
+to<c.colorCCCCCC> populate the state so what happens is
+ </c>
+
+00:02:30.099 --> 00:02:32.309 align:start position:0%
+to<c.colorCCCCCC> populate the state so what happens is
+we've<00:02:30.430><c> got</c><00:02:30.700><c> our</c><00:02:30.910><c> react</c><00:02:31.239><c> component</c><00:02:31.870><c> with</c><00:02:32.080><c> some</c></c>
+
+00:02:32.309 --> 00:02:32.319 align:start position:0%
+we've got our react component with some
+ 
+
+00:02:32.319 --> 00:02:34.530 align:start position:0%
+we've got our react component with some
+state<00:02:32.650><c> objects</c><00:02:33.190><c> in</c><00:02:33.340><c> there</c><00:02:33.550><c> and</c><00:02:33.760><c> then</c><c.colorCCCCCC><00:02:34.180><c> whenever</c></c>
+
+00:02:34.530 --> 00:02:34.540 align:start position:0%
+state objects in there and then<c.colorCCCCCC> whenever
+ </c>
+
+00:02:34.540 --> 00:02:36.449 align:start position:0%
+state objects in there and then<c.colorCCCCCC> whenever
+those<00:02:34.750><c> state</c><00:02:35.110><c> objects</c><00:02:35.530><c> are</c><00:02:35.650><c> modified</c><00:02:36.130><c> that's</c></c>
+
+00:02:36.449 --> 00:02:36.459 align:start position:0%
+those state objects are modified that's
+ 
+
+00:02:36.459 --> 00:02:38.580 align:start position:0%
+those state objects are modified that's
+going<00:02:36.640><c> to</c><00:02:36.700><c> trigger</c><00:02:36.940><c> an</c><00:02:37.180><c> action</c><c.colorCCCCCC><00:02:37.390><c> that</c><00:02:38.260><c> then</c></c>
+
+00:02:38.580 --> 00:02:38.590 align:start position:0%
+going to trigger an action<c.colorCCCCCC> that then
+ </c>
+
+00:02:38.590 --> 00:02:41.339 align:start position:0%
+going to trigger an action<c.colorCCCCCC> that then
+causes<00:02:39.550><c> an</c><00:02:39.670><c> update</c><00:02:40.090><c> in</c><00:02:40.329><c> the</c><00:02:40.390><c> Redux</c><00:02:40.959><c> store</c></c>
+
+00:02:41.339 --> 00:02:41.349 align:start position:0%
+causes an update in the<c.colorCCCCCC> Redux store
+ </c>
+
+00:02:41.349 --> 00:02:43.220 align:start position:0%
+causes an update in the<c.colorCCCCCC> Redux store
+where<00:02:41.650><c> the</c><00:02:41.769><c> data</c><00:02:41.980><c> is</c><00:02:42.099><c> stored</c></c>
+
+00:02:43.220 --> 00:02:43.230 align:start position:0%
+where the data is<c.colorCCCCCC> stored
+ </c>
+
+00:02:43.230 --> 00:02:45.350 align:start position:0%
+where the data is<c.colorCCCCCC> stored
+well<00:02:43.770><c> then</c><00:02:43.950><c> configure</c><00:02:44.310><c> reducers</c><00:02:45.120><c> which</c></c>
+
+00:02:45.350 --> 00:02:45.360 align:start position:0%
+well then configure reducers which
+ 
+
+00:02:45.360 --> 00:02:47.720 align:start position:0%
+well then configure reducers which
+listen<00:02:45.840><c> for</c><c.colorE5E5E5><00:02:46.020><c> changes</c><00:02:46.560><c> to</c><00:02:46.590><c> data</c><00:02:47.040><c> in</c><00:02:47.250><c> the</c></c><c.colorCCCCCC><00:02:47.370><c> Redux</c></c>
+
+00:02:47.720 --> 00:02:47.730 align:start position:0%
+listen for<c.colorE5E5E5> changes to data in the</c><c.colorCCCCCC> Redux
+ </c>
+
+00:02:47.730 --> 00:02:49.580 align:start position:0%
+listen for<c.colorE5E5E5> changes to data in the</c><c.colorCCCCCC> Redux</c>
+<c.colorE5E5E5>store</c><c.colorCCCCCC><00:02:48.120><c> and</c><00:02:48.480><c> when</c><00:02:48.660><c> they're</c><00:02:48.810><c> notified</c></c><c.colorE5E5E5><00:02:49.140><c> of</c><00:02:49.530><c> a</c></c>
+
+00:02:49.580 --> 00:02:49.590 align:start position:0%
+<c.colorE5E5E5>store</c><c.colorCCCCCC> and when they're notified</c><c.colorE5E5E5> of a
+ </c>
+
+00:02:49.590 --> 00:02:51.170 align:start position:0%
+<c.colorE5E5E5>store</c><c.colorCCCCCC> and when they're notified</c><c.colorE5E5E5> of a
+change<00:02:49.950><c> of</c><00:02:50.160><c> the</c><00:02:50.280><c> data</c><00:02:50.519><c> that</c></c><c.colorCCCCCC><00:02:50.670><c> they're</c><00:02:50.970><c> watching</c></c>
+
+00:02:51.170 --> 00:02:51.180 align:start position:0%
+change of the data that<c.colorCCCCCC> they're watching
+ </c>
+
+00:02:51.180 --> 00:02:53.270 align:start position:0%
+change of the data that<c.colorCCCCCC> they're watching</c>
+<c.colorCCCCCC>in<00:02:51.510><c> the</c><00:02:51.599><c> store</c></c><c.colorE5E5E5><00:02:51.930><c> they're</c></c><c.colorCCCCCC><00:02:52.590><c> going</c><00:02:52.739><c> to</c><00:02:52.800><c> update</c><00:02:53.129><c> the</c></c>
+
+00:02:53.270 --> 00:02:53.280 align:start position:0%
+<c.colorCCCCCC>in the store</c><c.colorE5E5E5> they're</c><c.colorCCCCCC> going to update the
+ </c>
+
+00:02:53.280 --> 00:02:55.220 align:start position:0%
+<c.colorCCCCCC>in the store</c><c.colorE5E5E5> they're</c><c.colorCCCCCC> going to update the
+application<00:02:53.430><c> state</c><00:02:54.300><c> and</c><00:02:54.569><c> then</c><00:02:55.110><c> the</c></c>
+
+00:02:55.220 --> 00:02:55.230 align:start position:0%
+application<c.colorCCCCCC> state and then the
+ </c>
+
+00:02:55.230 --> 00:02:58.070 align:start position:0%
+application<c.colorCCCCCC> state and then the
+application<00:02:55.920><c> state</c><00:02:56.280><c> changes</c><00:02:57.000><c> which</c><00:02:57.599><c> notifies</c></c>
+
+00:02:58.070 --> 00:02:58.080 align:start position:0%
+application state changes which notifies
+ 
+
+00:02:58.080 --> 00:02:59.960 align:start position:0%
+application state changes which notifies
+our<00:02:58.379><c> react</c><00:02:58.739><c> component</c><c.colorE5E5E5><00:02:59.400><c> that</c><00:02:59.519><c> it</c><00:02:59.610><c> needs</c><00:02:59.790><c> to</c></c>
+
+00:02:59.960 --> 00:02:59.970 align:start position:0%
+our react component<c.colorE5E5E5> that it needs to
+ </c>
+
+00:02:59.970 --> 00:03:02.300 align:start position:0%
+our react component<c.colorE5E5E5> that it needs to
+re-render</c><c.colorCCCCCC><00:03:00.450><c> to</c><00:03:01.200><c> reflect</c><00:03:01.680><c> the</c><00:03:01.800><c> newly</c><00:03:02.130><c> updated</c></c>
+
+00:03:02.300 --> 00:03:02.310 align:start position:0%
+re-render<c.colorCCCCCC> to reflect the newly updated
+ </c>
+
+00:03:02.310 --> 00:03:06.740 align:start position:0%
+re-render<c.colorCCCCCC> to reflect the newly updated</c>
+<c.colorE5E5E5>state<00:03:03.590><c> so</c><00:03:04.590><c> now</c><00:03:04.709><c> in</c><00:03:04.860><c> our</c><00:03:04.980><c> application</c><00:03:05.760><c> a</c><00:03:06.000><c> lot</c><00:03:06.599><c> of</c></c>
+
+00:03:06.740 --> 00:03:06.750 align:start position:0%
+<c.colorE5E5E5>state so now in our application a lot of
+ </c>
+
+00:03:06.750 --> 00:03:08.509 align:start position:0%
+<c.colorE5E5E5>state so now in our application a lot of
+our<00:03:06.840><c> state</c><00:03:07.140><c> information</c><00:03:07.440><c> is</c></c><c.colorCCCCCC><00:03:07.950><c> going</c></c><c.colorE5E5E5><00:03:08.099><c> to</c><00:03:08.160><c> come</c></c>
+
+00:03:08.509 --> 00:03:08.519 align:start position:0%
+our state information<c.colorE5E5E5> is</c><c.colorCCCCCC> going</c><c.colorE5E5E5> to come
+ </c>
+
+00:03:08.519 --> 00:03:10.309 align:start position:0%
+our state information<c.colorE5E5E5> is</c><c.colorCCCCCC> going</c><c.colorE5E5E5> to come
+from<00:03:08.790><c> information</c><00:03:09.090><c> that</c><00:03:09.690><c> we</c><00:03:09.810><c> get</c></c><c.colorCCCCCC><00:03:09.989><c> from</c><00:03:10.200><c> our</c></c>
+
+00:03:10.309 --> 00:03:10.319 align:start position:0%
+from information<c.colorE5E5E5> that we get</c><c.colorCCCCCC> from our
+ </c>
+
+00:03:10.319 --> 00:03:12.140 align:start position:0%
+from information<c.colorE5E5E5> that we get</c><c.colorCCCCCC> from our
+smart<00:03:10.680><c> contract</c><00:03:11.250><c> on</c><00:03:11.459><c> the</c><00:03:11.640><c> etherium</c></c>
+
+00:03:12.140 --> 00:03:12.150 align:start position:0%
+smart contract on the etherium
+ 
+
+00:03:12.150 --> 00:03:14.720 align:start position:0%
+smart contract on the etherium
+blockchain<c.colorE5E5E5><00:03:12.750><c> so</c><00:03:13.530><c> let's</c><00:03:13.680><c> take</c><00:03:13.830><c> a</c><00:03:13.860><c> look</c><00:03:14.129><c> at</c><00:03:14.340><c> our</c></c>
+
+00:03:14.720 --> 00:03:14.730 align:start position:0%
+blockchain<c.colorE5E5E5> so let's take a look at our
+ </c>
+
+00:03:14.730 --> 00:03:16.610 align:start position:0%
+blockchain<c.colorE5E5E5> so let's take a look at our
+smart<00:03:15.480><c> contract</c><00:03:16.080><c> that</c><00:03:16.230><c> we're</c><00:03:16.380><c> going</c><00:03:16.500><c> to</c><00:03:16.560><c> be</c></c>
+
+00:03:16.610 --> 00:03:16.620 align:start position:0%
+smart contract that<c.colorE5E5E5> we're going to be
+ </c>
+
+00:03:16.620 --> 00:03:19.250 align:start position:0%
+smart contract that<c.colorE5E5E5> we're going to be
+publishing</c><c.colorCCCCCC><00:03:16.830><c> to</c><00:03:17.310><c> the</c><00:03:17.489><c> blockchain</c><00:03:17.930><c> this</c><00:03:18.930><c> video</c></c>
+
+00:03:19.250 --> 00:03:19.260 align:start position:0%
+publishing<c.colorCCCCCC> to the blockchain this video
+ </c>
+
+00:03:19.260 --> 00:03:20.990 align:start position:0%
+publishing<c.colorCCCCCC> to the blockchain this video
+is<00:03:19.440><c> about</c><00:03:19.680><c> adding</c><00:03:20.099><c> a</c><00:03:20.190><c> new</c><00:03:20.400><c> item</c><00:03:20.430><c> to</c><00:03:20.880><c> the</c></c>
+
+00:03:20.990 --> 00:03:21.000 align:start position:0%
+is<c.colorCCCCCC> about adding a new item to the
+ </c>
+
+00:03:21.000 --> 00:03:22.910 align:start position:0%
+is<c.colorCCCCCC> about adding a new item to the
+marketplace<00:03:21.360><c> so</c></c><c.colorE5E5E5><00:03:21.840><c> I've</c><00:03:21.989><c> highlighted</c><00:03:22.319><c> the</c><00:03:22.769><c> add</c></c>
+
+00:03:22.910 --> 00:03:22.920 align:start position:0%
+marketplace<c.colorCCCCCC> so</c><c.colorE5E5E5> I've highlighted the add
+ </c>
+
+00:03:22.920 --> 00:03:25.100 align:start position:0%
+marketplace<c.colorCCCCCC> so</c><c.colorE5E5E5> I've highlighted the add
+listing<00:03:23.459><c> function</c><00:03:24.000><c> inside</c></c><c.colorCCCCCC><00:03:24.510><c> of</c><00:03:24.660><c> our</c><00:03:24.780><c> smart</c></c>
+
+00:03:25.100 --> 00:03:25.110 align:start position:0%
+listing function<c.colorE5E5E5> inside</c><c.colorCCCCCC> of our smart
+ </c>
+
+00:03:25.110 --> 00:03:27.589 align:start position:0%
+listing function<c.colorE5E5E5> inside</c><c.colorCCCCCC> of our smart
+contract<00:03:25.709><c> it's</c><00:03:26.489><c> identified</c><00:03:27.060><c> by</c><00:03:27.239><c> the</c><00:03:27.299><c> keyword</c></c>
+
+00:03:27.589 --> 00:03:27.599 align:start position:0%
+contract<c.colorCCCCCC> it's identified by the keyword
+ </c>
+
+00:03:27.599 --> 00:03:29.900 align:start position:0%
+contract<c.colorCCCCCC> it's identified by the keyword</c>
+<c.colorE5E5E5>function</c><c.colorCCCCCC><00:03:28.079><c> and</c><00:03:28.590><c> then</c><00:03:28.860><c> has</c><00:03:29.130><c> its</c><00:03:29.340><c> name</c><00:03:29.579><c> add</c></c>
+
+00:03:29.900 --> 00:03:29.910 align:start position:0%
+<c.colorE5E5E5>function</c><c.colorCCCCCC> and then has its name add
+ </c>
+
+00:03:29.910 --> 00:03:31.850 align:start position:0%
+<c.colorE5E5E5>function</c><c.colorCCCCCC> and then has its name add
+listing<00:03:30.630><c> and</c><00:03:30.810><c> then</c></c><c.colorE5E5E5><00:03:31.140><c> it</c><00:03:31.290><c> accepts</c><00:03:31.739><c> some</c></c>
+
+00:03:31.850 --> 00:03:31.860 align:start position:0%
+listing and then<c.colorE5E5E5> it accepts some
+ </c>
+
+00:03:31.860 --> 00:03:34.069 align:start position:0%
+listing and then<c.colorE5E5E5> it accepts some
+parameters<00:03:32.519><c> that</c><00:03:32.970><c> include</c><00:03:33.420><c> the</c><00:03:33.630><c> name</c><00:03:33.840><c> of</c></c><c.colorCCCCCC><00:03:33.870><c> the</c></c>
+
+00:03:34.069 --> 00:03:34.079 align:start position:0%
+parameters that include the name of<c.colorCCCCCC> the
+ </c>
+
+00:03:34.079 --> 00:03:36.949 align:start position:0%
+parameters that include the name of<c.colorCCCCCC> the</c>
+<c.colorE5E5E5>item</c><c.colorCCCCCC><00:03:34.290><c> being</c><00:03:34.650><c> listed</c></c><c.colorE5E5E5><00:03:34.950><c> a</c><00:03:35.630><c> description</c><00:03:36.630><c> of</c><00:03:36.780><c> it</c></c>
+
+00:03:36.949 --> 00:03:36.959 align:start position:0%
+<c.colorE5E5E5>item</c><c.colorCCCCCC> being listed</c><c.colorE5E5E5> a description of it
+ </c>
+
+00:03:36.959 --> 00:03:39.370 align:start position:0%
+<c.colorE5E5E5>item</c><c.colorCCCCCC> being listed</c><c.colorE5E5E5> a description of it
+and<00:03:37.140><c> the</c><00:03:37.829><c> price</c><00:03:38.099><c> that</c></c><c.colorCCCCCC><00:03:38.130><c> we're</c><00:03:38.459><c> selling</c><00:03:38.849><c> it</c><00:03:38.970><c> for</c></c>
+
+00:03:39.370 --> 00:03:39.380 align:start position:0%
+and the<c.colorE5E5E5> price that</c><c.colorCCCCCC> we're selling it for
+ </c>
+
+00:03:39.380 --> 00:03:42.380 align:start position:0%
+and the<c.colorE5E5E5> price that</c><c.colorCCCCCC> we're selling it for</c>
+<c.colorE5E5E5>so<00:03:40.380><c> our</c><00:03:40.590><c> job</c><00:03:40.860><c> whenever</c><00:03:41.340><c> the</c></c><c.colorCCCCCC><00:03:41.549><c> user</c><00:03:41.819><c> fills</c><00:03:42.150><c> out</c></c>
+
+00:03:42.380 --> 00:03:42.390 align:start position:0%
+<c.colorE5E5E5>so our job whenever the</c><c.colorCCCCCC> user fills out
+ </c>
+
+00:03:42.390 --> 00:03:44.870 align:start position:0%
+<c.colorE5E5E5>so our job whenever the</c><c.colorCCCCCC> user fills out
+the<00:03:42.599><c> react</c><00:03:42.959><c> form</c><00:03:43.290><c> to</c><00:03:43.470><c> add</c><00:03:43.590><c> a</c><00:03:43.620><c> new</c><00:03:43.950><c> listing</c></c><c.colorE5E5E5><00:03:44.519><c> to</c></c>
+
+00:03:44.870 --> 00:03:44.880 align:start position:0%
+the react form to add a new listing<c.colorE5E5E5> to
+ </c>
+
+00:03:44.880 --> 00:03:47.059 align:start position:0%
+the react form to add a new listing<c.colorE5E5E5> to
+the<00:03:44.910><c> online</c><00:03:45.150><c> marketplace</c><00:03:45.780><c> is</c><00:03:46.200><c> to</c><00:03:46.530><c> execute</c></c>
+
+00:03:47.059 --> 00:03:47.069 align:start position:0%
+the<c.colorE5E5E5> online marketplace is to execute
+ </c>
+
+00:03:47.069 --> 00:03:49.460 align:start position:0%
+the<c.colorE5E5E5> online marketplace is to execute
+this<00:03:47.489><c> smart</c><00:03:47.880><c> contract</c><00:03:48.389><c> function</c><00:03:48.959><c> out</c><00:03:49.109><c> on</c><00:03:49.350><c> the</c></c>
+
+00:03:49.460 --> 00:03:49.470 align:start position:0%
+<c.colorE5E5E5>this smart contract function out on the
+ </c>
+
+00:03:49.470 --> 00:03:52.069 align:start position:0%
+<c.colorE5E5E5>this smart contract function out on the</c>
+<c.colorCCCCCC>etherion<00:03:49.889><c> blockchain</c><00:03:50.569><c> there</c><00:03:51.569><c> are</c><00:03:51.690><c> some</c><00:03:51.870><c> key</c></c>
+
+00:03:52.069 --> 00:03:52.079 align:start position:0%
+<c.colorCCCCCC>etherion blockchain there are some key
+ </c>
+
+00:03:52.079 --> 00:03:54.140 align:start position:0%
+<c.colorCCCCCC>etherion blockchain there are some key
+conceptual<00:03:52.440><c> takeaways</c></c><c.colorE5E5E5><00:03:53.400><c> I</c><00:03:53.430><c> want</c><00:03:53.730><c> you</c><00:03:53.819><c> to</c><00:03:53.940><c> have</c></c>
+
+00:03:54.140 --> 00:03:54.150 align:start position:0%
+conceptual takeaways<c.colorE5E5E5> I want you to have
+ </c>
+
+00:03:54.150 --> 00:03:57.259 align:start position:0%
+conceptual takeaways<c.colorE5E5E5> I want you to have
+from<00:03:54.630><c> executing</c><00:03:55.350><c> a</c><00:03:55.620><c> smart</c><00:03:56.280><c> contract</c><00:03:56.489><c> function</c></c>
+
+00:03:57.259 --> 00:03:57.269 align:start position:0%
+from executing a smart contract function
+ 
+
+00:03:57.269 --> 00:03:59.809 align:start position:0%
+from executing a smart contract function
+first<00:03:58.049><c> of</c><00:03:58.230><c> all</c><00:03:58.350><c> it</c><00:03:58.620><c> happens</c><00:03:58.980><c> from</c><00:03:59.220><c> the</c><c.colorE5E5E5><00:03:59.430><c> user's</c></c>
+
+00:03:59.809 --> 00:03:59.819 align:start position:0%
+first of all it happens from the<c.colorE5E5E5> user's
+ </c>
+
+00:03:59.819 --> 00:04:02.930 align:start position:0%
+first of all it happens from the<c.colorE5E5E5> user's
+browser<00:04:00.090><c> not</c><00:04:01.049><c> from</c><00:04:01.440><c> our</c><00:04:01.739><c> react</c><00:04:02.130><c> application</c></c>
+
+00:04:02.930 --> 00:04:02.940 align:start position:0%
+browser<c.colorE5E5E5> not from our react application
+ </c>
+
+00:04:02.940 --> 00:04:05.690 align:start position:0%
+browser<c.colorE5E5E5> not from our react application</c>
+<c.colorCCCCCC>the<00:04:03.930><c> reason</c><00:04:04.350><c> for</c><00:04:04.500><c> that</c><00:04:04.560><c> is</c><00:04:04.950><c> because</c><00:04:04.980><c> it</c></c><c.colorE5E5E5><00:04:05.430><c> has</c><00:04:05.670><c> to</c></c>
+
+00:04:05.690 --> 00:04:05.700 align:start position:0%
+<c.colorCCCCCC>the reason for that is because it</c><c.colorE5E5E5> has to
+ </c>
+
+00:04:05.700 --> 00:04:08.090 align:start position:0%
+<c.colorCCCCCC>the reason for that is because it</c><c.colorE5E5E5> has to</c>
+<c.colorCCCCCC>be<00:04:06.030><c> a</c><00:04:06.060><c> signed</c><00:04:06.510><c> transaction</c><00:04:07.380><c> from</c></c><c.colorE5E5E5><00:04:07.500><c> the</c><00:04:07.590><c> account</c></c>
+
+00:04:08.090 --> 00:04:08.100 align:start position:0%
+<c.colorCCCCCC>be a signed transaction from</c><c.colorE5E5E5> the account
+ </c>
+
+00:04:08.100 --> 00:04:09.890 align:start position:0%
+<c.colorCCCCCC>be a signed transaction from</c><c.colorE5E5E5> the account
+that's<00:04:08.459><c> going</c><00:04:08.639><c> to</c><00:04:08.700><c> pay</c><00:04:08.970><c> the</c><00:04:09.269><c> gas</c><00:04:09.450><c> or</c><00:04:09.870><c> the</c></c>
+
+00:04:09.890 --> 00:04:09.900 align:start position:0%
+<c.colorE5E5E5>that's going to pay the gas or the
+ </c>
+
+00:04:09.900 --> 00:04:12.140 align:start position:0%
+<c.colorE5E5E5>that's going to pay the gas or the</c>
+<c.colorE5E5E5>transaction<00:04:10.709><c> fees</c><00:04:10.950><c> for</c><00:04:11.609><c> calling</c><00:04:12.000><c> or</c></c>
+
+00:04:12.140 --> 00:04:12.150 align:start position:0%
+<c.colorE5E5E5>transaction fees for calling or
+ </c>
+
+00:04:12.150 --> 00:04:14.420 align:start position:0%
+<c.colorE5E5E5>transaction fees for calling or
+executing<00:04:12.750><c> the</c><00:04:12.840><c> function</c><00:04:13.250><c> so</c><00:04:14.250><c> there</c><00:04:14.340><c> are</c></c>
+
+00:04:14.420 --> 00:04:14.430 align:start position:0%
+executing the function<c.colorE5E5E5> so there are
+ </c>
+
+00:04:14.430 --> 00:04:15.920 align:start position:0%
+executing the function<c.colorE5E5E5> so there are
+several<00:04:14.670><c> different</c></c><c.colorCCCCCC><00:04:15.060><c> ways</c><00:04:15.180><c> that</c><00:04:15.239><c> you</c><00:04:15.600><c> can</c></c><c.colorE5E5E5><00:04:15.750><c> make</c></c>
+
+00:04:15.920 --> 00:04:15.930 align:start position:0%
+several<c.colorE5E5E5> different</c><c.colorCCCCCC> ways that you can</c><c.colorE5E5E5> make
+ </c>
+
+00:04:15.930 --> 00:04:18.259 align:start position:0%
+several<c.colorE5E5E5> different</c><c.colorCCCCCC> ways that you can</c><c.colorE5E5E5> make
+that<00:04:16.139><c> happen</c></c><c.colorCCCCCC><00:04:16.459><c> you</c><00:04:17.459><c> can</c><00:04:17.639><c> generate</c><00:04:18.030><c> the</c></c>
+
+00:04:18.259 --> 00:04:18.269 align:start position:0%
+that happen<c.colorCCCCCC> you can generate the
+ </c>
+
+00:04:18.269 --> 00:04:20.270 align:start position:0%
+that happen<c.colorCCCCCC> you can generate the
+etherium<00:04:18.870><c> address</c><00:04:19.380><c> for</c><00:04:19.680><c> where</c><00:04:19.829><c> your</c><00:04:19.950><c> smart</c></c>
+
+00:04:20.270 --> 00:04:20.280 align:start position:0%
+etherium address for where your smart
+ 
+
+00:04:20.280 --> 00:04:22.370 align:start position:0%
+etherium address for where your smart
+contract<00:04:20.729><c> is</c><00:04:20.910><c> loaded</c><00:04:21.389><c> and</c><00:04:21.510><c> have</c><00:04:22.019><c> the</c><c.colorE5E5E5><00:04:22.169><c> user</c></c>
+
+00:04:22.370 --> 00:04:22.380 align:start position:0%
+contract is loaded and have the<c.colorE5E5E5> user
+ </c>
+
+00:04:22.380 --> 00:04:24.920 align:start position:0%
+contract is loaded and have the<c.colorE5E5E5> user
+type<00:04:22.770><c> that</c><00:04:23.010><c> into</c><00:04:23.370><c> a</c><00:04:23.760><c> hardware</c><00:04:24.120><c> wallet</c><00:04:24.720><c> or</c><00:04:24.900><c> a</c></c>
+
+00:04:24.920 --> 00:04:24.930 align:start position:0%
+type that<c.colorE5E5E5> into a hardware wallet or a
+ </c>
+
+00:04:24.930 --> 00:04:26.810 align:start position:0%
+type that<c.colorE5E5E5> into a hardware wallet or a
+separate<00:04:25.590><c> wallet</c><00:04:25.919><c> application</c><00:04:26.550><c> that</c><00:04:26.700><c> they</c></c>
+
+00:04:26.810 --> 00:04:26.820 align:start position:0%
+separate<c.colorE5E5E5> wallet application that they
+ </c>
+
+00:04:26.820 --> 00:04:29.900 align:start position:0%
+separate<c.colorE5E5E5> wallet application that they
+have<00:04:27.030><c> on</c><00:04:27.330><c> their</c><00:04:27.570><c> computer</c><00:04:28.139><c> but</c><00:04:29.099><c> the</c><00:04:29.400><c> easiest</c></c>
+
+00:04:29.900 --> 00:04:29.910 align:start position:0%
+have on their computer but the easiest
+ 
+
+00:04:29.910 --> 00:04:33.050 align:start position:0%
+have on their computer but the easiest
+and<00:04:30.479><c> most</c><c.colorE5E5E5><00:04:30.919><c> user-friendly</c><00:04:31.919><c> way</c><00:04:32.099><c> to</c><00:04:32.160><c> do</c><00:04:32.550><c> that</c><00:04:32.789><c> is</c></c>
+
+00:04:33.050 --> 00:04:33.060 align:start position:0%
+and most<c.colorE5E5E5> user-friendly way to do that is
+ </c>
+
+00:04:33.060 --> 00:04:34.850 align:start position:0%
+and most<c.colorE5E5E5> user-friendly way to do that is
+to<00:04:33.210><c> integrate</c><00:04:33.419><c> meta</c></c><c.colorCCCCCC><00:04:33.990><c> masks</c></c><c.colorE5E5E5><00:04:34.260><c> into</c><00:04:34.740><c> your</c></c>
+
+00:04:34.850 --> 00:04:34.860 align:start position:0%
+to integrate meta<c.colorCCCCCC> masks</c><c.colorE5E5E5> into your
+ </c>
+
+00:04:34.860 --> 00:04:37.610 align:start position:0%
+to integrate meta<c.colorCCCCCC> masks</c><c.colorE5E5E5> into your
+application<00:04:35.520><c> so</c><00:04:36.389><c> meta</c><00:04:36.660><c> mask</c><00:04:36.930><c> is</c><00:04:37.200><c> a</c><00:04:37.229><c> browser</c></c>
+
+00:04:37.610 --> 00:04:37.620 align:start position:0%
+application so meta<c.colorE5E5E5> mask is a browser
+ </c>
+
+00:04:37.620 --> 00:04:41.330 align:start position:0%
+application so meta<c.colorE5E5E5> mask is a browser</c>
+<c.colorCCCCCC>plugin<00:04:38.310><c> that</c><00:04:38.550><c> allows</c></c><c.colorE5E5E5><00:04:39.090><c> the</c><00:04:39.930><c> users</c></c><c.colorCCCCCC><00:04:40.349><c> browser</c><00:04:40.740><c> to</c></c>
+
+00:04:41.330 --> 00:04:41.340 align:start position:0%
+<c.colorCCCCCC>plugin that allows</c><c.colorE5E5E5> the users</c><c.colorCCCCCC> browser to
+ </c>
+
+00:04:41.340 --> 00:04:44.540 align:start position:0%
+<c.colorCCCCCC>plugin that allows</c><c.colorE5E5E5> the users</c><c.colorCCCCCC> browser to
+talk<00:04:41.910><c> to</c><00:04:42.180><c> the</c><00:04:42.389><c> etherium</c></c><c.colorE5E5E5><00:04:42.960><c> network</c><00:04:43.380><c> let's</c><00:04:44.370><c> take</c></c>
+
+00:04:44.540 --> 00:04:44.550 align:start position:0%
+talk to the etherium<c.colorE5E5E5> network let's take
+ </c>
+
+00:04:44.550 --> 00:04:47.270 align:start position:0%
+talk to the etherium<c.colorE5E5E5> network let's take
+a<00:04:44.580><c> look</c><00:04:44.820><c> real</c><00:04:45.000><c> quick</c></c><c.colorCCCCCC><00:04:45.060><c> at</c><00:04:45.510><c> our</c><00:04:45.870><c> react</c><00:04:46.560><c> component</c></c>
+
+00:04:47.270 --> 00:04:47.280 align:start position:0%
+a look real quick<c.colorCCCCCC> at our react component
+ </c>
+
+00:04:47.280 --> 00:04:49.790 align:start position:0%
+a look real quick<c.colorCCCCCC> at our react component
+where<00:04:47.610><c> we</c><00:04:47.760><c> add</c></c><c.colorE5E5E5><00:04:47.940><c> the</c><00:04:48.300><c> item</c><00:04:48.690><c> so</c></c><c.colorCCCCCC><00:04:49.560><c> we</c><00:04:49.650><c> have</c><00:04:49.770><c> a</c></c>
+
+00:04:49.790 --> 00:04:49.800 align:start position:0%
+where<c.colorCCCCCC> we add</c><c.colorE5E5E5> the item so</c><c.colorCCCCCC> we have a
+ </c>
+
+00:04:49.800 --> 00:04:51.560 align:start position:0%
+where<c.colorCCCCCC> we add</c><c.colorE5E5E5> the item so</c><c.colorCCCCCC> we have a
+component<00:04:50.130><c> listed</c><00:04:50.610><c> here</c><00:04:50.820><c> on</c><00:04:50.970><c> the</c><00:04:51.090><c> right</c><00:04:51.300><c> that</c></c>
+
+00:04:51.560 --> 00:04:51.570 align:start position:0%
+component listed here on the right<c.colorCCCCCC> that
+ </c>
+
+00:04:51.570 --> 00:04:53.750 align:start position:0%
+component listed here on the right<c.colorCCCCCC> that
+has</c><c.colorE5E5E5><00:04:51.690><c> three</c><00:04:52.080><c> fields</c><00:04:52.530><c> in</c><00:04:52.650><c> it</c><00:04:52.800><c> to</c><00:04:53.070><c> type</c><00:04:53.370><c> in</c><00:04:53.610><c> the</c></c>
+
+00:04:53.750 --> 00:04:53.760 align:start position:0%
+has<c.colorE5E5E5> three fields in it to type in the
+ </c>
+
+00:04:53.760 --> 00:04:55.430 align:start position:0%
+has<c.colorE5E5E5> three fields in it to type in the
+name<00:04:53.970><c> of</c><00:04:54.000><c> the</c><00:04:54.330><c> product</c><00:04:54.599><c> or</c></c><c.colorCCCCCC><00:04:54.900><c> the</c><00:04:55.050><c> item</c><00:04:55.320><c> that</c></c>
+
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+name of<c.colorE5E5E5> the product or</c><c.colorCCCCCC> the item that
+ </c>
+
+00:04:55.440 --> 00:04:57.350 align:start position:0%
+name of<c.colorE5E5E5> the product or</c><c.colorCCCCCC> the item that</c>
+<c.colorE5E5E5>you're<00:04:55.620><c> selling</c><00:04:56.039><c> a</c><00:04:56.220><c> description</c><00:04:56.789><c> of</c><00:04:57.030><c> it</c><00:04:57.210><c> and</c></c>
+
+00:04:57.350 --> 00:04:57.360 align:start position:0%
+<c.colorE5E5E5>you're selling a description of it and
+ </c>
+
+00:04:57.360 --> 00:04:59.500 align:start position:0%
+<c.colorE5E5E5>you're selling a description of it and
+the<00:04:57.990><c> price</c><00:04:58.229><c> that</c></c><c.colorCCCCCC><00:04:58.289><c> you</c><00:04:58.590><c> want</c></c><c.colorE5E5E5><00:04:58.740><c> to</c><00:04:58.890><c> sell</c><00:04:59.099><c> it</c><00:04:59.250><c> for</c></c>
+
+00:04:59.500 --> 00:04:59.510 align:start position:0%
+the<c.colorE5E5E5> price that</c><c.colorCCCCCC> you want</c><c.colorE5E5E5> to sell it for
+ </c>
+
+00:04:59.510 --> 00:05:01.520 align:start position:0%
+the<c.colorE5E5E5> price that</c><c.colorCCCCCC> you want</c><c.colorE5E5E5> to sell it for
+so<00:05:00.510><c> we're</c><00:05:00.630><c> going</c><00:05:00.720><c> to</c><00:05:00.780><c> switch</c></c><c.colorCCCCCC><00:05:00.870><c> over</c><00:05:01.169><c> to</c><00:05:01.200><c> our</c></c>
+
+00:05:01.520 --> 00:05:01.530 align:start position:0%
+so we're going to<c.colorE5E5E5> switch</c><c.colorCCCCCC> over to our
+ </c>
+
+00:05:01.530 --> 00:05:03.500 align:start position:0%
+so we're going to<c.colorE5E5E5> switch</c><c.colorCCCCCC> over to our
+code<00:05:01.800><c> editor</c><00:05:01.860><c> now</c><00:05:02.520><c> and</c><00:05:02.849><c> we're</c><00:05:03.330><c> going</c><00:05:03.450><c> to</c></c>
+
+00:05:03.500 --> 00:05:03.510 align:start position:0%
+code editor now and we're going<c.colorCCCCCC> to
+ </c>
+
+00:05:03.510 --> 00:05:05.000 align:start position:0%
+code editor now and we're going<c.colorCCCCCC> to
+identify<00:05:03.599><c> the</c><00:05:03.990><c> code</c><00:05:04.320><c> that</c><00:05:04.560><c> renders</c><00:05:04.890><c> this</c></c>
+
+00:05:05.000 --> 00:05:05.010 align:start position:0%
+identify the code that renders this
+ 
+
+00:05:05.010 --> 00:05:06.589 align:start position:0%
+identify the code that renders this
+component<c.colorE5E5E5><00:05:05.640><c> and</c><00:05:05.789><c> take</c><00:05:06.000><c> a</c><00:05:06.030><c> look</c><00:05:06.330><c> at</c><00:05:06.479><c> the</c></c>
+
+00:05:06.589 --> 00:05:06.599 align:start position:0%
+component<c.colorE5E5E5> and take a look at the
+ </c>
+
+00:05:06.599 --> 00:05:09.770 align:start position:0%
+component<c.colorE5E5E5> and take a look at the
+dispatch<00:05:07.050><c> action</c><00:05:07.680><c> that</c><00:05:07.950><c> executes</c><00:05:08.580><c> the</c><00:05:09.330><c> smart</c></c>
+
+00:05:09.770 --> 00:05:09.780 align:start position:0%
+dispatch action that executes the smart
+ 
+
+00:05:09.780 --> 00:05:11.690 align:start position:0%
+dispatch action that executes the smart
+contract<00:05:10.020><c> function</c>
+
+00:05:11.690 --> 00:05:11.700 align:start position:0%
+contract function
+ 
+
+00:05:11.700 --> 00:05:14.000 align:start position:0%
+contract function
+so<00:05:12.150><c> this</c><00:05:12.300><c> render</c><00:05:12.720><c> function</c><c.colorE5E5E5><00:05:12.900><c> is</c><00:05:13.380><c> what</c><00:05:13.800><c> gets</c></c>
+
+00:05:14.000 --> 00:05:14.010 align:start position:0%
+so this render function<c.colorE5E5E5> is what gets
+ </c>
+
+00:05:14.010 --> 00:05:15.650 align:start position:0%
+so this render function<c.colorE5E5E5> is what gets</c>
+<c.colorE5E5E5>called<00:05:14.370><c> whenever</c><00:05:14.640><c> it's</c></c><c.colorCCCCCC><00:05:14.850><c> time</c><00:05:15.120><c> to</c><00:05:15.390><c> draw</c><00:05:15.630><c> the</c></c>
+
+00:05:15.650 --> 00:05:15.660 align:start position:0%
+<c.colorE5E5E5>called whenever it's</c><c.colorCCCCCC> time to draw the
+ </c>
+
+00:05:15.660 --> 00:05:17.630 align:start position:0%
+<c.colorE5E5E5>called whenever it's</c><c.colorCCCCCC> time to draw the
+component<00:05:16.290><c> on</c></c><c.colorE5E5E5><00:05:16.380><c> the</c><00:05:16.530><c> screen</c><00:05:16.890><c> you</c></c><c.colorCCCCCC><00:05:17.130><c> can</c></c><c.colorE5E5E5><00:05:17.280><c> see</c><00:05:17.490><c> that</c></c>
+
+00:05:17.630 --> 00:05:17.640 align:start position:0%
+component on<c.colorE5E5E5> the screen you</c><c.colorCCCCCC> can</c><c.colorE5E5E5> see that
+ </c>
+
+00:05:17.640 --> 00:05:19.910 align:start position:0%
+component on<c.colorE5E5E5> the screen you</c><c.colorCCCCCC> can</c><c.colorE5E5E5> see that
+it</c><c.colorCCCCCC><00:05:17.730><c> has</c><00:05:17.850><c> a</c><00:05:17.880><c> return</c><00:05:18.330><c> statement</c><00:05:18.660><c> and</c><00:05:19.110><c> then</c><00:05:19.500><c> some</c></c>
+
+00:05:19.910 --> 00:05:19.920 align:start position:0%
+it<c.colorCCCCCC> has a return statement and then some
+ </c>
+
+00:05:19.920 --> 00:05:21.860 align:start position:0%
+it<c.colorCCCCCC> has a return statement and then some
+components<00:05:20.850><c> that</c><00:05:20.940><c> it's</c><00:05:21.120><c> going</c><00:05:21.240><c> to</c><00:05:21.330><c> render</c><00:05:21.540><c> and</c></c>
+
+00:05:21.860 --> 00:05:21.870 align:start position:0%
+components that it's going<c.colorCCCCCC> to render and
+ </c>
+
+00:05:21.870 --> 00:05:24.200 align:start position:0%
+components that it's going<c.colorCCCCCC> to render and
+these<00:05:21.990><c> are</c><00:05:22.140><c> in</c><00:05:22.290><c> the</c><00:05:22.380><c> format</c><00:05:22.800><c> of</c><00:05:22.830><c> JSX</c></c><c.colorE5E5E5><00:05:23.670><c> and</c><00:05:24.090><c> we'll</c></c>
+
+00:05:24.200 --> 00:05:24.210 align:start position:0%
+these are in the format of<c.colorCCCCCC> JSX</c><c.colorE5E5E5> and we'll
+ </c>
+
+00:05:24.210 --> 00:05:25.820 align:start position:0%
+these are in the format of<c.colorCCCCCC> JSX</c><c.colorE5E5E5> and we'll
+go<00:05:24.360><c> over</c></c><c.colorCCCCCC><00:05:24.390><c> that</c><00:05:24.570><c> in</c><00:05:24.930><c> a</c></c><c.colorE5E5E5><00:05:24.990><c> little</c></c><c.colorCCCCCC><00:05:25.290><c> more</c><00:05:25.440><c> detail</c></c>
+
+00:05:25.820 --> 00:05:25.830 align:start position:0%
+go over<c.colorCCCCCC> that in a</c><c.colorE5E5E5> little</c><c.colorCCCCCC> more detail
+ </c>
+
+00:05:25.830 --> 00:05:27.440 align:start position:0%
+go over<c.colorCCCCCC> that in a</c><c.colorE5E5E5> little</c><c.colorCCCCCC> more detail
+whenever<00:05:26.160><c> we</c><00:05:26.280><c> start</c></c><c.colorE5E5E5><00:05:26.550><c> writing</c><00:05:26.880><c> a</c><00:05:26.970><c> code</c><00:05:27.210><c> for</c></c>
+
+00:05:27.440 --> 00:05:27.450 align:start position:0%
+whenever we start<c.colorE5E5E5> writing a code for
+ </c>
+
+00:05:27.450 --> 00:05:29.660 align:start position:0%
+whenever we start<c.colorE5E5E5> writing a code for
+this<00:05:27.510><c> application</c></c><c.colorCCCCCC><00:05:27.950><c> but</c><00:05:28.950><c> at</c><00:05:29.100><c> a</c><00:05:29.130><c> high</c><00:05:29.340><c> level</c></c><c.colorE5E5E5><00:05:29.370><c> you</c></c>
+
+00:05:29.660 --> 00:05:29.670 align:start position:0%
+this application<c.colorCCCCCC> but at a high level</c><c.colorE5E5E5> you
+ </c>
+
+00:05:29.670 --> 00:05:31.430 align:start position:0%
+this application<c.colorCCCCCC> but at a high level</c><c.colorE5E5E5> you</c>
+<c.colorCCCCCC>can<00:05:29.850><c> see</c><00:05:30.030><c> there's</c><00:05:30.240><c> the</c><00:05:30.390><c> card</c><00:05:30.690><c> that</c><00:05:30.990><c> displays</c></c>
+
+00:05:31.430 --> 00:05:31.440 align:start position:0%
+<c.colorCCCCCC>can see there's the card that displays
+ </c>
+
+00:05:31.440 --> 00:05:33.860 align:start position:0%
+<c.colorCCCCCC>can see there's the card that displays
+the</c><c.colorE5E5E5><00:05:31.470><c> form</c><00:05:32.040><c> we</c><00:05:32.640><c> have</c><00:05:32.670><c> a</c><00:05:32.790><c> header</c><00:05:33.150><c> and</c><00:05:33.510><c> then</c><00:05:33.690><c> we</c></c>
+
+00:05:33.860 --> 00:05:33.870 align:start position:0%
+the<c.colorE5E5E5> form we have a header and then we
+ </c>
+
+00:05:33.870 --> 00:05:35.720 align:start position:0%
+the<c.colorE5E5E5> form we have a header and then we
+have<00:05:34.020><c> the</c><00:05:34.140><c> text</c><00:05:34.620><c> where</c><00:05:34.800><c> the</c></c><c.colorCCCCCC><00:05:34.830><c> user</c></c><c.colorE5E5E5><00:05:35.370><c> is</c><00:05:35.520><c> going</c><00:05:35.580><c> to</c></c>
+
+00:05:35.720 --> 00:05:35.730 align:start position:0%
+have the text where the<c.colorCCCCCC> user</c><c.colorE5E5E5> is going to
+ </c>
+
+00:05:35.730 --> 00:05:38.480 align:start position:0%
+have the text where the<c.colorCCCCCC> user</c><c.colorE5E5E5> is going to
+insert<00:05:36.120><c> the</c><00:05:36.390><c> name</c><00:05:36.660><c> of</c><00:05:36.960><c> the</c><00:05:37.500><c> item</c></c><c.colorCCCCCC><00:05:38.220><c> that</c><00:05:38.370><c> they</c></c>
+
+00:05:38.480 --> 00:05:38.490 align:start position:0%
+<c.colorE5E5E5>insert the name of the item</c><c.colorCCCCCC> that they
+ </c>
+
+00:05:38.490 --> 00:05:39.890 align:start position:0%
+<c.colorE5E5E5>insert the name of the item</c><c.colorCCCCCC> that they
+have<00:05:38.670><c> for</c><00:05:38.850><c> sale</c><00:05:39.090><c> and</c><00:05:39.270><c> you</c><00:05:39.330><c> can</c><00:05:39.480><c> see</c><00:05:39.660><c> that</c><00:05:39.780><c> this</c></c>
+
+00:05:39.890 --> 00:05:39.900 align:start position:0%
+have for sale and you can see that this
+ 
+
+00:05:39.900 --> 00:05:42.590 align:start position:0%
+have for sale and you can see that this
+is<00:05:40.080><c> pulling</c><00:05:40.470><c> from</c><00:05:40.710><c> the</c><00:05:41.340><c> application</c><c.colorE5E5E5><00:05:42.030><c> state</c><00:05:42.360><c> as</c></c>
+
+00:05:42.590 --> 00:05:42.600 align:start position:0%
+is pulling from the application<c.colorE5E5E5> state as
+ </c>
+
+00:05:42.600 --> 00:05:46.110 align:start position:0%
+is pulling from the application<c.colorE5E5E5> state as
+is<00:05:43.590><c> the</c><00:05:44.040><c> item</c><00:05:44.460><c> description</c></c>
+
+00:05:46.110 --> 00:05:46.120 align:start position:0%
+is the item description
+ 
+
+00:05:46.120 --> 00:05:48.300 align:start position:0%
+is the item description
+and<00:05:46.210><c> the</c><00:05:46.720><c> item</c><c.colorE5E5E5><00:05:47.020><c> price</c></c><c.colorCCCCCC><00:05:47.380><c> so</c><00:05:47.740><c> they'll</c><00:05:47.919><c> fill</c><00:05:48.160><c> those</c></c>
+
+00:05:48.300 --> 00:05:48.310 align:start position:0%
+and the item<c.colorE5E5E5> price</c><c.colorCCCCCC> so they'll fill those
+ </c>
+
+00:05:48.310 --> 00:05:50.219 align:start position:0%
+and the item<c.colorE5E5E5> price</c><c.colorCCCCCC> so they'll fill those
+out<00:05:48.520><c> and</c><00:05:48.699><c> that's</c><00:05:48.880><c> going</c></c><c.colorE5E5E5><00:05:49.000><c> to</c><00:05:49.060><c> update</c><00:05:49.270><c> the</c></c>
+
+00:05:50.219 --> 00:05:50.229 align:start position:0%
+out and that's going<c.colorE5E5E5> to update the
+ </c>
+
+00:05:50.229 --> 00:05:52.710 align:start position:0%
+out and that's going<c.colorE5E5E5> to update the
+application</c><c.colorCCCCCC><00:05:50.590><c> state</c><00:05:51.490><c> and</c><00:05:51.790><c> then</c><00:05:52.270><c> there's</c><00:05:52.540><c> this</c></c>
+
+00:05:52.710 --> 00:05:52.720 align:start position:0%
+application<c.colorCCCCCC> state and then there's this
+ </c>
+
+00:05:52.720 --> 00:05:54.960 align:start position:0%
+application<c.colorCCCCCC> state and then there's this
+button</c><c.colorE5E5E5><00:05:53.020><c> here</c><00:05:53.500><c> to</c></c><c.colorCCCCCC><00:05:53.530><c> add</c><00:05:53.800><c> the</c><00:05:54.040><c> listing</c><00:05:54.550><c> that</c><00:05:54.580><c> when</c></c>
+
+00:05:54.960 --> 00:05:54.970 align:start position:0%
+button<c.colorE5E5E5> here to</c><c.colorCCCCCC> add the listing that when
+ </c>
+
+00:05:54.970 --> 00:05:57.150 align:start position:0%
+button<c.colorE5E5E5> here to</c><c.colorCCCCCC> add the listing that when
+they<00:05:55.090><c> click</c><00:05:55.330><c> on</c></c><c.colorE5E5E5><00:05:55.389><c> it</c><00:05:55.690><c> calls</c><00:05:56.260><c> the</c><00:05:56.530><c> add</c><00:05:56.650><c> listing</c></c>
+
+00:05:57.150 --> 00:05:57.160 align:start position:0%
+they click on<c.colorE5E5E5> it calls the add listing
+ </c>
+
+00:05:57.160 --> 00:06:00.090 align:start position:0%
+they click on<c.colorE5E5E5> it calls the add listing
+function<00:05:58.080><c> so</c><00:05:59.080><c> let's</c><00:05:59.229><c> take</c><00:05:59.410><c> a</c><00:05:59.440><c> look</c><00:05:59.650><c> at</c><00:05:59.710><c> that</c></c>
+
+00:06:00.090 --> 00:06:00.100 align:start position:0%
+function so let's take a look at that
+ 
+
+00:06:00.100 --> 00:06:03.180 align:start position:0%
+function so let's take a look at that
+so<00:06:01.060><c> our</c><00:06:01.180><c> add</c><00:06:01.330><c> listing</c><00:06:01.720><c> function</c><00:06:02.290><c> creates</c><00:06:02.740><c> this</c>
+
+00:06:03.180 --> 00:06:03.190 align:start position:0%
+so our add listing function creates this
+ 
+
+00:06:03.190 --> 00:06:05.100 align:start position:0%
+so our add listing function creates this
+<c.colorE5E5E5>object<00:06:03.910><c> called</c></c><c.colorCCCCCC><00:06:04.150><c> merge</c><00:06:04.479><c> and</c><00:06:04.870><c> then</c><00:06:04.990><c> it</c></c>
+
+00:06:05.100 --> 00:06:05.110 align:start position:0%
+<c.colorE5E5E5>object called</c><c.colorCCCCCC> merge and then it
+ </c>
+
+00:06:05.110 --> 00:06:07.140 align:start position:0%
+<c.colorE5E5E5>object called</c><c.colorCCCCCC> merge and then it
+populates<00:06:05.770><c> that</c></c><c.colorE5E5E5><00:06:05.889><c> with</c><00:06:06.280><c> the</c><00:06:06.400><c> items</c><00:06:06.790><c> from</c><00:06:07.000><c> the</c></c>
+
+00:06:07.140 --> 00:06:07.150 align:start position:0%
+populates that<c.colorE5E5E5> with the items from the
+ </c>
+
+00:06:07.150 --> 00:06:09.420 align:start position:0%
+populates that<c.colorE5E5E5> with the items from the</c>
+<c.colorCCCCCC>state<00:06:07.720><c> that</c><00:06:08.080><c> we</c></c><c.colorE5E5E5><00:06:08.229><c> grabbed</c><00:06:08.710><c> from</c></c><c.colorCCCCCC><00:06:09.010><c> the</c><00:06:09.190><c> user</c></c>
+
+00:06:09.420 --> 00:06:09.430 align:start position:0%
+<c.colorCCCCCC>state that we</c><c.colorE5E5E5> grabbed from</c><c.colorCCCCCC> the user
+ </c>
+
+00:06:09.430 --> 00:06:11.550 align:start position:0%
+<c.colorCCCCCC>state that we</c><c.colorE5E5E5> grabbed from</c><c.colorCCCCCC> the user
+interface<00:06:09.550><c> fields</c></c><c.colorE5E5E5><00:06:10.479><c> and</c><00:06:10.600><c> then</c><00:06:11.169><c> it's</c><00:06:11.290><c> going</c><00:06:11.470><c> to</c></c>
+
+00:06:11.550 --> 00:06:11.560 align:start position:0%
+interface fields<c.colorE5E5E5> and then it's going to
+ </c>
+
+00:06:11.560 --> 00:06:14.010 align:start position:0%
+interface fields<c.colorE5E5E5> and then it's going to
+call<00:06:11.830><c> this</c><00:06:12.070><c> add</c><00:06:12.310><c> listing</c><00:06:12.880><c> function</c><00:06:13.449><c> that</c></c>
+
+00:06:14.010 --> 00:06:14.020 align:start position:0%
+call this<c.colorE5E5E5> add listing function that
+ </c>
+
+00:06:14.020 --> 00:06:18.020 align:start position:0%
+call this<c.colorE5E5E5> add listing function that
+comes<00:06:14.560><c> from</c><00:06:14.919><c> actions</c><00:06:15.580><c> dot</c><00:06:15.820><c> merchandise</c></c>
+
+00:06:18.020 --> 00:06:18.030 align:start position:0%
+comes from actions<c.colorE5E5E5> dot merchandise
+ </c>
+
+00:06:18.030 --> 00:06:20.140 align:start position:0%
+comes from actions<c.colorE5E5E5> dot merchandise
+so<00:06:18.420><c> if</c><00:06:18.480><c> we</c><00:06:18.600><c> take</c><00:06:18.750><c> a</c><00:06:18.810><c> look</c><00:06:19.050><c> at</c><00:06:19.170><c> the</c><00:06:19.290><c> actions</c></c>
+
+00:06:20.140 --> 00:06:20.150 align:start position:0%
+so if we take a<c.colorE5E5E5> look at the actions
+ </c>
+
+00:06:20.150 --> 00:06:22.970 align:start position:0%
+so if we take a<c.colorE5E5E5> look at the actions</c>
+<c.colorE5E5E5>merchandise<00:06:21.150><c> script</c><00:06:21.900><c> that's</c><00:06:22.680><c> where</c><00:06:22.890><c> we'll</c></c>
+
+00:06:22.970 --> 00:06:22.980 align:start position:0%
+<c.colorE5E5E5>merchandise script that's where we'll
+ </c>
+
+00:06:22.980 --> 00:06:24.830 align:start position:0%
+<c.colorE5E5E5>merchandise script that's where we'll</c>
+<c.colorCCCCCC>find</c><c.colorE5E5E5><00:06:23.280><c> our</c><00:06:23.490><c> add</c><00:06:23.670><c> listing</c><00:06:24.120><c> function</c><00:06:24.630><c> that</c></c>
+
+00:06:24.830 --> 00:06:24.840 align:start position:0%
+<c.colorCCCCCC>find</c><c.colorE5E5E5> our add listing function that
+ </c>
+
+00:06:24.840 --> 00:06:27.720 align:start position:0%
+<c.colorCCCCCC>find</c><c.colorE5E5E5> our add listing function that
+receives<00:06:25.260><c> the</c><00:06:25.470><c> merge</c><00:06:25.680><c> parameter</c></c>
+
+00:06:27.720 --> 00:06:27.730 align:start position:0%
+receives the<c.colorE5E5E5> merge parameter
+ </c>
+
+00:06:27.730 --> 00:06:29.010 align:start position:0%
+receives the<c.colorE5E5E5> merge parameter
+and<00:06:27.850><c> then</c><00:06:28.300><c> we're</c><00:06:28.390><c> going</c></c><c.colorCCCCCC><00:06:28.480><c> to</c><00:06:28.570><c> create</c><00:06:28.750><c> a</c><00:06:28.840><c> new</c></c>
+
+00:06:29.010 --> 00:06:29.020 align:start position:0%
+and then we're going<c.colorCCCCCC> to create a new
+ </c>
+
+00:06:29.020 --> 00:06:32.400 align:start position:0%
+and then we're going<c.colorCCCCCC> to create a new
+promise</c><c.colorE5E5E5><00:06:29.380><c> and</c><00:06:29.830><c> call</c><00:06:30.310><c> register</c><00:06:30.940><c> listing</c><00:06:31.420><c> so</c></c>
+
+00:06:32.400 --> 00:06:32.410 align:start position:0%
+promise<c.colorE5E5E5> and call register listing so
+ </c>
+
+00:06:32.410 --> 00:06:33.510 align:start position:0%
+promise<c.colorE5E5E5> and call register listing so
+let's<00:06:32.530><c> take</c><00:06:32.650><c> a</c><00:06:32.680><c> look</c><00:06:32.860><c> at</c><00:06:32.920><c> this</c><00:06:33.010><c> register</c></c>
+
+00:06:33.510 --> 00:06:33.520 align:start position:0%
+let's take a look at this register
+ 
+
+00:06:33.520 --> 00:06:36.180 align:start position:0%
+let's take a look at this register
+listing<00:06:33.880><c> and</c><00:06:34.150><c> see</c><00:06:34.450><c> what</c><00:06:34.630><c> it's</c><c.colorCCCCCC><00:06:34.780><c> doing</c><00:06:35.170><c> so</c><00:06:35.320><c> we've</c></c>
+
+00:06:36.180 --> 00:06:36.190 align:start position:0%
+listing and see what it's<c.colorCCCCCC> doing so we've
+ </c>
+
+00:06:36.190 --> 00:06:38.820 align:start position:0%
+listing and see what it's<c.colorCCCCCC> doing so we've
+passed<00:06:36.430><c> in</c><00:06:36.760><c> our</c><00:06:37.060><c> contract</c></c><c.colorE5E5E5><00:06:37.690><c> and</c><00:06:37.960><c> we're</c><00:06:38.710><c> gonna</c></c>
+
+00:06:38.820 --> 00:06:38.830 align:start position:0%
+passed in our contract<c.colorE5E5E5> and we're gonna
+ </c>
+
+00:06:38.830 --> 00:06:40.620 align:start position:0%
+passed in our contract<c.colorE5E5E5> and we're gonna
+get<00:06:39.010><c> the</c><00:06:39.160><c> deployed</c><00:06:39.580><c> version</c><00:06:40.180><c> of</c><00:06:40.270><c> that</c><00:06:40.420><c> which</c></c>
+
+00:06:40.620 --> 00:06:40.630 align:start position:0%
+get the deployed<c.colorE5E5E5> version of that which
+ </c>
+
+00:06:40.630 --> 00:06:42.780 align:start position:0%
+get the deployed<c.colorE5E5E5> version of that which</c>
+<c.colorE5E5E5>gives<00:06:40.900><c> us</c><00:06:41.020><c> a</c><00:06:41.170><c> smart</c><00:06:41.440><c> contract</c><00:06:41.710><c> address</c><00:06:42.550><c> and</c></c>
+
+00:06:42.780 --> 00:06:42.790 align:start position:0%
+<c.colorE5E5E5>gives us a smart contract address and
+ </c>
+
+00:06:42.790 --> 00:06:45.090 align:start position:0%
+<c.colorE5E5E5>gives us a smart contract address and
+then<00:06:43.480><c> we're</c></c><c.colorCCCCCC><00:06:43.690><c> gonna</c></c><c.colorE5E5E5><00:06:43.780><c> call</c><00:06:44.080><c> this</c><00:06:44.320><c> add</c><00:06:44.500><c> listing</c></c>
+
+00:06:45.090 --> 00:06:45.100 align:start position:0%
+then we're<c.colorCCCCCC> gonna</c><c.colorE5E5E5> call this add listing
+ </c>
+
+00:06:45.100 --> 00:06:47.820 align:start position:0%
+then we're<c.colorCCCCCC> gonna</c><c.colorE5E5E5> call this add listing
+function<00:06:45.730><c> and</c><00:06:45.940><c> that</c><00:06:46.450><c> add</c><00:06:46.720><c> listing</c><00:06:47.230><c> function</c></c>
+
+00:06:47.820 --> 00:06:47.830 align:start position:0%
+function and that add listing function
+ 
+
+00:06:47.830 --> 00:06:49.950 align:start position:0%
+function and that add listing function
+it's<00:06:48.550><c> coming</c><00:06:48.970><c> off</c><00:06:49.120><c> of</c><c.colorE5E5E5><00:06:49.150><c> the</c><00:06:49.450><c> merchandise</c></c>
+
+00:06:49.950 --> 00:06:49.960 align:start position:0%
+it's coming off of<c.colorE5E5E5> the merchandise
+ </c>
+
+00:06:49.960 --> 00:06:52.440 align:start position:0%
+it's coming off of<c.colorE5E5E5> the merchandise
+contract<00:06:50.620><c> and</c><00:06:50.830><c> if</c><00:06:51.490><c> we</c><00:06:51.580><c> look</c><00:06:51.730><c> at</c><00:06:51.850><c> the</c><00:06:51.970><c> solidity</c></c>
+
+00:06:52.440 --> 00:06:52.450 align:start position:0%
+contract and if we look at the solidity
+ 
+
+00:06:52.450 --> 00:06:54.510 align:start position:0%
+contract and if we look at the solidity
+code<00:06:52.810><c> for</c><c.colorCCCCCC><00:06:53.050><c> our</c><00:06:53.170><c> smart</c><00:06:53.500><c> contract</c><00:06:54.100><c> we're</c></c>
+
+00:06:54.510 --> 00:06:54.520 align:start position:0%
+code for<c.colorCCCCCC> our smart contract we're
+ </c>
+
+00:06:54.520 --> 00:06:56.280 align:start position:0%
+code for<c.colorCCCCCC> our smart contract we're
+actually</c><c.colorE5E5E5><00:06:54.760><c> calling</c><00:06:55.210><c> this</c><00:06:55.510><c> add</c><00:06:55.720><c> listing</c></c>
+
+00:06:56.280 --> 00:06:56.290 align:start position:0%
+actually<c.colorE5E5E5> calling this add listing
+ </c>
+
+00:06:56.290 --> 00:06:58.800 align:start position:0%
+actually<c.colorE5E5E5> calling this add listing
+function<00:06:56.830><c> that</c><00:06:57.130><c> I</c><00:06:57.190><c> showed</c></c><c.colorCCCCCC><00:06:57.580><c> you</c><00:06:57.850><c> earlier</c><00:06:57.880><c> out</c></c>
+
+00:06:58.800 --> 00:06:58.810 align:start position:0%
+function that<c.colorE5E5E5> I showed</c><c.colorCCCCCC> you earlier out
+ </c>
+
+00:06:58.810 --> 00:07:01.710 align:start position:0%
+function that<c.colorE5E5E5> I showed</c><c.colorCCCCCC> you earlier out</c>
+<c.colorE5E5E5>on<00:06:59.080><c> the</c><00:06:59.200><c> etherium</c></c><c.colorCCCCCC><00:06:59.680><c> network</c></c><c.colorE5E5E5><00:07:00.240><c> so</c><00:07:01.240><c> this</c><00:07:01.420><c> is</c><00:07:01.600><c> the</c></c>
+
+00:07:01.710 --> 00:07:01.720 align:start position:0%
+<c.colorE5E5E5>on the etherium</c><c.colorCCCCCC> network</c><c.colorE5E5E5> so this is the
+ </c>
+
+00:07:01.720 --> 00:07:03.990 align:start position:0%
+<c.colorE5E5E5>on the etherium</c><c.colorCCCCCC> network</c><c.colorE5E5E5> so this is the
+part<00:07:01.990><c> where</c><00:07:02.200><c> we're</c><00:07:02.350><c> actually</c><00:07:02.850><c> adding</c></c><c.colorCCCCCC><00:07:03.850><c> the</c></c>
+
+00:07:03.990 --> 00:07:04.000 align:start position:0%
+part where we're actually<c.colorE5E5E5> adding</c><c.colorCCCCCC> the
+ </c>
+
+00:07:04.000 --> 00:07:06.060 align:start position:0%
+part where we're actually<c.colorE5E5E5> adding</c><c.colorCCCCCC> the
+item<00:07:04.390><c> to</c></c><c.colorE5E5E5><00:07:04.690><c> the</c><00:07:04.930><c> etherium</c></c><c.colorCCCCCC><00:07:05.380><c> network</c><00:07:05.680><c> and</c><00:07:05.890><c> making</c></c>
+
+00:07:06.060 --> 00:07:06.070 align:start position:0%
+item to<c.colorE5E5E5> the etherium</c><c.colorCCCCCC> network and making
+ </c>
+
+00:07:06.070 --> 00:07:08.200 align:start position:0%
+item to<c.colorE5E5E5> the etherium</c><c.colorCCCCCC> network and making</c>
+<c.colorCCCCCC>that<00:07:06.310><c> transaction</c></c>
+
+00:07:08.200 --> 00:07:08.210 align:start position:0%
+<c.colorCCCCCC>that transaction
+ </c>
+
+00:07:08.210 --> 00:07:09.999 align:start position:0%
+<c.colorCCCCCC>that transaction
+again<00:07:08.630><c> that</c><00:07:08.780><c> returns</c><00:07:09.080><c> a</c><00:07:09.199><c> promise</c><00:07:09.350><c> so</c><00:07:09.830><c> when</c></c>
+
+00:07:09.999 --> 00:07:10.009 align:start position:0%
+again that returns a promise<c.colorCCCCCC> so when
+ </c>
+
+00:07:10.009 --> 00:07:11.950 align:start position:0%
+again that returns a promise<c.colorCCCCCC> so when</c>
+<c.colorE5E5E5>that<00:07:10.130><c> promise</c><00:07:10.520><c> completes</c><00:07:11.000><c> we</c><00:07:11.720><c> get</c><00:07:11.930><c> a</c></c>
+
+00:07:11.950 --> 00:07:11.960 align:start position:0%
+<c.colorE5E5E5>that promise completes we get a
+ </c>
+
+00:07:11.960 --> 00:07:13.960 align:start position:0%
+<c.colorE5E5E5>that promise completes we get a
+transaction<00:07:12.860><c> back</c><00:07:13.100><c> and</c><00:07:13.400><c> we're</c><00:07:13.580><c> going</c></c><c.colorCCCCCC><00:07:13.669><c> to</c><00:07:13.729><c> call</c></c>
+
+00:07:13.960 --> 00:07:13.970 align:start position:0%
+transaction back and we're going<c.colorCCCCCC> to call
+ </c>
+
+00:07:13.970 --> 00:07:16.659 align:start position:0%
+transaction back and we're going<c.colorCCCCCC> to call</c>
+<c.colorCCCCCC>resolve</c><c.colorE5E5E5><00:07:14.509><c> and</c><00:07:14.900><c> if</c><00:07:15.740><c> I</c><00:07:15.800><c> come</c><00:07:15.979><c> back</c><00:07:16.100><c> down</c><00:07:16.310><c> to</c></c><c.colorCCCCCC><00:07:16.340><c> add</c></c>
+
+00:07:16.659 --> 00:07:16.669 align:start position:0%
+<c.colorCCCCCC>resolve</c><c.colorE5E5E5> and if I come back down to</c><c.colorCCCCCC> add
+ </c>
+
+00:07:16.669 --> 00:07:19.540 align:start position:0%
+<c.colorCCCCCC>resolve</c><c.colorE5E5E5> and if I come back down to</c><c.colorCCCCCC> add
+listing<00:07:17.120><c> here</c><00:07:17.539><c> when</c><00:07:18.289><c> that</c><00:07:18.410><c> resolves</c><00:07:19.070><c> we</c><00:07:19.280><c> pass</c></c>
+
+00:07:19.540 --> 00:07:19.550 align:start position:0%
+listing here when that resolves we pass
+ 
+
+00:07:19.550 --> 00:07:22.120 align:start position:0%
+listing here when that resolves we pass
+the<00:07:19.789><c> transaction</c><00:07:20.509><c> back</c><00:07:20.690><c> to</c><00:07:20.930><c> it</c><00:07:21.110><c> and</c><00:07:21.320><c> then</c><00:07:21.949><c> we</c>
+
+00:07:22.120 --> 00:07:22.130 align:start position:0%
+the transaction back to it and then we
+ 
+
+00:07:22.130 --> 00:07:25.570 align:start position:0%
+the transaction back to it and then we
+can<00:07:22.370><c> dispatch</c><00:07:22.970><c> the</c><00:07:23.479><c> listing</c><00:07:23.840><c> created</c><00:07:24.580><c> this</c>
+
+00:07:25.570 --> 00:07:25.580 align:start position:0%
+can dispatch the listing created this
+ 
+
+00:07:25.580 --> 00:07:28.210 align:start position:0%
+can dispatch the listing created this
+dispatch<00:07:26.090><c> listing</c><00:07:26.840><c> created</c><00:07:27.410><c> remember</c><00:07:28.039><c> we're</c>
+
+00:07:28.210 --> 00:07:28.220 align:start position:0%
+dispatch listing created remember we're
+ 
+
+00:07:28.220 --> 00:07:30.010 align:start position:0%
+dispatch listing created remember we're
+<c.colorCCCCCC>in<00:07:28.340><c> an</c><00:07:28.430><c> action</c><00:07:28.910><c> here</c><00:07:29.150><c> so</c><00:07:29.330><c> we</c><00:07:29.419><c> can</c><00:07:29.600><c> dispatch</c></c>
+
+00:07:30.010 --> 00:07:30.020 align:start position:0%
+<c.colorCCCCCC>in an action here so we can dispatch
+ </c>
+
+00:07:30.020 --> 00:07:33.010 align:start position:0%
+<c.colorCCCCCC>in an action here so we can dispatch
+actions</c><c.colorE5E5E5><00:07:30.710><c> we're</c><00:07:31.430><c> going</c><00:07:31.550><c> to</c><00:07:31.610><c> dispatch</c><00:07:32.090><c> the</c><00:07:32.720><c> type</c></c>
+
+00:07:33.010 --> 00:07:33.020 align:start position:0%
+actions<c.colorE5E5E5> we're going to dispatch the type
+ </c>
+
+00:07:33.020 --> 00:07:36.670 align:start position:0%
+actions<c.colorE5E5E5> we're going to dispatch the type
+of<00:07:33.050><c> new</c><00:07:33.530><c> item</c><00:07:33.949><c> added</c><00:07:34.190><c> and</c><00:07:35.080><c> reducers</c><00:07:36.080><c> listen</c><00:07:36.590><c> to</c></c>
+
+00:07:36.670 --> 00:07:36.680 align:start position:0%
+of<c.colorE5E5E5> new item added and reducers listen to
+ </c>
+
+00:07:36.680 --> 00:07:39.219 align:start position:0%
+of<c.colorE5E5E5> new item added and reducers listen to
+that<00:07:36.889><c> so</c><00:07:37.460><c> we've</c><00:07:37.580><c> got</c><00:07:37.759><c> a</c><00:07:37.789><c> reducer</c><00:07:38.360><c> here</c><00:07:38.870><c> that's</c></c>
+
+00:07:39.219 --> 00:07:39.229 align:start position:0%
+that<c.colorE5E5E5> so we've got a reducer here that's
+ </c>
+
+00:07:39.229 --> 00:07:41.529 align:start position:0%
+that<c.colorE5E5E5> so we've got a reducer here that's
+listening<00:07:39.620><c> for</c><00:07:39.979><c> changes</c><00:07:40.490><c> to</c></c><c.colorCCCCCC><00:07:40.520><c> that</c><00:07:40.759><c> new</c></c><c.colorE5E5E5><00:07:41.090><c> item</c></c>
+
+00:07:41.529 --> 00:07:41.539 align:start position:0%
+listening for changes to<c.colorCCCCCC> that new</c><c.colorE5E5E5> item
+ </c>
+
+00:07:41.539 --> 00:07:44.170 align:start position:0%
+listening for changes to<c.colorCCCCCC> that new</c><c.colorE5E5E5> item
+added<00:07:41.720><c> constant</c><00:07:42.530><c> and</c><00:07:42.680><c> then</c><00:07:43.130><c> whenever</c><00:07:43.340><c> that</c><00:07:43.880><c> is</c></c>
+
+00:07:44.170 --> 00:07:44.180 align:start position:0%
+added constant and then whenever<c.colorE5E5E5> that is
+ </c>
+
+00:07:44.180 --> 00:07:46.240 align:start position:0%
+added constant and then whenever<c.colorE5E5E5> that is
+notified<00:07:44.840><c> of</c></c><c.colorCCCCCC><00:07:44.870><c> a</c><00:07:45.020><c> change</c><00:07:45.349><c> of</c><00:07:45.560><c> it</c><00:07:45.710><c> it</c><00:07:45.889><c> can</c></c>
+
+00:07:46.240 --> 00:07:46.250 align:start position:0%
+notified of<c.colorCCCCCC> a change of it it can
+ </c>
+
+00:07:46.250 --> 00:07:48.939 align:start position:0%
+notified of<c.colorCCCCCC> a change of it it can
+execute<00:07:46.520><c> a</c><00:07:46.849><c> function</c></c><c.colorE5E5E5><00:07:47.030><c> there</c><00:07:47.650><c> so</c><00:07:48.650><c> that</c><00:07:48.800><c> was</c></c><c.colorCCCCCC><00:07:48.889><c> a</c></c>
+
+00:07:48.939 --> 00:07:48.949 align:start position:0%
+execute a function<c.colorE5E5E5> there so that was</c><c.colorCCCCCC> a
+ </c>
+
+00:07:48.949 --> 00:07:51.400 align:start position:0%
+execute a function<c.colorE5E5E5> there so that was</c><c.colorCCCCCC> a
+ton<00:07:49.460><c> of</c><00:07:49.490><c> information</c></c><c.colorE5E5E5><00:07:49.970><c> to</c><00:07:50.389><c> take</c><00:07:50.599><c> in</c><00:07:50.660><c> and</c><00:07:51.229><c> if</c></c>
+
+00:07:51.400 --> 00:07:51.410 align:start position:0%
+ton of information<c.colorE5E5E5> to take in and if
+ </c>
+
+00:07:51.410 --> 00:07:53.499 align:start position:0%
+ton of information<c.colorE5E5E5> to take in and if
+you're<00:07:51.560><c> feeling</c></c><c.colorCCCCCC><00:07:51.800><c> a</c><00:07:52.280><c> little</c><00:07:52.520><c> overwhelmed</c><00:07:52.940><c> or</c></c>
+
+00:07:53.499 --> 00:07:53.509 align:start position:0%
+you're feeling<c.colorCCCCCC> a little overwhelmed or
+ </c>
+
+00:07:53.509 --> 00:07:56.350 align:start position:0%
+you're feeling<c.colorCCCCCC> a little overwhelmed or
+possibly<00:07:54.020><c> even</c><00:07:54.139><c> a</c><00:07:54.650><c> lot</c><00:07:54.979><c> overwhelmed</c><00:07:55.759><c> it's</c></c>
+
+00:07:56.350 --> 00:07:56.360 align:start position:0%
+possibly even a lot overwhelmed it's
+ 
+
+00:07:56.360 --> 00:07:58.990 align:start position:0%
+possibly even a lot overwhelmed it's
+<c.colorE5E5E5>okay</c><c.colorCCCCCC><00:07:56.780><c> because</c><00:07:57.530><c> in</c><00:07:57.830><c> the</c></c><c.colorE5E5E5><00:07:57.949><c> next</c><00:07:58.250><c> video</c></c><c.colorCCCCCC><00:07:58.550><c> we're</c></c>
+
+00:07:58.990 --> 00:07:59.000 align:start position:0%
+<c.colorE5E5E5>okay</c><c.colorCCCCCC> because in the</c><c.colorE5E5E5> next video</c><c.colorCCCCCC> we're
+ </c>
+
+00:07:59.000 --> 00:08:00.850 align:start position:0%
+<c.colorE5E5E5>okay</c><c.colorCCCCCC> because in the</c><c.colorE5E5E5> next video</c><c.colorCCCCCC> we're
+gonna<00:07:59.090><c> go</c><00:07:59.270><c> through</c><00:07:59.570><c> buying</c><00:07:59.930><c> an</c></c><c.colorE5E5E5><00:08:00.139><c> item</c><00:08:00.440><c> for</c><00:08:00.620><c> sale</c></c>
+
+00:08:00.850 --> 00:08:00.860 align:start position:0%
+gonna go through buying an<c.colorE5E5E5> item for sale
+ </c>
+
+00:08:00.860 --> 00:08:03.070 align:start position:0%
+gonna go through buying an<c.colorE5E5E5> item for sale</c>
+<c.colorE5E5E5>which<00:08:01.400><c> is</c><00:08:01.550><c> very</c><00:08:01.880><c> very</c><00:08:02.150><c> similar</c></c><c.colorCCCCCC><00:08:02.599><c> to</c><00:08:02.870><c> what</c><00:08:02.990><c> we</c></c>
+
+00:08:03.070 --> 00:08:03.080 align:start position:0%
+<c.colorE5E5E5>which is very very similar</c><c.colorCCCCCC> to what we
+ </c>
+
+00:08:03.080 --> 00:08:04.839 align:start position:0%
+<c.colorE5E5E5>which is very very similar</c><c.colorCCCCCC> to what we
+just<00:08:03.289><c> covered</c></c><c.colorE5E5E5><00:08:03.620><c> but</c><00:08:04.130><c> it's</c><00:08:04.250><c> in</c><00:08:04.370><c> the</c><00:08:04.490><c> reverse</c></c>
+
+00:08:04.839 --> 00:08:04.849 align:start position:0%
+<c.colorCCCCCC>just covered</c><c.colorE5E5E5> but it's in the reverse
+ </c>
+
+00:08:04.849 --> 00:08:07.210 align:start position:0%
+<c.colorCCCCCC>just covered</c><c.colorE5E5E5> but it's in the reverse
+direction</c><c.colorCCCCCC><00:08:05.080><c> so</c><00:08:06.080><c> we're</c><00:08:06.229><c> gonna</c><00:08:06.320><c> review</c><00:08:06.710><c> a</c><00:08:06.770><c> lot</c><00:08:07.160><c> of</c></c>
+
+00:08:07.210 --> 00:08:07.220 align:start position:0%
+direction<c.colorCCCCCC> so we're gonna review a lot of
+ </c>
+
+00:08:07.220 --> 00:08:09.820 align:start position:0%
+direction<c.colorCCCCCC> so we're gonna review a lot of</c>
+<c.colorE5E5E5>those<00:08:07.430><c> very</c><00:08:07.729><c> same</c><00:08:08.030><c> concepts</c><00:08:08.660><c> again</c><00:08:09.080><c> and</c><00:08:09.410><c> by</c></c>
+
+00:08:09.820 --> 00:08:09.830 align:start position:0%
+<c.colorE5E5E5>those very same concepts again and by
+ </c>
+
+00:08:09.830 --> 00:08:11.890 align:start position:0%
+<c.colorE5E5E5>those very same concepts again and by
+hearing<00:08:10.130><c> them</c><00:08:10.310><c> again</c><00:08:10.880><c> another</c><00:08:11.330><c> time</c><00:08:11.660><c> it's</c></c>
+
+00:08:11.890 --> 00:08:11.900 align:start position:0%
+hearing<c.colorE5E5E5> them again another time it's
+ </c>
+
+00:08:11.900 --> 00:08:13.270 align:start position:0%
+hearing<c.colorE5E5E5> them again another time it's
+going<00:08:11.990><c> to</c><00:08:12.050><c> help</c><00:08:12.289><c> solidify</c><00:08:12.620><c> them</c><00:08:13.039><c> in</c><00:08:13.159><c> your</c></c>
+
+00:08:13.270 --> 00:08:13.280 align:start position:0%
+going<c.colorE5E5E5> to help solidify them in your
+ </c>
+
+00:08:13.280 --> 00:08:14.830 align:start position:0%
+going<c.colorE5E5E5> to help solidify them in your
+brain<00:08:13.550><c> and</c><00:08:13.849><c> it's</c><00:08:14.150><c> going</c><00:08:14.270><c> to</c><00:08:14.330><c> start</c><00:08:14.539><c> to</c><00:08:14.659><c> make</c><00:08:14.780><c> a</c></c>
+
+00:08:14.830 --> 00:08:14.840 align:start position:0%
+brain and it's<c.colorE5E5E5> going to start to make a
+ </c>
+
+00:08:14.840 --> 00:08:16.629 align:start position:0%
+brain and it's<c.colorE5E5E5> going to start to make a
+little<00:08:15.050><c> more</c><00:08:15.289><c> sense</c><00:08:15.590><c> and</c><00:08:15.949><c> then</c><00:08:16.460><c> as</c><00:08:16.550><c> we</c></c>
+
+00:08:16.629 --> 00:08:16.639 align:start position:0%
+little<c.colorE5E5E5> more sense and then as we
+ </c>
+
+00:08:16.639 --> 00:08:18.700 align:start position:0%
+little<c.colorE5E5E5> more sense and then as we</c>
+<c.colorE5E5E5>continue<00:08:17.120><c> through</c><00:08:17.330><c> this</c><00:08:17.479><c> course</c><00:08:17.930><c> we're</c><00:08:18.590><c> gonna</c></c>
+
+00:08:18.700 --> 00:08:18.710 align:start position:0%
+<c.colorE5E5E5>continue through this course we're gonna
+ </c>
+
+00:08:18.710 --> 00:08:20.710 align:start position:0%
+<c.colorE5E5E5>continue through this course we're gonna
+keep</c><c.colorCCCCCC><00:08:18.919><c> going</c><00:08:19.430><c> through</c><00:08:19.610><c> those</c></c><c.colorE5E5E5><00:08:19.729><c> same</c><00:08:20.060><c> concepts</c></c>
+
+00:08:20.710 --> 00:08:20.720 align:start position:0%
+keep<c.colorCCCCCC> going through those</c><c.colorE5E5E5> same concepts
+ </c>
+
+00:08:20.720 --> 00:08:22.540 align:start position:0%
+keep<c.colorCCCCCC> going through those</c><c.colorE5E5E5> same concepts
+again<00:08:21.050><c> just</c></c><c.colorCCCCCC><00:08:21.620><c> digging</c><00:08:21.919><c> in</c><00:08:22.039><c> a</c><00:08:22.130><c> little</c><00:08:22.159><c> bit</c></c>
+
+00:08:22.540 --> 00:08:22.550 align:start position:0%
+again<c.colorE5E5E5> just</c><c.colorCCCCCC> digging in a little bit
+ </c>
+
+00:08:22.550 --> 00:08:24.129 align:start position:0%
+again<c.colorE5E5E5> just</c><c.colorCCCCCC> digging in a little bit
+deeper<00:08:22.760><c> writing</c><00:08:23.360><c> a</c><00:08:23.419><c> little</c></c><c.colorE5E5E5><00:08:23.630><c> more</c><00:08:23.840><c> code</c></c>
+
+00:08:24.129 --> 00:08:24.139 align:start position:0%
+deeper writing a little<c.colorE5E5E5> more code
+ </c>
+
+00:08:24.139 --> 00:08:26.860 align:start position:0%
+deeper writing a little<c.colorE5E5E5> more code</c>
+<c.colorE5E5E5>watching<00:08:25.039><c> it</c><00:08:25.159><c> in</c><00:08:25.280><c> operation</c><00:08:25.630><c> so</c><00:08:26.630><c> if</c><00:08:26.750><c> you're</c></c>
+
+00:08:26.860 --> 00:08:26.870 align:start position:0%
+<c.colorE5E5E5>watching it in operation so if you're
+ </c>
+
+00:08:26.870 --> 00:08:28.750 align:start position:0%
+<c.colorE5E5E5>watching it in operation so if you're
+feeling</c><c.colorCCCCCC><00:08:27.020><c> a</c><00:08:27.260><c> little</c><00:08:27.349><c> bit</c><00:08:27.590><c> overwhelmed</c><00:08:27.760><c> that's</c></c>
+
+00:08:28.750 --> 00:08:28.760 align:start position:0%
+feeling<c.colorCCCCCC> a little bit overwhelmed that's
+ </c>
+
+00:08:28.760 --> 00:08:30.969 align:start position:0%
+feeling<c.colorCCCCCC> a little bit overwhelmed that's
+okay<00:08:29.180><c> there's</c><00:08:29.419><c> a</c><00:08:29.479><c> lot</c></c><c.colorE5E5E5><00:08:29.750><c> to</c><00:08:29.930><c> take</c><00:08:30.110><c> in</c><00:08:30.169><c> but</c><00:08:30.830><c> we're</c></c>
+
+00:08:30.969 --> 00:08:30.979 align:start position:0%
+<c.colorCCCCCC>okay there's a lot</c><c.colorE5E5E5> to take in but we're
+ </c>
+
+00:08:30.979 --> 00:08:32.890 align:start position:0%
+<c.colorCCCCCC>okay there's a lot</c><c.colorE5E5E5> to take in but we're</c>
+<c.colorCCCCCC>just<00:08:31.130><c> gonna</c><00:08:31.220><c> go</c><00:08:31.430><c> through</c><00:08:31.460><c> a</c><00:08:31.669><c> step</c><00:08:32.120><c> by</c><00:08:32.150><c> step</c><00:08:32.630><c> and</c></c>
+
+00:08:32.890 --> 00:08:32.900 align:start position:0%
+<c.colorCCCCCC>just gonna go through a step by step and
+ </c>
+
+00:08:32.900 --> 00:08:34.449 align:start position:0%
+<c.colorCCCCCC>just gonna go through a step by step and
+I'm<00:08:33.050><c> confident</c><00:08:33.529><c> by</c><00:08:33.680><c> the</c><00:08:33.740><c> end</c><00:08:33.890><c> of</c></c><c.colorE5E5E5><00:08:33.950><c> this</c><00:08:34.070><c> course</c></c>
+
+00:08:34.449 --> 00:08:34.459 align:start position:0%
+I'm confident by the end of<c.colorE5E5E5> this course
+ </c>
+
+00:08:34.459 --> 00:08:36.219 align:start position:0%
+I'm confident by the end of<c.colorE5E5E5> this course</c>
+<c.colorCCCCCC>it<00:08:34.940><c> you're</c><00:08:35.089><c> going</c></c><c.colorE5E5E5><00:08:35.180><c> to</c><00:08:35.240><c> have</c><00:08:35.360><c> a</c><00:08:35.390><c> full</c><00:08:35.690><c> solid</c></c>
+
+00:08:36.219 --> 00:08:36.229 align:start position:0%
+<c.colorCCCCCC>it you're going</c><c.colorE5E5E5> to have a full solid
+ </c>
+
+00:08:36.229 --> 00:08:37.779 align:start position:0%
+<c.colorCCCCCC>it you're going</c><c.colorE5E5E5> to have a full solid
+understanding</c><c.colorCCCCCC><00:08:36.469><c> on</c><00:08:36.890><c> this</c><00:08:36.979><c> ready</c><00:08:37.459><c> to</c><00:08:37.610><c> write</c></c>
+
+00:08:37.779 --> 00:08:37.789 align:start position:0%
+understanding<c.colorCCCCCC> on this ready to write
+ </c>
+
+00:08:37.789 --> 00:08:40.300 align:start position:0%
+understanding<c.colorCCCCCC> on this ready to write
+your<00:08:37.940><c> own</c><00:08:38.000><c> applications</c></c><c.colorE5E5E5><00:08:38.750><c> so</c><00:08:39.589><c> let's</c><00:08:39.979><c> jump</c><00:08:40.219><c> into</c></c>
+
+00:08:40.300 --> 00:08:40.310 align:start position:0%
+your own applications<c.colorE5E5E5> so let's jump into
+ </c>
+
+00:08:40.310 --> 00:08:42.579 align:start position:0%
+your own applications<c.colorE5E5E5> so let's jump into</c>
+<c.colorE5E5E5>the<00:08:40.580><c> next</c><00:08:40.820><c> video</c></c><c.colorCCCCCC><00:08:41.120><c> where</c></c><c.colorE5E5E5><00:08:41.690><c> we</c><00:08:41.779><c> buy</c><00:08:42.020><c> an</c><00:08:42.169><c> item</c><00:08:42.320><c> for</c></c>
+
+00:08:42.579 --> 00:08:42.589 align:start position:0%
+<c.colorE5E5E5>the next video</c><c.colorCCCCCC> where</c><c.colorE5E5E5> we buy an item for
+ </c>
+
+00:08:42.589 --> 00:08:46.330 align:start position:0%
+<c.colorE5E5E5>the next video</c><c.colorCCCCCC> where</c><c.colorE5E5E5> we buy an item for
+sale<00:08:42.800><c> from</c><00:08:43.190><c> our</c><00:08:43.310><c> online</c><00:08:43.490><c> marketplace</c></c>
+
