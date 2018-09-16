@@ -1,0 +1,1398 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.080 --> 00:00:02.050 align:start position:0%
+ 
+we're<00:00:01.040><c> almost</c><00:00:01.129><c> done</c><00:00:01.519><c> with</c><c.colorE5E5E5><00:00:01.550><c> writing</c><00:00:02.030><c> the</c></c>
+
+00:00:02.050 --> 00:00:02.060 align:start position:0%
+we're almost done with<c.colorE5E5E5> writing the
+ </c>
+
+00:00:02.060 --> 00:00:04.090 align:start position:0%
+we're almost done with<c.colorE5E5E5> writing the
+solidity<00:00:02.510><c> code</c><00:00:02.780><c> for</c><00:00:03.080><c> our</c><00:00:03.110><c> contract</c><00:00:03.800><c> to</c><00:00:03.949><c> run</c></c>
+
+00:00:04.090 --> 00:00:04.100 align:start position:0%
+solidity code for our contract to run
+ 
+
+00:00:04.100 --> 00:00:06.460 align:start position:0%
+solidity code for our contract to run
+<c.colorE5E5E5>our<00:00:04.250><c> online</c><00:00:04.640><c> marketplace</c><00:00:05.240><c> there's</c><00:00:06.110><c> one</c><00:00:06.350><c> more</c></c>
+
+00:00:06.460 --> 00:00:06.470 align:start position:0%
+<c.colorE5E5E5>our online marketplace there's one more
+ </c>
+
+00:00:06.470 --> 00:00:08.260 align:start position:0%
+<c.colorE5E5E5>our online marketplace there's one more
+task<00:00:06.710><c> I</c><00:00:06.920><c> want</c><00:00:07.010><c> to</c><00:00:07.160><c> show</c><00:00:07.340><c> you</c><00:00:07.400><c> how</c><00:00:07.850><c> to</c><00:00:07.880><c> create</c><00:00:08.149><c> a</c></c>
+
+00:00:08.260 --> 00:00:08.270 align:start position:0%
+task<c.colorE5E5E5> I want to show you how to create a
+ </c>
+
+00:00:08.270 --> 00:00:10.870 align:start position:0%
+task<c.colorE5E5E5> I want to show you how to create a
+kill<00:00:08.480><c> function</c></c><c.colorCCCCCC><00:00:08.980><c> it's</c></c><c.colorE5E5E5><00:00:09.980><c> named</c><00:00:10.250><c> accurately</c></c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+kill function<c.colorCCCCCC> it's</c><c.colorE5E5E5> named accurately
+ </c>
+
+00:00:10.880 --> 00:00:12.520 align:start position:0%
+kill function<c.colorCCCCCC> it's</c><c.colorE5E5E5> named accurately
+describes<00:00:11.390><c> its</c><00:00:11.600><c> function</c><00:00:12.080><c> it's</c><00:00:12.350><c> gonna</c></c>
+
+00:00:12.520 --> 00:00:12.530 align:start position:0%
+describes its function it's gonna
+ 
+
+00:00:12.530 --> 00:00:14.740 align:start position:0%
+describes its function it's gonna
+destroy<c.colorCCCCCC><00:00:12.769><c> our</c><00:00:13.220><c> contract</c></c><c.colorE5E5E5><00:00:13.820><c> and</c><00:00:13.970><c> send</c><00:00:14.360><c> its</c><00:00:14.480><c> funds</c></c>
+
+00:00:14.740 --> 00:00:14.750 align:start position:0%
+destroy<c.colorCCCCCC> our contract</c><c.colorE5E5E5> and send its funds
+ </c>
+
+00:00:14.750 --> 00:00:17.439 align:start position:0%
+destroy<c.colorCCCCCC> our contract</c><c.colorE5E5E5> and send its funds
+to<00:00:14.960><c> a</c><00:00:14.990><c> specified</c></c><c.colorCCCCCC><00:00:15.590><c> address</c><00:00:16.119><c> before</c></c><c.colorE5E5E5><00:00:17.119><c> we</c><00:00:17.300><c> get</c></c>
+
+00:00:17.439 --> 00:00:17.449 align:start position:0%
+to a specified<c.colorCCCCCC> address before</c><c.colorE5E5E5> we get
+ </c>
+
+00:00:17.449 --> 00:00:19.390 align:start position:0%
+to a specified<c.colorCCCCCC> address before</c><c.colorE5E5E5> we get
+into<00:00:17.630><c> the</c><00:00:17.749><c> details</c><00:00:18.140><c> let's</c><00:00:18.409><c> talk</c><00:00:18.589><c> about</c><00:00:18.740><c> why</c><00:00:19.099><c> we</c></c>
+
+00:00:19.390 --> 00:00:19.400 align:start position:0%
+into the details let's talk about why we
+ 
+
+00:00:19.400 --> 00:00:20.759 align:start position:0%
+into the details let's talk about why we
+would<c.colorCCCCCC><00:00:19.460><c> want</c></c><c.colorE5E5E5><00:00:19.669><c> to</c><00:00:19.759><c> do</c><00:00:19.820><c> such</c><00:00:19.999><c> a</c><00:00:20.029><c> thing</c></c>
+
+00:00:20.759 --> 00:00:20.769 align:start position:0%
+would<c.colorCCCCCC> want</c><c.colorE5E5E5> to do such a thing
+ </c>
+
+00:00:20.769 --> 00:00:23.140 align:start position:0%
+would<c.colorCCCCCC> want</c><c.colorE5E5E5> to do such a thing
+there<00:00:21.769><c> are</c><00:00:21.859><c> a</c><00:00:21.890><c> couple</c><00:00:21.919><c> valid</c><00:00:22.460><c> reasons</c><00:00:22.849><c> why</c><00:00:23.089><c> you</c></c>
+
+00:00:23.140 --> 00:00:23.150 align:start position:0%
+there are a couple<c.colorE5E5E5> valid reasons why you
+ </c>
+
+00:00:23.150 --> 00:00:25.179 align:start position:0%
+there are a couple<c.colorE5E5E5> valid reasons why you
+want<00:00:23.480><c> to</c><00:00:23.539><c> kill</c></c><c.colorCCCCCC><00:00:23.720><c> a</c><00:00:23.779><c> contract</c></c><c.colorE5E5E5><00:00:24.349><c> for</c><00:00:25.099><c> example</c></c>
+
+00:00:25.179 --> 00:00:25.189 align:start position:0%
+want to kill<c.colorCCCCCC> a contract</c><c.colorE5E5E5> for example
+ </c>
+
+00:00:25.189 --> 00:00:27.700 align:start position:0%
+want to kill<c.colorCCCCCC> a contract</c><c.colorE5E5E5> for example</c>
+<c.colorE5E5E5>stopping<00:00:25.939><c> all</c><00:00:26.149><c> business</c><00:00:26.599><c> operations</c><00:00:27.289><c> in</c><00:00:27.529><c> the</c></c>
+
+00:00:27.700 --> 00:00:27.710 align:start position:0%
+<c.colorE5E5E5>stopping all business operations in the
+ </c>
+
+00:00:27.710 --> 00:00:29.109 align:start position:0%
+<c.colorE5E5E5>stopping all business operations in the
+event</c><c.colorCCCCCC><00:00:27.800><c> that</c></c><c.colorE5E5E5><00:00:28.069><c> the</c><00:00:28.249><c> company</c><00:00:28.640><c> using</c><00:00:29.029><c> the</c></c>
+
+00:00:29.109 --> 00:00:29.119 align:start position:0%
+event<c.colorCCCCCC> that</c><c.colorE5E5E5> the company using the
+ </c>
+
+00:00:29.119 --> 00:00:32.290 align:start position:0%
+event<c.colorCCCCCC> that</c><c.colorE5E5E5> the company using the
+contract<00:00:29.659><c> is</c><00:00:29.869><c> no</c><00:00:30.079><c> longer</c><00:00:30.319><c> in</c></c><c.colorCCCCCC><00:00:30.499><c> business</c><00:00:30.919><c> or</c></c><c.colorE5E5E5><00:00:31.300><c> as</c></c>
+
+00:00:32.290 --> 00:00:32.300 align:start position:0%
+contract is no longer<c.colorE5E5E5> in</c><c.colorCCCCCC> business or</c><c.colorE5E5E5> as
+ </c>
+
+00:00:32.300 --> 00:00:34.900 align:start position:0%
+contract is no longer<c.colorE5E5E5> in</c><c.colorCCCCCC> business or</c><c.colorE5E5E5> as
+an<00:00:32.419><c> extreme</c><00:00:32.809><c> security</c><00:00:33.410><c> measure</c><00:00:33.590><c> in</c><00:00:33.980><c> this</c><00:00:34.670><c> case</c></c>
+
+00:00:34.900 --> 00:00:34.910 align:start position:0%
+an extreme<c.colorE5E5E5> security measure in this case
+ </c>
+
+00:00:34.910 --> 00:00:36.849 align:start position:0%
+an extreme<c.colorE5E5E5> security measure in this case
+it<00:00:35.090><c> may</c><00:00:35.239><c> be</c><00:00:35.300><c> due</c><00:00:35.629><c> to</c><00:00:35.660><c> some</c><00:00:35.809><c> security</c><00:00:36.440><c> event</c></c>
+
+00:00:36.849 --> 00:00:36.859 align:start position:0%
+it may<c.colorE5E5E5> be due to some security event
+ </c>
+
+00:00:36.859 --> 00:00:38.799 align:start position:0%
+it may<c.colorE5E5E5> be due to some security event
+where<00:00:37.010><c> you</c><00:00:37.100><c> simply</c><00:00:37.309><c> have</c><00:00:37.609><c> no</c></c><c.colorCCCCCC><00:00:37.640><c> other</c><00:00:38.059><c> option</c><00:00:38.570><c> to</c></c>
+
+00:00:38.799 --> 00:00:38.809 align:start position:0%
+where you simply<c.colorE5E5E5> have no</c><c.colorCCCCCC> other option to
+ </c>
+
+00:00:38.809 --> 00:00:40.810 align:start position:0%
+where you simply<c.colorE5E5E5> have no</c><c.colorCCCCCC> other option to
+protect</c><c.colorE5E5E5><00:00:38.989><c> your</c><00:00:39.350><c> business's</c><00:00:39.859><c> funds</c><00:00:40.190><c> other</c><00:00:40.519><c> than</c></c>
+
+00:00:40.810 --> 00:00:40.820 align:start position:0%
+protect<c.colorE5E5E5> your business's funds other than
+ </c>
+
+00:00:40.820 --> 00:00:43.750 align:start position:0%
+protect<c.colorE5E5E5> your business's funds other than
+to<00:00:40.910><c> shut</c><00:00:41.149><c> down</c><00:00:41.179><c> operations</c><00:00:42.460><c> now</c><00:00:43.460><c> that</c><00:00:43.609><c> one</c></c>
+
+00:00:43.750 --> 00:00:43.760 align:start position:0%
+to shut down<c.colorE5E5E5> operations now that one
+ </c>
+
+00:00:43.760 --> 00:00:45.729 align:start position:0%
+to shut down<c.colorE5E5E5> operations now that one
+sounds<00:00:44.059><c> kind</c><00:00:44.300><c> of</c><00:00:44.359><c> extreme</c><00:00:44.870><c> but</c><00:00:45.260><c> blockchain</c></c>
+
+00:00:45.729 --> 00:00:45.739 align:start position:0%
+sounds kind of extreme but blockchain
+ 
+
+00:00:45.739 --> 00:00:47.729 align:start position:0%
+sounds kind of extreme but blockchain
+development<00:00:46.280><c> is</c><00:00:46.370><c> still</c><00:00:46.640><c> in</c><00:00:46.760><c> its</c><00:00:46.910><c> infancy</c><c.colorCCCCCC><00:00:47.030><c> as</c></c>
+
+00:00:47.729 --> 00:00:47.739 align:start position:0%
+development is still in its infancy<c.colorCCCCCC> as
+ </c>
+
+00:00:47.739 --> 00:00:50.529 align:start position:0%
+development is still in its infancy<c.colorCCCCCC> as
+use<00:00:48.739><c> of</c></c><c.colorE5E5E5><00:00:48.769><c> blockchain</c><00:00:49.399><c> grows</c><00:00:49.789><c> so</c><00:00:50.239><c> will</c><00:00:50.269><c> the</c></c>
+
+00:00:50.529 --> 00:00:50.539 align:start position:0%
+use of<c.colorE5E5E5> blockchain grows so will the
+ </c>
+
+00:00:50.539 --> 00:00:52.450 align:start position:0%
+use of<c.colorE5E5E5> blockchain grows so will the
+attacks<00:00:50.839><c> against</c><00:00:51.410><c> it</c><00:00:51.589><c> and</c><00:00:51.800><c> you</c><00:00:52.100><c> may</c><00:00:52.249><c> find</c></c>
+
+00:00:52.450 --> 00:00:52.460 align:start position:0%
+attacks against it<c.colorE5E5E5> and you may find
+ </c>
+
+00:00:52.460 --> 00:00:54.069 align:start position:0%
+attacks against it<c.colorE5E5E5> and you may find</c>
+<c.colorCCCCCC>yourself<00:00:52.579><c> in</c></c><c.colorE5E5E5><00:00:52.910><c> a</c><00:00:53.030><c> situation</c><00:00:53.239><c> where</c><00:00:53.839><c> killing</c></c>
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+<c.colorCCCCCC>yourself in</c><c.colorE5E5E5> a situation where killing
+ </c>
+
+00:00:54.079 --> 00:00:55.900 align:start position:0%
+<c.colorCCCCCC>yourself in</c><c.colorE5E5E5> a situation where killing</c>
+<c.colorCCCCCC>the<00:00:54.289><c> contract</c><00:00:54.829><c> is</c></c><c.colorE5E5E5><00:00:55.010><c> the</c><00:00:55.160><c> only</c><00:00:55.339><c> means</c><00:00:55.730><c> of</c></c>
+
+00:00:55.900 --> 00:00:55.910 align:start position:0%
+<c.colorCCCCCC>the contract is</c><c.colorE5E5E5> the only means of
+ </c>
+
+00:00:55.910 --> 00:00:58.720 align:start position:0%
+<c.colorCCCCCC>the contract is</c><c.colorE5E5E5> the only means of</c>
+<c.colorE5E5E5>protecting<00:00:56.449><c> your</c><00:00:56.570><c> customers</c><00:00:57.050><c> assets</c><00:00:57.730><c> let's</c></c>
+
+00:00:58.720 --> 00:00:58.730 align:start position:0%
+<c.colorE5E5E5>protecting your customers assets let's
+ </c>
+
+00:00:58.730 --> 00:01:00.189 align:start position:0%
+<c.colorE5E5E5>protecting your customers assets let's
+look<00:00:58.909><c> at</c><00:00:59.030><c> implementing</c><00:00:59.420><c> a</c><00:00:59.539><c> self-destruct</c></c>
+
+00:01:00.189 --> 00:01:00.199 align:start position:0%
+<c.colorE5E5E5>look at implementing a self-destruct
+ </c>
+
+00:01:00.199 --> 00:01:02.889 align:start position:0%
+<c.colorE5E5E5>look at implementing a self-destruct
+function<00:01:00.589><c> first</c><00:01:01.210><c> calling</c><00:01:02.210><c> the</c><00:01:02.300><c> self-destruct</c></c>
+
+00:01:02.889 --> 00:01:02.899 align:start position:0%
+function first calling the self-destruct
+ 
+
+00:01:02.899 --> 00:01:04.900 align:start position:0%
+function first calling the self-destruct
+method<00:01:03.260><c> is</c><00:01:03.350><c> the</c><c.colorCCCCCC><00:01:03.499><c> only</c><00:01:03.859><c> way</c><00:01:04.010><c> to</c><00:01:04.070><c> remove</c></c><c.colorE5E5E5><00:01:04.460><c> code</c></c>
+
+00:01:04.900 --> 00:01:04.910 align:start position:0%
+method is the<c.colorCCCCCC> only way to remove</c><c.colorE5E5E5> code
+ </c>
+
+00:01:04.910 --> 00:01:07.390 align:start position:0%
+method is the<c.colorCCCCCC> only way to remove</c><c.colorE5E5E5> code
+from<00:01:05.150><c> the</c><00:01:05.270><c> blockchain</c><00:01:05.770><c> it</c><00:01:06.770><c> accepts</c><00:01:07.190><c> one</c></c>
+
+00:01:07.390 --> 00:01:07.400 align:start position:0%
+from the blockchain<c.colorE5E5E5> it accepts one
+ </c>
+
+00:01:07.400 --> 00:01:09.250 align:start position:0%
+from the blockchain<c.colorE5E5E5> it accepts one
+parameter</c><c.colorCCCCCC><00:01:07.700><c> the</c><00:01:08.360><c> address</c><00:01:08.780><c> where</c><00:01:08.990><c> it</c><00:01:09.080><c> should</c></c>
+
+00:01:09.250 --> 00:01:09.260 align:start position:0%
+parameter<c.colorCCCCCC> the address where it should
+ </c>
+
+00:01:09.260 --> 00:01:11.830 align:start position:0%
+parameter<c.colorCCCCCC> the address where it should
+send<00:01:09.530><c> its</c><00:01:09.710><c> funds</c><00:01:10.300><c> but</c><00:01:11.300><c> doesn't</c><00:01:11.660><c> guarantee</c></c>
+
+00:01:11.830 --> 00:01:11.840 align:start position:0%
+send its funds but doesn't guarantee
+ 
+
+00:01:11.840 --> 00:01:13.660 align:start position:0%
+send its funds but doesn't guarantee
+that<c.colorE5E5E5><00:01:12.020><c> your</c><00:01:12.320><c> code</c><00:01:12.560><c> and</c><00:01:12.770><c> storage</c><00:01:13.130><c> is</c><00:01:13.280><c> removed</c></c>
+
+00:01:13.660 --> 00:01:13.670 align:start position:0%
+that<c.colorE5E5E5> your code and storage is removed
+ </c>
+
+00:01:13.670 --> 00:01:16.360 align:start position:0%
+that<c.colorE5E5E5> your code and storage is removed</c>
+<c.colorE5E5E5>everywhere<00:01:14.390><c> some</c></c><c.colorCCCCCC><00:01:15.290><c> aetherium</c><00:01:15.770><c> clients</c><00:01:16.190><c> may</c></c>
+
+00:01:16.360 --> 00:01:16.370 align:start position:0%
+<c.colorE5E5E5>everywhere some</c><c.colorCCCCCC> aetherium clients may
+ </c>
+
+00:01:16.370 --> 00:01:19.060 align:start position:0%
+<c.colorE5E5E5>everywhere some</c><c.colorCCCCCC> aetherium clients may</c>
+<c.colorE5E5E5>not<00:01:16.550><c> prune</c><00:01:16.850><c> old</c><00:01:17.060><c> contracts</c><00:01:17.690><c> and</c><00:01:17.990><c> some</c><00:01:18.620><c> archive</c></c>
+
+00:01:19.060 --> 00:01:19.070 align:start position:0%
+<c.colorE5E5E5>not prune old contracts and some archive
+ </c>
+
+00:01:19.070 --> 00:01:20.950 align:start position:0%
+<c.colorE5E5E5>not prune old contracts and some archive
+nodes<00:01:19.430><c> may</c><00:01:19.700><c> keep</c><00:01:19.970><c> the</c><00:01:20.150><c> code</c><00:01:20.390><c> and</c><00:01:20.600><c> storage</c></c>
+
+00:01:20.950 --> 00:01:20.960 align:start position:0%
+nodes may<c.colorE5E5E5> keep the code and storage
+ </c>
+
+00:01:20.960 --> 00:01:23.380 align:start position:0%
+nodes may<c.colorE5E5E5> keep the code and storage
+indefinitely<00:01:21.760><c> for</c><00:01:22.760><c> this</c><00:01:22.880><c> reason</c><00:01:23.270><c> it</c></c>
+
+00:01:23.380 --> 00:01:23.390 align:start position:0%
+indefinitely for<c.colorE5E5E5> this reason it
+ </c>
+
+00:01:23.390 --> 00:01:24.640 align:start position:0%
+indefinitely for<c.colorE5E5E5> this reason it
+shouldn't<00:01:23.600><c> be</c><00:01:23.750><c> thought</c><00:01:23.990><c> of</c><00:01:24.050><c> as</c><00:01:24.350><c> a</c><00:01:24.380><c> way</c><00:01:24.590><c> to</c></c>
+
+00:01:24.640 --> 00:01:24.650 align:start position:0%
+shouldn't<c.colorE5E5E5> be thought of as a way to
+ </c>
+
+00:01:24.650 --> 00:01:26.260 align:start position:0%
+shouldn't<c.colorE5E5E5> be thought of as a way to</c>
+<c.colorCCCCCC>permanently<00:01:25.220><c> scrub</c><00:01:25.640><c> something</c><00:01:26.030><c> from</c><00:01:26.180><c> the</c></c>
+
+00:01:26.260 --> 00:01:26.270 align:start position:0%
+<c.colorCCCCCC>permanently scrub something from the
+ </c>
+
+00:01:26.270 --> 00:01:28.390 align:start position:0%
+<c.colorCCCCCC>permanently scrub something from the
+blockchain</c><c.colorE5E5E5><00:01:26.650><c> there's</c><00:01:27.650><c> one</c><00:01:27.860><c> final</c><00:01:28.100><c> point</c></c>
+
+00:01:28.390 --> 00:01:28.400 align:start position:0%
+blockchain<c.colorE5E5E5> there's one final point
+ </c>
+
+00:01:28.400 --> 00:01:29.920 align:start position:0%
+blockchain<c.colorE5E5E5> there's one final point
+that's</c><c.colorCCCCCC><00:01:28.730><c> really</c><00:01:29.030><c> important</c><00:01:29.450><c> for</c><00:01:29.570><c> you</c></c><c.colorE5E5E5><00:01:29.630><c> to</c><00:01:29.750><c> know</c></c>
+
+00:01:29.920 --> 00:01:29.930 align:start position:0%
+that's<c.colorCCCCCC> really important for you</c><c.colorE5E5E5> to know
+ </c>
+
+00:01:29.930 --> 00:01:32.710 align:start position:0%
+that's<c.colorCCCCCC> really important for you</c><c.colorE5E5E5> to know
+once<00:01:30.680><c> you</c><00:01:30.830><c> destroy</c><00:01:31.010><c> a</c><00:01:31.250><c> contract</c></c><c.colorCCCCCC><00:01:31.880><c> any</c><00:01:32.150><c> funds</c></c>
+
+00:01:32.710 --> 00:01:32.720 align:start position:0%
+once you destroy<c.colorE5E5E5> a contract</c><c.colorCCCCCC> any funds
+ </c>
+
+00:01:32.720 --> 00:01:34.750 align:start position:0%
+once you destroy<c.colorE5E5E5> a contract</c><c.colorCCCCCC> any funds
+sent<00:01:33.140><c> to</c><00:01:33.290><c> that</c></c><c.colorE5E5E5><00:01:33.410><c> address</c></c><c.colorCCCCCC><00:01:33.470><c> are</c><00:01:34.190><c> lost</c><00:01:34.460><c> forever</c></c>
+
+00:01:34.750 --> 00:01:34.760 align:start position:0%
+sent to that<c.colorE5E5E5> address</c><c.colorCCCCCC> are lost forever
+ </c>
+
+00:01:34.760 --> 00:01:37.090 align:start position:0%
+sent to that<c.colorE5E5E5> address</c><c.colorCCCCCC> are lost forever</c>
+<c.colorCCCCCC>that's<00:01:35.750><c> definitely</c></c><c.colorE5E5E5><00:01:36.350><c> something</c><00:01:36.590><c> to</c><00:01:36.740><c> keep</c><00:01:36.920><c> in</c></c>
+
+00:01:37.090 --> 00:01:37.100 align:start position:0%
+<c.colorCCCCCC>that's definitely</c><c.colorE5E5E5> something to keep in
+ </c>
+
+00:01:37.100 --> 00:01:38.860 align:start position:0%
+<c.colorCCCCCC>that's definitely</c><c.colorE5E5E5> something to keep in
+mind</c><c.colorCCCCCC><00:01:37.130><c> when</c><00:01:37.670><c> designing</c></c><c.colorE5E5E5><00:01:37.820><c> your</c><00:01:38.210><c> contract</c></c>
+
+00:01:38.860 --> 00:01:38.870 align:start position:0%
+mind<c.colorCCCCCC> when designing</c><c.colorE5E5E5> your contract
+ </c>
+
+00:01:38.870 --> 00:01:41.710 align:start position:0%
+mind<c.colorCCCCCC> when designing</c><c.colorE5E5E5> your contract
+disaster<00:01:39.410><c> recovery</c><00:01:39.560><c> strategy</c><00:01:40.480><c> to</c><00:01:41.480><c> implement</c></c>
+
+00:01:41.710 --> 00:01:41.720 align:start position:0%
+disaster recovery strategy to implement
+ 
+
+00:01:41.720 --> 00:01:44.170 align:start position:0%
+disaster recovery strategy to implement
+<c.colorCCCCCC>a<00:01:41.990><c> self-destruct</c><00:01:42.680><c> function</c><00:01:43.130><c> well</c><00:01:43.910><c> first</c></c>
+
+00:01:44.170 --> 00:01:44.180 align:start position:0%
+<c.colorCCCCCC>a self-destruct function well first
+ </c>
+
+00:01:44.180 --> 00:01:46.690 align:start position:0%
+<c.colorCCCCCC>a self-destruct function well first</c>
+<c.colorE5E5E5>create<00:01:44.570><c> a</c><00:01:44.630><c> normal</c><00:01:45.050><c> function</c><00:01:45.590><c> just</c><00:01:46.370><c> like</c><00:01:46.580><c> the</c></c>
+
+00:01:46.690 --> 00:01:46.700 align:start position:0%
+<c.colorE5E5E5>create a normal function just like the
+ </c>
+
+00:01:46.700 --> 00:01:48.040 align:start position:0%
+<c.colorE5E5E5>create a normal function just like the
+others<00:01:46.940><c> we've</c><00:01:47.120><c> defined</c><00:01:47.480><c> in</c><00:01:47.630><c> our</c><00:01:47.750><c> smart</c></c>
+
+00:01:48.040 --> 00:01:48.050 align:start position:0%
+others we've defined in<c.colorE5E5E5> our smart
+ </c>
+
+00:01:48.050 --> 00:01:50.080 align:start position:0%
+others we've defined in<c.colorE5E5E5> our smart
+contract<00:01:48.590><c> that</c><00:01:49.220><c> means</c><00:01:49.460><c> we'll</c><00:01:49.610><c> start</c><00:01:49.880><c> with</c><00:01:50.000><c> the</c></c>
+
+00:01:50.080 --> 00:01:50.090 align:start position:0%
+contract<c.colorE5E5E5> that means we'll start with the
+ </c>
+
+00:01:50.090 --> 00:01:52.120 align:start position:0%
+contract<c.colorE5E5E5> that means we'll start with the
+function</c><c.colorCCCCCC><00:01:50.300><c> keyword</c><00:01:50.720><c> followed</c></c><c.colorE5E5E5><00:01:51.530><c> by</c><00:01:51.800><c> the</c><00:01:51.860><c> name</c></c>
+
+00:01:52.120 --> 00:01:52.130 align:start position:0%
+function<c.colorCCCCCC> keyword followed</c><c.colorE5E5E5> by the name
+ </c>
+
+00:01:52.130 --> 00:01:55.630 align:start position:0%
+function<c.colorCCCCCC> keyword followed</c><c.colorE5E5E5> by the name
+for<00:01:52.370><c> our</c></c><c.colorCCCCCC><00:01:52.460><c> function</c><00:01:52.910><c> and</c><00:01:53.090><c> its</c><00:01:53.510><c> visibility</c></c><c.colorE5E5E5><00:01:54.640><c> next</c></c>
+
+00:01:55.630 --> 00:01:55.640 align:start position:0%
+for our<c.colorCCCCCC> function and its visibility</c><c.colorE5E5E5> next
+ </c>
+
+00:01:55.640 --> 00:01:57.250 align:start position:0%
+for our<c.colorCCCCCC> function and its visibility</c><c.colorE5E5E5> next
+we'll<00:01:55.760><c> have</c></c><c.colorCCCCCC><00:01:55.850><c> a</c><00:01:55.910><c> require</c><00:01:56.420><c> statement</c><00:01:56.810><c> to</c><00:01:57.140><c> ensure</c></c>
+
+00:01:57.250 --> 00:01:57.260 align:start position:0%
+we'll have<c.colorCCCCCC> a require statement to ensure
+ </c>
+
+00:01:57.260 --> 00:01:59.110 align:start position:0%
+we'll have<c.colorCCCCCC> a require statement to ensure</c>
+<c.colorCCCCCC>that<00:01:57.620><c> the</c><00:01:57.770><c> function</c><00:01:58.160><c> can</c><00:01:58.340><c> only</c><00:01:58.490><c> be</c><00:01:58.790><c> executed</c></c>
+
+00:01:59.110 --> 00:01:59.120 align:start position:0%
+<c.colorCCCCCC>that the function can only be executed
+ </c>
+
+00:01:59.120 --> 00:02:01.810 align:start position:0%
+<c.colorCCCCCC>that the function can only be executed</c>
+<c.colorE5E5E5>by<00:01:59.480><c> the</c><00:01:59.510><c> contract</c><00:02:00.110><c> owner</c><00:02:00.320><c> after</c></c><c.colorCCCCCC><00:02:01.130><c> all</c><00:02:01.580><c> this</c></c>
+
+00:02:01.810 --> 00:02:01.820 align:start position:0%
+<c.colorE5E5E5>by the contract owner after</c><c.colorCCCCCC> all this
+ </c>
+
+00:02:01.820 --> 00:02:03.520 align:start position:0%
+<c.colorE5E5E5>by the contract owner after</c><c.colorCCCCCC> all this
+isn't</c><c.colorE5E5E5><00:02:02.060><c> something</c><00:02:02.390><c> we</c><00:02:02.660><c> want</c><00:02:02.840><c> anyone</c><00:02:03.290><c> to</c></c><c.colorCCCCCC><00:02:03.410><c> be</c></c>
+
+00:02:03.520 --> 00:02:03.530 align:start position:0%
+isn't<c.colorE5E5E5> something we want anyone to</c><c.colorCCCCCC> be
+ </c>
+
+00:02:03.530 --> 00:02:05.710 align:start position:0%
+isn't<c.colorE5E5E5> something we want anyone to</c><c.colorCCCCCC> be</c>
+<c.colorE5E5E5>able<00:02:03.620><c> to</c><00:02:03.740><c> execute</c><00:02:04.180><c> then</c><00:02:05.180><c> we'll</c><00:02:05.360><c> call</c><00:02:05.570><c> the</c></c>
+
+00:02:05.710 --> 00:02:05.720 align:start position:0%
+<c.colorE5E5E5>able to execute then we'll call the
+ </c>
+
+00:02:05.720 --> 00:02:07.600 align:start position:0%
+<c.colorE5E5E5>able to execute then we'll call the
+self-destruct<00:02:06.410><c> function</c><00:02:06.830><c> and</c><00:02:06.980><c> specify</c></c><c.colorCCCCCC><00:02:07.100><c> the</c></c>
+
+00:02:07.600 --> 00:02:07.610 align:start position:0%
+self-destruct function and specify<c.colorCCCCCC> the
+ </c>
+
+00:02:07.610 --> 00:02:09.730 align:start position:0%
+self-destruct function and specify<c.colorCCCCCC> the
+contract</c><c.colorE5E5E5><00:02:08.330><c> owner</c><00:02:08.570><c> as</c><00:02:08.810><c> the</c><00:02:08.960><c> address</c></c><c.colorCCCCCC><00:02:09.500><c> that</c></c>
+
+00:02:09.730 --> 00:02:09.740 align:start position:0%
+contract<c.colorE5E5E5> owner as the address</c><c.colorCCCCCC> that
+ </c>
+
+00:02:09.740 --> 00:02:11.710 align:start position:0%
+contract<c.colorE5E5E5> owner as the address</c><c.colorCCCCCC> that
+should<00:02:09.979><c> receive</c><00:02:10.310><c> any</c><00:02:10.580><c> remaining</c><00:02:10.970><c> funds</c></c><c.colorE5E5E5><00:02:11.390><c> in</c></c>
+
+00:02:11.710 --> 00:02:11.720 align:start position:0%
+should receive any remaining funds<c.colorE5E5E5> in
+ </c>
+
+00:02:11.720 --> 00:02:12.880 align:start position:0%
+should receive any remaining funds<c.colorE5E5E5> in
+the<00:02:11.870><c> contract</c></c>
+
+00:02:12.880 --> 00:02:12.890 align:start position:0%
+the contract
+ 
+
+00:02:12.890 --> 00:02:14.770 align:start position:0%
+the contract
+and<00:02:12.980><c> then</c><00:02:13.340><c> finally</c><00:02:13.730><c> we</c><00:02:13.880><c> close</c><00:02:14.180><c> our</c><00:02:14.390><c> function</c>
+
+00:02:14.770 --> 00:02:14.780 align:start position:0%
+and then finally we close our function
+ 
+
+00:02:14.780 --> 00:02:17.890 align:start position:0%
+and then finally we close our function
+out<00:02:14.930><c> with</c><00:02:15.140><c> the</c><c.colorE5E5E5><00:02:15.260><c> closing</c><00:02:15.650><c> curly</c><00:02:15.830><c> brace</c><00:02:16.900><c> but</c></c>
+
+00:02:17.890 --> 00:02:17.900 align:start position:0%
+out with the<c.colorE5E5E5> closing curly brace but
+ </c>
+
+00:02:17.900 --> 00:02:20.020 align:start position:0%
+out with the<c.colorE5E5E5> closing curly brace but
+wait<00:02:18.050><c> a</c><00:02:18.080><c> minute</c><00:02:18.170><c> what's</c><00:02:18.920><c> this</c><00:02:19.010><c> owner</c><00:02:19.430><c> variable</c></c>
+
+00:02:20.020 --> 00:02:20.030 align:start position:0%
+wait a minute<c.colorE5E5E5> what's this owner variable
+ </c>
+
+00:02:20.030 --> 00:02:22.330 align:start position:0%
+wait a minute<c.colorE5E5E5> what's this owner variable
+we<00:02:20.750><c> haven't</c><00:02:20.959><c> seen</c></c><c.colorCCCCCC><00:02:21.140><c> that</c></c><c.colorE5E5E5><00:02:21.350><c> before</c><00:02:21.500><c> and</c><00:02:21.920><c> how</c><00:02:22.280><c> do</c></c>
+
+00:02:22.330 --> 00:02:22.340 align:start position:0%
+we haven't seen<c.colorCCCCCC> that</c><c.colorE5E5E5> before and how do
+ </c>
+
+00:02:22.340 --> 00:02:23.520 align:start position:0%
+we haven't seen<c.colorCCCCCC> that</c><c.colorE5E5E5> before and how do</c>
+<c.colorE5E5E5>we<00:02:22.459><c> know</c><00:02:22.610><c> who</c></c><c.colorCCCCCC><00:02:22.790><c> that</c><00:02:23.000><c> is</c></c>
+
+00:02:23.520 --> 00:02:23.530 align:start position:0%
+<c.colorE5E5E5>we know who</c><c.colorCCCCCC> that is
+ </c>
+
+00:02:23.530 --> 00:02:26.050 align:start position:0%
+<c.colorE5E5E5>we know who</c><c.colorCCCCCC> that is
+we</c><c.colorE5E5E5><00:02:24.530><c> need</c><00:02:24.680><c> to</c><00:02:24.770><c> build</c><00:02:24.920><c> that</c><00:02:25.130><c> variable</c><00:02:25.610><c> and</c><00:02:25.790><c> when</c></c>
+
+00:02:26.050 --> 00:02:26.060 align:start position:0%
+we<c.colorE5E5E5> need to build that variable and when
+ </c>
+
+00:02:26.060 --> 00:02:28.000 align:start position:0%
+we<c.colorE5E5E5> need to build that variable and when
+you<00:02:26.150><c> think</c><00:02:26.390><c> about</c><00:02:26.480><c> it</c><00:02:26.780><c> there's</c><00:02:27.200><c> only</c><00:02:27.410><c> one</c></c><c.colorCCCCCC><00:02:27.530><c> time</c></c>
+
+00:02:28.000 --> 00:02:28.010 align:start position:0%
+you<c.colorE5E5E5> think about it there's only one</c><c.colorCCCCCC> time
+ </c>
+
+00:02:28.010 --> 00:02:30.220 align:start position:0%
+you<c.colorE5E5E5> think about it there's only one</c><c.colorCCCCCC> time
+we<00:02:28.340><c> have</c><00:02:28.490><c> access</c></c><c.colorE5E5E5><00:02:29.000><c> to</c><00:02:29.240><c> the</c><00:02:29.360><c> address</c><00:02:29.750><c> creating</c></c>
+
+00:02:30.220 --> 00:02:30.230 align:start position:0%
+we have access<c.colorE5E5E5> to the address creating
+ </c>
+
+00:02:30.230 --> 00:02:32.410 align:start position:0%
+we have access<c.colorE5E5E5> to the address creating
+the<00:02:30.320><c> contract</c></c><c.colorCCCCCC><00:02:30.830><c> that's</c></c><c.colorE5E5E5><00:02:31.640><c> when</c><00:02:31.850><c> the</c><00:02:31.940><c> contract</c></c>
+
+00:02:32.410 --> 00:02:32.420 align:start position:0%
+the contract<c.colorCCCCCC> that's</c><c.colorE5E5E5> when the contract
+ </c>
+
+00:02:32.420 --> 00:02:35.440 align:start position:0%
+the contract<c.colorCCCCCC> that's</c><c.colorE5E5E5> when the contract
+gets<00:02:32.660><c> created</c><00:02:33.200><c> right</c><00:02:34.270><c> we'll</c><00:02:35.270><c> use</c></c><c.colorCCCCCC><00:02:35.300><c> a</c></c>
+
+00:02:35.440 --> 00:02:35.450 align:start position:0%
+gets created right we'll use<c.colorCCCCCC> a
+ </c>
+
+00:02:35.450 --> 00:02:37.590 align:start position:0%
+gets created right we'll use<c.colorCCCCCC> a
+constructor<00:02:36.140><c> to</c><00:02:36.230><c> solve</c><00:02:36.470><c> this</c><00:02:36.650><c> problem</c><00:02:36.860><c> a</c></c>
+
+00:02:37.590 --> 00:02:37.600 align:start position:0%
+constructor<c.colorCCCCCC> to solve this problem a
+ </c>
+
+00:02:37.600 --> 00:02:39.850 align:start position:0%
+constructor<c.colorCCCCCC> to solve this problem a
+constructor<00:02:38.600><c> is</c><00:02:38.720><c> a</c><00:02:38.750><c> special</c></c><c.colorE5E5E5><00:02:39.290><c> function</c><00:02:39.530><c> that</c></c>
+
+00:02:39.850 --> 00:02:39.860 align:start position:0%
+constructor is a special<c.colorE5E5E5> function that
+ </c>
+
+00:02:39.860 --> 00:02:41.949 align:start position:0%
+constructor is a special<c.colorE5E5E5> function that
+gets</c><c.colorCCCCCC><00:02:40.010><c> executed</c><00:02:40.370><c> once</c><00:02:41.000><c> when</c><00:02:41.300><c> the</c><00:02:41.390><c> contract</c><00:02:41.870><c> is</c></c>
+
+00:02:41.949 --> 00:02:41.959 align:start position:0%
+gets<c.colorCCCCCC> executed once when the contract is
+ </c>
+
+00:02:41.959 --> 00:02:44.860 align:start position:0%
+gets<c.colorCCCCCC> executed once when the contract is
+created<00:02:42.610><c> due</c><00:02:43.610><c> to</c><00:02:43.730><c> its</c><00:02:43.880><c> nature</c><00:02:44.090><c> only</c><00:02:44.630><c> one</c></c>
+
+00:02:44.860 --> 00:02:44.870 align:start position:0%
+created due<c.colorCCCCCC> to its nature only one
+ </c>
+
+00:02:44.870 --> 00:02:48.280 align:start position:0%
+created due<c.colorCCCCCC> to its nature only one
+constructor<00:02:45.440><c> is</c><00:02:45.590><c> allowed</c><00:02:46.989><c> well</c><00:02:47.989><c> let's</c><00:02:48.140><c> see</c></c>
+
+00:02:48.280 --> 00:02:48.290 align:start position:0%
+constructor is allowed well let's see
+ 
+
+00:02:48.290 --> 00:02:50.470 align:start position:0%
+constructor is allowed well let's see
+what<c.colorE5E5E5><00:02:48.410><c> it</c><00:02:48.470><c> looks</c></c><c.colorCCCCCC><00:02:48.500><c> like</c><00:02:48.910><c> using</c><00:02:49.910><c> a</c><00:02:50.090><c> simple</c></c>
+
+00:02:50.470 --> 00:02:50.480 align:start position:0%
+what<c.colorE5E5E5> it looks</c><c.colorCCCCCC> like using a simple
+ </c>
+
+00:02:50.480 --> 00:02:52.479 align:start position:0%
+what<c.colorE5E5E5> it looks</c><c.colorCCCCCC> like using a simple
+contract</c><c.colorE5E5E5><00:02:50.840><c> as</c><00:02:51.110><c> an</c><00:02:51.230><c> example</c></c><c.colorCCCCCC><00:02:51.650><c> we</c><00:02:52.130><c> define</c><00:02:52.459><c> a</c></c>
+
+00:02:52.479 --> 00:02:52.489 align:start position:0%
+contract<c.colorE5E5E5> as an example</c><c.colorCCCCCC> we define a
+ </c>
+
+00:02:52.489 --> 00:02:54.310 align:start position:0%
+contract<c.colorE5E5E5> as an example</c><c.colorCCCCCC> we define a
+variable</c><c.colorE5E5E5><00:02:52.910><c> named</c><00:02:53.269><c> owner</c><00:02:53.540><c> as</c><00:02:53.930><c> a</c><00:02:53.989><c> type</c><00:02:54.290><c> of</c></c>
+
+00:02:54.310 --> 00:02:54.320 align:start position:0%
+variable<c.colorE5E5E5> named owner as a type of
+ </c>
+
+00:02:54.320 --> 00:02:57.160 align:start position:0%
+variable<c.colorE5E5E5> named owner as a type of
+address<00:02:54.970><c> this</c><00:02:55.970><c> is</c><00:02:56.180><c> where</c><00:02:56.360><c> the</c><00:02:56.480><c> variable</c><00:02:56.930><c> owner</c></c>
+
+00:02:57.160 --> 00:02:57.170 align:start position:0%
+<c.colorE5E5E5>address this is where the variable owner
+ </c>
+
+00:02:57.170 --> 00:02:59.830 align:start position:0%
+<c.colorE5E5E5>address this is where the variable owner
+used<00:02:57.650><c> in</c><00:02:57.800><c> the</c><00:02:57.890><c> kill</c><00:02:58.130><c> function</c><00:02:58.550><c> came</c><00:02:58.760><c> from</c><00:02:59.060><c> then</c></c>
+
+00:02:59.830 --> 00:02:59.840 align:start position:0%
+used in the kill function came from then
+ 
+
+00:02:59.840 --> 00:03:01.690 align:start position:0%
+used in the kill function came from then
+<c.colorE5E5E5>we<00:02:59.989><c> create</c><00:03:00.260><c> our</c><00:03:00.350><c> constructor</c><00:03:00.920><c> it</c><00:03:01.459><c> looks</c></c>
+
+00:03:01.690 --> 00:03:01.700 align:start position:0%
+<c.colorE5E5E5>we create our constructor it looks
+ </c>
+
+00:03:01.700 --> 00:03:03.490 align:start position:0%
+<c.colorE5E5E5>we create our constructor it looks
+similar<00:03:01.910><c> to</c><00:03:02.209><c> a</c><00:03:02.239><c> function</c><00:03:02.840><c> but</c><00:03:03.019><c> it</c><00:03:03.170><c> doesn't</c></c>
+
+00:03:03.490 --> 00:03:03.500 align:start position:0%
+similar to a function but<c.colorE5E5E5> it doesn't
+ </c>
+
+00:03:03.500 --> 00:03:05.290 align:start position:0%
+similar to a function but<c.colorE5E5E5> it doesn't</c>
+<c.colorE5E5E5>require<00:03:03.769><c> the</c><00:03:04.130><c> function</c><00:03:04.610><c> keyword</c><00:03:04.880><c> at</c><00:03:05.209><c> the</c></c>
+
+00:03:05.290 --> 00:03:05.300 align:start position:0%
+<c.colorE5E5E5>require the function keyword at the
+ </c>
+
+00:03:05.300 --> 00:03:07.449 align:start position:0%
+<c.colorE5E5E5>require the function keyword at the
+beginning<00:03:05.750><c> inside</c><00:03:06.590><c> of</c><00:03:06.739><c> it</c><00:03:06.860><c> we</c><00:03:06.950><c> set</c><00:03:07.190><c> the</c><00:03:07.280><c> owner</c></c>
+
+00:03:07.449 --> 00:03:07.459 align:start position:0%
+beginning inside<c.colorE5E5E5> of it we set the owner
+ </c>
+
+00:03:07.459 --> 00:03:09.490 align:start position:0%
+beginning inside<c.colorE5E5E5> of it we set the owner
+variable<00:03:08.090><c> equal</c><00:03:08.480><c> to</c><00:03:08.600><c> the</c><00:03:08.720><c> address</c><00:03:09.170><c> of</c><00:03:09.350><c> the</c></c>
+
+00:03:09.490 --> 00:03:09.500 align:start position:0%
+variable equal to the address of<c.colorE5E5E5> the
+ </c>
+
+00:03:09.500 --> 00:03:12.430 align:start position:0%
+variable equal to the address of<c.colorE5E5E5> the
+message<00:03:09.890><c> sender</c><00:03:10.690><c> since</c><00:03:11.690><c> the</c><00:03:11.840><c> constructor</c><00:03:12.260><c> can</c></c>
+
+00:03:12.430 --> 00:03:12.440 align:start position:0%
+message sender since the constructor<c.colorE5E5E5> can
+ </c>
+
+00:03:12.440 --> 00:03:14.140 align:start position:0%
+message sender since the constructor<c.colorE5E5E5> can
+only<00:03:12.650><c> be</c><00:03:12.830><c> called</c></c><c.colorCCCCCC><00:03:13.040><c> once</c><00:03:13.430><c> at</c><00:03:13.670><c> the</c><00:03:13.790><c> time</c><00:03:14.000><c> the</c></c>
+
+00:03:14.140 --> 00:03:14.150 align:start position:0%
+<c.colorE5E5E5>only be called</c><c.colorCCCCCC> once at the time the
+ </c>
+
+00:03:14.150 --> 00:03:16.780 align:start position:0%
+<c.colorE5E5E5>only be called</c><c.colorCCCCCC> once at the time the
+contract</c><c.colorE5E5E5><00:03:14.360><c> is</c><00:03:14.720><c> created</c><00:03:15.350><c> our</c><00:03:15.590><c> owner</c><00:03:16.130><c> variable</c></c>
+
+00:03:16.780 --> 00:03:16.790 align:start position:0%
+contract<c.colorE5E5E5> is created our owner variable
+ </c>
+
+00:03:16.790 --> 00:03:18.699 align:start position:0%
+contract<c.colorE5E5E5> is created our owner variable
+is<00:03:16.940><c> now</c><00:03:17.090><c> forever</c><00:03:17.360><c> set</c><00:03:17.900><c> to</c><00:03:18.110><c> the</c><00:03:18.230><c> address</c><00:03:18.680><c> that</c></c>
+
+00:03:18.699 --> 00:03:18.709 align:start position:0%
+is now forever set to the<c.colorE5E5E5> address that
+ </c>
+
+00:03:18.709 --> 00:03:21.100 align:start position:0%
+is now forever set to the<c.colorE5E5E5> address that
+created<00:03:19.280><c> the</c><00:03:19.370><c> contract</c><00:03:19.880><c> let's</c><00:03:20.510><c> jump</c><00:03:20.750><c> into</c></c><c.colorCCCCCC><00:03:20.989><c> our</c></c>
+
+00:03:21.100 --> 00:03:21.110 align:start position:0%
+created the contract<c.colorE5E5E5> let's jump into</c><c.colorCCCCCC> our
+ </c>
+
+00:03:21.110 --> 00:03:23.080 align:start position:0%
+created the contract<c.colorE5E5E5> let's jump into</c><c.colorCCCCCC> our
+code<00:03:21.350><c> editor</c><00:03:21.380><c> and</c><00:03:22.010><c> add</c><00:03:22.190><c> our</c><00:03:22.340><c> constructor</c><00:03:22.910><c> and</c></c>
+
+00:03:23.080 --> 00:03:23.090 align:start position:0%
+code editor and add<c.colorCCCCCC> our constructor and
+ </c>
+
+00:03:23.090 --> 00:03:25.990 align:start position:0%
+code editor and add<c.colorCCCCCC> our constructor and
+kill<00:03:23.329><c> function</c><00:03:23.810><c> to</c><00:03:24.019><c> our</c></c><c.colorE5E5E5><00:03:24.049><c> contract</c><00:03:24.850><c> we'll</c><00:03:25.850><c> add</c></c>
+
+00:03:25.990 --> 00:03:26.000 align:start position:0%
+kill function to our<c.colorE5E5E5> contract we'll add
+ </c>
+
+00:03:26.000 --> 00:03:27.789 align:start position:0%
+kill function to our<c.colorE5E5E5> contract we'll add
+the<00:03:26.180><c> variable</c><00:03:26.570><c> declaration</c><00:03:27.230><c> for</c><00:03:27.470><c> our</c><00:03:27.590><c> owner</c></c>
+
+00:03:27.789 --> 00:03:27.799 align:start position:0%
+the variable declaration for our owner
+ 
+
+00:03:27.799 --> 00:03:29.170 align:start position:0%
+the variable declaration for our owner
+right<00:03:28.100><c> at</c><00:03:28.220><c> the</c><00:03:28.310><c> top</c><c.colorE5E5E5><00:03:28.489><c> of</c><00:03:28.670><c> our</c><00:03:28.760><c> solidity</c></c>
+
+00:03:29.170 --> 00:03:29.180 align:start position:0%
+right at the top<c.colorE5E5E5> of our solidity
+ </c>
+
+00:03:29.180 --> 00:03:33.039 align:start position:0%
+right at the top<c.colorE5E5E5> of our solidity
+contract<00:03:29.780><c> after</c></c><c.colorCCCCCC><00:03:30.790><c> our</c><00:03:31.790><c> variable</c><00:03:32.209><c> declarations</c></c>
+
+00:03:33.039 --> 00:03:33.049 align:start position:0%
+contract<c.colorE5E5E5> after</c><c.colorCCCCCC> our variable declarations
+ </c>
+
+00:03:33.049 --> 00:03:34.900 align:start position:0%
+contract<c.colorE5E5E5> after</c><c.colorCCCCCC> our variable declarations
+will<00:03:33.680><c> add</c><00:03:33.860><c> the</c><00:03:34.010><c> constructor</c><00:03:34.640><c> with</c><00:03:34.820><c> the</c></c>
+
+00:03:34.900 --> 00:03:34.910 align:start position:0%
+will add the constructor with the
+ 
+
+00:03:34.910 --> 00:03:37.449 align:start position:0%
+will add the constructor with the
+visibility<c.colorCCCCCC><00:03:35.299><c> set</c><00:03:35.780><c> to</c><00:03:35.900><c> public</c><00:03:36.320><c> where</c><00:03:36.950><c> we</c><00:03:37.130><c> assign</c></c>
+
+00:03:37.449 --> 00:03:37.459 align:start position:0%
+visibility<c.colorCCCCCC> set to public where we assign
+ </c>
+
+00:03:37.459 --> 00:03:39.960 align:start position:0%
+visibility<c.colorCCCCCC> set to public where we assign
+the<00:03:37.670><c> owner</c></c><c.colorE5E5E5><00:03:37.880><c> equal</c><00:03:38.360><c> to</c><00:03:38.540><c> the</c><00:03:38.720><c> message</c><00:03:39.049><c> sender</c></c>
+
+00:03:39.960 --> 00:03:39.970 align:start position:0%
+the owner<c.colorE5E5E5> equal to the message sender
+ </c>
+
+00:03:39.970 --> 00:03:42.430 align:start position:0%
+the owner<c.colorE5E5E5> equal to the message sender</c>
+<c.colorE5E5E5>we'll<00:03:40.970><c> create</c><00:03:41.209><c> a</c><00:03:41.299><c> new</c><00:03:41.480><c> function</c><00:03:41.690><c> named</c><00:03:42.110><c> kill</c></c>
+
+00:03:42.430 --> 00:03:42.440 align:start position:0%
+<c.colorE5E5E5>we'll create a new function named kill
+ </c>
+
+00:03:42.440 --> 00:03:45.430 align:start position:0%
+<c.colorE5E5E5>we'll create a new function named kill
+with<00:03:42.680><c> the</c><00:03:42.769><c> visibility</c><00:03:43.130><c> set</c><00:03:43.610><c> to</c><00:03:43.760><c> public</c></c><c.colorCCCCCC><00:03:44.150><c> add</c><00:03:44.440><c> a</c></c>
+
+00:03:45.430 --> 00:03:45.440 align:start position:0%
+with the visibility<c.colorE5E5E5> set to public</c><c.colorCCCCCC> add a
+ </c>
+
+00:03:45.440 --> 00:03:47.500 align:start position:0%
+with the visibility<c.colorE5E5E5> set to public</c><c.colorCCCCCC> add a
+require<00:03:45.920><c> ensuring</c><00:03:46.549><c> that</c><00:03:46.579><c> the</c></c><c.colorE5E5E5><00:03:46.850><c> only</c><00:03:47.150><c> one</c><00:03:47.390><c> who</c></c>
+
+00:03:47.500 --> 00:03:47.510 align:start position:0%
+require ensuring that the<c.colorE5E5E5> only one who
+ </c>
+
+00:03:47.510 --> 00:03:49.890 align:start position:0%
+require ensuring that the<c.colorE5E5E5> only one who
+can<00:03:47.660><c> call</c><00:03:47.870><c> this</c><00:03:48.110><c> is</c></c><c.colorCCCCCC><00:03:48.170><c> the</c></c><c.colorE5E5E5><00:03:48.350><c> contract</c><00:03:48.980><c> owner</c><00:03:49.250><c> and</c></c>
+
+00:03:49.890 --> 00:03:49.900 align:start position:0%
+can call<c.colorE5E5E5> this is</c><c.colorCCCCCC> the</c><c.colorE5E5E5> contract owner and
+ </c>
+
+00:03:49.900 --> 00:03:52.650 align:start position:0%
+can call<c.colorE5E5E5> this is</c><c.colorCCCCCC> the</c><c.colorE5E5E5> contract owner and
+then<00:03:50.900><c> call</c><00:03:51.110><c> the</c><00:03:51.230><c> self-destruct</c><00:03:51.950><c> function</c></c>
+
+00:03:52.650 --> 00:03:52.660 align:start position:0%
+then call the self-destruct function
+ 
+
+00:03:52.660 --> 00:03:55.120 align:start position:0%
+then call the self-destruct function
+specifying<00:03:53.660><c> the</c><00:03:53.810><c> owner</c><00:03:54.019><c> is</c><c.colorE5E5E5><00:03:54.290><c> the</c><00:03:54.410><c> recipient</c><00:03:54.890><c> of</c></c>
+
+00:03:55.120 --> 00:03:55.130 align:start position:0%
+specifying the owner is<c.colorE5E5E5> the recipient of
+ </c>
+
+00:03:55.130 --> 00:03:57.190 align:start position:0%
+specifying the owner is<c.colorE5E5E5> the recipient of
+any<00:03:55.310><c> available</c><00:03:55.850><c> funds</c><00:03:56.120><c> from</c><00:03:56.450><c> this</c><00:03:56.630><c> contract</c></c>
+
+00:03:57.190 --> 00:03:57.200 align:start position:0%
+any<c.colorE5E5E5> available funds from this contract
+ </c>
+
+00:03:57.200 --> 00:04:00.610 align:start position:0%
+any<c.colorE5E5E5> available funds from this contract
+as<00:03:58.120><c> you've</c><00:03:59.120><c> seen</c><00:03:59.360><c> the</c><00:03:59.570><c> self-destruct</c><00:04:00.260><c> method</c></c>
+
+00:04:00.610 --> 00:04:00.620 align:start position:0%
+<c.colorE5E5E5>as you've seen the self-destruct method
+ </c>
+
+00:04:00.620 --> 00:04:03.009 align:start position:0%
+<c.colorE5E5E5>as you've seen the self-destruct method
+is<00:04:00.739><c> pretty</c><00:04:01.010><c> impactful</c><00:04:01.700><c> so</c><00:04:02.570><c> let</c><00:04:02.720><c> me</c><00:04:02.780><c> ask</c><00:04:02.900><c> you</c></c>
+
+00:04:03.009 --> 00:04:03.019 align:start position:0%
+is<c.colorE5E5E5> pretty impactful so let me ask you
+ </c>
+
+00:04:03.019 --> 00:04:04.569 align:start position:0%
+is<c.colorE5E5E5> pretty impactful so let me ask you
+this<00:04:03.230><c> can</c><00:04:03.650><c> you</c><00:04:03.739><c> think</c><00:04:03.890><c> of</c><00:04:04.040><c> other</c><00:04:04.280><c> ways</c><00:04:04.519><c> to</c></c>
+
+00:04:04.569 --> 00:04:04.579 align:start position:0%
+<c.colorE5E5E5>this can you think of other ways to
+ </c>
+
+00:04:04.579 --> 00:04:06.970 align:start position:0%
+<c.colorE5E5E5>this can you think of other ways to</c>
+<c.colorE5E5E5>secure<00:04:05.360><c> our</c><00:04:05.570><c> online</c><00:04:06.019><c> marketplace</c><00:04:06.709><c> that</c></c>
+
+00:04:06.970 --> 00:04:06.980 align:start position:0%
+<c.colorE5E5E5>secure our online marketplace that
+ </c>
+
+00:04:06.980 --> 00:04:09.460 align:start position:0%
+<c.colorE5E5E5>secure our online marketplace that</c>
+<c.colorCCCCCC>aren't<00:04:07.430><c> as</c><00:04:07.519><c> destructive</c></c><c.colorE5E5E5><00:04:08.140><c> based</c><00:04:09.140><c> on</c><00:04:09.320><c> what</c></c>
+
+00:04:09.460 --> 00:04:09.470 align:start position:0%
+<c.colorCCCCCC>aren't as destructive</c><c.colorE5E5E5> based on what
+ </c>
+
+00:04:09.470 --> 00:04:10.630 align:start position:0%
+<c.colorCCCCCC>aren't as destructive</c><c.colorE5E5E5> based on what
+we've<00:04:09.620><c> learned</c></c><c.colorCCCCCC><00:04:09.650><c> in</c><00:04:09.980><c> this</c><00:04:10.130><c> video</c></c><c.colorE5E5E5><00:04:10.340><c> about</c></c>
+
+00:04:10.630 --> 00:04:10.640 align:start position:0%
+we've learned<c.colorCCCCCC> in this video</c><c.colorE5E5E5> about
+ </c>
+
+00:04:10.640 --> 00:04:12.490 align:start position:0%
+we've learned<c.colorCCCCCC> in this video</c><c.colorE5E5E5> about
+constructors<00:04:11.450><c> and</c><00:04:11.660><c> setting</c><00:04:11.930><c> the</c><00:04:12.049><c> contract</c></c>
+
+00:04:12.490 --> 00:04:12.500 align:start position:0%
+constructors<c.colorE5E5E5> and setting the contract
+ </c>
+
+00:04:12.500 --> 00:04:14.620 align:start position:0%
+constructors<c.colorE5E5E5> and setting the contract
+owner</c><c.colorCCCCCC><00:04:12.739><c> I</c><00:04:13.010><c> think</c><00:04:13.609><c> there's</c><00:04:13.760><c> another</c><00:04:14.030><c> way</c><00:04:14.239><c> we</c><00:04:14.510><c> can</c></c>
+
+00:04:14.620 --> 00:04:14.630 align:start position:0%
+owner<c.colorCCCCCC> I think there's another way we can
+ </c>
+
+00:04:14.630 --> 00:04:16.719 align:start position:0%
+owner<c.colorCCCCCC> I think there's another way we can</c>
+<c.colorE5E5E5>add<00:04:14.810><c> some</c><00:04:15.079><c> security</c><00:04:15.680><c> and</c><00:04:15.709><c> flexibility</c><00:04:16.430><c> to</c></c><c.colorCCCCCC><00:04:16.549><c> our</c></c>
+
+00:04:16.719 --> 00:04:16.729 align:start position:0%
+<c.colorE5E5E5>add some security and flexibility to</c><c.colorCCCCCC> our
+ </c>
+
+00:04:16.729 --> 00:04:19.029 align:start position:0%
+<c.colorE5E5E5>add some security and flexibility to</c><c.colorCCCCCC> our
+contract<00:04:17.239><c> we've</c><00:04:18.049><c> got</c><00:04:18.260><c> our</c><00:04:18.380><c> owner</c><00:04:18.530><c> variable</c></c>
+
+00:04:19.029 --> 00:04:19.039 align:start position:0%
+contract<c.colorCCCCCC> we've got our owner variable
+ </c>
+
+00:04:19.039 --> 00:04:21.219 align:start position:0%
+contract<c.colorCCCCCC> we've got our owner variable
+set</c><c.colorE5E5E5><00:04:19.340><c> so</c><00:04:19.760><c> let's</c><00:04:20.150><c> add</c><00:04:20.299><c> another</c></c><c.colorCCCCCC><00:04:20.329><c> variable</c><00:04:21.200><c> called</c></c>
+
+00:04:21.219 --> 00:04:21.229 align:start position:0%
+set<c.colorE5E5E5> so let's add another</c><c.colorCCCCCC> variable called
+ </c>
+
+00:04:21.229 --> 00:04:24.100 align:start position:0%
+set<c.colorE5E5E5> so let's add another</c><c.colorCCCCCC> variable called</c>
+<c.colorCCCCCC>online<00:04:21.799><c> as</c><00:04:22.370><c> a</c><00:04:22.400><c> boolean</c><00:04:22.630><c> and</c><00:04:23.630><c> we</c><00:04:23.780><c> can</c><00:04:23.930><c> add</c><00:04:24.050><c> a</c></c>
+
+00:04:24.100 --> 00:04:24.110 align:start position:0%
+<c.colorCCCCCC>online as a boolean and we can add a
+ </c>
+
+00:04:24.110 --> 00:04:26.150 align:start position:0%
+<c.colorCCCCCC>online as a boolean and we can add a
+function</c><c.colorE5E5E5><00:04:24.440><c> to</c></c><c.colorCCCCCC><00:04:24.800><c> toggle</c></c><c.colorE5E5E5><00:04:25.220><c> the</c><00:04:25.340><c> online</c></c>
+
+00:04:26.150 --> 00:04:26.160 align:start position:0%
+function<c.colorE5E5E5> to</c><c.colorCCCCCC> toggle</c><c.colorE5E5E5> the online
+ </c>
+
+00:04:26.160 --> 00:04:28.330 align:start position:0%
+function<c.colorE5E5E5> to</c><c.colorCCCCCC> toggle</c><c.colorE5E5E5> the online
+variable<00:04:26.430><c> status</c><00:04:26.850><c> between</c><00:04:27.030><c> true</c></c><c.colorCCCCCC><00:04:27.570><c> and</c></c><c.colorE5E5E5><00:04:27.750><c> false</c></c>
+
+00:04:28.330 --> 00:04:28.340 align:start position:0%
+variable status between<c.colorE5E5E5> true</c><c.colorCCCCCC> and</c><c.colorE5E5E5> false
+ </c>
+
+00:04:28.340 --> 00:04:30.920 align:start position:0%
+variable status between<c.colorE5E5E5> true</c><c.colorCCCCCC> and</c><c.colorE5E5E5> false
+that<00:04:29.340><c> variable</c><00:04:29.790><c> can</c><00:04:30.030><c> then</c><00:04:30.300><c> be</c><00:04:30.480><c> used</c></c><c.colorCCCCCC><00:04:30.510><c> as</c><00:04:30.870><c> a</c></c>
+
+00:04:30.920 --> 00:04:30.930 align:start position:0%
+<c.colorE5E5E5>that variable can then be used</c><c.colorCCCCCC> as a
+ </c>
+
+00:04:30.930 --> 00:04:33.230 align:start position:0%
+<c.colorE5E5E5>that variable can then be used</c><c.colorCCCCCC> as a
+require</c><c.colorE5E5E5><00:04:31.380><c> statement</c><00:04:31.980><c> in</c><00:04:32.100><c> our</c></c><c.colorCCCCCC><00:04:32.220><c> ad</c></c><c.colorE5E5E5><00:04:32.430><c> item</c><00:04:32.880><c> by</c><00:04:33.210><c> item</c></c>
+
+00:04:33.230 --> 00:04:33.240 align:start position:0%
+require<c.colorE5E5E5> statement in our</c><c.colorCCCCCC> ad</c><c.colorE5E5E5> item by item
+ </c>
+
+00:04:33.240 --> 00:04:36.380 align:start position:0%
+require<c.colorE5E5E5> statement in our</c><c.colorCCCCCC> ad</c><c.colorE5E5E5> item by item
+and<00:04:33.810><c> claim</c><00:04:34.140><c> funds</c><00:04:34.680><c> functions</c><00:04:35.430><c> to</c><00:04:35.790><c> prevent</c><00:04:36.150><c> any</c></c>
+
+00:04:36.380 --> 00:04:36.390 align:start position:0%
+and claim funds functions to prevent any
+ 
+
+00:04:36.390 --> 00:04:38.770 align:start position:0%
+and claim funds functions to prevent any
+activity<00:04:36.990><c> when</c><c.colorE5E5E5><00:04:37.200><c> on</c><00:04:37.440><c> line</c><00:04:37.740><c> is</c><00:04:37.920><c> set</c><00:04:38.130><c> to</c><00:04:38.280><c> false</c></c>
+
+00:04:38.770 --> 00:04:38.780 align:start position:0%
+activity when<c.colorE5E5E5> on line is set to false
+ </c>
+
+00:04:38.780 --> 00:04:40.850 align:start position:0%
+activity when<c.colorE5E5E5> on line is set to false
+it's<00:04:39.780><c> going</c><00:04:39.960><c> to</c><00:04:40.020><c> look</c><00:04:40.110><c> a</c><00:04:40.230><c> little</c></c><c.colorCCCCCC><00:04:40.410><c> something</c></c>
+
+00:04:40.850 --> 00:04:40.860 align:start position:0%
+<c.colorE5E5E5>it's going to look a little</c><c.colorCCCCCC> something
+ </c>
+
+00:04:40.860 --> 00:04:41.390 align:start position:0%
+<c.colorE5E5E5>it's going to look a little</c><c.colorCCCCCC> something
+like<00:04:40.980><c> this</c></c>
+
+00:04:41.390 --> 00:04:41.400 align:start position:0%
+<c.colorCCCCCC>like this
+ </c>
+
+00:04:41.400 --> 00:04:44.060 align:start position:0%
+<c.colorCCCCCC>like this
+after<00:04:42.000><c> adding</c><00:04:42.330><c> our</c></c><c.colorE5E5E5><00:04:42.480><c> boolean</c><00:04:42.840><c> variable</c><00:04:43.350><c> we</c><00:04:43.890><c> can</c></c>
+
+00:04:44.060 --> 00:04:44.070 align:start position:0%
+after adding our<c.colorE5E5E5> boolean variable we can
+ </c>
+
+00:04:44.070 --> 00:04:46.340 align:start position:0%
+after adding our<c.colorE5E5E5> boolean variable we can
+use<00:04:44.280><c> it</c><00:04:44.460><c> in</c></c><c.colorCCCCCC><00:04:44.580><c> a</c><00:04:44.670><c> require</c><00:04:45.090><c> modifier</c><00:04:45.720><c> in</c><00:04:45.990><c> our</c><00:04:46.110><c> key</c></c>
+
+00:04:46.340 --> 00:04:46.350 align:start position:0%
+use it in<c.colorCCCCCC> a require modifier in our key
+ </c>
+
+00:04:46.350 --> 00:04:48.770 align:start position:0%
+use it in<c.colorCCCCCC> a require modifier in our key
+functions<00:04:46.920><c> by</c><00:04:47.580><c> adding</c></c><c.colorE5E5E5><00:04:47.940><c> that</c><00:04:48.060><c> requirement</c><00:04:48.480><c> to</c></c>
+
+00:04:48.770 --> 00:04:48.780 align:start position:0%
+functions by adding<c.colorE5E5E5> that requirement to
+ </c>
+
+00:04:48.780 --> 00:04:52.160 align:start position:0%
+functions by adding<c.colorE5E5E5> that requirement to
+add<00:04:48.930><c> item</c><00:04:49.440><c> by</c><00:04:49.740><c> item</c><00:04:49.770><c> and</c><00:04:50.460><c> claim</c><00:04:50.760><c> funds</c><00:04:51.090><c> we</c><00:04:52.050><c> can</c></c>
+
+00:04:52.160 --> 00:04:52.170 align:start position:0%
+add item by item<c.colorE5E5E5> and claim funds we can
+ </c>
+
+00:04:52.170 --> 00:04:54.230 align:start position:0%
+add item by item<c.colorE5E5E5> and claim funds we can</c>
+<c.colorE5E5E5>restrict<00:04:52.530><c> access</c><00:04:52.800><c> to</c><00:04:53.130><c> any</c><00:04:53.430><c> of</c><00:04:53.610><c> our</c><00:04:53.700><c> functions</c></c>
+
+00:04:54.230 --> 00:04:54.240 align:start position:0%
+<c.colorE5E5E5>restrict access to any of our functions
+ </c>
+
+00:04:54.240 --> 00:04:56.720 align:start position:0%
+<c.colorE5E5E5>restrict access to any of our functions
+that<00:04:54.420><c> change</c><00:04:54.720><c> the</c><00:04:54.930><c> state</c><00:04:55.200><c> or</c><00:04:55.620><c> transfer</c><00:04:56.370><c> funds</c></c>
+
+00:04:56.720 --> 00:04:56.730 align:start position:0%
+that change the state or transfer funds
+ 
+
+00:04:56.730 --> 00:04:59.030 align:start position:0%
+that change the state or transfer funds
+<c.colorE5E5E5>it<00:04:57.450><c> provides</c><00:04:57.870><c> many</c><00:04:58.140><c> of</c><00:04:58.290><c> the</c><00:04:58.380><c> benefits</c><00:04:58.830><c> of</c><00:04:58.950><c> the</c></c>
+
+00:04:59.030 --> 00:04:59.040 align:start position:0%
+<c.colorE5E5E5>it provides many of the benefits of the
+ </c>
+
+00:04:59.040 --> 00:05:01.190 align:start position:0%
+<c.colorE5E5E5>it provides many of the benefits of the
+self-destruct<00:04:59.760><c> function</c><00:05:00.240><c> without</c><00:05:00.720><c> the</c></c>
+
+00:05:01.190 --> 00:05:01.200 align:start position:0%
+self-destruct function without the
+ 
+
+00:05:01.200 --> 00:05:03.500 align:start position:0%
+self-destruct function without the
+permanent<00:05:01.680><c> side</c><00:05:01.830><c> effects</c><c.colorE5E5E5><00:05:02.160><c> but</c><00:05:02.850><c> to</c><00:05:03.060><c> jump</c></c><c.colorCCCCCC><00:05:03.240><c> into</c></c>
+
+00:05:03.500 --> 00:05:03.510 align:start position:0%
+permanent side effects<c.colorE5E5E5> but to jump</c><c.colorCCCCCC> into
+ </c>
+
+00:05:03.510 --> 00:05:05.150 align:start position:0%
+permanent side effects<c.colorE5E5E5> but to jump</c><c.colorCCCCCC> into
+our<00:05:03.540><c> code</c><00:05:03.840><c> editor</c><00:05:03.870><c> one</c><00:05:04.440><c> more</c><00:05:04.590><c> time</c><00:05:04.830><c> for</c><00:05:05.040><c> this</c></c>
+
+00:05:05.150 --> 00:05:05.160 align:start position:0%
+our code editor one more time for<c.colorCCCCCC> this
+ </c>
+
+00:05:05.160 --> 00:05:08.270 align:start position:0%
+our code editor one more time for<c.colorCCCCCC> this
+lesson<00:05:05.400><c> and</c><00:05:05.760><c> add</c><00:05:06.060><c> these</c><00:05:06.240><c> features</c></c><c.colorE5E5E5><00:05:07.100><c> will</c><00:05:08.100><c> add</c></c>
+
+00:05:08.270 --> 00:05:08.280 align:start position:0%
+lesson<c.colorCCCCCC> and add these features</c><c.colorE5E5E5> will add
+ </c>
+
+00:05:08.280 --> 00:05:12.580 align:start position:0%
+lesson<c.colorCCCCCC> and add these features</c><c.colorE5E5E5> will add
+our<00:05:08.430><c> boolean</c><00:05:08.700><c> parameter</c></c><c.colorCCCCCC><00:05:08.910><c> online</c></c>
+
+00:05:12.580 --> 00:05:12.590 align:start position:0%
+ 
+ 
+
+00:05:12.590 --> 00:05:14.920 align:start position:0%
+ 
+and<c.colorE5E5E5><00:05:12.680><c> we'll</c><00:05:13.610><c> create</c><00:05:13.790><c> a</c><00:05:13.880><c> new</c><00:05:13.940><c> function</c><00:05:14.300><c> set</c></c>
+
+00:05:14.920 --> 00:05:14.930 align:start position:0%
+and<c.colorE5E5E5> we'll create a new function set
+ </c>
+
+00:05:14.930 --> 00:05:17.470 align:start position:0%
+and<c.colorE5E5E5> we'll create a new function set</c>
+<c.colorCCCCCC>online<00:05:15.380><c> that</c><00:05:15.710><c> accepts</c><00:05:16.190><c> a</c><00:05:16.280><c> boolean</c></c><c.colorE5E5E5><00:05:16.550><c> status</c><00:05:17.270><c> as</c></c>
+
+00:05:17.470 --> 00:05:17.480 align:start position:0%
+<c.colorCCCCCC>online that accepts a boolean</c><c.colorE5E5E5> status as
+ </c>
+
+00:05:17.480 --> 00:05:20.290 align:start position:0%
+<c.colorCCCCCC>online that accepts a boolean</c><c.colorE5E5E5> status as
+a<00:05:17.810><c> parameter</c><00:05:18.460><c> again</c></c><c.colorCCCCCC><00:05:19.460><c> we</c><00:05:19.820><c> want</c></c><c.colorE5E5E5><00:05:20.000><c> to</c><00:05:20.060><c> restrict</c></c>
+
+00:05:20.290 --> 00:05:20.300 align:start position:0%
+a parameter<c.colorE5E5E5> again</c><c.colorCCCCCC> we want</c><c.colorE5E5E5> to restrict
+ </c>
+
+00:05:20.300 --> 00:05:22.420 align:start position:0%
+a parameter<c.colorE5E5E5> again</c><c.colorCCCCCC> we want</c><c.colorE5E5E5> to restrict
+access<00:05:20.570><c> to</c><00:05:20.870><c> only</c><00:05:21.110><c> the</c><00:05:21.260><c> contract</c><00:05:21.890><c> owner</c><00:05:22.130><c> who</c></c>
+
+00:05:22.420 --> 00:05:22.430 align:start position:0%
+access to<c.colorE5E5E5> only the contract owner who
+ </c>
+
+00:05:22.430 --> 00:05:24.790 align:start position:0%
+access to<c.colorE5E5E5> only the contract owner who
+can<00:05:22.610><c> open</c><00:05:22.910><c> and</c><00:05:23.030><c> close</c><00:05:23.060><c> our</c><00:05:23.420><c> store</c><00:05:23.690><c> and</c><00:05:23.960><c> then</c></c>
+
+00:05:24.790 --> 00:05:24.800 align:start position:0%
+can<c.colorE5E5E5> open and close our store and then
+ </c>
+
+00:05:24.800 --> 00:05:26.530 align:start position:0%
+can<c.colorE5E5E5> open and close our store and then
+we'll<00:05:24.920><c> set</c><00:05:25.130><c> the</c><00:05:25.160><c> online</c><00:05:25.580><c> variable</c><00:05:26.060><c> equal</c><00:05:26.390><c> to</c></c>
+
+00:05:26.530 --> 00:05:26.540 align:start position:0%
+we'll set the<c.colorE5E5E5> online variable equal to
+ </c>
+
+00:05:26.540 --> 00:05:28.270 align:start position:0%
+we'll set the<c.colorE5E5E5> online variable equal to
+the<00:05:26.750><c> status</c></c><c.colorCCCCCC><00:05:27.200><c> that</c><00:05:27.350><c> we</c><00:05:27.440><c> passed</c><00:05:27.740><c> in</c><00:05:27.980><c> when</c><00:05:28.190><c> we</c></c>
+
+00:05:28.270 --> 00:05:28.280 align:start position:0%
+the status<c.colorCCCCCC> that we passed in when we
+ </c>
+
+00:05:28.280 --> 00:05:30.610 align:start position:0%
+the status<c.colorCCCCCC> that we passed in when we
+call<00:05:28.460><c> the</c><00:05:28.610><c> function</c></c><c.colorE5E5E5><00:05:28.750><c> so</c><00:05:29.750><c> we'll</c><00:05:29.900><c> pass</c><00:05:30.110><c> in</c><00:05:30.350><c> true</c></c>
+
+00:05:30.610 --> 00:05:30.620 align:start position:0%
+call the function<c.colorE5E5E5> so we'll pass in true
+ </c>
+
+00:05:30.620 --> 00:05:32.860 align:start position:0%
+call the function<c.colorE5E5E5> so we'll pass in true
+or<00:05:30.770><c> false</c><00:05:31.010><c> which</c><00:05:31.640><c> will</c></c><c.colorCCCCCC><00:05:31.820><c> toggle</c></c><c.colorE5E5E5><00:05:32.270><c> the</c><00:05:32.390><c> status</c><00:05:32.750><c> of</c></c>
+
+00:05:32.860 --> 00:05:32.870 align:start position:0%
+or false<c.colorE5E5E5> which will</c><c.colorCCCCCC> toggle</c><c.colorE5E5E5> the status of
+ </c>
+
+00:05:32.870 --> 00:05:34.760 align:start position:0%
+or false<c.colorE5E5E5> which will</c><c.colorCCCCCC> toggle</c><c.colorE5E5E5> the status of
+our</c><c.colorCCCCCC><00:05:32.930><c> online</c><00:05:33.380><c> store</c></c>
+
+00:05:34.760 --> 00:05:34.770 align:start position:0%
+our<c.colorCCCCCC> online store
+ </c>
+
+00:05:34.770 --> 00:05:37.339 align:start position:0%
+our<c.colorCCCCCC> online store
+now<00:05:35.430><c> we</c><00:05:35.490><c> can</c><00:05:35.699><c> add</c><00:05:35.880><c> the</c><00:05:36.030><c> require</c></c><c.colorE5E5E5><00:05:36.449><c> online</c><00:05:36.780><c> equal</c></c>
+
+00:05:37.339 --> 00:05:37.349 align:start position:0%
+now we can add the require<c.colorE5E5E5> online equal
+ </c>
+
+00:05:37.349 --> 00:05:40.290 align:start position:0%
+now we can add the require<c.colorE5E5E5> online equal
+true<00:05:37.650><c> to</c><00:05:37.889><c> our</c><00:05:37.979><c> add</c><00:05:38.130><c> item</c><00:05:38.639><c> function</c></c>
+
+00:05:40.290 --> 00:05:40.300 align:start position:0%
+true to our<c.colorE5E5E5> add item function
+ </c>
+
+00:05:40.300 --> 00:05:44.450 align:start position:0%
+true to our<c.colorE5E5E5> add item function
+we<00:05:41.110><c> can</c><00:05:41.260><c> add</c><00:05:41.380><c> it</c></c><c.colorCCCCCC><00:05:41.500><c> to</c><00:05:41.620><c> our</c><00:05:41.650><c> by</c><00:05:42.010><c> item</c><00:05:42.430><c> function</c></c>
+
+00:05:44.450 --> 00:05:44.460 align:start position:0%
+we can add it<c.colorCCCCCC> to our by item function
+ </c>
+
+00:05:44.460 --> 00:05:46.939 align:start position:0%
+we can add it<c.colorCCCCCC> to our by item function
+and<00:05:44.660><c> we</c><00:05:45.660><c> can</c><00:05:45.810><c> add</c></c><c.colorE5E5E5><00:05:45.930><c> it</c></c><c.colorCCCCCC><00:05:46.050><c> to</c><00:05:46.169><c> our</c><00:05:46.289><c> claim</c><00:05:46.560><c> funds</c></c>
+
+00:05:46.939 --> 00:05:46.949 align:start position:0%
+and we can add<c.colorE5E5E5> it</c><c.colorCCCCCC> to our claim funds
+ </c>
+
+00:05:46.949 --> 00:05:49.610 align:start position:0%
+and we can add<c.colorE5E5E5> it</c><c.colorCCCCCC> to our claim funds</c>
+<c.colorE5E5E5>function<00:05:47.900><c> this</c><00:05:48.900><c> is</c><00:05:49.050><c> going</c><00:05:49.199><c> to</c><00:05:49.259><c> ensure</c></c><c.colorCCCCCC><00:05:49.380><c> that</c></c>
+
+00:05:49.610 --> 00:05:49.620 align:start position:0%
+<c.colorE5E5E5>function this is going to ensure</c><c.colorCCCCCC> that
+ </c>
+
+00:05:49.620 --> 00:05:51.469 align:start position:0%
+<c.colorE5E5E5>function this is going to ensure</c><c.colorCCCCCC> that
+those<00:05:49.800><c> functions</c><00:05:50.310><c> can't</c><00:05:50.610><c> be</c><00:05:50.789><c> called</c></c><c.colorE5E5E5><00:05:51.150><c> if</c></c>
+
+00:05:51.469 --> 00:05:51.479 align:start position:0%
+those<c.colorCCCCCC> functions can't be called</c><c.colorE5E5E5> if
+ </c>
+
+00:05:51.479 --> 00:05:54.589 align:start position:0%
+those<c.colorCCCCCC> functions can't be called</c><c.colorE5E5E5> if
+online</c><c.colorCCCCCC><00:05:52.110><c> is</c><00:05:52.560><c> set</c><00:05:52.770><c> defaults</c></c><c.colorE5E5E5><00:05:53.340><c> also</c><00:05:54.240><c> notice</c><00:05:54.569><c> that</c></c>
+
+00:05:54.589 --> 00:05:54.599 align:start position:0%
+<c.colorE5E5E5>online</c><c.colorCCCCCC> is set defaults</c><c.colorE5E5E5> also notice that
+ </c>
+
+00:05:54.599 --> 00:05:56.600 align:start position:0%
+<c.colorE5E5E5>online</c><c.colorCCCCCC> is set defaults</c><c.colorE5E5E5> also notice that
+I</c><c.colorCCCCCC><00:05:54.870><c> added</c><00:05:55.229><c> this</c><00:05:55.349><c> as</c><00:05:55.530><c> the</c><00:05:55.680><c> first</c><00:05:55.949><c> line</c><00:05:56.310><c> in</c><00:05:56.490><c> each</c></c>
+
+00:05:56.600 --> 00:05:56.610 align:start position:0%
+I<c.colorCCCCCC> added this as the first line in each
+ </c>
+
+00:05:56.610 --> 00:05:58.790 align:start position:0%
+I<c.colorCCCCCC> added this as the first line in each
+of<00:05:56.789><c> those</c><00:05:56.880><c> functions</c></c><c.colorE5E5E5><00:05:57.210><c> that's</c><00:05:58.169><c> because</c><00:05:58.530><c> if</c><00:05:58.680><c> the</c></c>
+
+00:05:58.790 --> 00:05:58.800 align:start position:0%
+of those functions<c.colorE5E5E5> that's because if the
+ </c>
+
+00:05:58.800 --> 00:06:00.800 align:start position:0%
+of those functions<c.colorE5E5E5> that's because if the
+online<00:05:58.949><c> store</c><00:05:59.490><c> is</c><00:05:59.520><c> false</c><00:05:59.940><c> we</c><00:06:00.240><c> want</c><00:06:00.449><c> this</c><00:06:00.630><c> to</c></c>
+
+00:06:00.800 --> 00:06:00.810 align:start position:0%
+online<c.colorE5E5E5> store is false we want this to
+ </c>
+
+00:06:00.810 --> 00:06:03.080 align:start position:0%
+online<c.colorE5E5E5> store is false we want this to
+fail<00:06:01.080><c> immediately</c></c><c.colorCCCCCC><00:06:01.440><c> before</c><00:06:02.160><c> it</c><00:06:02.430><c> tries</c><00:06:02.699><c> to</c></c><c.colorE5E5E5><00:06:02.729><c> take</c></c>
+
+00:06:03.080 --> 00:06:03.090 align:start position:0%
+fail immediately<c.colorCCCCCC> before it tries to</c><c.colorE5E5E5> take
+ </c>
+
+00:06:03.090 --> 00:06:05.749 align:start position:0%
+fail immediately<c.colorCCCCCC> before it tries to</c><c.colorE5E5E5> take
+any<00:06:03.300><c> other</c><00:06:03.479><c> actions</c><00:06:04.050><c> and</c><00:06:04.319><c> that</c><00:06:05.250><c> completes</c><00:06:05.639><c> our</c></c>
+
+00:06:05.749 --> 00:06:05.759 align:start position:0%
+any other actions and that completes our
+ 
+
+00:06:05.759 --> 00:06:07.279 align:start position:0%
+any other actions and that completes our
+smart<00:06:06.090><c> contract</c><00:06:06.630><c> for</c><00:06:06.810><c> our</c><c.colorCCCCCC><00:06:06.840><c> online</c></c>
+
+00:06:07.279 --> 00:06:07.289 align:start position:0%
+smart contract for our<c.colorCCCCCC> online
+ </c>
+
+00:06:07.289 --> 00:06:09.710 align:start position:0%
+smart contract for our<c.colorCCCCCC> online
+marketplace</c><c.colorE5E5E5><00:06:08.030><c> we</c><00:06:09.030><c> covered</c><00:06:09.330><c> a</c><00:06:09.389><c> lot</c></c><c.colorCCCCCC><00:06:09.419><c> of</c><00:06:09.599><c> ground</c></c>
+
+00:06:09.710 --> 00:06:09.720 align:start position:0%
+marketplace<c.colorE5E5E5> we covered a lot</c><c.colorCCCCCC> of ground
+ </c>
+
+00:06:09.720 --> 00:06:11.719 align:start position:0%
+marketplace<c.colorE5E5E5> we covered a lot</c><c.colorCCCCCC> of ground
+in<00:06:10.080><c> this</c><00:06:10.199><c> section</c><00:06:10.680><c> from</c></c><c.colorE5E5E5><00:06:10.860><c> creating</c><00:06:11.310><c> a</c><00:06:11.370><c> basic</c></c>
+
+00:06:11.719 --> 00:06:11.729 align:start position:0%
+in this<c.colorCCCCCC> section from</c><c.colorE5E5E5> creating a basic
+ </c>
+
+00:06:11.729 --> 00:06:13.670 align:start position:0%
+in this<c.colorCCCCCC> section from</c><c.colorE5E5E5> creating a basic
+contract</c><c.colorCCCCCC><00:06:12.270><c> to</c><00:06:12.599><c> functions</c><00:06:13.050><c> that</c><00:06:13.169><c> provide</c></c><c.colorE5E5E5><00:06:13.500><c> our</c></c>
+
+00:06:13.670 --> 00:06:13.680 align:start position:0%
+contract<c.colorCCCCCC> to functions that provide</c><c.colorE5E5E5> our
+ </c>
+
+00:06:13.680 --> 00:06:16.040 align:start position:0%
+contract<c.colorCCCCCC> to functions that provide</c><c.colorE5E5E5> our
+business<00:06:14.069><c> logic</c><00:06:14.280><c> to</c></c><c.colorCCCCCC><00:06:14.699><c> adding</c><00:06:15.389><c> security</c></c><c.colorE5E5E5><00:06:15.750><c> to</c></c>
+
+00:06:16.040 --> 00:06:16.050 align:start position:0%
+business logic<c.colorE5E5E5> to</c><c.colorCCCCCC> adding security</c><c.colorE5E5E5> to
+ </c>
+
+00:06:16.050 --> 00:06:17.990 align:start position:0%
+business logic<c.colorE5E5E5> to</c><c.colorCCCCCC> adding security</c><c.colorE5E5E5> to</c>
+<c.colorCCCCCC>protect<00:06:16.410><c> our</c><00:06:16.530><c> business</c><00:06:16.710><c> and</c><00:06:17.130><c> our</c><00:06:17.250><c> assets</c><00:06:17.759><c> in</c></c>
+
+00:06:17.990 --> 00:06:18.000 align:start position:0%
+<c.colorCCCCCC>protect our business and our assets in
+ </c>
+
+00:06:18.000 --> 00:06:19.939 align:start position:0%
+<c.colorCCCCCC>protect our business and our assets in
+the<00:06:18.990><c> next</c><00:06:19.259><c> section</c><00:06:19.590><c> we're</c><00:06:19.740><c> going</c><00:06:19.830><c> to</c></c><c.colorE5E5E5><00:06:19.889><c> be</c></c>
+
+00:06:19.939 --> 00:06:19.949 align:start position:0%
+the next section we're going to<c.colorE5E5E5> be
+ </c>
+
+00:06:19.949 --> 00:06:21.650 align:start position:0%
+the next section we're going to<c.colorE5E5E5> be</c>
+<c.colorCCCCCC>writing</c><c.colorE5E5E5><00:06:20.310><c> tests</c><00:06:20.759><c> to</c><00:06:20.880><c> ensure</c><00:06:21.180><c> our</c><00:06:21.300><c> smart</c></c>
+
+00:06:21.650 --> 00:06:21.660 align:start position:0%
+<c.colorCCCCCC>writing</c><c.colorE5E5E5> tests to ensure our smart
+ </c>
+
+00:06:21.660 --> 00:06:23.749 align:start position:0%
+<c.colorCCCCCC>writing</c><c.colorE5E5E5> tests to ensure our smart
+contract<00:06:22.139><c> functions</c><00:06:22.650><c> execute</c><00:06:23.280><c> the</c><00:06:23.430><c> way</c><00:06:23.580><c> we</c></c>
+
+00:06:23.749 --> 00:06:23.759 align:start position:0%
+contract functions<c.colorE5E5E5> execute the way we
+ </c>
+
+00:06:23.759 --> 00:06:25.820 align:start position:0%
+contract functions<c.colorE5E5E5> execute the way we
+intended</c><c.colorCCCCCC><00:06:24.240><c> them</c><00:06:24.389><c> to</c><00:06:24.419><c> take</c><00:06:25.380><c> a</c><00:06:25.410><c> break</c><00:06:25.650><c> if</c><00:06:25.770><c> you</c></c>
+
+00:06:25.820 --> 00:06:25.830 align:start position:0%
+intended<c.colorCCCCCC> them to take a break if you
+ </c>
+
+00:06:25.830 --> 00:06:27.620 align:start position:0%
+intended<c.colorCCCCCC> them to take a break if you
+need</c><c.colorE5E5E5><00:06:25.919><c> to</c><00:06:26.190><c> and</c><00:06:26.430><c> when</c><00:06:26.669><c> you're</c><00:06:26.789><c> ready</c><00:06:27.000><c> I'll</c><00:06:27.210><c> see</c></c>
+
+00:06:27.620 --> 00:06:27.630 align:start position:0%
+need<c.colorE5E5E5> to and when you're ready I'll see
+ </c>
+
+00:06:27.630 --> 00:06:29.240 align:start position:0%
+need<c.colorE5E5E5> to and when you're ready I'll see
+you<00:06:27.750><c> in</c><00:06:27.840><c> the</c><00:06:27.930><c> next</c><00:06:28.229><c> section</c><00:06:28.620><c> testing</c><00:06:29.160><c> your</c></c>
+
+00:06:29.240 --> 00:06:29.250 align:start position:0%
+<c.colorE5E5E5>you in the next section testing your
+ </c>
+
+00:06:29.250 --> 00:06:32.030 align:start position:0%
+<c.colorE5E5E5>you in the next section testing your
+smart<00:06:29.550><c> contract</c></c>
+

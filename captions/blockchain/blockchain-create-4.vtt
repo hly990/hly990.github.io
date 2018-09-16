@@ -1,0 +1,830 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.210 --> 00:00:02.510 align:start position:0%
+ 
+our<00:00:00.840><c> solidity</c><00:00:01.229><c> smart</c><00:00:01.589><c> contract</c><00:00:02.100><c> is</c><00:00:02.220><c> coming</c>
+
+00:00:02.510 --> 00:00:02.520 align:start position:0%
+our solidity smart contract is coming
+ 
+
+00:00:02.520 --> 00:00:04.489 align:start position:0%
+our solidity smart contract is coming
+along<c.colorE5E5E5><00:00:02.700><c> nicely</c></c><c.colorCCCCCC><00:00:02.760><c> we've</c><00:00:03.720><c> built</c><00:00:03.960><c> out</c><00:00:04.109><c> the</c><00:00:04.229><c> core</c></c>
+
+00:00:04.489 --> 00:00:04.499 align:start position:0%
+along<c.colorE5E5E5> nicely</c><c.colorCCCCCC> we've built out the core
+ </c>
+
+00:00:04.499 --> 00:00:06.320 align:start position:0%
+along<c.colorE5E5E5> nicely</c><c.colorCCCCCC> we've built out the core
+functions<00:00:05.009><c> to</c><00:00:05.189><c> provide</c><00:00:05.310><c> the</c><00:00:05.669><c> ability</c><00:00:05.759><c> to</c><00:00:06.059><c> add</c></c>
+
+00:00:06.320 --> 00:00:06.330 align:start position:0%
+functions to provide<c.colorCCCCCC> the ability to add
+ </c>
+
+00:00:06.330 --> 00:00:08.510 align:start position:0%
+functions to provide<c.colorCCCCCC> the ability to add
+view<00:00:06.930><c> and</c><00:00:07.200><c> buy</c><00:00:07.439><c> items</c><00:00:07.740><c> from</c><00:00:08.040><c> our</c><00:00:08.220><c> smart</c></c>
+
+00:00:08.510 --> 00:00:08.520 align:start position:0%
+view and buy items<c.colorCCCCCC> from our smart
+ </c>
+
+00:00:08.520 --> 00:00:10.970 align:start position:0%
+view and buy items<c.colorCCCCCC> from our smart
+contract</c><c.colorE5E5E5><00:00:09.060><c> as</c><00:00:09.240><c> well</c></c><c.colorCCCCCC><00:00:09.870><c> as</c><00:00:10.170><c> the</c><00:00:10.320><c> ability</c><00:00:10.680><c> for</c></c><c.colorE5E5E5><00:00:10.710><c> the</c></c>
+
+00:00:10.970 --> 00:00:10.980 align:start position:0%
+contract<c.colorE5E5E5> as well</c><c.colorCCCCCC> as the ability for</c><c.colorE5E5E5> the
+ </c>
+
+00:00:10.980 --> 00:00:12.710 align:start position:0%
+contract<c.colorE5E5E5> as well</c><c.colorCCCCCC> as the ability for</c><c.colorE5E5E5> the
+seller<00:00:11.250><c> to</c><00:00:11.460><c> claim</c><00:00:11.730><c> the</c><00:00:11.910><c> proceeds</c><00:00:12.390><c> of</c><00:00:12.600><c> their</c></c>
+
+00:00:12.710 --> 00:00:12.720 align:start position:0%
+seller<c.colorE5E5E5> to claim the proceeds of their
+ </c>
+
+00:00:12.720 --> 00:00:15.470 align:start position:0%
+seller<c.colorE5E5E5> to claim the proceeds of their
+sales<00:00:12.990><c> we</c><00:00:13.920><c> also</c><00:00:14.070><c> implemented</c><00:00:14.580><c> some</c><00:00:14.970><c> modifiers</c></c>
+
+00:00:15.470 --> 00:00:15.480 align:start position:0%
+sales<c.colorE5E5E5> we also implemented some modifiers
+ </c>
+
+00:00:15.480 --> 00:00:17.480 align:start position:0%
+sales<c.colorE5E5E5> we also implemented some modifiers
+to<00:00:15.810><c> enforce</c><00:00:16.139><c> some</c><00:00:16.350><c> basic</c><00:00:16.770><c> security</c><00:00:17.130><c> and</c></c>
+
+00:00:17.480 --> 00:00:17.490 align:start position:0%
+to enforce some basic<c.colorE5E5E5> security and
+ </c>
+
+00:00:17.490 --> 00:00:19.640 align:start position:0%
+to enforce some basic<c.colorE5E5E5> security and
+business<00:00:17.820><c> logic</c><00:00:17.970><c> rules</c><00:00:18.450><c> one</c><00:00:19.350><c> thing</c><00:00:19.530><c> that</c></c>
+
+00:00:19.640 --> 00:00:19.650 align:start position:0%
+business logic<c.colorE5E5E5> rules one thing that
+ </c>
+
+00:00:19.650 --> 00:00:21.560 align:start position:0%
+business logic<c.colorE5E5E5> rules one thing that
+sometimes<00:00:19.890><c> proves</c><00:00:20.430><c> helpful</c><00:00:20.910><c> is</c><00:00:21.090><c> a</c><00:00:21.119><c> detailed</c></c>
+
+00:00:21.560 --> 00:00:21.570 align:start position:0%
+sometimes proves helpful is a detailed
+ 
+
+00:00:21.570 --> 00:00:23.630 align:start position:0%
+sometimes proves helpful is a detailed
+log<00:00:21.780><c> when</c><00:00:22.080><c> transactions</c><00:00:22.800><c> are</c><00:00:22.920><c> executed</c><00:00:23.580><c> in</c>
+
+00:00:23.630 --> 00:00:23.640 align:start position:0%
+log when transactions are executed in
+ 
+
+00:00:23.640 --> 00:00:26.029 align:start position:0%
+log when transactions are executed in
+our<00:00:23.789><c> contract</c><c.colorCCCCCC><00:00:24.440><c> events</c></c><c.colorE5E5E5><00:00:25.440><c> are</c><00:00:25.560><c> specialized</c></c>
+
+00:00:26.029 --> 00:00:26.039 align:start position:0%
+our contract<c.colorCCCCCC> events</c><c.colorE5E5E5> are specialized
+ </c>
+
+00:00:26.039 --> 00:00:27.939 align:start position:0%
+our contract<c.colorCCCCCC> events</c><c.colorE5E5E5> are specialized
+functions<00:00:26.520><c> that</c><00:00:26.640><c> can</c><00:00:26.760><c> fulfill</c><00:00:26.940><c> this</c><00:00:27.330><c> need</c></c>
+
+00:00:27.939 --> 00:00:27.949 align:start position:0%
+functions that can<c.colorE5E5E5> fulfill this need
+ </c>
+
+00:00:27.949 --> 00:00:30.620 align:start position:0%
+functions that can<c.colorE5E5E5> fulfill this need
+events<00:00:28.949><c> allow</c><00:00:29.100><c> convenient</c><00:00:29.730><c> use</c><00:00:29.910><c> of</c><00:00:30.119><c> the</c><00:00:30.180><c> EVM</c></c>
+
+00:00:30.620 --> 00:00:30.630 align:start position:0%
+events allow convenient use of the EVM
+ 
+
+00:00:30.630 --> 00:00:33.200 align:start position:0%
+events allow convenient use of the EVM
+logging<00:00:31.050><c> facilities</c><c.colorCCCCCC><00:00:31.619><c> there</c><00:00:32.550><c> inheritable</c></c>
+
+00:00:33.200 --> 00:00:33.210 align:start position:0%
+logging facilities<c.colorCCCCCC> there inheritable
+ </c>
+
+00:00:33.210 --> 00:00:35.210 align:start position:0%
+logging facilities<c.colorCCCCCC> there inheritable
+members<00:00:33.690><c> of</c><00:00:33.840><c> contracts</c></c><c.colorE5E5E5><00:00:34.410><c> meaning</c><00:00:34.920><c> that</c><00:00:35.010><c> all</c></c>
+
+00:00:35.210 --> 00:00:35.220 align:start position:0%
+members of contracts<c.colorE5E5E5> meaning that all
+ </c>
+
+00:00:35.220 --> 00:00:37.340 align:start position:0%
+members of contracts<c.colorE5E5E5> meaning that all
+contracts<00:00:35.820><c> that</c><00:00:36.000><c> inherit</c><00:00:36.510><c> from</c><00:00:36.600><c> the</c><00:00:36.780><c> contract</c></c>
+
+00:00:37.340 --> 00:00:37.350 align:start position:0%
+contracts that inherit from<c.colorE5E5E5> the contract
+ </c>
+
+00:00:37.350 --> 00:00:39.500 align:start position:0%
+contracts that inherit from<c.colorE5E5E5> the contract
+where</c><c.colorCCCCCC><00:00:37.560><c> the</c><00:00:37.680><c> event</c><00:00:37.980><c> is</c><00:00:38.100><c> defined</c></c><c.colorE5E5E5><00:00:38.390><c> inherit</c><00:00:39.390><c> the</c></c>
+
+00:00:39.500 --> 00:00:39.510 align:start position:0%
+where<c.colorCCCCCC> the event is defined</c><c.colorE5E5E5> inherit the
+ </c>
+
+00:00:39.510 --> 00:00:42.680 align:start position:0%
+where<c.colorCCCCCC> the event is defined</c><c.colorE5E5E5> inherit the
+event<00:00:39.840><c> as</c><00:00:40.020><c> well</c></c><c.colorCCCCCC><00:00:40.340><c> up</c><00:00:41.340><c> to</c><00:00:41.550><c> three</c><00:00:41.760><c> parameters</c></c><c.colorE5E5E5><00:00:42.000><c> can</c></c>
+
+00:00:42.680 --> 00:00:42.690 align:start position:0%
+event as well<c.colorCCCCCC> up to three parameters</c><c.colorE5E5E5> can
+ </c>
+
+00:00:42.690 --> 00:00:44.510 align:start position:0%
+event as well<c.colorCCCCCC> up to three parameters</c><c.colorE5E5E5> can</c>
+<c.colorCCCCCC>be<00:00:42.809><c> indexed</c></c><c.colorE5E5E5><00:00:43.230><c> to</c><00:00:43.410><c> create</c></c><c.colorCCCCCC><00:00:43.739><c> topics</c><00:00:44.190><c> for</c><00:00:44.399><c> the</c></c>
+
+00:00:44.510 --> 00:00:44.520 align:start position:0%
+<c.colorCCCCCC>be indexed</c><c.colorE5E5E5> to create</c><c.colorCCCCCC> topics for the
+ </c>
+
+00:00:44.520 --> 00:00:46.819 align:start position:0%
+<c.colorCCCCCC>be indexed</c><c.colorE5E5E5> to create</c><c.colorCCCCCC> topics for the
+event<00:00:44.850><c> this</c><00:00:45.690><c> allows</c><00:00:46.020><c> you</c><00:00:46.170><c> to</c></c><c.colorE5E5E5><00:00:46.200><c> quickly</c><00:00:46.500><c> search</c></c>
+
+00:00:46.819 --> 00:00:46.829 align:start position:0%
+event this allows you to<c.colorE5E5E5> quickly search
+ </c>
+
+00:00:46.829 --> 00:00:50.330 align:start position:0%
+event this allows you to<c.colorE5E5E5> quickly search
+events<00:00:47.370><c> by</c><00:00:47.550><c> the</c><00:00:47.579><c> index</c><00:00:48.030><c> topic</c><00:00:48.860><c> mitad</c><00:00:49.860><c> events</c></c>
+
+00:00:50.330 --> 00:00:50.340 align:start position:0%
+events by the<c.colorE5E5E5> index topic mitad events
+ </c>
+
+00:00:50.340 --> 00:00:52.190 align:start position:0%
+events by the<c.colorE5E5E5> index topic mitad events
+are<00:00:50.460><c> stored</c><00:00:50.820><c> in</c><00:00:51.000><c> the</c><00:00:51.120><c> logs</c><00:00:51.420><c> portion</c><00:00:52.020><c> of</c><00:00:52.140><c> a</c></c>
+
+00:00:52.190 --> 00:00:52.200 align:start position:0%
+are stored in the logs portion of a
+ 
+
+00:00:52.200 --> 00:00:54.229 align:start position:0%
+are stored in the logs portion of a
+transaction<c.colorE5E5E5><00:00:52.649><c> this</c><00:00:53.430><c> means</c><00:00:53.700><c> that</c><00:00:53.850><c> for</c><00:00:54.000><c> a</c><00:00:54.059><c> given</c></c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+transaction<c.colorE5E5E5> this means that for a given
+ </c>
+
+00:00:54.239 --> 00:00:56.540 align:start position:0%
+transaction<c.colorE5E5E5> this means that for a given
+transaction<00:00:54.840><c> you</c><00:00:55.350><c> can</c><00:00:55.500><c> inspect</c><00:00:55.860><c> the</c><00:00:56.040><c> logs</c><00:00:56.280><c> and</c></c>
+
+00:00:56.540 --> 00:00:56.550 align:start position:0%
+transaction<c.colorE5E5E5> you can inspect the logs and
+ </c>
+
+00:00:56.550 --> 00:00:58.130 align:start position:0%
+transaction<c.colorE5E5E5> you can inspect the logs and
+see<00:00:56.820><c> the</c><00:00:56.969><c> data</c><00:00:57.210><c> that</c><00:00:57.329><c> was</c><00:00:57.540><c> logged</c><00:00:57.870><c> by</c><00:00:58.079><c> the</c></c>
+
+00:00:58.130 --> 00:00:58.140 align:start position:0%
+see the<c.colorE5E5E5> data that was logged by the
+ </c>
+
+00:00:58.140 --> 00:01:02.000 align:start position:0%
+see the<c.colorE5E5E5> data that was logged by the
+event<00:00:58.700><c> the</c><00:00:59.700><c> web</c></c><c.colorCCCCCC><00:00:59.910><c> 3js</c><00:01:00.629><c> library</c><00:01:01.200><c> also</c><00:01:01.469><c> provides</c></c>
+
+00:01:02.000 --> 00:01:02.010 align:start position:0%
+event the web<c.colorCCCCCC> 3js library also provides
+ </c>
+
+00:01:02.010 --> 00:01:03.560 align:start position:0%
+event the web<c.colorCCCCCC> 3js library also provides
+an<00:01:02.129><c> event</c><00:01:02.430><c> listener</c><00:01:02.670><c> allowing</c></c><c.colorE5E5E5><00:01:03.329><c> you</c><00:01:03.450><c> to</c></c>
+
+00:01:03.560 --> 00:01:03.570 align:start position:0%
+an event listener<c.colorCCCCCC> allowing</c><c.colorE5E5E5> you to
+ </c>
+
+00:01:03.570 --> 00:01:05.719 align:start position:0%
+an event listener<c.colorCCCCCC> allowing</c><c.colorE5E5E5> you to
+configure<00:01:03.780><c> your</c><00:01:04.170><c> application</c></c><c.colorCCCCCC><00:01:04.250><c> to</c><00:01:05.250><c> listen</c><00:01:05.610><c> for</c></c>
+
+00:01:05.719 --> 00:01:05.729 align:start position:0%
+configure your application<c.colorCCCCCC> to listen for
+ </c>
+
+00:01:05.729 --> 00:01:09.200 align:start position:0%
+configure your application<c.colorCCCCCC> to listen for</c>
+<c.colorE5E5E5>the<00:01:05.790><c> specific</c><00:01:06.420><c> events</c><00:01:06.840><c> client-side</c><00:01:08.210><c> creating</c></c>
+
+00:01:09.200 --> 00:01:09.210 align:start position:0%
+<c.colorE5E5E5>the specific events client-side creating
+ </c>
+
+00:01:09.210 --> 00:01:10.969 align:start position:0%
+<c.colorE5E5E5>the specific events client-side creating
+an<00:01:09.330><c> event</c><00:01:09.630><c> is</c></c><c.colorCCCCCC><00:01:09.840><c> very</c><00:01:10.110><c> similar</c><00:01:10.409><c> to</c><00:01:10.530><c> creating</c><00:01:10.920><c> a</c></c>
+
+00:01:10.969 --> 00:01:10.979 align:start position:0%
+an<c.colorE5E5E5> event is</c><c.colorCCCCCC> very similar to creating a
+ </c>
+
+00:01:10.979 --> 00:01:13.460 align:start position:0%
+an<c.colorE5E5E5> event is</c><c.colorCCCCCC> very similar to creating a
+function</c><c.colorE5E5E5><00:01:11.270><c> we</c><00:01:12.270><c> use</c><00:01:12.420><c> the</c><00:01:12.600><c> event</c></c><c.colorCCCCCC><00:01:12.900><c> keyword</c></c>
+
+00:01:13.460 --> 00:01:13.470 align:start position:0%
+function<c.colorE5E5E5> we use the event</c><c.colorCCCCCC> keyword
+ </c>
+
+00:01:13.470 --> 00:01:15.859 align:start position:0%
+function<c.colorE5E5E5> we use the event</c><c.colorCCCCCC> keyword
+followed</c><c.colorE5E5E5><00:01:13.799><c> by</c><00:01:14.070><c> the</c><00:01:14.130><c> name</c></c><c.colorCCCCCC><00:01:14.400><c> of</c></c><c.colorE5E5E5><00:01:14.580><c> the</c><00:01:14.670><c> function</c><00:01:15.090><c> the</c></c>
+
+00:01:15.859 --> 00:01:15.869 align:start position:0%
+followed<c.colorE5E5E5> by the name</c><c.colorCCCCCC> of</c><c.colorE5E5E5> the function the
+ </c>
+
+00:01:15.869 --> 00:01:17.750 align:start position:0%
+followed<c.colorE5E5E5> by the name</c><c.colorCCCCCC> of</c><c.colorE5E5E5> the function the
+parameters<00:01:16.350><c> we</c><00:01:16.470><c> want</c><00:01:16.650><c> to</c><00:01:16.710><c> log</c><00:01:16.950><c> or</c><00:01:17.189><c> added</c><00:01:17.490><c> next</c></c>
+
+00:01:17.750 --> 00:01:17.760 align:start position:0%
+parameters we want<c.colorE5E5E5> to log or added next
+ </c>
+
+00:01:17.760 --> 00:01:20.539 align:start position:0%
+parameters we want<c.colorE5E5E5> to log or added next</c>
+<c.colorE5E5E5>and<00:01:18.119><c> we</c><00:01:18.330><c> use</c><00:01:18.540><c> the</c><00:01:18.689><c> keyword</c><00:01:18.960><c> index</c></c><c.colorCCCCCC><00:01:19.380><c> to</c><00:01:19.979><c> specify</c></c>
+
+00:01:20.539 --> 00:01:20.549 align:start position:0%
+<c.colorE5E5E5>and we use the keyword index</c><c.colorCCCCCC> to specify
+ </c>
+
+00:01:20.549 --> 00:01:22.310 align:start position:0%
+<c.colorE5E5E5>and we use the keyword index</c><c.colorCCCCCC> to specify
+fields<00:01:21.030><c> that</c><00:01:21.119><c> should</c><00:01:21.330><c> be</c></c><c.colorE5E5E5><00:01:21.450><c> indexed</c><00:01:21.990><c> and</c><00:01:22.140><c> used</c></c>
+
+00:01:22.310 --> 00:01:22.320 align:start position:0%
+fields that should be<c.colorE5E5E5> indexed and used
+ </c>
+
+00:01:22.320 --> 00:01:24.070 align:start position:0%
+fields that should be<c.colorE5E5E5> indexed and used
+as<00:01:22.530><c> topics</c></c>
+
+00:01:24.070 --> 00:01:24.080 align:start position:0%
+as topics
+ 
+
+00:01:24.080 --> 00:01:26.320 align:start position:0%
+as topics
+to<00:01:24.800><c> call</c><00:01:25.010><c> the</c><00:01:25.160><c> event</c><c.colorE5E5E5><00:01:25.250><c> and</c><00:01:25.700><c> use</c><00:01:25.880><c> it</c><00:01:26.030><c> to</c><00:01:26.120><c> store</c></c>
+
+00:01:26.320 --> 00:01:26.330 align:start position:0%
+to call the event<c.colorE5E5E5> and use it to store
+ </c>
+
+00:01:26.330 --> 00:01:28.720 align:start position:0%
+to call the event<c.colorE5E5E5> and use it to store
+our<00:01:26.360><c> log</c><00:01:26.690><c> data</c><00:01:26.930><c> we</c><00:01:27.470><c> use</c><00:01:27.650><c> the</c><00:01:27.860><c> omit</c><00:01:28.220><c> keyword</c></c>
+
+00:01:28.720 --> 00:01:28.730 align:start position:0%
+our<c.colorE5E5E5> log data we use the omit keyword
+ </c>
+
+00:01:28.730 --> 00:01:30.250 align:start position:0%
+our<c.colorE5E5E5> log data we use the omit keyword
+from<00:01:29.000><c> the</c><00:01:29.150><c> function</c><00:01:29.570><c> where</c><00:01:29.720><c> we</c><00:01:29.750><c> want</c><00:01:30.020><c> to</c><00:01:30.080><c> call</c></c>
+
+00:01:30.250 --> 00:01:30.260 align:start position:0%
+from the function where we<c.colorE5E5E5> want to call
+ </c>
+
+00:01:30.260 --> 00:01:32.890 align:start position:0%
+from the function where we<c.colorE5E5E5> want to call
+it<00:01:30.440><c> in</c><00:01:30.710><c> this</c><00:01:31.640><c> example</c><00:01:32.060><c> we've</c><00:01:32.330><c> got</c></c><c.colorCCCCCC><00:01:32.360><c> our</c><00:01:32.630><c> code</c></c>
+
+00:01:32.890 --> 00:01:32.900 align:start position:0%
+<c.colorE5E5E5>it in this example we've got</c><c.colorCCCCCC> our code
+ </c>
+
+00:01:32.900 --> 00:01:34.450 align:start position:0%
+<c.colorE5E5E5>it in this example we've got</c><c.colorCCCCCC> our code
+used<00:01:33.290><c> to</c><00:01:33.440><c> add</c><00:01:33.560><c> a</c><00:01:33.590><c> listing</c><00:01:34.070><c> to</c><00:01:34.190><c> the</c><00:01:34.280><c> online</c></c>
+
+00:01:34.450 --> 00:01:34.460 align:start position:0%
+used to add a listing to<c.colorCCCCCC> the online
+ </c>
+
+00:01:34.460 --> 00:01:37.000 align:start position:0%
+used to add a listing to<c.colorCCCCCC> the online
+marketplace</c><c.colorE5E5E5><00:01:35.090><c> and</c><00:01:35.600><c> after</c><00:01:36.470><c> we</c><00:01:36.590><c> add</c><00:01:36.740><c> the</c><00:01:36.770><c> new</c></c>
+
+00:01:37.000 --> 00:01:37.010 align:start position:0%
+marketplace<c.colorE5E5E5> and after we add the new
+ </c>
+
+00:01:37.010 --> 00:01:39.670 align:start position:0%
+marketplace<c.colorE5E5E5> and after we add the new
+item</c><c.colorCCCCCC><00:01:37.490><c> to</c><00:01:37.640><c> the</c><00:01:37.730><c> items</c><00:01:38.060><c> array</c><00:01:38.480><c> we</c><00:01:39.080><c> call</c><00:01:39.350><c> the</c><00:01:39.560><c> add</c></c>
+
+00:01:39.670 --> 00:01:39.680 align:start position:0%
+item<c.colorCCCCCC> to the items array we call the add
+ </c>
+
+00:01:39.680 --> 00:01:42.190 align:start position:0%
+item<c.colorCCCCCC> to the items array we call the add
+listing<00:01:40.070><c> event</c></c>
+
+00:01:42.190 --> 00:01:42.200 align:start position:0%
+listing event
+ 
+
+00:01:42.200 --> 00:01:44.080 align:start position:0%
+listing event
+the<00:01:42.710><c> result</c><00:01:43.040><c> is</c><00:01:43.159><c> what</c><c.colorCCCCCC><00:01:43.310><c> you</c><00:01:43.430><c> see</c><00:01:43.580><c> on</c><00:01:43.700><c> the</c><00:01:43.790><c> screen</c></c>
+
+00:01:44.080 --> 00:01:44.090 align:start position:0%
+the result is what<c.colorCCCCCC> you see on the screen
+ </c>
+
+00:01:44.090 --> 00:01:46.660 align:start position:0%
+the result is what<c.colorCCCCCC> you see on the screen
+here</c><c.colorE5E5E5><00:01:44.390><c> the</c><00:01:45.110><c> parameters</c><00:01:45.619><c> passed</c><00:01:45.890><c> to</c></c><c.colorCCCCCC><00:01:46.159><c> our</c><00:01:46.310><c> event</c></c>
+
+00:01:46.660 --> 00:01:46.670 align:start position:0%
+here<c.colorE5E5E5> the parameters passed to</c><c.colorCCCCCC> our event
+ </c>
+
+00:01:46.670 --> 00:01:49.450 align:start position:0%
+here<c.colorE5E5E5> the parameters passed to</c><c.colorCCCCCC> our event</c>
+<c.colorCCCCCC>the<00:01:46.970><c> seller</c></c><c.colorE5E5E5><00:01:47.270><c> name</c><00:01:47.689><c> and</c><00:01:47.930><c> price</c><00:01:48.229><c> can</c></c><c.colorCCCCCC><00:01:49.009><c> be</c><00:01:49.130><c> seen</c><00:01:49.340><c> in</c></c>
+
+00:01:49.450 --> 00:01:49.460 align:start position:0%
+<c.colorCCCCCC>the seller</c><c.colorE5E5E5> name and price can</c><c.colorCCCCCC> be seen in
+ </c>
+
+00:01:49.460 --> 00:01:51.310 align:start position:0%
+<c.colorCCCCCC>the seller</c><c.colorE5E5E5> name and price can</c><c.colorCCCCCC> be seen in
+the<00:01:49.549><c> logs</c><00:01:49.790><c> for</c></c><c.colorE5E5E5><00:01:50.119><c> the</c><00:01:50.180><c> transaction</c><00:01:50.960><c> under</c><00:01:51.110><c> the</c></c>
+
+00:01:51.310 --> 00:01:51.320 align:start position:0%
+the logs for<c.colorE5E5E5> the transaction under the
+ </c>
+
+00:01:51.320 --> 00:01:53.410 align:start position:0%
+the logs for<c.colorE5E5E5> the transaction under the
+key<00:01:51.530><c> args</c></c>
+
+00:01:53.410 --> 00:01:53.420 align:start position:0%
+key args
+ 
+
+00:01:53.420 --> 00:01:55.390 align:start position:0%
+key args
+this<00:01:53.840><c> allows</c><00:01:54.140><c> us</c><c.colorCCCCCC><00:01:54.170><c> to</c><00:01:54.439><c> go</c><00:01:54.530><c> back</c><00:01:54.680><c> in</c><00:01:54.890><c> time</c><00:01:55.130><c> and</c></c>
+
+00:01:55.390 --> 00:01:55.400 align:start position:0%
+this allows us<c.colorCCCCCC> to go back in time and
+ </c>
+
+00:01:55.400 --> 00:01:57.340 align:start position:0%
+this allows us<c.colorCCCCCC> to go back in time and
+troubleshoot<00:01:55.939><c> what</c><00:01:56.150><c> actions</c><00:01:56.540><c> took</c></c><c.colorE5E5E5><00:01:56.750><c> place</c><00:01:56.810><c> and</c></c>
+
+00:01:57.340 --> 00:01:57.350 align:start position:0%
+troubleshoot what actions took<c.colorE5E5E5> place and
+ </c>
+
+00:01:57.350 --> 00:02:00.310 align:start position:0%
+troubleshoot what actions took<c.colorE5E5E5> place and
+what<00:01:57.590><c> parameters</c><00:01:58.189><c> were</c><00:01:58.369><c> used</c><00:01:59.020><c> so</c><00:02:00.020><c> take</c><00:02:00.170><c> a</c><00:02:00.200><c> look</c></c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+what parameters were used so take a look
+ 
+
+00:02:00.320 --> 00:02:02.710 align:start position:0%
+what parameters were used so take a look
+<c.colorE5E5E5>at<00:02:00.439><c> these</c><00:02:00.560><c> two</c><00:02:00.740><c> events</c></c><c.colorCCCCCC><00:02:00.860><c> I</c><00:02:01.330><c> won't</c><00:02:02.330><c> keep</c><00:02:02.479><c> you</c><00:02:02.540><c> in</c></c>
+
+00:02:02.710 --> 00:02:02.720 align:start position:0%
+<c.colorE5E5E5>at these two events</c><c.colorCCCCCC> I won't keep you in
+ </c>
+
+00:02:02.720 --> 00:02:04.749 align:start position:0%
+<c.colorE5E5E5>at these two events</c><c.colorCCCCCC> I won't keep you in
+suspense<00:02:02.750><c> the</c><00:02:03.590><c> difference</c><00:02:03.950><c> is</c><00:02:04.070><c> the</c><00:02:04.189><c> indexed</c></c>
+
+00:02:04.749 --> 00:02:04.759 align:start position:0%
+suspense the difference is the indexed
+ 
+
+00:02:04.759 --> 00:02:06.970 align:start position:0%
+suspense the difference is the indexed
+keyword<00:02:05.210><c> on</c><00:02:05.390><c> the</c><c.colorE5E5E5><00:02:05.420><c> left</c></c>
+
+00:02:06.970 --> 00:02:06.980 align:start position:0%
+keyword on the<c.colorE5E5E5> left
+ </c>
+
+00:02:06.980 --> 00:02:08.980 align:start position:0%
+keyword on the<c.colorE5E5E5> left
+indexing</c><c.colorCCCCCC><00:02:07.370><c> a</c><00:02:07.460><c> parameter</c><00:02:07.940><c> creates</c><00:02:08.270><c> a</c><00:02:08.330><c> topic</c><00:02:08.840><c> and</c></c>
+
+00:02:08.980 --> 00:02:08.990 align:start position:0%
+indexing<c.colorCCCCCC> a parameter creates a topic and
+ </c>
+
+00:02:08.990 --> 00:02:10.930 align:start position:0%
+indexing<c.colorCCCCCC> a parameter creates a topic and
+topics<00:02:09.590><c> are</c><00:02:09.740><c> searchable</c><00:02:10.160><c> and</c><00:02:10.430><c> filterable</c></c>
+
+00:02:10.930 --> 00:02:10.940 align:start position:0%
+topics are searchable<c.colorCCCCCC> and filterable
+ </c>
+
+00:02:10.940 --> 00:02:13.990 align:start position:0%
+topics are searchable<c.colorCCCCCC> and filterable
+that<00:02:11.930><c> sounds</c><00:02:12.230><c> like</c></c><c.colorE5E5E5><00:02:12.320><c> a</c><00:02:12.380><c> good</c><00:02:12.650><c> thing</c><00:02:12.830><c> right</c></c><c.colorCCCCCC><00:02:13.000><c> well</c></c>
+
+00:02:13.990 --> 00:02:14.000 align:start position:0%
+that sounds like<c.colorE5E5E5> a good thing right</c><c.colorCCCCCC> well
+ </c>
+
+00:02:14.000 --> 00:02:16.910 align:start position:0%
+that sounds like<c.colorE5E5E5> a good thing right</c><c.colorCCCCCC> well
+it<00:02:14.090><c> can</c></c><c.colorE5E5E5><00:02:14.330><c> be</c><00:02:14.540><c> but</c><00:02:14.900><c> it</c><00:02:15.110><c> comes</c><00:02:15.290><c> with</c></c><c.colorCCCCCC><00:02:15.380><c> a</c><00:02:15.500><c> cost</c></c>
+
+00:02:16.910 --> 00:02:16.920 align:start position:0%
+it can<c.colorE5E5E5> be but it comes with</c><c.colorCCCCCC> a cost
+ </c>
+
+00:02:16.920 --> 00:02:19.010 align:start position:0%
+it can<c.colorE5E5E5> be but it comes with</c><c.colorCCCCCC> a cost
+here<00:02:17.490><c> we</c><00:02:17.610><c> see</c><00:02:17.790><c> the</c><00:02:17.910><c> results</c></c><c.colorE5E5E5><00:02:18.300><c> written</c><00:02:18.540><c> to</c><00:02:18.840><c> the</c></c>
+
+00:02:19.010 --> 00:02:19.020 align:start position:0%
+here we see the results<c.colorE5E5E5> written to the
+ </c>
+
+00:02:19.020 --> 00:02:20.870 align:start position:0%
+here we see the results<c.colorE5E5E5> written to the
+transaction<00:02:19.650><c> log</c><00:02:19.830><c> from</c><00:02:20.130><c> each</c><00:02:20.370><c> of</c><00:02:20.550><c> those</c><00:02:20.640><c> two</c></c>
+
+00:02:20.870 --> 00:02:20.880 align:start position:0%
+transaction log from each of those two
+ 
+
+00:02:20.880 --> 00:02:23.089 align:start position:0%
+transaction log from each of those two
+<c.colorE5E5E5>events<00:02:21.300><c> take</c><00:02:22.260><c> a</c><00:02:22.290><c> look</c><00:02:22.530><c> at</c><00:02:22.590><c> what</c><00:02:22.739><c> happened</c></c><c.colorCCCCCC><00:02:23.040><c> to</c></c>
+
+00:02:23.089 --> 00:02:23.099 align:start position:0%
+<c.colorE5E5E5>events take a look at what happened</c><c.colorCCCCCC> to
+ </c>
+
+00:02:23.099 --> 00:02:25.460 align:start position:0%
+<c.colorE5E5E5>events take a look at what happened</c><c.colorCCCCCC> to
+our</c><c.colorE5E5E5><00:02:23.130><c> name</c><00:02:23.430><c> parameter</c><00:02:24.060><c> in</c><00:02:24.239><c> the</c><00:02:25.140><c> event</c><00:02:25.410><c> that</c></c>
+
+00:02:25.460 --> 00:02:25.470 align:start position:0%
+our<c.colorE5E5E5> name parameter in the event that
+ </c>
+
+00:02:25.470 --> 00:02:27.740 align:start position:0%
+our<c.colorE5E5E5> name parameter in the event that
+specified<00:02:26.099><c> the</c><00:02:26.280><c> name</c><00:02:26.489><c> as</c><00:02:26.730><c> an</c><00:02:26.849><c> indexed</c><00:02:27.330><c> field</c></c>
+
+00:02:27.740 --> 00:02:27.750 align:start position:0%
+specified the name as an indexed field
+ 
+
+00:02:27.750 --> 00:02:29.809 align:start position:0%
+specified the name as an indexed field
+we<00:02:28.230><c> lost</c><00:02:28.470><c> the</c><00:02:28.680><c> plain</c><00:02:28.890><c> text</c><c.colorCCCCCC><00:02:29.099><c> version</c></c><c.colorE5E5E5><00:02:29.250><c> of</c><00:02:29.670><c> our</c></c>
+
+00:02:29.809 --> 00:02:29.819 align:start position:0%
+we lost the plain text<c.colorCCCCCC> version</c><c.colorE5E5E5> of our
+ </c>
+
+00:02:29.819 --> 00:02:32.270 align:start position:0%
+we lost the plain text<c.colorCCCCCC> version</c><c.colorE5E5E5> of our
+name<00:02:30.030><c> instead</c><00:02:30.870><c> we</c><00:02:31.050><c> see</c><00:02:31.230><c> the</c><00:02:31.380><c> hashed</c><00:02:31.620><c> value</c><00:02:31.950><c> of</c></c>
+
+00:02:32.270 --> 00:02:32.280 align:start position:0%
+name instead we see the hashed value of
+ 
+
+00:02:32.280 --> 00:02:34.790 align:start position:0%
+name instead we see the hashed value of
+the<00:02:32.400><c> text</c><c.colorCCCCCC><00:02:32.670><c> so</c><00:02:33.540><c> while</c><00:02:33.690><c> we</c><00:02:33.810><c> gain</c><00:02:34.110><c> searching</c><00:02:34.680><c> and</c></c>
+
+00:02:34.790 --> 00:02:34.800 align:start position:0%
+the text<c.colorCCCCCC> so while we gain searching and
+ </c>
+
+00:02:34.800 --> 00:02:37.449 align:start position:0%
+the text<c.colorCCCCCC> so while we gain searching and
+filtering</c><c.colorE5E5E5><00:02:35.040><c> we</c><00:02:35.640><c> lost</c><00:02:35.940><c> the</c><00:02:36.209><c> value</c></c><c.colorCCCCCC><00:02:36.360><c> of</c><00:02:36.660><c> the</c><00:02:36.780><c> field</c></c>
+
+00:02:37.449 --> 00:02:37.459 align:start position:0%
+filtering<c.colorE5E5E5> we lost the value</c><c.colorCCCCCC> of the field
+ </c>
+
+00:02:37.459 --> 00:02:40.400 align:start position:0%
+filtering<c.colorE5E5E5> we lost the value</c><c.colorCCCCCC> of the field
+the<00:02:38.459><c> value</c><00:02:38.819><c> of</c><00:02:38.970><c> the</c><00:02:39.090><c> hash</c><00:02:39.270><c> is</c><00:02:39.630><c> based</c></c><c.colorE5E5E5><00:02:39.930><c> upon</c><00:02:40.260><c> the</c></c>
+
+00:02:40.400 --> 00:02:40.410 align:start position:0%
+the value of the hash is based<c.colorE5E5E5> upon the
+ </c>
+
+00:02:40.410 --> 00:02:43.220 align:start position:0%
+the value of the hash is based<c.colorE5E5E5> upon the
+text<00:02:40.709><c> being</c><00:02:40.980><c> indexed</c><00:02:41.580><c> as</c><00:02:41.700><c> well</c><00:02:41.940><c> so</c><00:02:42.660><c> the</c><00:02:42.810><c> topic</c></c>
+
+00:02:43.220 --> 00:02:43.230 align:start position:0%
+text<c.colorE5E5E5> being indexed as well so the topic
+ </c>
+
+00:02:43.230 --> 00:02:45.350 align:start position:0%
+text<c.colorE5E5E5> being indexed as well so the topic</c>
+<c.colorCCCCCC>hash<00:02:43.410><c> for</c><00:02:43.739><c> an</c><00:02:43.800><c> item</c><00:02:44.069><c> named</c><00:02:44.430><c> mountain</c><00:02:44.910><c> bike</c><00:02:45.090><c> is</c></c>
+
+00:02:45.350 --> 00:02:45.360 align:start position:0%
+<c.colorCCCCCC>hash for an item named mountain bike is
+ </c>
+
+00:02:45.360 --> 00:02:47.390 align:start position:0%
+<c.colorCCCCCC>hash for an item named mountain bike is
+different<00:02:45.930><c> than</c><00:02:46.290><c> the</c><00:02:46.380><c> topic</c><00:02:46.800><c> hash</c><00:02:47.010><c> for</c><00:02:47.310><c> an</c></c>
+
+00:02:47.390 --> 00:02:47.400 align:start position:0%
+different<c.colorCCCCCC> than the topic hash for an
+ </c>
+
+00:02:47.400 --> 00:02:50.180 align:start position:0%
+different<c.colorCCCCCC> than the topic hash for an</c>
+<c.colorE5E5E5>item<00:02:47.730><c> with</c><00:02:47.880><c> the</c><00:02:47.910><c> name</c><00:02:48.209><c> used</c></c><c.colorCCCCCC><00:02:48.599><c> kia</c><00:02:49.069><c> for</c><00:02:50.069><c> this</c></c>
+
+00:02:50.180 --> 00:02:50.190 align:start position:0%
+<c.colorE5E5E5>item with the name used</c><c.colorCCCCCC> kia for this
+ </c>
+
+00:02:50.190 --> 00:02:51.680 align:start position:0%
+<c.colorE5E5E5>item with the name used</c><c.colorCCCCCC> kia for this
+reason<00:02:50.580><c> it's</c></c><c.colorE5E5E5><00:02:50.760><c> really</c><00:02:51.060><c> important</c><00:02:51.540><c> to</c><00:02:51.660><c> think</c></c>
+
+00:02:51.680 --> 00:02:51.690 align:start position:0%
+reason it's<c.colorE5E5E5> really important to think
+ </c>
+
+00:02:51.690 --> 00:02:53.900 align:start position:0%
+reason it's<c.colorE5E5E5> really important to think</c>
+<c.colorCCCCCC>through<00:02:52.140><c> your</c></c><c.colorE5E5E5><00:02:52.170><c> event</c><00:02:52.709><c> logging</c><00:02:52.980><c> strategy</c><00:02:53.670><c> and</c></c>
+
+00:02:53.900 --> 00:02:53.910 align:start position:0%
+<c.colorCCCCCC>through your</c><c.colorE5E5E5> event logging strategy and
+ </c>
+
+00:02:53.910 --> 00:02:56.809 align:start position:0%
+<c.colorCCCCCC>through your</c><c.colorE5E5E5> event logging strategy and
+use<00:02:54.510><c> cases</c><00:02:54.780><c> to</c><00:02:55.290><c> ensure</c><00:02:55.440><c> the</c><00:02:55.860><c> data</c></c><c.colorCCCCCC><00:02:55.890><c> you</c><00:02:56.370><c> need</c><00:02:56.580><c> is</c></c>
+
+00:02:56.809 --> 00:02:56.819 align:start position:0%
+use cases<c.colorE5E5E5> to ensure the data</c><c.colorCCCCCC> you need is
+ </c>
+
+00:02:56.819 --> 00:02:58.610 align:start position:0%
+use cases<c.colorE5E5E5> to ensure the data</c><c.colorCCCCCC> you need is
+available<00:02:57.000><c> in</c><00:02:57.660><c> the</c><00:02:57.900><c> format</c><00:02:58.350><c> and</c></c>
+
+00:02:58.610 --> 00:02:58.620 align:start position:0%
+available<c.colorCCCCCC> in the format and
+ </c>
+
+00:02:58.620 --> 00:03:01.320 align:start position:0%
+available<c.colorCCCCCC> in the format and
+accessibility</c><c.colorE5E5E5><00:02:59.250><c> that</c><00:02:59.670><c> works</c><00:02:59.850><c> for</c><00:03:00.090><c> you</c></c>
+
+00:03:01.320 --> 00:03:01.330 align:start position:0%
+accessibility<c.colorE5E5E5> that works for you
+ </c>
+
+00:03:01.330 --> 00:03:03.000 align:start position:0%
+accessibility<c.colorE5E5E5> that works for you
+let's<00:03:01.690><c> see</c><00:03:01.840><c> what</c><00:03:01.960><c> it</c><00:03:02.050><c> looks</c><00:03:02.260><c> like</c><00:03:02.440><c> when</c><00:03:02.650><c> we</c><00:03:02.680><c> add</c></c>
+
+00:03:03.000 --> 00:03:03.010 align:start position:0%
+let's see what it<c.colorE5E5E5> looks like when we add
+ </c>
+
+00:03:03.010 --> 00:03:05.360 align:start position:0%
+let's see what it<c.colorE5E5E5> looks like when we add
+an<00:03:03.280><c> event</c><00:03:03.400><c> logger</c><00:03:03.820><c> to</c><00:03:04.210><c> our</c><00:03:04.360><c> smart</c><00:03:04.630><c> contract</c></c>
+
+00:03:05.360 --> 00:03:05.370 align:start position:0%
+an event logger to our smart contract
+ 
+
+00:03:05.370 --> 00:03:08.130 align:start position:0%
+an event logger to our smart contract
+<c.colorE5E5E5>we'll<00:03:06.370><c> start</c><00:03:06.700><c> with</c><00:03:06.820><c> the</c><00:03:06.910><c> event</c><00:03:07.240><c> keyword</c><00:03:07.510><c> then</c></c>
+
+00:03:08.130 --> 00:03:08.140 align:start position:0%
+<c.colorE5E5E5>we'll start with the event keyword then
+ </c>
+
+00:03:08.140 --> 00:03:11.340 align:start position:0%
+<c.colorE5E5E5>we'll start with the event keyword then
+give<00:03:08.350><c> our</c><00:03:08.500><c> event</c><00:03:08.800><c> a</c><00:03:08.890><c> name</c><00:03:09.100><c> and</c><00:03:10.020><c> follow</c><00:03:11.020><c> it</c><00:03:11.200><c> up</c></c>
+
+00:03:11.340 --> 00:03:11.350 align:start position:0%
+give our event a name<c.colorE5E5E5> and follow it up
+ </c>
+
+00:03:11.350 --> 00:03:13.140 align:start position:0%
+give our event a name<c.colorE5E5E5> and follow it up
+by</c><c.colorCCCCCC><00:03:11.380><c> adding</c></c><c.colorE5E5E5><00:03:11.740><c> the</c><00:03:12.010><c> parameters</c><00:03:12.640><c> that</c><00:03:12.820><c> we</c></c><c.colorCCCCCC><00:03:12.880><c> want</c><00:03:13.090><c> to</c></c>
+
+00:03:13.140 --> 00:03:13.150 align:start position:0%
+by<c.colorCCCCCC> adding</c><c.colorE5E5E5> the parameters that we</c><c.colorCCCCCC> want to
+ </c>
+
+00:03:13.150 --> 00:03:15.150 align:start position:0%
+by<c.colorCCCCCC> adding</c><c.colorE5E5E5> the parameters that we</c><c.colorCCCCCC> want to
+log<00:03:13.390><c> for</c></c><c.colorE5E5E5><00:03:13.720><c> this</c><00:03:13.840><c> event</c><00:03:14.170><c> in</c><00:03:14.440><c> our</c><00:03:14.680><c> case</c><00:03:14.920><c> the</c></c>
+
+00:03:15.150 --> 00:03:15.160 align:start position:0%
+log for<c.colorE5E5E5> this event in our case the
+ </c>
+
+00:03:15.160 --> 00:03:19.059 align:start position:0%
+log for<c.colorE5E5E5> this event in our case the
+seller<00:03:15.430><c> the</c><00:03:15.790><c> name</c><00:03:16.000><c> and</c><00:03:16.240><c> the</c><00:03:16.300><c> price</c></c>
+
+00:03:19.059 --> 00:03:19.069 align:start position:0%
+ 
+ 
+
+00:03:19.069 --> 00:03:21.339 align:start position:0%
+ 
+then<00:03:19.790><c> when</c><00:03:19.999><c> we're</c><00:03:20.180><c> ready</c><c.colorCCCCCC><00:03:20.209><c> to</c></c><c.colorE5E5E5><00:03:20.510><c> write</c><00:03:21.140><c> that</c></c>
+
+00:03:21.339 --> 00:03:21.349 align:start position:0%
+then when we're ready<c.colorCCCCCC> to</c><c.colorE5E5E5> write that
+ </c>
+
+00:03:21.349 --> 00:03:23.619 align:start position:0%
+then when we're ready<c.colorCCCCCC> to</c><c.colorE5E5E5> write that
+event<00:03:21.650><c> out</c><00:03:21.829><c> to</c><00:03:22.010><c> the</c><00:03:22.129><c> logs</c></c><c.colorCCCCCC><00:03:22.370><c> we</c><00:03:22.909><c> use</c><00:03:23.120><c> the</c><00:03:23.299><c> omit</c></c>
+
+00:03:23.619 --> 00:03:23.629 align:start position:0%
+event out<c.colorE5E5E5> to the logs</c><c.colorCCCCCC> we use the omit
+ </c>
+
+00:03:23.629 --> 00:03:25.390 align:start position:0%
+event out<c.colorE5E5E5> to the logs</c><c.colorCCCCCC> we use the omit
+keyword<00:03:24.079><c> at</c><00:03:24.230><c> the</c><00:03:24.349><c> appropriate</c><00:03:24.920><c> place</c><00:03:25.129><c> in</c><00:03:25.159><c> our</c></c>
+
+00:03:25.390 --> 00:03:25.400 align:start position:0%
+keyword at the appropriate place in our
+ 
+
+00:03:25.400 --> 00:03:28.149 align:start position:0%
+keyword at the appropriate place in our
+contract<c.colorE5E5E5><00:03:25.969><c> call</c><00:03:26.930><c> our</c><00:03:27.139><c> event</c></c><c.colorCCCCCC><00:03:27.469><c> function</c><00:03:27.980><c> and</c></c>
+
+00:03:28.149 --> 00:03:28.159 align:start position:0%
+contract<c.colorE5E5E5> call our event</c><c.colorCCCCCC> function and
+ </c>
+
+00:03:28.159 --> 00:03:29.830 align:start position:0%
+contract<c.colorE5E5E5> call our event</c><c.colorCCCCCC> function and
+supply<00:03:28.819><c> at</c></c><c.colorE5E5E5><00:03:28.879><c> the</c><00:03:29.030><c> parameters</c></c><c.colorCCCCCC><00:03:29.329><c> that</c><00:03:29.719><c> it</c></c>
+
+00:03:29.830 --> 00:03:29.840 align:start position:0%
+supply at<c.colorE5E5E5> the parameters</c><c.colorCCCCCC> that it
+ </c>
+
+00:03:29.840 --> 00:03:32.679 align:start position:0%
+supply at<c.colorE5E5E5> the parameters</c><c.colorCCCCCC> that it
+requires</c><c.colorE5E5E5><00:03:30.200><c> in</c><00:03:30.879><c> this</c><00:03:31.879><c> lesson</c><00:03:32.090><c> we</c><00:03:32.299><c> took</c><00:03:32.450><c> a</c><00:03:32.510><c> look</c></c>
+
+00:03:32.679 --> 00:03:32.689 align:start position:0%
+requires<c.colorE5E5E5> in this lesson we took a look
+ </c>
+
+00:03:32.689 --> 00:03:34.599 align:start position:0%
+requires<c.colorE5E5E5> in this lesson we took a look</c>
+<c.colorE5E5E5>at<00:03:32.840><c> using</c><00:03:33.019><c> the</c><00:03:33.200><c> event</c><00:03:33.620><c> function</c><00:03:33.769><c> to</c><00:03:34.189><c> write</c><00:03:34.400><c> out</c></c>
+
+00:03:34.599 --> 00:03:34.609 align:start position:0%
+<c.colorE5E5E5>at using the event function to write out
+ </c>
+
+00:03:34.609 --> 00:03:37.420 align:start position:0%
+<c.colorE5E5E5>at using the event function to write out
+data<00:03:34.909><c> to</c><00:03:35.150><c> the</c><00:03:35.239><c> EVM</c><00:03:35.750><c> logging</c><00:03:36.200><c> facility</c></c><c.colorCCCCCC><00:03:36.739><c> doing</c></c>
+
+00:03:37.420 --> 00:03:37.430 align:start position:0%
+data to the EVM logging facility<c.colorCCCCCC> doing
+ </c>
+
+00:03:37.430 --> 00:03:39.069 align:start position:0%
+data to the EVM logging facility<c.colorCCCCCC> doing
+so</c><c.colorE5E5E5><00:03:37.700><c> gives</c><00:03:37.939><c> us</c><00:03:38.090><c> a</c><00:03:38.239><c> wealth</c><00:03:38.540><c> of</c><00:03:38.689><c> troubleshooting</c></c>
+
+00:03:39.069 --> 00:03:39.079 align:start position:0%
+<c.colorCCCCCC>so</c><c.colorE5E5E5> gives us a wealth of troubleshooting
+ </c>
+
+00:03:39.079 --> 00:03:41.319 align:start position:0%
+<c.colorCCCCCC>so</c><c.colorE5E5E5> gives us a wealth of troubleshooting</c>
+<c.colorCCCCCC>information<00:03:39.500><c> when</c><00:03:40.129><c> identifying</c><00:03:40.730><c> errors</c></c><c.colorE5E5E5><00:03:41.060><c> in</c></c>
+
+00:03:41.319 --> 00:03:41.329 align:start position:0%
+<c.colorCCCCCC>information when identifying errors</c><c.colorE5E5E5> in
+ </c>
+
+00:03:41.329 --> 00:03:44.170 align:start position:0%
+<c.colorCCCCCC>information when identifying errors</c><c.colorE5E5E5> in
+production<00:03:41.930><c> in</c><00:03:42.109><c> the</c></c><c.colorCCCCCC><00:03:43.099><c> next</c><00:03:43.370><c> video</c><00:03:43.609><c> we're</c><00:03:44.120><c> gonna</c></c>
+
+00:03:44.170 --> 00:03:44.180 align:start position:0%
+production in the<c.colorCCCCCC> next video we're gonna
+ </c>
+
+00:03:44.180 --> 00:03:46.000 align:start position:0%
+production in the<c.colorCCCCCC> next video we're gonna
+see</c><c.colorE5E5E5><00:03:44.299><c> how</c></c><c.colorCCCCCC><00:03:44.599><c> to</c><00:03:44.659><c> create</c><00:03:44.840><c> a</c><00:03:44.989><c> kill</c><00:03:45.290><c> function</c><00:03:45.769><c> in</c><00:03:45.889><c> our</c></c>
+
+00:03:46.000 --> 00:03:46.010 align:start position:0%
+see<c.colorE5E5E5> how</c><c.colorCCCCCC> to create a kill function in our
+ </c>
+
+00:03:46.010 --> 00:03:47.890 align:start position:0%
+see<c.colorE5E5E5> how</c><c.colorCCCCCC> to create a kill function in our
+contract</c><c.colorE5E5E5><00:03:46.579><c> and</c><00:03:46.819><c> learn</c><00:03:47.060><c> why</c><00:03:47.329><c> you</c><00:03:47.389><c> would</c><00:03:47.629><c> want</c><00:03:47.840><c> to</c></c>
+
+00:03:47.890 --> 00:03:47.900 align:start position:0%
+contract<c.colorE5E5E5> and learn why you would want to
+ </c>
+
+00:03:47.900 --> 00:03:50.500 align:start position:0%
+contract<c.colorE5E5E5> and learn why you would want to
+do<00:03:48.079><c> so</c><00:03:48.319><c> it's</c><00:03:49.129><c> an</c><00:03:49.280><c> important</c><00:03:49.700><c> lesson</c><00:03:49.730><c> and</c><00:03:50.329><c> one</c></c>
+
+00:03:50.500 --> 00:03:50.510 align:start position:0%
+do so it's an important<c.colorE5E5E5> lesson and one
+ </c>
+
+00:03:50.510 --> 00:03:52.149 align:start position:0%
+do so it's an important<c.colorE5E5E5> lesson and one
+that<00:03:50.629><c> I</c><00:03:50.689><c> hope</c><00:03:50.930><c> you</c></c><c.colorCCCCCC><00:03:51.079><c> don't</c><00:03:51.260><c> have</c></c><c.colorE5E5E5><00:03:51.379><c> to</c><00:03:51.530><c> use</c><00:03:51.829><c> but</c></c>
+
+00:03:52.149 --> 00:03:52.159 align:start position:0%
+that<c.colorE5E5E5> I hope you</c><c.colorCCCCCC> don't have</c><c.colorE5E5E5> to use but
+ </c>
+
+00:03:52.159 --> 00:03:53.679 align:start position:0%
+that<c.colorE5E5E5> I hope you</c><c.colorCCCCCC> don't have</c><c.colorE5E5E5> to use but
+you'll<00:03:52.370><c> be</c></c><c.colorCCCCCC><00:03:52.400><c> happiest</c><00:03:53.030><c> there</c><00:03:53.239><c> if</c></c><c.colorE5E5E5><00:03:53.359><c> you</c><00:03:53.480><c> need</c><00:03:53.659><c> it</c></c>
+
+00:03:53.679 --> 00:03:53.689 align:start position:0%
+you'll be<c.colorCCCCCC> happiest there if</c><c.colorE5E5E5> you need it
+ </c>
+
+00:03:53.689 --> 00:03:56.709 align:start position:0%
+you'll be<c.colorCCCCCC> happiest there if</c><c.colorE5E5E5> you need it</c>
+<c.colorCCCCCC>I'll<00:03:53.959><c> see</c><00:03:54.409><c> you</c><00:03:54.500><c> there</c></c>
+

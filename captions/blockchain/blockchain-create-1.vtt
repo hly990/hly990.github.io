@@ -1,0 +1,1174 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.530 --> 00:00:03.040 align:start position:0%
+ 
+hey<00:00:01.130><c> welcome</c><c.colorE5E5E5><00:00:01.490><c> to</c><00:00:01.610><c> section</c></c><c.colorCCCCCC><00:00:01.939><c> 2</c></c><c.colorE5E5E5><00:00:02.240><c> creating</c><00:00:02.899><c> your</c></c>
+
+00:00:03.040 --> 00:00:03.050 align:start position:0%
+hey welcome<c.colorE5E5E5> to section</c><c.colorCCCCCC> 2</c><c.colorE5E5E5> creating your
+ </c>
+
+00:00:03.050 --> 00:00:05.019 align:start position:0%
+hey welcome<c.colorE5E5E5> to section</c><c.colorCCCCCC> 2</c><c.colorE5E5E5> creating your
+first<00:00:03.290><c> smart</c><00:00:03.710><c> contract</c><00:00:04.279><c> in</c><00:00:04.490><c> aetherium</c></c>
+
+00:00:05.019 --> 00:00:05.029 align:start position:0%
+first smart contract in<c.colorE5E5E5> aetherium
+ </c>
+
+00:00:05.029 --> 00:00:07.329 align:start position:0%
+first smart contract in<c.colorE5E5E5> aetherium
+in<00:00:05.180><c> the</c><00:00:06.140><c> last</c><00:00:06.350><c> section</c><00:00:06.680><c> you</c><00:00:06.980><c> learned</c><00:00:07.190><c> how</c></c>
+
+00:00:07.329 --> 00:00:07.339 align:start position:0%
+in the last section<c.colorE5E5E5> you learned how
+ </c>
+
+00:00:07.339 --> 00:00:09.790 align:start position:0%
+in the last section<c.colorE5E5E5> you learned how
+smart<00:00:07.759><c> contracts</c><00:00:08.360><c> and</c><00:00:08.599><c> user</c><00:00:08.809><c> interfaces</c><00:00:09.530><c> work</c></c>
+
+00:00:09.790 --> 00:00:09.800 align:start position:0%
+smart contracts and user<c.colorE5E5E5> interfaces work
+ </c>
+
+00:00:09.800 --> 00:00:11.470 align:start position:0%
+smart contracts and user<c.colorE5E5E5> interfaces work
+together<00:00:10.010><c> to</c><00:00:10.460><c> create</c><00:00:10.610><c> decentralized</c></c>
+
+00:00:11.470 --> 00:00:11.480 align:start position:0%
+together to create decentralized
+ 
+
+00:00:11.480 --> 00:00:13.990 align:start position:0%
+together to create decentralized
+<c.colorCCCCCC>applications<00:00:12.230><c> now</c><00:00:13.219><c> it's</c><00:00:13.370><c> time</c><00:00:13.549><c> to</c><00:00:13.670><c> dive</c></c><c.colorE5E5E5><00:00:13.820><c> into</c></c>
+
+00:00:13.990 --> 00:00:14.000 align:start position:0%
+<c.colorCCCCCC>applications now it's time to dive</c><c.colorE5E5E5> into
+ </c>
+
+00:00:14.000 --> 00:00:15.940 align:start position:0%
+<c.colorCCCCCC>applications now it's time to dive</c><c.colorE5E5E5> into
+smart<00:00:14.389><c> contracts</c><00:00:14.960><c> and</c><00:00:15.200><c> learn</c><00:00:15.349><c> what</c><00:00:15.589><c> they</c></c><c.colorCCCCCC><00:00:15.769><c> are</c></c>
+
+00:00:15.940 --> 00:00:15.950 align:start position:0%
+smart contracts and learn what they<c.colorCCCCCC> are
+ </c>
+
+00:00:15.950 --> 00:00:18.279 align:start position:0%
+smart contracts and learn what they<c.colorCCCCCC> are
+how<00:00:16.460><c> they</c><00:00:16.490><c> work</c></c><c.colorE5E5E5><00:00:16.699><c> and</c><00:00:17.060><c> create</c><00:00:17.900><c> the</c><00:00:18.020><c> smart</c></c>
+
+00:00:18.279 --> 00:00:18.289 align:start position:0%
+how they<c.colorCCCCCC> work</c><c.colorE5E5E5> and create the smart
+ </c>
+
+00:00:18.289 --> 00:00:20.109 align:start position:0%
+how they<c.colorCCCCCC> work</c><c.colorE5E5E5> and create the smart
+contract</c><c.colorCCCCCC><00:00:18.500><c> we'll</c><00:00:19.070><c> use</c><00:00:19.369><c> in</c><00:00:19.640><c> our</c><00:00:19.730><c> online</c></c>
+
+00:00:20.109 --> 00:00:20.119 align:start position:0%
+contract<c.colorCCCCCC> we'll use in our online
+ </c>
+
+00:00:20.119 --> 00:00:22.810 align:start position:0%
+contract<c.colorCCCCCC> we'll use in our online
+marketplace<00:00:20.720><c> in</c><00:00:21.070><c> this</c><00:00:22.070><c> video</c><00:00:22.369><c> you're</c><00:00:22.730><c> gonna</c></c>
+
+00:00:22.810 --> 00:00:22.820 align:start position:0%
+marketplace in this video you're gonna
+ 
+
+00:00:22.820 --> 00:00:24.939 align:start position:0%
+marketplace in this video you're gonna
+<c.colorE5E5E5>learn<00:00:23.060><c> specifically</c><00:00:23.810><c> what</c><00:00:24.050><c> a</c><00:00:24.080><c> contract</c><00:00:24.619><c> is</c></c>
+
+00:00:24.939 --> 00:00:24.949 align:start position:0%
+<c.colorE5E5E5>learn specifically what a contract is
+ </c>
+
+00:00:24.949 --> 00:00:27.160 align:start position:0%
+<c.colorE5E5E5>learn specifically what a contract is
+how<00:00:25.519><c> it</c><00:00:25.670><c> works</c><00:00:25.850><c> on</c><00:00:26.060><c> the</c></c><c.colorCCCCCC><00:00:26.150><c> etherion</c><00:00:26.599><c> blockchain</c></c>
+
+00:00:27.160 --> 00:00:27.170 align:start position:0%
+how it works on the<c.colorCCCCCC> etherion blockchain
+ </c>
+
+00:00:27.170 --> 00:00:29.529 align:start position:0%
+how it works on the<c.colorCCCCCC> etherion blockchain</c>
+<c.colorE5E5E5>and<00:00:27.410><c> how</c><00:00:27.650><c> to</c><00:00:27.710><c> create</c></c><c.colorCCCCCC><00:00:27.949><c> one</c><00:00:28.039><c> yourself</c><00:00:28.330><c> I'm</c><00:00:29.330><c> also</c></c>
+
+00:00:29.529 --> 00:00:29.539 align:start position:0%
+<c.colorE5E5E5>and how to create</c><c.colorCCCCCC> one yourself I'm also
+ </c>
+
+00:00:29.539 --> 00:00:31.179 align:start position:0%
+<c.colorE5E5E5>and how to create</c><c.colorCCCCCC> one yourself I'm also
+going<00:00:29.750><c> to</c></c><c.colorE5E5E5><00:00:29.840><c> introduce</c><00:00:30.019><c> you</c><00:00:30.320><c> to</c><00:00:30.500><c> the</c><00:00:30.619><c> etherium</c></c>
+
+00:00:31.179 --> 00:00:31.189 align:start position:0%
+going<c.colorCCCCCC> to</c><c.colorE5E5E5> introduce you to the etherium
+ </c>
+
+00:00:31.189 --> 00:00:32.979 align:start position:0%
+going<c.colorCCCCCC> to</c><c.colorE5E5E5> introduce you to the etherium
+virtual<00:00:31.609><c> machine</c><00:00:32.029><c> and</c><00:00:32.330><c> make</c><00:00:32.509><c> sure</c><00:00:32.689><c> that</c><00:00:32.840><c> you</c></c>
+
+00:00:32.979 --> 00:00:32.989 align:start position:0%
+virtual machine and make sure that you
+ 
+
+00:00:32.989 --> 00:00:35.139 align:start position:0%
+virtual machine and make sure that you
+<c.colorE5E5E5>really<00:00:33.380><c> understand</c><00:00:33.920><c> what</c><00:00:34.280><c> it</c><00:00:34.370><c> means</c><00:00:34.579><c> when</c></c><c.colorCCCCCC><00:00:34.880><c> we</c></c>
+
+00:00:35.139 --> 00:00:35.149 align:start position:0%
+<c.colorE5E5E5>really understand what it means when</c><c.colorCCCCCC> we
+ </c>
+
+00:00:35.149 --> 00:00:37.680 align:start position:0%
+<c.colorE5E5E5>really understand what it means when</c><c.colorCCCCCC> we</c>
+<c.colorE5E5E5>say</c><c.colorCCCCCC><00:00:35.420><c> something</c></c><c.colorE5E5E5><00:00:35.899><c> is</c><00:00:36.079><c> on</c><00:00:36.230><c> the</c><00:00:36.590><c> blockchain</c></c><c.colorCCCCCC><00:00:36.860><c> a</c></c>
+
+00:00:37.680 --> 00:00:37.690 align:start position:0%
+<c.colorE5E5E5>say</c><c.colorCCCCCC> something</c><c.colorE5E5E5> is on the blockchain</c><c.colorCCCCCC> a
+ </c>
+
+00:00:37.690 --> 00:00:40.060 align:start position:0%
+<c.colorE5E5E5>say</c><c.colorCCCCCC> something</c><c.colorE5E5E5> is on the blockchain</c><c.colorCCCCCC> a
+contract<00:00:38.690><c> is</c><00:00:38.870><c> a</c><00:00:38.899><c> collection</c><00:00:39.260><c> of</c><00:00:39.500><c> code</c><00:00:39.829><c> and</c></c>
+
+00:00:40.060 --> 00:00:40.070 align:start position:0%
+contract is a collection of code and
+ 
+
+00:00:40.070 --> 00:00:42.160 align:start position:0%
+contract is a collection of code and
+data<c.colorE5E5E5><00:00:40.309><c> that</c><00:00:40.640><c> resides</c><00:00:40.820><c> at</c><00:00:41.300><c> a</c><00:00:41.360><c> specific</c></c><c.colorCCCCCC><00:00:41.629><c> address</c></c>
+
+00:00:42.160 --> 00:00:42.170 align:start position:0%
+data<c.colorE5E5E5> that resides at a specific</c><c.colorCCCCCC> address
+ </c>
+
+00:00:42.170 --> 00:00:45.010 align:start position:0%
+data<c.colorE5E5E5> that resides at a specific</c><c.colorCCCCCC> address
+on<00:00:42.739><c> the</c><00:00:42.920><c> etherion</c><00:00:43.460><c> blockchain</c><00:00:44.030><c> if</c><00:00:44.239><c> you</c></c>
+
+00:00:45.010 --> 00:00:45.020 align:start position:0%
+on the etherion blockchain if you
+ 
+
+00:00:45.020 --> 00:00:46.779 align:start position:0%
+on the etherion blockchain if you
+struggle<c.colorCCCCCC><00:00:45.260><c> to</c><00:00:45.440><c> visualize</c><00:00:46.010><c> what</c><00:00:46.219><c> a</c><00:00:46.250><c> blockchain</c></c>
+
+00:00:46.779 --> 00:00:46.789 align:start position:0%
+struggle<c.colorCCCCCC> to visualize what a blockchain
+ </c>
+
+00:00:46.789 --> 00:00:48.810 align:start position:0%
+struggle<c.colorCCCCCC> to visualize what a blockchain
+is<00:00:46.820><c> think</c><00:00:47.719><c> of</c><00:00:47.840><c> a</c><00:00:47.960><c> globally</c><00:00:48.500><c> shared</c></c>
+
+00:00:48.810 --> 00:00:48.820 align:start position:0%
+is think of a globally shared
+ 
+
+00:00:48.820 --> 00:00:51.549 align:start position:0%
+is think of a globally shared
+transactional<00:00:49.820><c> database</c><00:00:50.270><c> this</c><00:00:51.110><c> means</c><00:00:51.379><c> that</c>
+
+00:00:51.549 --> 00:00:51.559 align:start position:0%
+transactional database this means that
+ 
+
+00:00:51.559 --> 00:00:53.229 align:start position:0%
+transactional database this means that
+everyone<00:00:51.860><c> can</c><00:00:52.190><c> read</c><00:00:52.399><c> entries</c><00:00:52.850><c> in</c><00:00:53.059><c> the</c>
+
+00:00:53.229 --> 00:00:53.239 align:start position:0%
+everyone can read entries in the
+ 
+
+00:00:53.239 --> 00:00:55.840 align:start position:0%
+everyone can read entries in the
+database<c.colorCCCCCC><00:00:53.390><c> and</c><00:00:53.989><c> you</c><00:00:54.710><c> can</c><00:00:54.860><c> change</c></c><c.colorE5E5E5><00:00:55.129><c> the</c><00:00:55.340><c> contents</c></c>
+
+00:00:55.840 --> 00:00:55.850 align:start position:0%
+database<c.colorCCCCCC> and you can change</c><c.colorE5E5E5> the contents
+ </c>
+
+00:00:55.850 --> 00:00:58.510 align:start position:0%
+database<c.colorCCCCCC> and you can change</c><c.colorE5E5E5> the contents
+of<00:00:55.910><c> the</c><00:00:56.030><c> database</c><00:00:56.180><c> with</c><00:00:56.780><c> transactions</c><00:00:57.680><c> the</c></c>
+
+00:00:58.510 --> 00:00:58.520 align:start position:0%
+of the database<c.colorE5E5E5> with transactions the
+ </c>
+
+00:00:58.520 --> 00:01:00.369 align:start position:0%
+of the database<c.colorE5E5E5> with transactions the
+code<00:00:58.760><c> in</c></c><c.colorCCCCCC><00:00:58.910><c> your</c><00:00:59.000><c> contract</c><00:00:59.600><c> creates</c><00:01:00.109><c> those</c></c>
+
+00:01:00.369 --> 00:01:00.379 align:start position:0%
+code<c.colorE5E5E5> in</c><c.colorCCCCCC> your contract creates those
+ </c>
+
+00:01:00.379 --> 00:01:03.220 align:start position:0%
+code<c.colorE5E5E5> in</c><c.colorCCCCCC> your contract creates those
+transactions<00:01:01.359><c> so</c><00:01:02.359><c> there's</c><00:01:02.539><c> a</c><00:01:02.600><c> few</c><00:01:02.780><c> important</c></c>
+
+00:01:03.220 --> 00:01:03.230 align:start position:0%
+transactions so there's a few important
+ 
+
+00:01:03.230 --> 00:01:05.410 align:start position:0%
+transactions so there's a few important
+notes<00:01:03.469><c> to</c><00:01:03.710><c> know</c><00:01:03.829><c> about</c><00:01:03.949><c> transactions</c><00:01:04.879><c> as</c><00:01:05.030><c> the</c>
+
+00:01:05.410 --> 00:01:05.420 align:start position:0%
+notes to know about transactions as the
+ 
+
+00:01:05.420 --> 00:01:08.170 align:start position:0%
+notes to know about transactions as the
+<c.colorCCCCCC>named<00:01:05.600><c> transaction</c><00:01:06.409><c> implies</c><00:01:06.799><c> the</c><00:01:07.670><c> change</c><00:01:08.030><c> you</c></c>
+
+00:01:08.170 --> 00:01:08.180 align:start position:0%
+<c.colorCCCCCC>named transaction implies the change you
+ </c>
+
+00:01:08.180 --> 00:01:10.300 align:start position:0%
+<c.colorCCCCCC>named transaction implies the change you
+want</c><c.colorE5E5E5><00:01:08.390><c> to</c><00:01:08.479><c> make</c><00:01:08.659><c> is</c><00:01:08.900><c> done</c><00:01:09.409><c> either</c><00:01:09.710><c> completely</c></c>
+
+00:01:10.300 --> 00:01:10.310 align:start position:0%
+want<c.colorE5E5E5> to make is done either completely
+ </c>
+
+00:01:10.310 --> 00:01:11.590 align:start position:0%
+want<c.colorE5E5E5> to make is done either completely
+or<00:01:10.460><c> not</c><00:01:11.030><c> at</c><00:01:11.180><c> all</c></c>
+
+00:01:11.590 --> 00:01:11.600 align:start position:0%
+<c.colorE5E5E5>or not at all
+ </c>
+
+00:01:11.600 --> 00:01:14.350 align:start position:0%
+<c.colorE5E5E5>or not at all
+once<00:01:12.560><c> a</c></c><c.colorCCCCCC><00:01:12.650><c> transactions</c><00:01:13.310><c> applied</c><00:01:13.640><c> no</c><00:01:14.119><c> other</c></c>
+
+00:01:14.350 --> 00:01:14.360 align:start position:0%
+once a<c.colorCCCCCC> transactions applied no other
+ </c>
+
+00:01:14.360 --> 00:01:17.350 align:start position:0%
+once a<c.colorCCCCCC> transactions applied no other
+transaction<00:01:15.080><c> can</c><00:01:15.260><c> alter</c><00:01:15.650><c> it</c><00:01:16.180><c> finally</c><00:01:17.180><c> all</c></c>
+
+00:01:17.350 --> 00:01:17.360 align:start position:0%
+transaction can alter it finally<c.colorCCCCCC> all
+ </c>
+
+00:01:17.360 --> 00:01:18.910 align:start position:0%
+transaction can alter it finally<c.colorCCCCCC> all
+transactions</c><c.colorE5E5E5><00:01:18.200><c> are</c><00:01:18.320><c> cryptographically</c></c>
+
+00:01:18.910 --> 00:01:18.920 align:start position:0%
+transactions<c.colorE5E5E5> are cryptographically
+ </c>
+
+00:01:18.920 --> 00:01:21.940 align:start position:0%
+transactions<c.colorE5E5E5> are cryptographically
+signed<00:01:19.460><c> by</c><00:01:19.850><c> the</c><00:01:19.909><c> sender</c><00:01:20.509><c> the</c><00:01:21.500><c> etherium</c></c>
+
+00:01:21.940 --> 00:01:21.950 align:start position:0%
+signed by the sender<c.colorE5E5E5> the etherium
+ </c>
+
+00:01:21.950 --> 00:01:24.789 align:start position:0%
+signed by the sender<c.colorE5E5E5> the etherium
+virtual<00:01:22.310><c> machine</c><00:01:22.670><c> or</c></c><c.colorCCCCCC><00:01:22.990><c> EVM</c><00:01:23.990><c> provides</c><00:01:24.590><c> the</c></c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+virtual machine or<c.colorCCCCCC> EVM provides the
+ </c>
+
+00:01:24.799 --> 00:01:26.980 align:start position:0%
+virtual machine or<c.colorCCCCCC> EVM provides the
+runtime<00:01:25.280><c> environment</c><00:01:25.490><c> for</c><00:01:26.060><c> smart</c><00:01:26.330><c> contracts</c></c>
+
+00:01:26.980 --> 00:01:26.990 align:start position:0%
+runtime environment<c.colorCCCCCC> for smart contracts
+ </c>
+
+00:01:26.990 --> 00:01:30.580 align:start position:0%
+runtime environment<c.colorCCCCCC> for smart contracts</c>
+<c.colorE5E5E5>it's<00:01:27.799><c> sandboxed</c><00:01:28.549><c> and</c><00:01:28.670><c> isolated</c><00:01:29.450><c> so</c><00:01:30.049><c> the</c><00:01:30.350><c> code</c></c>
+
+00:01:30.580 --> 00:01:30.590 align:start position:0%
+<c.colorE5E5E5>it's sandboxed and isolated so the code
+ </c>
+
+00:01:30.590 --> 00:01:33.340 align:start position:0%
+<c.colorE5E5E5>it's sandboxed and isolated so the code
+running<00:01:30.920><c> inside</c><00:01:31.340><c> the</c></c><c.colorCCCCCC><00:01:31.400><c> e</c><00:01:31.579><c> vm</c><00:01:32.030><c> has</c><00:01:32.060><c> no</c><00:01:32.600><c> access</c><00:01:33.110><c> to</c></c>
+
+00:01:33.340 --> 00:01:33.350 align:start position:0%
+running inside the<c.colorCCCCCC> e vm has no access to
+ </c>
+
+00:01:33.350 --> 00:01:36.179 align:start position:0%
+running inside the<c.colorCCCCCC> e vm has no access to
+network<00:01:33.710><c> file</c><00:01:34.130><c> systems</c><00:01:34.640><c> or</c><00:01:34.939><c> other</c><00:01:35.299><c> processes</c></c>
+
+00:01:36.179 --> 00:01:36.189 align:start position:0%
+network file systems or<c.colorCCCCCC> other processes
+ </c>
+
+00:01:36.189 --> 00:01:38.770 align:start position:0%
+network file systems or<c.colorCCCCCC> other processes</c>
+<c.colorE5E5E5>it<00:01:37.189><c> also</c><00:01:37.460><c> has</c><00:01:37.610><c> limited</c><00:01:38.000><c> access</c></c><c.colorCCCCCC><00:01:38.150><c> to</c><00:01:38.630><c> other</c></c>
+
+00:01:38.770 --> 00:01:38.780 align:start position:0%
+<c.colorE5E5E5>it also has limited access</c><c.colorCCCCCC> to other
+ </c>
+
+00:01:38.780 --> 00:01:41.499 align:start position:0%
+<c.colorE5E5E5>it also has limited access</c><c.colorCCCCCC> to other
+smart<00:01:39.200><c> contracts</c><00:01:39.939><c> there's</c><00:01:40.939><c> two</c><00:01:41.119><c> types</c><00:01:41.360><c> of</c></c>
+
+00:01:41.499 --> 00:01:41.509 align:start position:0%
+smart contracts there's two types of
+ 
+
+00:01:41.509 --> 00:01:43.389 align:start position:0%
+smart contracts there's two types of
+accounts<00:01:42.079><c> there's</c><00:01:42.290><c> external</c><00:01:42.710><c> accounts</c><00:01:43.310><c> that</c>
+
+00:01:43.389 --> 00:01:43.399 align:start position:0%
+accounts there's external accounts that
+ 
+
+00:01:43.399 --> 00:01:45.460 align:start position:0%
+accounts there's external accounts that
+are<00:01:43.520><c> controlled</c><c.colorCCCCCC><00:01:43.939><c> by</c><00:01:44.149><c> public</c></c><c.colorE5E5E5><00:01:44.600><c> private</c><00:01:45.229><c> key</c></c>
+
+00:01:45.460 --> 00:01:45.470 align:start position:0%
+are controlled<c.colorCCCCCC> by public</c><c.colorE5E5E5> private key
+ </c>
+
+00:01:45.470 --> 00:01:47.980 align:start position:0%
+are controlled<c.colorCCCCCC> by public</c><c.colorE5E5E5> private key
+pairs<00:01:45.799><c> this</c></c><c.colorCCCCCC><00:01:46.549><c> is</c><00:01:46.610><c> a</c><00:01:46.820><c> type</c><00:01:47.090><c> of</c><00:01:47.240><c> accounts</c><00:01:47.780><c> that</c></c>
+
+00:01:47.980 --> 00:01:47.990 align:start position:0%
+pairs<c.colorE5E5E5> this</c><c.colorCCCCCC> is a type of accounts that
+ </c>
+
+00:01:47.990 --> 00:01:50.350 align:start position:0%
+pairs<c.colorE5E5E5> this</c><c.colorCCCCCC> is a type of accounts that
+humans<00:01:48.590><c> have</c><00:01:48.829><c> for</c><00:01:49.250><c> example</c></c><c.colorE5E5E5><00:01:49.340><c> in</c><00:01:49.939><c> their</c></c>
+
+00:01:50.350 --> 00:01:50.360 align:start position:0%
+humans have for example<c.colorE5E5E5> in their
+ </c>
+
+00:01:50.360 --> 00:01:51.789 align:start position:0%
+humans have for example<c.colorE5E5E5> in their</c>
+<c.colorCCCCCC>aetherium<00:01:51.140><c> wallets</c></c>
+
+00:01:51.789 --> 00:01:51.799 align:start position:0%
+<c.colorCCCCCC>aetherium wallets
+ </c>
+
+00:01:51.799 --> 00:01:55.149 align:start position:0%
+<c.colorCCCCCC>aetherium wallets
+there's<00:01:52.790><c> also</c><00:01:53.000><c> contract</c><00:01:53.750><c> accounts</c><00:01:54.290><c> which</c><00:01:54.950><c> are</c></c>
+
+00:01:55.149 --> 00:01:55.159 align:start position:0%
+there's also contract accounts which are
+ 
+
+00:01:55.159 --> 00:01:56.980 align:start position:0%
+there's also contract accounts which are
+controlled<00:01:55.640><c> by</c><c.colorCCCCCC><00:01:55.729><c> the</c></c><c.colorE5E5E5><00:01:55.880><c> code</c><00:01:56.270><c> stored</c><00:01:56.750><c> together</c></c>
+
+00:01:56.980 --> 00:01:56.990 align:start position:0%
+controlled by<c.colorCCCCCC> the</c><c.colorE5E5E5> code stored together
+ </c>
+
+00:01:56.990 --> 00:01:59.200 align:start position:0%
+controlled by<c.colorCCCCCC> the</c><c.colorE5E5E5> code stored together
+with<00:01:57.290><c> the</c><00:01:57.530><c> account</c><00:01:58.070><c> now</c><00:01:58.700><c> both</c></c><c.colorCCCCCC><00:01:58.939><c> of</c><00:01:59.119><c> these</c></c>
+
+00:01:59.200 --> 00:01:59.210 align:start position:0%
+with the<c.colorE5E5E5> account now both</c><c.colorCCCCCC> of these
+ </c>
+
+00:01:59.210 --> 00:02:01.240 align:start position:0%
+with the<c.colorE5E5E5> account now both</c><c.colorCCCCCC> of these
+accounts</c><c.colorE5E5E5><00:01:59.600><c> are</c><00:01:59.899><c> treated</c><00:02:00.229><c> identically</c><00:02:00.350><c> by</c><00:02:01.189><c> the</c></c>
+
+00:02:01.240 --> 00:02:01.250 align:start position:0%
+accounts<c.colorE5E5E5> are treated identically by the
+ </c>
+
+00:02:01.250 --> 00:02:03.010 align:start position:0%
+accounts<c.colorE5E5E5> are treated identically by the
+EVM</c>
+
+00:02:03.010 --> 00:02:03.020 align:start position:0%
+EVM
+ 
+
+00:02:03.020 --> 00:02:04.510 align:start position:0%
+EVM
+<c.colorE5E5E5>you<00:02:03.289><c> may</c><00:02:03.439><c> be</c><00:02:03.500><c> wondering</c><00:02:03.740><c> where</c><00:02:04.130><c> I'm</c><00:02:04.250><c> going</c></c>
+
+00:02:04.510 --> 00:02:04.520 align:start position:0%
+<c.colorE5E5E5>you may be wondering where I'm going
+ </c>
+
+00:02:04.520 --> 00:02:06.160 align:start position:0%
+<c.colorE5E5E5>you may be wondering where I'm going
+with<00:02:04.670><c> all</c><00:02:04.789><c> this</c></c><c.colorCCCCCC><00:02:05.000><c> you</c><00:02:05.509><c> came</c></c><c.colorE5E5E5><00:02:05.719><c> here</c><00:02:05.929><c> to</c><00:02:05.990><c> learn</c><00:02:06.109><c> how</c></c>
+
+00:02:06.160 --> 00:02:06.170 align:start position:0%
+with all this<c.colorCCCCCC> you came</c><c.colorE5E5E5> here to learn how
+ </c>
+
+00:02:06.170 --> 00:02:09.279 align:start position:0%
+with all this<c.colorCCCCCC> you came</c><c.colorE5E5E5> here to learn how</c>
+<c.colorCCCCCC>to</c><c.colorE5E5E5><00:02:06.380><c> create</c><00:02:06.710><c> a</c><00:02:06.740><c> smart</c><00:02:07.100><c> contractor</c><00:02:07.729><c> right</c><00:02:08.289><c> well</c></c>
+
+00:02:09.279 --> 00:02:09.289 align:start position:0%
+<c.colorCCCCCC>to</c><c.colorE5E5E5> create a smart contractor right well
+ </c>
+
+00:02:09.289 --> 00:02:11.020 align:start position:0%
+<c.colorCCCCCC>to</c><c.colorE5E5E5> create a smart contractor right well</c>
+<c.colorE5E5E5>I<00:02:09.500><c> really</c><00:02:10.340><c> want</c><00:02:10.489><c> to</c><00:02:10.550><c> make</c><00:02:10.640><c> sure</c><00:02:10.670><c> you</c></c>
+
+00:02:11.020 --> 00:02:11.030 align:start position:0%
+<c.colorE5E5E5>I really want to make sure you
+ </c>
+
+00:02:11.030 --> 00:02:13.119 align:start position:0%
+<c.colorE5E5E5>I really want to make sure you
+understand<00:02:11.510><c> one</c><00:02:11.750><c> thing</c></c><c.colorCCCCCC><00:02:11.980><c> remember</c><00:02:12.980><c> when</c><00:02:13.099><c> I</c></c>
+
+00:02:13.119 --> 00:02:13.129 align:start position:0%
+understand one thing<c.colorCCCCCC> remember when I
+ </c>
+
+00:02:13.129 --> 00:02:14.979 align:start position:0%
+understand one thing<c.colorCCCCCC> remember when I</c>
+<c.colorE5E5E5>said<00:02:13.430><c> the</c></c><c.colorCCCCCC><00:02:13.580><c> blockchain</c><00:02:14.060><c> is</c></c><c.colorE5E5E5><00:02:14.090><c> like</c><00:02:14.360><c> a</c><00:02:14.390><c> globally</c></c>
+
+00:02:14.979 --> 00:02:14.989 align:start position:0%
+<c.colorE5E5E5>said the</c><c.colorCCCCCC> blockchain is</c><c.colorE5E5E5> like a globally
+ </c>
+
+00:02:14.989 --> 00:02:17.559 align:start position:0%
+<c.colorE5E5E5>said the</c><c.colorCCCCCC> blockchain is</c><c.colorE5E5E5> like a globally
+shared<00:02:15.129><c> transactional</c><00:02:16.129><c> database</c><00:02:16.569><c> think</c></c>
+
+00:02:17.559 --> 00:02:17.569 align:start position:0%
+shared transactional database<c.colorE5E5E5> think
+ </c>
+
+00:02:17.569 --> 00:02:19.720 align:start position:0%
+shared transactional database<c.colorE5E5E5> think
+about<00:02:17.780><c> that</c><00:02:17.989><c> phrase</c><00:02:18.319><c> globally</c><00:02:19.010><c> shared</c><00:02:19.040><c> and</c></c>
+
+00:02:19.720 --> 00:02:19.730 align:start position:0%
+about that phrase globally shared<c.colorE5E5E5> and
+ </c>
+
+00:02:19.730 --> 00:02:21.280 align:start position:0%
+about that phrase globally shared<c.colorE5E5E5> and
+while<00:02:19.940><c> you</c><00:02:20.090><c> do</c></c><c.colorCCCCCC><00:02:20.299><c> I'll</c><00:02:20.569><c> bring</c><00:02:20.900><c> up</c><00:02:20.989><c> the</c></c><c.colorE5E5E5><00:02:21.049><c> next</c></c>
+
+00:02:21.280 --> 00:02:21.290 align:start position:0%
+while you do<c.colorCCCCCC> I'll bring up the</c><c.colorE5E5E5> next
+ </c>
+
+00:02:21.290 --> 00:02:22.890 align:start position:0%
+while you do<c.colorCCCCCC> I'll bring up the</c><c.colorE5E5E5> next
+slide</c>
+
+00:02:22.890 --> 00:02:22.900 align:start position:0%
+<c.colorE5E5E5>slide
+ </c>
+
+00:02:22.900 --> 00:02:25.319 align:start position:0%
+<c.colorE5E5E5>slide
+this<00:02:23.260><c> is</c><00:02:23.439><c> a</c><00:02:23.470><c> Google</c></c><c.colorCCCCCC><00:02:23.709><c> search</c><00:02:24.069><c> I</c><00:02:24.250><c> did</c></c><c.colorE5E5E5><00:02:24.549><c> for</c><00:02:24.939><c> crypto</c></c>
+
+00:02:25.319 --> 00:02:25.329 align:start position:0%
+this is a<c.colorE5E5E5> Google</c><c.colorCCCCCC> search I did</c><c.colorE5E5E5> for crypto
+ </c>
+
+00:02:25.329 --> 00:02:27.839 align:start position:0%
+this is a<c.colorE5E5E5> Google</c><c.colorCCCCCC> search I did</c><c.colorE5E5E5> for crypto</c>
+<c.colorCCCCCC>kitties<00:02:25.689><c> source</c><00:02:26.019><c> code</c></c><c.colorE5E5E5><00:02:26.370><c> take</c><00:02:27.370><c> a</c><00:02:27.400><c> look</c><00:02:27.670><c> at</c><00:02:27.760><c> the</c></c>
+
+00:02:27.839 --> 00:02:27.849 align:start position:0%
+<c.colorCCCCCC>kitties source code</c><c.colorE5E5E5> take a look at the
+ </c>
+
+00:02:27.849 --> 00:02:30.360 align:start position:0%
+<c.colorCCCCCC>kitties source code</c><c.colorE5E5E5> take a look at the</c>
+<c.colorE5E5E5>fifth<00:02:28.120><c> link</c><00:02:28.390><c> it's</c><00:02:29.260><c> a</c><00:02:29.379><c> link</c><00:02:29.590><c> to</c><00:02:29.680><c> either</c><00:02:29.890><c> scan</c></c>
+
+00:02:30.360 --> 00:02:30.370 align:start position:0%
+<c.colorE5E5E5>fifth link it's a link to either scan
+ </c>
+
+00:02:30.370 --> 00:02:32.670 align:start position:0%
+<c.colorE5E5E5>fifth link it's a link to either scan
+which<00:02:30.730><c> is</c></c><c.colorCCCCCC><00:02:30.760><c> an</c><00:02:31.060><c> aetherium</c><00:02:31.569><c> block</c></c><c.colorE5E5E5><00:02:31.840><c> Explorer</c></c><c.colorCCCCCC><00:02:32.409><c> if</c></c>
+
+00:02:32.670 --> 00:02:32.680 align:start position:0%
+which is<c.colorCCCCCC> an aetherium block</c><c.colorE5E5E5> Explorer</c><c.colorCCCCCC> if
+ </c>
+
+00:02:32.680 --> 00:02:36.000 align:start position:0%
+which is<c.colorCCCCCC> an aetherium block</c><c.colorE5E5E5> Explorer</c><c.colorCCCCCC> if
+I<00:02:33.370><c> click</c></c><c.colorE5E5E5><00:02:33.670><c> that</c><00:02:33.849><c> link</c><00:02:34.150><c> look</c><00:02:34.989><c> at</c><00:02:35.110><c> this</c><00:02:35.319><c> the</c></c>
+
+00:02:36.000 --> 00:02:36.010 align:start position:0%
+I click<c.colorE5E5E5> that link look at this the
+ </c>
+
+00:02:36.010 --> 00:02:38.429 align:start position:0%
+I click<c.colorE5E5E5> that link look at this the
+entire<00:02:36.489><c> code</c><00:02:36.970><c> and</c><00:02:37.299><c> the</c><00:02:37.360><c> smart</c><00:02:37.689><c> contract</c><00:02:37.900><c> for</c></c>
+
+00:02:38.429 --> 00:02:38.439 align:start position:0%
+entire code and the smart contract<c.colorE5E5E5> for
+ </c>
+
+00:02:38.439 --> 00:02:40.680 align:start position:0%
+entire code and the smart contract<c.colorE5E5E5> for
+crypto<00:02:38.769><c> kitties</c><00:02:39.099><c> is</c><00:02:39.280><c> in</c><00:02:39.430><c> here</c></c>
+
+00:02:40.680 --> 00:02:40.690 align:start position:0%
+crypto kitties is in here
+ 
+
+00:02:40.690 --> 00:02:42.390 align:start position:0%
+crypto kitties is in here
+so<00:02:41.050><c> the</c><00:02:41.170><c> point</c><00:02:41.410><c> I</c><c.colorCCCCCC><00:02:41.500><c> want</c><00:02:41.680><c> you</c><00:02:41.770><c> to</c><00:02:41.860><c> take</c><00:02:42.070><c> away</c><00:02:42.370><c> is</c></c>
+
+00:02:42.390 --> 00:02:42.400 align:start position:0%
+so the point I<c.colorCCCCCC> want you to take away is
+ </c>
+
+00:02:42.400 --> 00:02:44.670 align:start position:0%
+so the point I<c.colorCCCCCC> want you to take away is</c>
+<c.colorE5E5E5>every<00:02:43.180><c> line</c><00:02:43.360><c> of</c></c><c.colorCCCCCC><00:02:43.390><c> code</c><00:02:43.780><c> you</c><00:02:43.810><c> write</c><00:02:44.260><c> inside</c><00:02:44.650><c> a</c></c>
+
+00:02:44.670 --> 00:02:44.680 align:start position:0%
+<c.colorE5E5E5>every line of</c><c.colorCCCCCC> code you write inside a
+ </c>
+
+00:02:44.680 --> 00:02:47.400 align:start position:0%
+<c.colorE5E5E5>every line of</c><c.colorCCCCCC> code you write inside a
+smart<00:02:45.070><c> contract</c><00:02:45.640><c> is</c><00:02:45.820><c> publicly</c><00:02:46.480><c> viewable</c></c><c.colorE5E5E5><00:02:46.750><c> that</c></c>
+
+00:02:47.400 --> 00:02:47.410 align:start position:0%
+smart<c.colorCCCCCC> contract is publicly viewable</c><c.colorE5E5E5> that
+ </c>
+
+00:02:47.410 --> 00:02:50.970 align:start position:0%
+smart<c.colorCCCCCC> contract is publicly viewable</c><c.colorE5E5E5> that
+means<00:02:47.620><c> no</c><00:02:47.860><c> passwords</c></c><c.colorCCCCCC><00:02:48.430><c> no</c><00:02:49.120><c> security</c></c><c.colorE5E5E5><00:02:49.720><c> keys</c><00:02:49.980><c> no</c></c>
+
+00:02:50.970 --> 00:02:50.980 align:start position:0%
+means no passwords<c.colorCCCCCC> no security</c><c.colorE5E5E5> keys no
+ </c>
+
+00:02:50.980 --> 00:02:52.830 align:start position:0%
+means no passwords<c.colorCCCCCC> no security</c><c.colorE5E5E5> keys no
+proprietary</c><c.colorCCCCCC><00:02:51.340><c> or</c><00:02:52.000><c> confidential</c><00:02:52.030><c> business</c></c>
+
+00:02:52.830 --> 00:02:52.840 align:start position:0%
+proprietary<c.colorCCCCCC> or confidential business
+ </c>
+
+00:02:52.840 --> 00:02:55.320 align:start position:0%
+proprietary<c.colorCCCCCC> or confidential business
+information</c><c.colorE5E5E5><00:02:53.200><c> should</c><00:02:54.040><c> ever</c><00:02:54.280><c> be</c><00:02:54.640><c> put</c></c><c.colorCCCCCC><00:02:54.880><c> inside</c><00:02:55.270><c> a</c></c>
+
+00:02:55.320 --> 00:02:55.330 align:start position:0%
+information<c.colorE5E5E5> should ever be put</c><c.colorCCCCCC> inside a
+ </c>
+
+00:02:55.330 --> 00:02:58.110 align:start position:0%
+information<c.colorE5E5E5> should ever be put</c><c.colorCCCCCC> inside a
+smart<00:02:55.660><c> contract</c></c><c.colorE5E5E5><00:02:56.310><c> okay</c></c><c.colorCCCCCC><00:02:57.310><c> with</c><00:02:57.670><c> that</c><00:02:57.820><c> out</c><00:02:57.970><c> of</c></c><c.colorE5E5E5><00:02:58.060><c> the</c></c>
+
+00:02:58.110 --> 00:02:58.120 align:start position:0%
+smart<c.colorCCCCCC> contract</c><c.colorE5E5E5> okay</c><c.colorCCCCCC> with that out of</c><c.colorE5E5E5> the
+ </c>
+
+00:02:58.120 --> 00:03:00.000 align:start position:0%
+smart<c.colorCCCCCC> contract</c><c.colorE5E5E5> okay</c><c.colorCCCCCC> with that out of</c><c.colorE5E5E5> the
+way<00:02:58.240><c> let's</c><00:02:58.570><c> create</c></c><c.colorCCCCCC><00:02:58.810><c> our</c><00:02:58.960><c> contract</c></c><c.colorE5E5E5><00:02:59.410><c> our</c></c>
+
+00:03:00.000 --> 00:03:00.010 align:start position:0%
+way let's create<c.colorCCCCCC> our contract</c><c.colorE5E5E5> our
+ </c>
+
+00:03:00.010 --> 00:03:01.260 align:start position:0%
+way let's create<c.colorCCCCCC> our contract</c><c.colorE5E5E5> our
+contracts<00:03:00.520><c> are</c></c><c.colorCCCCCC><00:03:00.640><c> written</c><00:03:00.910><c> in</c><00:03:01.030><c> a</c><00:03:01.090><c> language</c></c>
+
+00:03:01.260 --> 00:03:01.270 align:start position:0%
+contracts are<c.colorCCCCCC> written in a language
+ </c>
+
+00:03:01.270 --> 00:03:03.810 align:start position:0%
+contracts are<c.colorCCCCCC> written in a language
+called</c><c.colorE5E5E5><00:03:01.480><c> solidity</c><00:03:02.230><c> in</c><00:03:02.530><c> our</c></c><c.colorCCCCCC><00:03:03.460><c> online</c></c>
+
+00:03:03.810 --> 00:03:03.820 align:start position:0%
+called<c.colorE5E5E5> solidity in our</c><c.colorCCCCCC> online
+ </c>
+
+00:03:03.820 --> 00:03:05.490 align:start position:0%
+called<c.colorE5E5E5> solidity in our</c><c.colorCCCCCC> online
+marketplace<00:03:04.390><c> application</c><00:03:05.110><c> we're</c><00:03:05.410><c> gonna</c></c>
+
+00:03:05.490 --> 00:03:05.500 align:start position:0%
+marketplace application we're<c.colorCCCCCC> gonna
+ </c>
+
+00:03:05.500 --> 00:03:07.350 align:start position:0%
+marketplace application we're<c.colorCCCCCC> gonna</c>
+<c.colorE5E5E5>store<00:03:05.860><c> our</c><00:03:06.040><c> smart</c><00:03:06.370><c> contracts</c><00:03:06.940><c> in</c></c><c.colorCCCCCC><00:03:07.180><c> the</c></c>
+
+00:03:07.350 --> 00:03:07.360 align:start position:0%
+<c.colorE5E5E5>store our smart contracts in</c><c.colorCCCCCC> the
+ </c>
+
+00:03:07.360 --> 00:03:10.110 align:start position:0%
+<c.colorE5E5E5>store our smart contracts in</c><c.colorCCCCCC> the
+contracts<00:03:07.930><c> folder</c></c><c.colorE5E5E5><00:03:08.580><c> common</c></c><c.colorCCCCCC><00:03:09.580><c> Convention</c></c>
+
+00:03:10.110 --> 00:03:10.120 align:start position:0%
+contracts folder<c.colorE5E5E5> common</c><c.colorCCCCCC> Convention
+ </c>
+
+00:03:10.120 --> 00:03:11.970 align:start position:0%
+contracts folder<c.colorE5E5E5> common</c><c.colorCCCCCC> Convention
+recommends</c><c.colorE5E5E5><00:03:10.630><c> that</c><00:03:10.750><c> you</c><00:03:10.900><c> use</c><00:03:10.930><c> camel</c><00:03:11.530><c> case</c><00:03:11.560><c> or</c></c>
+
+00:03:11.970 --> 00:03:11.980 align:start position:0%
+recommends<c.colorE5E5E5> that you use camel case or
+ </c>
+
+00:03:11.980 --> 00:03:15.030 align:start position:0%
+recommends<c.colorE5E5E5> that you use camel case or
+cap<00:03:12.190><c> words</c><00:03:12.550><c> formatting</c><00:03:13.210><c> and</c><00:03:13.560><c> your</c><00:03:14.560><c> contract</c></c>
+
+00:03:15.030 --> 00:03:15.040 align:start position:0%
+cap words formatting<c.colorE5E5E5> and your contract
+ </c>
+
+00:03:15.040 --> 00:03:17.690 align:start position:0%
+cap words formatting<c.colorE5E5E5> and your contract
+files<00:03:15.310><c> will</c><00:03:15.670><c> end</c><00:03:15.970><c> with</c><00:03:16.150><c> the</c><00:03:16.270><c> dot</c></c><c.colorCCCCCC><00:03:16.450><c> sol</c><00:03:17.020><c> prefix</c></c>
+
+00:03:17.690 --> 00:03:17.700 align:start position:0%
+files will end with the dot<c.colorCCCCCC> sol prefix
+ </c>
+
+00:03:17.700 --> 00:03:19.620 align:start position:0%
+files will end with the dot<c.colorCCCCCC> sol prefix</c>
+<c.colorE5E5E5>for<00:03:18.700><c> example</c><00:03:19.060><c> if</c><00:03:19.120><c> I</c><00:03:19.210><c> want</c><00:03:19.360><c> to</c><00:03:19.390><c> write</c><00:03:19.600><c> a</c></c>
+
+00:03:19.620 --> 00:03:19.630 align:start position:0%
+<c.colorE5E5E5>for example if I want to write a
+ </c>
+
+00:03:19.630 --> 00:03:21.960 align:start position:0%
+<c.colorE5E5E5>for example if I want to write a
+contract<00:03:20.020><c> called</c><00:03:20.530><c> my</c><00:03:20.740><c> first</c><00:03:20.980><c> contract</c><00:03:21.670><c> I'll</c></c>
+
+00:03:21.960 --> 00:03:21.970 align:start position:0%
+contract called my first contract<c.colorE5E5E5> I'll
+ </c>
+
+00:03:21.970 --> 00:03:25.050 align:start position:0%
+contract called my first contract<c.colorE5E5E5> I'll
+name</c><c.colorCCCCCC><00:03:22.810><c> it</c><00:03:22.990><c> my</c><00:03:23.170><c> first</c><00:03:23.410><c> contract</c></c><c.colorE5E5E5><00:03:23.980><c> Sol</c><00:03:24.760><c> and</c></c>
+
+00:03:25.050 --> 00:03:25.060 align:start position:0%
+name<c.colorCCCCCC> it my first contract</c><c.colorE5E5E5> Sol and
+ </c>
+
+00:03:25.060 --> 00:03:26.940 align:start position:0%
+name<c.colorCCCCCC> it my first contract</c><c.colorE5E5E5> Sol and
+capitalize<00:03:25.660><c> the</c><00:03:26.020><c> first</c><00:03:26.050><c> letter</c><00:03:26.410><c> of</c><00:03:26.740><c> each</c><00:03:26.890><c> word</c></c>
+
+00:03:26.940 --> 00:03:26.950 align:start position:0%
+capitalize the first letter<c.colorE5E5E5> of each word
+ </c>
+
+00:03:26.950 --> 00:03:30.780 align:start position:0%
+capitalize the first letter<c.colorE5E5E5> of each word</c>
+<c.colorE5E5E5>in</c><c.colorCCCCCC><00:03:27.430><c> the</c><00:03:27.520><c> name</c></c><c.colorE5E5E5><00:03:27.700><c> the</c></c><c.colorCCCCCC><00:03:28.060><c> M</c><00:03:28.240><c> the</c><00:03:28.510><c> F</c><00:03:28.660><c> and</c><00:03:28.930><c> the</c><00:03:29.050><c> C</c><00:03:29.700><c> so</c><00:03:30.700><c> in</c></c>
+
+00:03:30.780 --> 00:03:30.790 align:start position:0%
+<c.colorE5E5E5>in</c><c.colorCCCCCC> the name</c><c.colorE5E5E5> the</c><c.colorCCCCCC> M the F and the C so in
+ </c>
+
+00:03:30.790 --> 00:03:32.400 align:start position:0%
+<c.colorE5E5E5>in</c><c.colorCCCCCC> the name</c><c.colorE5E5E5> the</c><c.colorCCCCCC> M the F and the C so in
+my<00:03:30.880><c> code</c><00:03:31.120><c> editor</c><00:03:31.150><c> I</c><00:03:31.660><c> want</c><00:03:31.870><c> to</c><00:03:31.930><c> right</c><00:03:32.080><c> click</c><00:03:32.110><c> on</c></c>
+
+00:03:32.400 --> 00:03:32.410 align:start position:0%
+my code editor<c.colorCCCCCC> I want to right click on
+ </c>
+
+00:03:32.410 --> 00:03:34.770 align:start position:0%
+my code editor<c.colorCCCCCC> I want to right click on
+the<00:03:32.530><c> contracts</c><00:03:33.040><c> folder</c><00:03:33.370><c> create</c><00:03:34.270><c> a</c><00:03:34.330><c> new</c></c><c.colorE5E5E5><00:03:34.360><c> file</c></c>
+
+00:03:34.770 --> 00:03:34.780 align:start position:0%
+the contracts folder<c.colorCCCCCC> create a new</c><c.colorE5E5E5> file
+ </c>
+
+00:03:34.780 --> 00:03:36.990 align:start position:0%
+the contracts folder<c.colorCCCCCC> create a new</c><c.colorE5E5E5> file
+and<00:03:35.110><c> I'm</c><00:03:35.950><c> going</c></c><c.colorCCCCCC><00:03:36.040><c> to</c></c><c.colorE5E5E5><00:03:36.130><c> call</c><00:03:36.310><c> my</c><00:03:36.460><c> contract</c></c>
+
+00:03:36.990 --> 00:03:37.000 align:start position:0%
+<c.colorE5E5E5>and I'm going</c><c.colorCCCCCC> to</c><c.colorE5E5E5> call my contract
+ </c>
+
+00:03:37.000 --> 00:03:39.810 align:start position:0%
+<c.colorE5E5E5>and I'm going</c><c.colorCCCCCC> to</c><c.colorE5E5E5> call my contract
+merchandise<00:03:37.630><c> and</c><00:03:37.900><c> then</c><00:03:38.740><c> give</c><00:03:38.950><c> it</c><00:03:38.980><c> a</c><00:03:39.160><c> dot</c><00:03:39.340><c> Sol</c></c>
+
+00:03:39.810 --> 00:03:39.820 align:start position:0%
+merchandise and then<c.colorE5E5E5> give it a dot Sol
+ </c>
+
+00:03:39.820 --> 00:03:43.230 align:start position:0%
+merchandise and then<c.colorE5E5E5> give it a dot Sol
+file<00:03:40.090><c> extension</c><00:03:40.690><c> all</c><00:03:41.670><c> solidity</c><00:03:42.670><c> contracts</c></c>
+
+00:03:43.230 --> 00:03:43.240 align:start position:0%
+file extension all solidity contracts
+ 
+
+00:03:43.240 --> 00:03:45.870 align:start position:0%
+file extension all solidity contracts
+start<00:03:43.570><c> with</c><00:03:43.660><c> the</c><00:03:43.780><c> same</c><00:03:44.020><c> first</c><00:03:44.410><c> line</c><00:03:44.800><c> we</c><00:03:45.610><c> start</c>
+
+00:03:45.870 --> 00:03:45.880 align:start position:0%
+start with the same first line we start
+ 
+
+00:03:45.880 --> 00:03:47.880 align:start position:0%
+start with the same first line we start
+with<00:03:45.970><c> the</c><c.colorCCCCCC><00:03:46.060><c> keyword</c><00:03:46.300><c> pragma</c></c><c.colorE5E5E5><00:03:47.050><c> it's</c><00:03:47.350><c> required</c></c>
+
+00:03:47.880 --> 00:03:47.890 align:start position:0%
+with the<c.colorCCCCCC> keyword pragma</c><c.colorE5E5E5> it's required
+ </c>
+
+00:03:47.890 --> 00:03:49.890 align:start position:0%
+with the<c.colorCCCCCC> keyword pragma</c><c.colorE5E5E5> it's required
+and<00:03:48.190><c> it</c><00:03:48.280><c> tells</c><00:03:48.520><c> the</c><00:03:48.700><c> compiler</c><00:03:49.090><c> how</c><00:03:49.510><c> to</c><00:03:49.570><c> treat</c></c>
+
+00:03:49.890 --> 00:03:49.900 align:start position:0%
+and it tells the compiler how to treat
+ 
+
+00:03:49.900 --> 00:03:52.320 align:start position:0%
+and it tells the compiler how to treat
+the<c.colorE5E5E5><00:03:50.020><c> source</c><00:03:50.290><c> code</c><00:03:50.590><c> in</c><00:03:50.830><c> this</c></c><c.colorCCCCCC><00:03:51.550><c> case</c><00:03:51.850><c> it's</c><00:03:52.180><c> going</c></c>
+
+00:03:52.320 --> 00:03:52.330 align:start position:0%
+the<c.colorE5E5E5> source code in this</c><c.colorCCCCCC> case it's going
+ </c>
+
+00:03:52.330 --> 00:03:54.480 align:start position:0%
+the<c.colorE5E5E5> source code in this</c><c.colorCCCCCC> case it's going</c>
+<c.colorE5E5E5>to<00:03:52.390><c> treat</c></c><c.colorCCCCCC><00:03:52.720><c> it</c><00:03:52.840><c> as</c><00:03:52.959><c> solidity</c><00:03:53.560><c> code</c><00:03:53.950><c> because</c></c>
+
+00:03:54.480 --> 00:03:54.490 align:start position:0%
+<c.colorE5E5E5>to treat</c><c.colorCCCCCC> it as solidity code because
+ </c>
+
+00:03:54.490 --> 00:03:57.510 align:start position:0%
+<c.colorE5E5E5>to treat</c><c.colorCCCCCC> it as solidity code because</c>
+<c.colorE5E5E5>that's<00:03:54.700><c> what</c><00:03:54.850><c> we</c><00:03:54.940><c> specified</c><00:03:55.540><c> next</c><00:03:56.430><c> next</c><00:03:57.430><c> time</c></c>
+
+00:03:57.510 --> 00:03:57.520 align:start position:0%
+<c.colorE5E5E5>that's what we specified next next time
+ </c>
+
+00:03:57.520 --> 00:03:58.949 align:start position:0%
+<c.colorE5E5E5>that's what we specified next next time
+including<00:03:57.940><c> the</c><00:03:57.970><c> version</c><00:03:58.420><c> of</c><00:03:58.510><c> solidity</c></c>
+
+00:03:58.949 --> 00:03:58.959 align:start position:0%
+including the version of solidity
+ 
+
+00:03:58.959 --> 00:04:01.350 align:start position:0%
+including the version of solidity
+installed<00:03:59.470><c> on</c><00:03:59.620><c> my</c><c.colorCCCCCC><00:03:59.800><c> system</c><00:04:00.340><c> and</c><00:04:00.580><c> I</c><00:04:01.000><c> can</c></c><c.colorE5E5E5><00:04:01.060><c> get</c></c>
+
+00:04:01.350 --> 00:04:01.360 align:start position:0%
+installed on my<c.colorCCCCCC> system and I can</c><c.colorE5E5E5> get
+ </c>
+
+00:04:01.360 --> 00:04:03.210 align:start position:0%
+installed on my<c.colorCCCCCC> system and I can</c><c.colorE5E5E5> get
+that<00:04:01.510><c> by</c><00:04:01.690><c> opening</c></c><c.colorCCCCCC><00:04:01.900><c> a</c><00:04:02.230><c> terminal</c><00:04:02.440><c> and</c><00:04:02.860><c> typing</c></c>
+
+00:04:03.210 --> 00:04:03.220 align:start position:0%
+that by opening<c.colorCCCCCC> a terminal and typing
+ </c>
+
+00:04:03.220 --> 00:04:06.240 align:start position:0%
+that by opening<c.colorCCCCCC> a terminal and typing
+truffle<00:04:03.700><c> version</c><00:04:04.270><c> now</c><00:04:05.140><c> including</c><00:04:05.709><c> a</c><00:04:05.800><c> carrot</c></c>
+
+00:04:06.240 --> 00:04:06.250 align:start position:0%
+truffle version now including a carrot
+ 
+
+00:04:06.250 --> 00:04:07.800 align:start position:0%
+truffle version now including a carrot
+at<00:04:06.400><c> the</c><c.colorE5E5E5><00:04:06.430><c> beginning</c><00:04:06.910><c> of</c><00:04:07.030><c> the</c><00:04:07.150><c> version</c><00:04:07.540><c> number</c></c>
+
+00:04:07.800 --> 00:04:07.810 align:start position:0%
+at the<c.colorE5E5E5> beginning of the version number
+ </c>
+
+00:04:07.810 --> 00:04:10.290 align:start position:0%
+at the<c.colorE5E5E5> beginning of the version number</c>
+<c.colorCCCCCC>and<00:04:07.990><c> this</c></c><c.colorE5E5E5><00:04:08.050><c> is</c><00:04:08.110><c> important</c></c><c.colorCCCCCC><00:04:08.830><c> the</c><00:04:09.670><c> carrot</c><00:04:10.060><c> tells</c></c>
+
+00:04:10.290 --> 00:04:10.300 align:start position:0%
+<c.colorCCCCCC>and this</c><c.colorE5E5E5> is important</c><c.colorCCCCCC> the carrot tells
+ </c>
+
+00:04:10.300 --> 00:04:12.210 align:start position:0%
+<c.colorCCCCCC>and this</c><c.colorE5E5E5> is important</c><c.colorCCCCCC> the carrot tells
+the<00:04:10.420><c> compiler</c><00:04:10.780><c> that</c><00:04:11.080><c> it</c><00:04:11.170><c> can</c></c><c.colorE5E5E5><00:04:11.320><c> use</c><00:04:11.500><c> any</c><00:04:11.739><c> version</c></c>
+
+00:04:12.210 --> 00:04:12.220 align:start position:0%
+the compiler<c.colorCCCCCC> that it can</c><c.colorE5E5E5> use any version
+ </c>
+
+00:04:12.220 --> 00:04:14.270 align:start position:0%
+the compiler<c.colorCCCCCC> that it can</c><c.colorE5E5E5> use any version
+of<00:04:12.550><c> the</c><00:04:12.670><c> solidity</c><00:04:13.090><c> compiler</c><00:04:13.720><c> from</c><00:04:14.050><c> version</c></c>
+
+00:04:14.270 --> 00:04:14.280 align:start position:0%
+of<c.colorE5E5E5> the solidity compiler from version
+ </c>
+
+00:04:14.280 --> 00:04:18.409 align:start position:0%
+of<c.colorE5E5E5> the solidity compiler from version
+0.4<00:04:15.280><c> dot</c><00:04:15.459><c> 23</c><00:04:16.209><c> up</c><00:04:16.810><c> to</c><00:04:17.169><c> but</c></c><c.colorCCCCCC><00:04:17.650><c> not</c></c><c.colorE5E5E5><00:04:17.919><c> including</c></c>
+
+00:04:18.409 --> 00:04:18.419 align:start position:0%
+0.4 dot 23<c.colorE5E5E5> up to but</c><c.colorCCCCCC> not</c><c.colorE5E5E5> including
+ </c>
+
+00:04:18.419 --> 00:04:22.980 align:start position:0%
+0.4 dot 23<c.colorE5E5E5> up to but</c><c.colorCCCCCC> not</c><c.colorE5E5E5> including
+version<00:04:19.419><c> 0.5</c><00:04:20.260><c> 0</c><00:04:21.120><c> this</c><00:04:22.120><c> ensures</c><00:04:22.630><c> that</c><00:04:22.780><c> a</c></c>
+
+00:04:22.980 --> 00:04:22.990 align:start position:0%
+<c.colorE5E5E5>version 0.5 0 this ensures that a
+ </c>
+
+00:04:22.990 --> 00:04:25.530 align:start position:0%
+<c.colorE5E5E5>version 0.5 0 this ensures that a
+breaking<00:04:23.440><c> change</c></c><c.colorCCCCCC><00:04:23.470><c> in</c><00:04:24.070><c> the</c></c><c.colorE5E5E5><00:04:24.190><c> 0.5</c><00:04:24.940><c> family</c></c>
+
+00:04:25.530 --> 00:04:25.540 align:start position:0%
+breaking change<c.colorCCCCCC> in the</c><c.colorE5E5E5> 0.5 family
+ </c>
+
+00:04:25.540 --> 00:04:28.740 align:start position:0%
+breaking change<c.colorCCCCCC> in the</c><c.colorE5E5E5> 0.5 family</c>
+<c.colorE5E5E5>doesn't<00:04:26.230><c> break</c><00:04:26.440><c> my</c><00:04:26.620><c> smart</c><00:04:26.919><c> contract</c><00:04:27.750><c> finally</c></c>
+
+00:04:28.740 --> 00:04:28.750 align:start position:0%
+<c.colorE5E5E5>doesn't break my smart contract finally
+ </c>
+
+00:04:28.750 --> 00:04:31.909 align:start position:0%
+<c.colorE5E5E5>doesn't break my smart contract finally
+the<00:04:28.900><c> line</c><00:04:29.110><c> ends</c><00:04:29.560><c> with</c><00:04:29.620><c> the</c><00:04:29.830><c> semicolon</c></c>
+
+00:04:31.909 --> 00:04:31.919 align:start position:0%
+the line<c.colorE5E5E5> ends with the semicolon
+ </c>
+
+00:04:31.919 --> 00:04:33.619 align:start position:0%
+the line<c.colorE5E5E5> ends with the semicolon
+so<00:04:32.039><c> back</c></c><c.colorCCCCCC><00:04:32.189><c> in</c><00:04:32.340><c> my</c></c><c.colorE5E5E5><00:04:32.370><c> code</c><00:04:32.669><c> editor</c><00:04:32.819><c> I'm</c><00:04:33.270><c> gonna</c><00:04:33.419><c> type</c></c>
+
+00:04:33.619 --> 00:04:33.629 align:start position:0%
+so back<c.colorCCCCCC> in my</c><c.colorE5E5E5> code editor I'm gonna type
+ </c>
+
+00:04:33.629 --> 00:04:39.510 align:start position:0%
+so back<c.colorCCCCCC> in my</c><c.colorE5E5E5> code editor I'm gonna type
+pragma<00:04:34.169><c> solidity</c><00:04:35.389><c> 0.42</c><00:04:36.389><c> 23</c><00:04:37.050><c> semicolon</c></c>
+
+00:04:39.510 --> 00:04:39.520 align:start position:0%
+pragma solidity<c.colorE5E5E5> 0.42 23 semicolon
+ </c>
+
+00:04:39.520 --> 00:04:41.279 align:start position:0%
+pragma solidity<c.colorE5E5E5> 0.42 23 semicolon
+now<00:04:39.639><c> we</c><00:04:39.699><c> can</c><00:04:39.910><c> declare</c><00:04:40.030><c> our</c><00:04:40.330><c> contract</c><00:04:40.870><c> and</c><00:04:41.020><c> this</c></c>
+
+00:04:41.279 --> 00:04:41.289 align:start position:0%
+now we can declare our contract<c.colorE5E5E5> and this
+ </c>
+
+00:04:41.289 --> 00:04:43.379 align:start position:0%
+now we can declare our contract<c.colorE5E5E5> and this
+looks<00:04:41.560><c> much</c><00:04:41.830><c> like</c><00:04:42.129><c> a</c><00:04:42.160><c> class</c></c><c.colorCCCCCC><00:04:42.520><c> definition</c><00:04:43.270><c> if</c></c>
+
+00:04:43.379 --> 00:04:43.389 align:start position:0%
+looks much like a class<c.colorCCCCCC> definition if
+ </c>
+
+00:04:43.389 --> 00:04:44.820 align:start position:0%
+looks much like a class<c.colorCCCCCC> definition if
+you're<00:04:43.539><c> familiar</c></c><c.colorE5E5E5><00:04:43.720><c> with</c><00:04:44.169><c> other</c><00:04:44.289><c> programming</c></c>
+
+00:04:44.820 --> 00:04:44.830 align:start position:0%
+you're familiar<c.colorE5E5E5> with other programming
+ </c>
+
+00:04:44.830 --> 00:04:47.969 align:start position:0%
+you're familiar<c.colorE5E5E5> with other programming
+languages<00:04:45.400><c> we</c></c><c.colorCCCCCC><00:04:46.240><c> use</c><00:04:46.419><c> the</c><00:04:46.569><c> keyword</c><00:04:46.840><c> contract</c><00:04:47.800><c> to</c></c>
+
+00:04:47.969 --> 00:04:47.979 align:start position:0%
+languages we<c.colorCCCCCC> use the keyword contract to
+ </c>
+
+00:04:47.979 --> 00:04:50.159 align:start position:0%
+languages we<c.colorCCCCCC> use the keyword contract to
+identify<00:04:48.490><c> the</c><00:04:48.550><c> contract</c></c><c.colorE5E5E5><00:04:49.120><c> and</c><00:04:49.360><c> then</c><00:04:49.840><c> we</c><00:04:50.020><c> give</c></c>
+
+00:04:50.159 --> 00:04:50.169 align:start position:0%
+identify the contract<c.colorE5E5E5> and then we give
+ </c>
+
+00:04:50.169 --> 00:04:52.260 align:start position:0%
+identify the contract<c.colorE5E5E5> and then we give
+it</c><c.colorCCCCCC><00:04:50.199><c> a</c><00:04:50.379><c> name</c><00:04:50.590><c> using</c></c><c.colorE5E5E5><00:04:50.949><c> the</c></c><c.colorCCCCCC><00:04:51.099><c> camel</c><00:04:51.520><c> case</c><00:04:51.759><c> or</c><00:04:52.030><c> word</c></c>
+
+00:04:52.260 --> 00:04:52.270 align:start position:0%
+it<c.colorCCCCCC> a name using</c><c.colorE5E5E5> the</c><c.colorCCCCCC> camel case or word
+ </c>
+
+00:04:52.270 --> 00:04:55.439 align:start position:0%
+it<c.colorCCCCCC> a name using</c><c.colorE5E5E5> the</c><c.colorCCCCCC> camel case or word</c>
+<c.colorE5E5E5>cap<00:04:52.569><c> formatting</c><00:04:53.729><c> most</c><00:04:54.729><c> of</c><00:04:54.879><c> the</c><00:04:54.940><c> time</c><00:04:55.180><c> this</c></c>
+
+00:04:55.439 --> 00:04:55.449 align:start position:0%
+<c.colorE5E5E5>cap formatting most of the time this
+ </c>
+
+00:04:55.449 --> 00:04:57.270 align:start position:0%
+<c.colorE5E5E5>cap formatting most of the time this
+contract<00:04:56.050><c> name</c><00:04:56.259><c> is</c><00:04:56.440><c> going</c><00:04:56.590><c> to</c><00:04:56.650><c> match</c><00:04:56.830><c> the</c><00:04:57.069><c> file</c></c>
+
+00:04:57.270 --> 00:04:57.280 align:start position:0%
+contract name is going<c.colorE5E5E5> to match the file
+ </c>
+
+00:04:57.280 --> 00:04:59.969 align:start position:0%
+contract name is going<c.colorE5E5E5> to match the file
+name<00:04:57.550><c> after</c></c><c.colorCCCCCC><00:04:57.819><c> the</c></c><c.colorE5E5E5><00:04:58.599><c> contract</c><00:04:59.169><c> name</c><00:04:59.379><c> we</c><00:04:59.830><c> have</c><00:04:59.949><c> a</c></c>
+
+00:04:59.969 --> 00:04:59.979 align:start position:0%
+name after<c.colorCCCCCC> the</c><c.colorE5E5E5> contract name we have a
+ </c>
+
+00:04:59.979 --> 00:05:02.279 align:start position:0%
+name after<c.colorCCCCCC> the</c><c.colorE5E5E5> contract name we have a
+set<00:05:00.190><c> of</c><00:05:00.280><c> curly</c></c><c.colorCCCCCC><00:05:00.490><c> braces</c></c><c.colorE5E5E5><00:05:00.879><c> and</c><00:05:01.330><c> it's</c><00:05:01.840><c> inside</c></c>
+
+00:05:02.279 --> 00:05:02.289 align:start position:0%
+set<c.colorE5E5E5> of curly</c><c.colorCCCCCC> braces</c><c.colorE5E5E5> and it's inside
+ </c>
+
+00:05:02.289 --> 00:05:04.170 align:start position:0%
+set<c.colorE5E5E5> of curly</c><c.colorCCCCCC> braces</c><c.colorE5E5E5> and it's inside
+those<00:05:02.560><c> curly</c></c><c.colorCCCCCC><00:05:02.800><c> braces</c><00:05:03.159><c> where</c><00:05:03.699><c> we'll</c><00:05:03.909><c> put</c><00:05:04.150><c> our</c></c>
+
+00:05:04.170 --> 00:05:04.180 align:start position:0%
+those curly<c.colorCCCCCC> braces where we'll put our
+ </c>
+
+00:05:04.180 --> 00:05:06.659 align:start position:0%
+those curly<c.colorCCCCCC> braces where we'll put our
+smart<00:05:04.659><c> contract</c><00:05:05.169><c> code</c></c>
+
+00:05:06.659 --> 00:05:06.669 align:start position:0%
+smart contract code
+ 
+
+00:05:06.669 --> 00:05:09.059 align:start position:0%
+smart contract code
+so<00:05:07.330><c> we'll</c><00:05:07.449><c> specify</c><c.colorE5E5E5><00:05:07.659><c> the</c><00:05:07.960><c> keyword</c><00:05:08.319><c> contract</c></c>
+
+00:05:09.059 --> 00:05:09.069 align:start position:0%
+so we'll specify<c.colorE5E5E5> the keyword contract
+ </c>
+
+00:05:09.069 --> 00:05:11.879 align:start position:0%
+so we'll specify<c.colorE5E5E5> the keyword contract
+give<00:05:09.939><c> our</c><00:05:10.060><c> contract</c><00:05:10.479><c> a</c><00:05:10.569><c> name</c><00:05:10.780><c> and</c><00:05:11.080><c> then</c><00:05:11.740><c> our</c></c>
+
+00:05:11.879 --> 00:05:11.889 align:start position:0%
+give our contract a name and then<c.colorE5E5E5> our
+ </c>
+
+00:05:11.889 --> 00:05:14.159 align:start position:0%
+give our contract a name and then<c.colorE5E5E5> our
+curly<00:05:12.159><c> braces</c><00:05:12.370><c> and</c><00:05:12.749><c> now</c><00:05:13.749><c> we're</c><00:05:13.930><c> ready</c><00:05:14.110><c> to</c></c>
+
+00:05:14.159 --> 00:05:14.169 align:start position:0%
+curly braces<c.colorE5E5E5> and now we're ready to
+ </c>
+
+00:05:14.169 --> 00:05:15.869 align:start position:0%
+curly braces<c.colorE5E5E5> and now we're ready to</c>
+<c.colorE5E5E5>start</c><c.colorCCCCCC><00:05:14.439><c> writing</c><00:05:14.830><c> the</c><00:05:14.949><c> code</c><00:05:14.979><c> that</c></c><c.colorE5E5E5><00:05:15.460><c> makes</c><00:05:15.580><c> up</c><00:05:15.789><c> our</c></c>
+
+00:05:15.869 --> 00:05:15.879 align:start position:0%
+<c.colorE5E5E5>start</c><c.colorCCCCCC> writing the code that</c><c.colorE5E5E5> makes up our
+ </c>
+
+00:05:15.879 --> 00:05:18.420 align:start position:0%
+<c.colorE5E5E5>start</c><c.colorCCCCCC> writing the code that</c><c.colorE5E5E5> makes up our
+smart<00:05:16.210><c> contract</c><00:05:16.689><c> in</c><00:05:16.900><c> this</c><00:05:17.740><c> video</c><00:05:18.009><c> you</c><00:05:18.099><c> learned</c></c>
+
+00:05:18.420 --> 00:05:18.430 align:start position:0%
+smart contract<c.colorE5E5E5> in this video you learned
+ </c>
+
+00:05:18.430 --> 00:05:20.459 align:start position:0%
+smart contract<c.colorE5E5E5> in this video you learned
+what<00:05:18.580><c> a</c><00:05:18.639><c> contract</c><00:05:19.150><c> is</c><00:05:19.419><c> and</c><00:05:19.689><c> how</c><00:05:19.870><c> to</c><00:05:19.930><c> create</c></c><c.colorCCCCCC><00:05:20.199><c> one</c></c>
+
+00:05:20.459 --> 00:05:20.469 align:start position:0%
+what<c.colorE5E5E5> a contract is and how to create</c><c.colorCCCCCC> one
+ </c>
+
+00:05:20.469 --> 00:05:22.649 align:start position:0%
+what<c.colorE5E5E5> a contract is and how to create</c><c.colorCCCCCC> one</c>
+<c.colorE5E5E5>you<00:05:21.279><c> also</c><00:05:21.460><c> learned</c><00:05:21.819><c> that</c><00:05:21.939><c> the</c><00:05:22.120><c> etherium</c></c>
+
+00:05:22.649 --> 00:05:22.659 align:start position:0%
+<c.colorE5E5E5>you also learned that the etherium
+ </c>
+
+00:05:22.659 --> 00:05:24.510 align:start position:0%
+<c.colorE5E5E5>you also learned that the etherium
+virtual<00:05:23.020><c> machine</c><00:05:23.409><c> is</c><00:05:23.680><c> the</c><00:05:23.800><c> environment</c><00:05:24.400><c> that</c></c>
+
+00:05:24.510 --> 00:05:24.520 align:start position:0%
+virtual machine is the<c.colorE5E5E5> environment that
+ </c>
+
+00:05:24.520 --> 00:05:26.489 align:start position:0%
+virtual machine is the<c.colorE5E5E5> environment that
+creates<00:05:24.849><c> transactions</c><00:05:25.659><c> to</c><00:05:25.900><c> execute</c><00:05:26.379><c> the</c></c>
+
+00:05:26.489 --> 00:05:26.499 align:start position:0%
+creates transactions<c.colorE5E5E5> to execute the
+ </c>
+
+00:05:26.499 --> 00:05:28.469 align:start position:0%
+creates transactions<c.colorE5E5E5> to execute the
+functions<00:05:26.949><c> in</c><00:05:27.069><c> your</c><00:05:27.099><c> contract</c></c><c.colorCCCCCC><00:05:27.729><c> and</c><00:05:27.909><c> store</c></c>
+
+00:05:28.469 --> 00:05:28.479 align:start position:0%
+functions in your contract<c.colorCCCCCC> and store
+ </c>
+
+00:05:28.479 --> 00:05:30.059 align:start position:0%
+functions in your contract<c.colorCCCCCC> and store
+those<00:05:28.689><c> transactions</c><00:05:29.409><c> in</c><00:05:29.529><c> the</c><00:05:29.620><c> globally</c></c>
+
+00:05:30.059 --> 00:05:30.069 align:start position:0%
+those transactions in the globally
+ 
+
+00:05:30.069 --> 00:05:32.730 align:start position:0%
+those transactions in the globally
+available<00:05:30.189><c> blockchain</c><00:05:31.409><c> next</c><c.colorE5E5E5><00:05:32.409><c> I'm</c><00:05:32.529><c> going</c><00:05:32.650><c> to</c></c>
+
+00:05:32.730 --> 00:05:32.740 align:start position:0%
+available blockchain next<c.colorE5E5E5> I'm going to
+ </c>
+
+00:05:32.740 --> 00:05:34.200 align:start position:0%
+available blockchain next<c.colorE5E5E5> I'm going to
+introduce<00:05:32.979><c> you</c><00:05:33.310><c> to</c><00:05:33.340><c> the</c><00:05:33.550><c> different</c><00:05:33.669><c> datatypes</c></c>
+
+00:05:34.200 --> 00:05:34.210 align:start position:0%
+<c.colorE5E5E5>introduce you to the different datatypes
+ </c>
+
+00:05:34.210 --> 00:05:36.119 align:start position:0%
+<c.colorE5E5E5>introduce you to the different datatypes</c>
+<c.colorCCCCCC>and<00:05:34.569><c> solidity</c></c><c.colorE5E5E5><00:05:34.990><c> and</c><00:05:35.319><c> we're</c><00:05:35.740><c> going</c><00:05:35.860><c> to</c><00:05:35.889><c> use</c></c>
+
+00:05:36.119 --> 00:05:36.129 align:start position:0%
+<c.colorCCCCCC>and solidity</c><c.colorE5E5E5> and we're going to use
+ </c>
+
+00:05:36.129 --> 00:05:38.309 align:start position:0%
+<c.colorCCCCCC>and solidity</c><c.colorE5E5E5> and we're going to use
+those<00:05:36.430><c> to</c></c><c.colorCCCCCC><00:05:36.729><c> create</c><00:05:37.029><c> the</c><00:05:37.150><c> functions</c><00:05:37.599><c> we</c><00:05:37.810><c> use</c><00:05:38.080><c> in</c></c>
+
+00:05:38.309 --> 00:05:38.319 align:start position:0%
+those<c.colorE5E5E5> to</c><c.colorCCCCCC> create the functions we use in
+ </c>
+
+00:05:38.319 --> 00:05:40.290 align:start position:0%
+those<c.colorE5E5E5> to</c><c.colorCCCCCC> create the functions we use in
+our<00:05:38.379><c> online</c><00:05:38.800><c> marketplace</c><00:05:39.400><c> I'll</c><00:05:39.729><c> see</c><00:05:40.210><c> you</c></c>
+
+00:05:40.290 --> 00:05:40.300 align:start position:0%
+our<c.colorCCCCCC> online marketplace I'll see you
+ </c>
+
+00:05:40.300 --> 00:05:42.509 align:start position:0%
+our<c.colorCCCCCC> online marketplace I'll see you
+there</c>
+

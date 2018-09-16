@@ -1,0 +1,2574 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.530 --> 00:00:02.410 align:start position:0%
+ 
+in<00:00:00.590><c> the</c><00:00:01.280><c> last</c><c.colorE5E5E5><00:00:01.460><c> video</c><00:00:01.760><c> we</c><00:00:02.060><c> learned</c><00:00:02.239><c> how</c><00:00:02.389><c> to</c></c>
+
+00:00:02.410 --> 00:00:02.420 align:start position:0%
+in the last<c.colorE5E5E5> video we learned how to
+ </c>
+
+00:00:02.420 --> 00:00:04.510 align:start position:0%
+in the last<c.colorE5E5E5> video we learned how to
+create</c><c.colorCCCCCC><00:00:02.540><c> a</c><00:00:02.810><c> smart</c><00:00:03.169><c> contract</c><00:00:03.649><c> in</c><00:00:03.800><c> solidity</c></c><c.colorE5E5E5><00:00:04.250><c> in</c></c>
+
+00:00:04.510 --> 00:00:04.520 align:start position:0%
+create<c.colorCCCCCC> a smart contract in solidity</c><c.colorE5E5E5> in
+ </c>
+
+00:00:04.520 --> 00:00:06.549 align:start position:0%
+create<c.colorCCCCCC> a smart contract in solidity</c><c.colorE5E5E5> in
+the<00:00:05.180><c> end</c><00:00:05.330><c> it</c><00:00:05.479><c> was</c><00:00:05.599><c> kind</c></c><c.colorCCCCCC><00:00:05.630><c> of</c><00:00:05.870><c> boring</c></c><c.colorE5E5E5><00:00:06.050><c> and</c><00:00:06.319><c> didn't</c></c>
+
+00:00:06.549 --> 00:00:06.559 align:start position:0%
+the end it was kind<c.colorCCCCCC> of boring</c><c.colorE5E5E5> and didn't
+ </c>
+
+00:00:06.559 --> 00:00:08.949 align:start position:0%
+the end it was kind<c.colorCCCCCC> of boring</c><c.colorE5E5E5> and didn't
+do<00:00:06.680><c> much</c></c><c.colorCCCCCC><00:00:06.889><c> so</c><00:00:07.399><c> in</c><00:00:07.550><c> this</c><00:00:07.670><c> video</c><00:00:07.849><c> we're</c><00:00:08.660><c> gonna</c><00:00:08.750><c> add</c></c>
+
+00:00:08.949 --> 00:00:08.959 align:start position:0%
+do<c.colorE5E5E5> much</c><c.colorCCCCCC> so in this video we're gonna add
+ </c>
+
+00:00:08.959 --> 00:00:10.869 align:start position:0%
+do<c.colorE5E5E5> much</c><c.colorCCCCCC> so in this video we're gonna add
+some<00:00:08.990><c> of</c><00:00:09.259><c> the</c><00:00:09.320><c> code</c><00:00:09.559><c> and</c></c><c.colorE5E5E5><00:00:09.740><c> logic</c><00:00:09.889><c> necessary</c><00:00:10.669><c> to</c></c>
+
+00:00:10.869 --> 00:00:10.879 align:start position:0%
+some<c.colorCCCCCC> of the code and</c><c.colorE5E5E5> logic necessary to
+ </c>
+
+00:00:10.879 --> 00:00:12.850 align:start position:0%
+some<c.colorCCCCCC> of the code and</c><c.colorE5E5E5> logic necessary to
+make<00:00:11.030><c> our</c><00:00:11.179><c> contract</c><00:00:11.690><c> a</c><00:00:11.870><c> useful</c><00:00:12.289><c> part</c><00:00:12.469><c> of</c><00:00:12.740><c> our</c></c>
+
+00:00:12.850 --> 00:00:12.860 align:start position:0%
+make<c.colorE5E5E5> our contract a useful part of our
+ </c>
+
+00:00:12.860 --> 00:00:15.430 align:start position:0%
+make<c.colorE5E5E5> our contract a useful part of our
+online<00:00:13.009><c> marketplace</c><00:00:13.820><c> in</c><00:00:14.089><c> doing</c><00:00:15.079><c> so</c><00:00:15.259><c> we're</c></c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+online marketplace in doing so we're
+ 
+
+00:00:15.440 --> 00:00:16.690 align:start position:0%
+online marketplace in doing so we're
+gonna<00:00:15.559><c> learn</c><00:00:15.709><c> about</c><c.colorE5E5E5><00:00:15.769><c> data</c><00:00:16.250><c> types</c><00:00:16.340><c> and</c></c>
+
+00:00:16.690 --> 00:00:16.700 align:start position:0%
+gonna learn about<c.colorE5E5E5> data types and
+ </c>
+
+00:00:16.700 --> 00:00:18.430 align:start position:0%
+gonna learn about<c.colorE5E5E5> data types and
+functions</c><c.colorCCCCCC><00:00:16.940><c> and</c></c><c.colorE5E5E5><00:00:17.420><c> the</c><00:00:17.570><c> role</c><00:00:17.780><c> that</c></c><c.colorCCCCCC><00:00:17.810><c> they</c><00:00:18.140><c> play</c><00:00:18.410><c> in</c></c>
+
+00:00:18.430 --> 00:00:18.440 align:start position:0%
+functions<c.colorCCCCCC> and</c><c.colorE5E5E5> the role that</c><c.colorCCCCCC> they play in
+ </c>
+
+00:00:18.440 --> 00:00:21.700 align:start position:0%
+functions<c.colorCCCCCC> and</c><c.colorE5E5E5> the role that</c><c.colorCCCCCC> they play in
+contracts<00:00:19.220><c> so</c><00:00:19.640><c> let's</c><00:00:19.820><c> get</c></c><c.colorE5E5E5><00:00:19.940><c> going</c><00:00:20.560><c> solidity</c><00:00:21.560><c> is</c></c>
+
+00:00:21.700 --> 00:00:21.710 align:start position:0%
+contracts<c.colorCCCCCC> so let's get</c><c.colorE5E5E5> going solidity is
+ </c>
+
+00:00:21.710 --> 00:00:24.100 align:start position:0%
+contracts<c.colorCCCCCC> so let's get</c><c.colorE5E5E5> going solidity is
+a<00:00:21.770><c> statically</c></c><c.colorCCCCCC><00:00:22.430><c> typed</c><00:00:22.700><c> language</c></c><c.colorE5E5E5><00:00:23.180><c> to</c><00:00:23.900><c> explain</c></c>
+
+00:00:24.100 --> 00:00:24.110 align:start position:0%
+a<c.colorE5E5E5> statically</c><c.colorCCCCCC> typed language</c><c.colorE5E5E5> to explain
+ </c>
+
+00:00:24.110 --> 00:00:25.660 align:start position:0%
+a<c.colorE5E5E5> statically</c><c.colorCCCCCC> typed language</c><c.colorE5E5E5> to explain</c>
+<c.colorE5E5E5>what<00:00:24.350><c> that</c><00:00:24.380><c> means</c></c><c.colorCCCCCC><00:00:24.530><c> let's</c></c><c.colorE5E5E5><00:00:25.160><c> take</c><00:00:25.370><c> a</c><00:00:25.400><c> look</c><00:00:25.580><c> at</c></c>
+
+00:00:25.660 --> 00:00:25.670 align:start position:0%
+<c.colorE5E5E5>what that means</c><c.colorCCCCCC> let's</c><c.colorE5E5E5> take a look at
+ </c>
+
+00:00:25.670 --> 00:00:27.880 align:start position:0%
+<c.colorE5E5E5>what that means</c><c.colorCCCCCC> let's</c><c.colorE5E5E5> take a look at
+some<00:00:25.820><c> JavaScript</c></c><c.colorCCCCCC><00:00:26.450><c> in</c><00:00:26.740><c> JavaScript</c><00:00:27.740><c> it's</c></c>
+
+00:00:27.880 --> 00:00:27.890 align:start position:0%
+some<c.colorE5E5E5> JavaScript</c><c.colorCCCCCC> in JavaScript it's
+ </c>
+
+00:00:27.890 --> 00:00:29.620 align:start position:0%
+some<c.colorE5E5E5> JavaScript</c><c.colorCCCCCC> in JavaScript it's
+perfectly<00:00:28.340><c> acceptable</c><00:00:28.850><c> to</c><00:00:29.000><c> declare</c><00:00:29.600><c> a</c></c>
+
+00:00:29.620 --> 00:00:29.630 align:start position:0%
+perfectly<c.colorCCCCCC> acceptable to declare a
+ </c>
+
+00:00:29.630 --> 00:00:31.840 align:start position:0%
+perfectly<c.colorCCCCCC> acceptable to declare a
+variable</c><c.colorE5E5E5><00:00:29.720><c> like</c></c><c.colorCCCCCC><00:00:30.290><c> this</c><00:00:30.350><c> and</c><00:00:30.950><c> then</c><00:00:31.670><c> we</c><00:00:31.820><c> can</c></c>
+
+00:00:31.840 --> 00:00:31.850 align:start position:0%
+variable<c.colorE5E5E5> like</c><c.colorCCCCCC> this and then we can
+ </c>
+
+00:00:31.850 --> 00:00:35.169 align:start position:0%
+variable<c.colorE5E5E5> like</c><c.colorCCCCCC> this and then we can
+assign</c><c.colorE5E5E5><00:00:32.450><c> the</c><00:00:32.629><c> variable</c><00:00:33.079><c> to</c><00:00:33.350><c> one</c><00:00:34.339><c> and</c><00:00:34.699><c> so</c><00:00:34.760><c> now</c></c>
+
+00:00:35.169 --> 00:00:35.179 align:start position:0%
+<c.colorCCCCCC>assign</c><c.colorE5E5E5> the variable to one and so now
+ </c>
+
+00:00:35.179 --> 00:00:38.139 align:start position:0%
+<c.colorCCCCCC>assign</c><c.colorE5E5E5> the variable to one and so now
+foo<00:00:35.629><c> is</c><00:00:35.929><c> a</c><00:00:35.960><c> type</c><00:00:36.260><c> of</c><00:00:36.289><c> integer</c><00:00:36.859><c> and</c><00:00:37.129><c> then</c><00:00:37.910><c> we</c><00:00:37.999><c> can</c></c>
+
+00:00:38.139 --> 00:00:38.149 align:start position:0%
+foo<c.colorE5E5E5> is a type of integer and then we can
+ </c>
+
+00:00:38.149 --> 00:00:40.569 align:start position:0%
+foo<c.colorE5E5E5> is a type of integer and then we can
+say<00:00:38.359><c> foo</c><00:00:38.749><c> is</c><00:00:38.899><c> equal</c><00:00:39.170><c> to</c><00:00:39.289><c> bar</c><00:00:39.530><c> and</c><00:00:39.859><c> now</c><00:00:40.070><c> foo</c><00:00:40.370><c> is</c><00:00:40.550><c> a</c></c>
+
+00:00:40.569 --> 00:00:40.579 align:start position:0%
+say foo is equal to bar and<c.colorE5E5E5> now foo is a
+ </c>
+
+00:00:40.579 --> 00:00:43.000 align:start position:0%
+say foo is equal to bar and<c.colorE5E5E5> now foo is a
+string<00:00:41.140><c> but</c><00:00:42.140><c> that's</c><00:00:42.350><c> not</c><00:00:42.530><c> allowed</c><00:00:42.829><c> in</c></c>
+
+00:00:43.000 --> 00:00:43.010 align:start position:0%
+string but<c.colorE5E5E5> that's not allowed in
+ </c>
+
+00:00:43.010 --> 00:00:45.459 align:start position:0%
+string but<c.colorE5E5E5> that's not allowed in
+solidity<00:00:43.429><c> in</c><00:00:43.699><c> solidity</c><00:00:44.629><c> you</c><00:00:44.870><c> must</c><00:00:45.170><c> declare</c></c>
+
+00:00:45.459 --> 00:00:45.469 align:start position:0%
+solidity<c.colorE5E5E5> in solidity you must declare
+ </c>
+
+00:00:45.469 --> 00:00:47.950 align:start position:0%
+solidity<c.colorE5E5E5> in solidity you must declare
+the</c><c.colorCCCCCC><00:00:45.530><c> datatype</c></c><c.colorE5E5E5><00:00:46.100><c> and</c><00:00:46.429><c> assign</c></c><c.colorCCCCCC><00:00:46.699><c> it</c><00:00:46.850><c> properly</c></c><c.colorE5E5E5><00:00:47.239><c> so</c></c>
+
+00:00:47.950 --> 00:00:47.960 align:start position:0%
+the<c.colorCCCCCC> datatype</c><c.colorE5E5E5> and assign</c><c.colorCCCCCC> it properly</c><c.colorE5E5E5> so
+ </c>
+
+00:00:47.960 --> 00:00:49.840 align:start position:0%
+the<c.colorCCCCCC> datatype</c><c.colorE5E5E5> and assign</c><c.colorCCCCCC> it properly</c><c.colorE5E5E5> so
+to<00:00:48.019><c> achieve</c><00:00:48.199><c> the</c><00:00:48.499><c> same</c><00:00:48.710><c> thing</c><00:00:49.010><c> we</c><00:00:49.699><c> would</c></c>
+
+00:00:49.840 --> 00:00:49.850 align:start position:0%
+to achieve<c.colorE5E5E5> the same thing we would
+ </c>
+
+00:00:49.850 --> 00:00:52.299 align:start position:0%
+to achieve<c.colorE5E5E5> the same thing we would
+declare<00:00:49.969><c> foo</c><00:00:50.600><c> as</c><00:00:50.899><c> an</c><00:00:51.079><c> unsigned</c></c><c.colorCCCCCC><00:00:51.530><c> integer</c><00:00:52.039><c> and</c></c>
+
+00:00:52.299 --> 00:00:52.309 align:start position:0%
+declare foo as an unsigned<c.colorCCCCCC> integer and
+ </c>
+
+00:00:52.309 --> 00:00:54.250 align:start position:0%
+declare foo as an unsigned<c.colorCCCCCC> integer and
+then<00:00:52.760><c> we</c><00:00:52.879><c> could</c><00:00:53.030><c> assign</c><00:00:53.300><c> foo</c><00:00:53.659><c> the</c><00:00:53.839><c> value</c><00:00:54.170><c> of</c></c>
+
+00:00:54.250 --> 00:00:54.260 align:start position:0%
+then we could assign foo the value of
+ 
+
+00:00:54.260 --> 00:00:56.799 align:start position:0%
+then we could assign foo the value of
+<c.colorE5E5E5>one<00:00:54.530><c> but</c><00:00:55.519><c> that's</c><00:00:55.670><c> it</c><00:00:55.940><c> for</c><00:00:55.969><c> foo</c><00:00:56.300><c> we</c><00:00:56.569><c> can't</c></c>
+
+00:00:56.799 --> 00:00:56.809 align:start position:0%
+<c.colorE5E5E5>one but that's it for foo we can't
+ </c>
+
+00:00:56.809 --> 00:00:59.680 align:start position:0%
+<c.colorE5E5E5>one but that's it for foo we can't
+change<00:00:57.079><c> its</c><00:00:57.260><c> data</c><00:00:57.469><c> type</c><00:00:57.789><c> we</c><00:00:58.789><c> can</c><00:00:58.969><c> also</c><00:00:59.089><c> create</c></c>
+
+00:00:59.680 --> 00:00:59.690 align:start position:0%
+change its data type<c.colorE5E5E5> we can also create
+ </c>
+
+00:00:59.690 --> 00:01:01.959 align:start position:0%
+change its data type<c.colorE5E5E5> we can also create</c>
+<c.colorE5E5E5>a<00:00:59.839><c> variable</c><00:01:00.260><c> called</c><00:01:00.409><c> bar</c><00:01:01.039><c> and</c><00:01:01.460><c> assign</c><00:01:01.819><c> it</c></c><c.colorCCCCCC><00:01:01.850><c> the</c></c>
+
+00:01:01.959 --> 00:01:01.969 align:start position:0%
+<c.colorE5E5E5>a variable called bar and assign it</c><c.colorCCCCCC> the
+ </c>
+
+00:01:01.969 --> 00:01:04.329 align:start position:0%
+<c.colorE5E5E5>a variable called bar and assign it</c><c.colorCCCCCC> the</c>
+<c.colorE5E5E5>data<00:01:02.269><c> type</c><00:01:02.510><c> of</c></c><c.colorCCCCCC><00:01:02.539><c> string</c></c><c.colorE5E5E5><00:01:02.690><c> and</c><00:01:03.379><c> then</c><00:01:04.070><c> we</c><00:01:04.190><c> could</c></c>
+
+00:01:04.329 --> 00:01:04.339 align:start position:0%
+<c.colorE5E5E5>data type of</c><c.colorCCCCCC> string</c><c.colorE5E5E5> and then we could
+ </c>
+
+00:01:04.339 --> 00:01:06.670 align:start position:0%
+<c.colorE5E5E5>data type of</c><c.colorCCCCCC> string</c><c.colorE5E5E5> and then we could
+assign<00:01:04.640><c> the</c><00:01:04.879><c> value</c><00:01:05.269><c> of</c><00:01:05.420><c> some</c><00:01:05.689><c> text</c></c><c.colorCCCCCC><00:01:06.020><c> to</c></c><c.colorE5E5E5><00:01:06.530><c> the</c></c>
+
+00:01:06.670 --> 00:01:06.680 align:start position:0%
+assign the value<c.colorE5E5E5> of some text</c><c.colorCCCCCC> to</c><c.colorE5E5E5> the
+ </c>
+
+00:01:06.680 --> 00:01:08.920 align:start position:0%
+assign the value<c.colorE5E5E5> of some text</c><c.colorCCCCCC> to</c><c.colorE5E5E5> the
+variable<00:01:07.070><c> var</c><00:01:07.450><c> there</c><00:01:08.450><c> are</c><00:01:08.570><c> three</c><00:01:08.780><c> different</c></c>
+
+00:01:08.920 --> 00:01:08.930 align:start position:0%
+variable var there are three different
+ 
+
+00:01:08.930 --> 00:01:11.399 align:start position:0%
+variable var there are three different
+<c.colorCCCCCC>types<00:01:09.110><c> and</c><00:01:09.530><c> solidity</c></c><c.colorE5E5E5><00:01:09.829><c> we</c><00:01:10.640><c> have</c><00:01:10.759><c> value</c><00:01:11.119><c> types</c></c>
+
+00:01:11.399 --> 00:01:11.409 align:start position:0%
+<c.colorCCCCCC>types and solidity</c><c.colorE5E5E5> we have value types
+ </c>
+
+00:01:11.409 --> 00:01:14.980 align:start position:0%
+<c.colorCCCCCC>types and solidity</c><c.colorE5E5E5> we have value types
+reference<00:01:12.409><c> types</c><00:01:12.710><c> and</c><00:01:13.040><c> mappings</c><00:01:13.750><c> value</c><00:01:14.750><c> types</c></c>
+
+00:01:14.980 --> 00:01:14.990 align:start position:0%
+reference types and mappings value types
+ 
+
+00:01:14.990 --> 00:01:17.139 align:start position:0%
+reference types and mappings value types
+are<00:01:15.110><c> the</c><00:01:15.200><c> simplest</c><c.colorCCCCCC><00:01:15.500><c> they</c><00:01:16.250><c> include</c><00:01:16.610><c> billions</c></c>
+
+00:01:17.139 --> 00:01:17.149 align:start position:0%
+are the simplest<c.colorCCCCCC> they include billions
+ </c>
+
+00:01:17.149 --> 00:01:20.830 align:start position:0%
+are the simplest<c.colorCCCCCC> they include billions
+integers<00:01:18.039><c> addresses</c><00:01:19.039><c> strings</c><00:01:19.700><c> and</c><00:01:20.090><c> functions</c></c>
+
+00:01:20.830 --> 00:01:20.840 align:start position:0%
+integers addresses<c.colorCCCCCC> strings and functions
+ </c>
+
+00:01:20.840 --> 00:01:23.170 align:start position:0%
+integers addresses<c.colorCCCCCC> strings and functions
+these</c><c.colorE5E5E5><00:01:21.680><c> are</c><00:01:21.740><c> called</c><00:01:22.039><c> value</c><00:01:22.490><c> types</c><00:01:22.789><c> because</c></c>
+
+00:01:23.170 --> 00:01:23.180 align:start position:0%
+these<c.colorE5E5E5> are called value types because
+ </c>
+
+00:01:23.180 --> 00:01:25.080 align:start position:0%
+these<c.colorE5E5E5> are called value types because</c>
+<c.colorCCCCCC>they<00:01:23.539><c> will</c><00:01:23.689><c> always</c><00:01:24.049><c> be</c><00:01:24.229><c> passed</c><00:01:24.530><c> by</c><00:01:24.799><c> value</c></c>
+
+00:01:25.080 --> 00:01:25.090 align:start position:0%
+<c.colorCCCCCC>they will always be passed by value
+ </c>
+
+00:01:25.090 --> 00:01:27.700 align:start position:0%
+<c.colorCCCCCC>they will always be passed by value</c>
+<c.colorE5E5E5>meaning<00:01:26.090><c> that</c><00:01:26.329><c> they're</c><00:01:26.509><c> always</c><00:01:26.719><c> copied</c><00:01:27.500><c> when</c></c>
+
+00:01:27.700 --> 00:01:27.710 align:start position:0%
+<c.colorE5E5E5>meaning that they're always copied when
+ </c>
+
+00:01:27.710 --> 00:01:29.349 align:start position:0%
+<c.colorE5E5E5>meaning that they're always copied when
+they're<00:01:27.860><c> used</c><00:01:28.130><c> as</c><00:01:28.310><c> a</c><00:01:28.340><c> function</c><00:01:28.789><c> argument</c><00:01:29.240><c> or</c></c>
+
+00:01:29.349 --> 00:01:29.359 align:start position:0%
+they're used as a function argument or
+ 
+
+00:01:29.359 --> 00:01:32.289 align:start position:0%
+they're used as a function argument or
+an<00:01:29.659><c> assignments</c><00:01:30.909><c> reference</c><00:01:31.909><c> types</c><00:01:32.149><c> are</c>
+
+00:01:32.289 --> 00:01:32.299 align:start position:0%
+an assignments reference types are
+ 
+
+00:01:32.299 --> 00:01:33.700 align:start position:0%
+an assignments reference types are
+considered<00:01:32.659><c> complex</c><00:01:33.229><c> types</c>
+
+00:01:33.700 --> 00:01:33.710 align:start position:0%
+considered complex types
+ 
+
+00:01:33.710 --> 00:01:36.209 align:start position:0%
+considered complex types
+<c.colorE5E5E5>these<00:01:34.189><c> include</c><00:01:34.609><c> arrays</c><00:01:34.969><c> and</c></c><c.colorCCCCCC><00:01:35.359><c> Struck's</c></c>
+
+00:01:36.209 --> 00:01:36.219 align:start position:0%
+<c.colorE5E5E5>these include arrays and</c><c.colorCCCCCC> Struck's
+ </c>
+
+00:01:36.219 --> 00:01:38.230 align:start position:0%
+<c.colorE5E5E5>these include arrays and</c><c.colorCCCCCC> Struck's</c>
+<c.colorE5E5E5>declaring<00:01:37.219><c> these</c></c><c.colorCCCCCC><00:01:37.340><c> datatypes</c><00:01:37.850><c> has</c><00:01:38.090><c> an</c></c>
+
+00:01:38.230 --> 00:01:38.240 align:start position:0%
+<c.colorE5E5E5>declaring these</c><c.colorCCCCCC> datatypes has an
+ </c>
+
+00:01:38.240 --> 00:01:41.370 align:start position:0%
+<c.colorE5E5E5>declaring these</c><c.colorCCCCCC> datatypes has an
+additional<00:01:38.780><c> annotation</c><00:01:39.560><c> the</c><00:01:40.310><c> data</c><00:01:40.549><c> location</c></c>
+
+00:01:41.370 --> 00:01:41.380 align:start position:0%
+additional annotation the data location
+ 
+
+00:01:41.380 --> 00:01:44.050 align:start position:0%
+additional annotation the data location
+<c.colorE5E5E5>and<00:01:42.380><c> some</c><00:01:42.560><c> of</c><00:01:42.680><c> the</c><00:01:42.740><c> data</c><00:01:42.920><c> types</c><00:01:43.189><c> have</c><00:01:43.399><c> defaults</c></c>
+
+00:01:44.050 --> 00:01:44.060 align:start position:0%
+<c.colorE5E5E5>and some of the data types have defaults
+ </c>
+
+00:01:44.060 --> 00:01:45.940 align:start position:0%
+<c.colorE5E5E5>and some of the data types have defaults
+but<00:01:44.270><c> it</c><00:01:44.390><c> can</c><00:01:44.600><c> be</c><00:01:44.780><c> overridden</c><00:01:45.320><c> whenever</c><00:01:45.770><c> it's</c></c>
+
+00:01:45.940 --> 00:01:45.950 align:start position:0%
+but it can be overridden whenever it's
+ 
+
+00:01:45.950 --> 00:01:48.520 align:start position:0%
+but it can be overridden whenever it's
+declared<c.colorE5E5E5><00:01:46.399><c> the</c><00:01:47.359><c> possible</c><00:01:47.810><c> values</c></c><c.colorCCCCCC><00:01:48.229><c> for</c></c><c.colorE5E5E5><00:01:48.439><c> the</c></c>
+
+00:01:48.520 --> 00:01:48.530 align:start position:0%
+declared<c.colorE5E5E5> the possible values</c><c.colorCCCCCC> for</c><c.colorE5E5E5> the
+ </c>
+
+00:01:48.530 --> 00:01:51.569 align:start position:0%
+declared<c.colorE5E5E5> the possible values</c><c.colorCCCCCC> for</c><c.colorE5E5E5> the
+data<00:01:48.710><c> location</c></c><c.colorCCCCCC><00:01:49.070><c> are</c><00:01:49.460><c> memory</c><00:01:50.179><c> or</c><00:01:50.450><c> storage</c></c>
+
+00:01:51.569 --> 00:01:51.579 align:start position:0%
+data location<c.colorCCCCCC> are memory or storage
+ </c>
+
+00:01:51.579 --> 00:01:54.310 align:start position:0%
+data location<c.colorCCCCCC> are memory or storage</c>
+<c.colorE5E5E5>mapping<00:01:52.579><c> types</c><00:01:52.820><c> are</c><00:01:53.000><c> used</c><00:01:53.270><c> to</c><00:01:53.479><c> map</c><00:01:53.659><c> a</c><00:01:53.689><c> key</c><00:01:54.049><c> to</c><00:01:54.289><c> a</c></c>
+
+00:01:54.310 --> 00:01:54.320 align:start position:0%
+<c.colorE5E5E5>mapping types are used to map a key to a
+ </c>
+
+00:01:54.320 --> 00:01:56.590 align:start position:0%
+<c.colorE5E5E5>mapping types are used to map a key to a
+value<00:01:54.799><c> one</c><00:01:55.640><c> way</c><00:01:55.789><c> to</c></c><c.colorCCCCCC><00:01:55.850><c> think</c><00:01:56.119><c> of</c><00:01:56.270><c> them</c><00:01:56.450><c> is</c></c>
+
+00:01:56.590 --> 00:01:56.600 align:start position:0%
+value one way to<c.colorCCCCCC> think of them is
+ </c>
+
+00:01:56.600 --> 00:01:58.270 align:start position:0%
+value one way to<c.colorCCCCCC> think of them is
+similar<00:01:56.960><c> to</c><00:01:57.079><c> a</c><00:01:57.109><c> hash</c><00:01:57.439><c> table</c><00:01:57.950><c> that</c></c><c.colorE5E5E5><00:01:57.979><c> is</c></c>
+
+00:01:58.270 --> 00:01:58.280 align:start position:0%
+similar to a hash<c.colorCCCCCC> table that</c><c.colorE5E5E5> is
+ </c>
+
+00:01:58.280 --> 00:02:00.580 align:start position:0%
+similar to a hash<c.colorCCCCCC> table that</c><c.colorE5E5E5> is
+initialized<00:01:58.880><c> with</c><00:01:59.179><c> every</c><00:01:59.539><c> possible</c><00:01:59.780><c> key</c><00:02:00.320><c> when</c></c>
+
+00:02:00.580 --> 00:02:00.590 align:start position:0%
+initialized with every possible<c.colorE5E5E5> key when
+ </c>
+
+00:02:00.590 --> 00:02:02.830 align:start position:0%
+initialized with every possible<c.colorE5E5E5> key when
+it's<00:02:00.710><c> created</c><00:02:01.280><c> it's</c><00:02:02.119><c> not</c><00:02:02.270><c> exactly</c><00:02:02.630><c> like</c><00:02:02.810><c> a</c></c>
+
+00:02:02.830 --> 00:02:02.840 align:start position:0%
+it's<c.colorE5E5E5> created it's not exactly like a
+ </c>
+
+00:02:02.840 --> 00:02:04.690 align:start position:0%
+it's<c.colorE5E5E5> created it's not exactly like a
+hash<00:02:03.140><c> table</c><00:02:03.409><c> though</c><00:02:03.710><c> because</c><00:02:03.950><c> the</c><00:02:04.249><c> key</c><00:02:04.429><c> data</c></c>
+
+00:02:04.690 --> 00:02:04.700 align:start position:0%
+hash table though because<c.colorE5E5E5> the key data
+ </c>
+
+00:02:04.700 --> 00:02:06.550 align:start position:0%
+hash table though because<c.colorE5E5E5> the key data
+isn't<00:02:04.939><c> actually</c><00:02:05.509><c> stored</c><00:02:05.869><c> in</c><00:02:06.140><c> the</c><00:02:06.320><c> mapping</c></c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+isn't<c.colorE5E5E5> actually stored in the mapping
+ </c>
+
+00:02:06.560 --> 00:02:09.009 align:start position:0%
+isn't<c.colorE5E5E5> actually stored in the mapping</c>
+<c.colorE5E5E5>only<00:02:07.340><c> its</c><00:02:07.490><c> hash</c><00:02:07.729><c> can</c><00:02:08.060><c> be</c><00:02:08.179><c> used</c><00:02:08.450><c> to</c><00:02:08.599><c> look</c><00:02:08.720><c> up</c><00:02:08.840><c> a</c></c>
+
+00:02:09.009 --> 00:02:09.019 align:start position:0%
+<c.colorE5E5E5>only its hash can be used to look up a
+ </c>
+
+00:02:09.019 --> 00:02:11.259 align:start position:0%
+<c.colorE5E5E5>only its hash can be used to look up a
+value<00:02:09.310><c> one</c><00:02:10.310><c> other</c><00:02:10.489><c> way</c><00:02:10.670><c> they're</c><00:02:10.970><c> different</c></c>
+
+00:02:11.259 --> 00:02:11.269 align:start position:0%
+value<c.colorE5E5E5> one other way they're different
+ </c>
+
+00:02:11.269 --> 00:02:13.089 align:start position:0%
+value<c.colorE5E5E5> one other way they're different</c>
+<c.colorE5E5E5>from<00:02:11.569><c> hash</c><00:02:11.780><c> tables</c><00:02:12.200><c> is</c><00:02:12.290><c> you</c><00:02:12.409><c> can't</c><00:02:12.650><c> iterate</c></c>
+
+00:02:13.089 --> 00:02:13.099 align:start position:0%
+<c.colorE5E5E5>from hash tables is you can't iterate
+ </c>
+
+00:02:13.099 --> 00:02:14.120 align:start position:0%
+<c.colorE5E5E5>from hash tables is you can't iterate
+over<00:02:13.129><c> them</c><00:02:13.519><c> either</c></c>
+
+00:02:14.120 --> 00:02:14.130 align:start position:0%
+over them either
+ 
+
+00:02:14.130 --> 00:02:16.820 align:start position:0%
+over them either
+as<00:02:14.850><c> a</c><c.colorE5E5E5><00:02:14.880><c> simple</c><00:02:15.300><c> example</c><00:02:15.510><c> you</c><00:02:16.140><c> can</c><00:02:16.320><c> see</c><00:02:16.500><c> here</c></c>
+
+00:02:16.820 --> 00:02:16.830 align:start position:0%
+as a<c.colorE5E5E5> simple example you can see here
+ </c>
+
+00:02:16.830 --> 00:02:18.560 align:start position:0%
+as a<c.colorE5E5E5> simple example you can see here
+that<00:02:16.890><c> have</c><00:02:17.130><c> created</c></c><c.colorCCCCCC><00:02:17.340><c> a</c><00:02:17.550><c> mapping</c><00:02:18.030><c> that</c><00:02:18.180><c> map's</c></c>
+
+00:02:18.560 --> 00:02:18.570 align:start position:0%
+that<c.colorE5E5E5> have created</c><c.colorCCCCCC> a mapping that map's
+ </c>
+
+00:02:18.570 --> 00:02:20.480 align:start position:0%
+that<c.colorE5E5E5> have created</c><c.colorCCCCCC> a mapping that map's
+an<00:02:18.780><c> aetherium</c><00:02:19.230><c> address</c><00:02:19.650><c> to</c><00:02:19.920><c> an</c><00:02:20.040><c> unsigned</c></c>
+
+00:02:20.480 --> 00:02:20.490 align:start position:0%
+<c.colorCCCCCC>an aetherium address to an unsigned
+ </c>
+
+00:02:20.490 --> 00:02:22.790 align:start position:0%
+<c.colorCCCCCC>an aetherium address to an unsigned
+integer<00:02:20.700><c> and</c><00:02:21.210><c> given</c><00:02:21.960><c> it</c><00:02:22.050><c> the</c><00:02:22.140><c> variable</c><00:02:22.590><c> name</c></c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+integer<c.colorCCCCCC> and given it the variable name
+ </c>
+
+00:02:22.800 --> 00:02:25.190 align:start position:0%
+integer<c.colorCCCCCC> and given it the variable name
+of<00:02:23.010><c> balances</c><00:02:23.640><c> so</c><00:02:24.510><c> mappings</c></c><c.colorE5E5E5><00:02:24.900><c> are</c><00:02:25.020><c> pretty</c></c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+of balances so mappings<c.colorE5E5E5> are pretty
+ </c>
+
+00:02:25.200 --> 00:02:27.140 align:start position:0%
+of balances so mappings<c.colorE5E5E5> are pretty
+complex<00:02:25.620><c> to</c><00:02:25.800><c> understand</c><00:02:26.340><c> so</c><00:02:26.610><c> let's</c><00:02:26.820><c> go</c></c><c.colorCCCCCC><00:02:26.970><c> back</c></c>
+
+00:02:27.140 --> 00:02:27.150 align:start position:0%
+complex<c.colorE5E5E5> to understand so let's go</c><c.colorCCCCCC> back
+ </c>
+
+00:02:27.150 --> 00:02:28.670 align:start position:0%
+complex<c.colorE5E5E5> to understand so let's go</c><c.colorCCCCCC> back</c>
+<c.colorE5E5E5>to<00:02:27.240><c> the</c><00:02:27.330><c> basics</c><00:02:27.780><c> and</c><00:02:27.960><c> then</c><00:02:28.110><c> we'll</c><00:02:28.290><c> come</c></c><c.colorCCCCCC><00:02:28.500><c> back</c></c>
+
+00:02:28.670 --> 00:02:28.680 align:start position:0%
+<c.colorE5E5E5>to the basics and then we'll come</c><c.colorCCCCCC> back
+ </c>
+
+00:02:28.680 --> 00:02:30.200 align:start position:0%
+<c.colorE5E5E5>to the basics and then we'll come</c><c.colorCCCCCC> back
+to<00:02:28.860><c> almost</c><00:02:29.160><c> we</c><00:02:29.310><c> have</c><00:02:29.460><c> a</c><00:02:29.490><c> deeper</c><00:02:29.850><c> level</c></c><c.colorE5E5E5><00:02:29.970><c> of</c></c>
+
+00:02:30.200 --> 00:02:30.210 align:start position:0%
+to<c.colorCCCCCC> almost we have a deeper level</c><c.colorE5E5E5> of
+ </c>
+
+00:02:30.210 --> 00:02:32.690 align:start position:0%
+to<c.colorCCCCCC> almost we have a deeper level</c><c.colorE5E5E5> of</c>
+<c.colorCCCCCC>understanding</c><c.colorE5E5E5><00:02:31.010><c> for</c></c><c.colorCCCCCC><00:02:32.010><c> your</c><00:02:32.130><c> reference</c><00:02:32.520><c> though</c></c>
+
+00:02:32.690 --> 00:02:32.700 align:start position:0%
+<c.colorCCCCCC>understanding</c><c.colorE5E5E5> for</c><c.colorCCCCCC> your reference though
+ </c>
+
+00:02:32.700 --> 00:02:34.730 align:start position:0%
+<c.colorCCCCCC>understanding</c><c.colorE5E5E5> for</c><c.colorCCCCCC> your reference though
+a<00:02:32.730><c> complete</c><00:02:33.360><c> list</c><00:02:33.600><c> of</c><00:02:33.780><c> the</c><00:02:33.900><c> types</c><00:02:34.170><c> available</c></c>
+
+00:02:34.730 --> 00:02:34.740 align:start position:0%
+a complete list of the types<c.colorCCCCCC> available
+ </c>
+
+00:02:34.740 --> 00:02:37.130 align:start position:0%
+a complete list of the types<c.colorCCCCCC> available
+in<00:02:34.860><c> solidity</c><00:02:35.280><c> can</c><00:02:35.760><c> be</c><00:02:35.880><c> found</c><00:02:36.180><c> at</c><00:02:36.510><c> solidity</c></c>
+
+00:02:37.130 --> 00:02:37.140 align:start position:0%
+<c.colorCCCCCC>in solidity can be found at solidity
+ </c>
+
+00:02:37.140 --> 00:02:40.040 align:start position:0%
+<c.colorCCCCCC>in solidity can be found at solidity</c>
+<c.colorE5E5E5>read<00:02:37.680><c> the</c><00:02:37.800><c> docs</c></c><c.colorCCCCCC><00:02:38.040><c> eye</c><00:02:38.190><c> oh</c><00:02:38.840><c> we're</c><00:02:39.840><c> going</c><00:02:39.960><c> to</c><00:02:39.990><c> be</c></c>
+
+00:02:40.040 --> 00:02:40.050 align:start position:0%
+<c.colorE5E5E5>read the docs</c><c.colorCCCCCC> eye oh we're going to be
+ </c>
+
+00:02:40.050 --> 00:02:41.570 align:start position:0%
+<c.colorE5E5E5>read the docs</c><c.colorCCCCCC> eye oh we're going to be</c>
+<c.colorE5E5E5>using<00:02:40.380><c> some</c><00:02:40.530><c> of</c><00:02:40.560><c> the</c><00:02:40.680><c> common</c><00:02:41.040><c> ones</c><00:02:41.220><c> throughout</c></c>
+
+00:02:41.570 --> 00:02:41.580 align:start position:0%
+<c.colorE5E5E5>using some of the common ones throughout
+ </c>
+
+00:02:41.580 --> 00:02:43.750 align:start position:0%
+<c.colorE5E5E5>using some of the common ones throughout
+this<00:02:41.730><c> video</c><00:02:42.060><c> as</c><00:02:42.360><c> we</c><00:02:42.510><c> build</c><00:02:42.690><c> out</c></c><c.colorCCCCCC><00:02:42.870><c> our</c><00:02:43.020><c> functions</c></c>
+
+00:02:43.750 --> 00:02:43.760 align:start position:0%
+this<c.colorE5E5E5> video as we build out</c><c.colorCCCCCC> our functions
+ </c>
+
+00:02:43.760 --> 00:02:46.100 align:start position:0%
+this<c.colorE5E5E5> video as we build out</c><c.colorCCCCCC> our functions
+our<00:02:44.760><c> first</c><00:02:45.060><c> variable</c></c><c.colorE5E5E5><00:02:45.420><c> for</c><00:02:45.750><c> our</c><00:02:45.780><c> smart</c></c>
+
+00:02:46.100 --> 00:02:46.110 align:start position:0%
+our first variable<c.colorE5E5E5> for our smart
+ </c>
+
+00:02:46.110 --> 00:02:47.890 align:start position:0%
+our first variable<c.colorE5E5E5> for our smart
+contract<00:02:46.620><c> is</c><00:02:46.770><c> going</c></c><c.colorCCCCCC><00:02:46.860><c> to</c></c><c.colorE5E5E5><00:02:46.980><c> be</c><00:02:47.130><c> a</c><00:02:47.160><c> struct</c><00:02:47.670><c> a</c></c>
+
+00:02:47.890 --> 00:02:47.900 align:start position:0%
+contract is going<c.colorCCCCCC> to</c><c.colorE5E5E5> be a struct a
+ </c>
+
+00:02:47.900 --> 00:02:50.240 align:start position:0%
+contract is going<c.colorCCCCCC> to</c><c.colorE5E5E5> be a struct a
+struct<00:02:48.900><c> is</c><00:02:49.050><c> a</c><00:02:49.080><c> data</c><00:02:49.350><c> type</c></c><c.colorCCCCCC><00:02:49.560><c> that</c><00:02:49.800><c> allows</c><00:02:50.040><c> you</c><00:02:50.190><c> to</c></c>
+
+00:02:50.240 --> 00:02:50.250 align:start position:0%
+struct is a data<c.colorE5E5E5> type</c><c.colorCCCCCC> that allows you to
+ </c>
+
+00:02:50.250 --> 00:02:52.880 align:start position:0%
+struct is a data<c.colorE5E5E5> type</c><c.colorCCCCCC> that allows you to</c>
+<c.colorE5E5E5>define<00:02:50.640><c> new</c><00:02:50.970><c> data</c><00:02:51.210><c> types</c><00:02:51.530><c> think</c><00:02:52.530><c> of</c><00:02:52.680><c> it</c><00:02:52.770><c> as</c></c>
+
+00:02:52.880 --> 00:02:52.890 align:start position:0%
+<c.colorE5E5E5>define new data types think of it as
+ </c>
+
+00:02:52.890 --> 00:02:55.310 align:start position:0%
+<c.colorE5E5E5>define new data types think of it as
+inception</c><c.colorCCCCCC><00:02:53.520><c> for</c><00:02:53.730><c> solidity</c><00:02:54.120><c> to</c><00:02:54.960><c> define</c><00:02:55.290><c> a</c></c>
+
+00:02:55.310 --> 00:02:55.320 align:start position:0%
+<c.colorE5E5E5>inception</c><c.colorCCCCCC> for solidity to define a
+ </c>
+
+00:02:55.320 --> 00:02:56.990 align:start position:0%
+<c.colorE5E5E5>inception</c><c.colorCCCCCC> for solidity to define a
+struct<00:02:55.710><c> we</c><00:02:55.830><c> use</c><00:02:56.010><c> the</c><00:02:56.190><c> keyword</c></c><c.colorE5E5E5><00:02:56.460><c> struct</c></c>
+
+00:02:56.990 --> 00:02:57.000 align:start position:0%
+struct we use the keyword<c.colorE5E5E5> struct
+ </c>
+
+00:02:57.000 --> 00:02:59.120 align:start position:0%
+struct we use the keyword<c.colorE5E5E5> struct
+followed<00:02:57.900><c> by</c><00:02:58.020><c> the</c><00:02:58.080><c> name</c></c><c.colorCCCCCC><00:02:58.350><c> of</c></c><c.colorE5E5E5><00:02:58.530><c> the</c><00:02:58.650><c> struct</c><00:02:58.980><c> and</c></c>
+
+00:02:59.120 --> 00:02:59.130 align:start position:0%
+<c.colorE5E5E5>followed by the name</c><c.colorCCCCCC> of</c><c.colorE5E5E5> the struct and
+ </c>
+
+00:02:59.130 --> 00:03:00.680 align:start position:0%
+<c.colorE5E5E5>followed by the name</c><c.colorCCCCCC> of</c><c.colorE5E5E5> the struct and
+we<00:02:59.370><c> follow</c><00:02:59.580><c> that</c><00:02:59.790><c> up</c></c><c.colorCCCCCC><00:02:59.850><c> with</c><00:03:00.000><c> a</c><00:03:00.150><c> set</c><00:03:00.390><c> of</c><00:03:00.480><c> curly</c></c>
+
+00:03:00.680 --> 00:03:00.690 align:start position:0%
+<c.colorE5E5E5>we follow that up</c><c.colorCCCCCC> with a set of curly
+ </c>
+
+00:03:00.690 --> 00:03:03.380 align:start position:0%
+<c.colorE5E5E5>we follow that up</c><c.colorCCCCCC> with a set of curly
+braces</c><c.colorE5E5E5><00:03:00.950><c> the</c><00:03:01.950><c> struct</c><00:03:02.280><c> we're</c><00:03:02.460><c> creating</c><00:03:02.910><c> is</c><00:03:03.060><c> for</c></c>
+
+00:03:03.380 --> 00:03:03.390 align:start position:0%
+braces<c.colorE5E5E5> the struct we're creating is for
+ </c>
+
+00:03:03.390 --> 00:03:04.760 align:start position:0%
+braces<c.colorE5E5E5> the struct we're creating is for
+the<00:03:03.480><c> items</c></c><c.colorCCCCCC><00:03:03.840><c> that</c><00:03:03.990><c> will</c><00:03:04.080><c> be</c><00:03:04.110><c> available</c><00:03:04.710><c> for</c></c>
+
+00:03:04.760 --> 00:03:04.770 align:start position:0%
+the items<c.colorCCCCCC> that will be available for
+ </c>
+
+00:03:04.770 --> 00:03:07.850 align:start position:0%
+the items<c.colorCCCCCC> that will be available for</c>
+<c.colorCCCCCC>purchase<00:03:05.100><c> in</c><00:03:05.490><c> our</c><00:03:05.580><c> online</c><00:03:06.030><c> marketplace</c><00:03:06.860><c> let's</c></c>
+
+00:03:07.850 --> 00:03:07.860 align:start position:0%
+<c.colorCCCCCC>purchase in our online marketplace let's
+ </c>
+
+00:03:07.860 --> 00:03:09.800 align:start position:0%
+<c.colorCCCCCC>purchase in our online marketplace let's</c>
+<c.colorE5E5E5>look<00:03:08.040><c> at</c><00:03:08.100><c> the</c><00:03:08.220><c> UI</c><00:03:08.370><c> to</c><00:03:08.580><c> get</c><00:03:08.880><c> an</c><00:03:09.000><c> idea</c><00:03:09.390><c> of</c><00:03:09.450><c> what</c></c>
+
+00:03:09.800 --> 00:03:09.810 align:start position:0%
+<c.colorE5E5E5>look at the UI to get an idea of what
+ </c>
+
+00:03:09.810 --> 00:03:11.860 align:start position:0%
+<c.colorE5E5E5>look at the UI to get an idea of what
+we're<00:03:09.960><c> gonna</c><00:03:10.020><c> need</c><00:03:10.230><c> inside</c><00:03:10.710><c> of</c><00:03:10.860><c> our</c><00:03:10.980><c> struck</c><00:03:11.310><c> on</c></c>
+
+00:03:11.860 --> 00:03:11.870 align:start position:0%
+we're gonna need inside<c.colorE5E5E5> of our struck on
+ </c>
+
+00:03:11.870 --> 00:03:14.890 align:start position:0%
+we're gonna need inside<c.colorE5E5E5> of our struck on
+our<00:03:12.870><c> UI</c><00:03:13.050><c> we</c><00:03:13.410><c> have</c><00:03:13.590><c> the</c><00:03:13.740><c> name</c><00:03:13.920><c> of</c></c><c.colorCCCCCC><00:03:13.950><c> the</c><00:03:14.190><c> item</c><00:03:14.340><c> a</c></c>
+
+00:03:14.890 --> 00:03:14.900 align:start position:0%
+our UI we have the name of<c.colorCCCCCC> the item a
+ </c>
+
+00:03:14.900 --> 00:03:19.250 align:start position:0%
+our UI we have the name of<c.colorCCCCCC> the item a
+description</c><c.colorE5E5E5><00:03:15.900><c> a</c><00:03:16.340><c> price</c><00:03:17.340><c> and</c><00:03:18.050><c> indicators</c><00:03:19.050><c> to</c></c>
+
+00:03:19.250 --> 00:03:19.260 align:start position:0%
+description<c.colorE5E5E5> a price and indicators to
+ </c>
+
+00:03:19.260 --> 00:03:20.660 align:start position:0%
+description<c.colorE5E5E5> a price and indicators to
+tell<00:03:19.440><c> us</c><00:03:19.590><c> whether</c><00:03:19.800><c> it's</c><00:03:20.010><c> been</c><00:03:20.160><c> shipped</c><00:03:20.490><c> and</c></c>
+
+00:03:20.660 --> 00:03:20.670 align:start position:0%
+tell us whether it's been shipped and
+ 
+
+00:03:20.670 --> 00:03:23.750 align:start position:0%
+tell us whether it's been shipped and
+received<00:03:21.140><c> not</c><00:03:22.140><c> shown</c><c.colorCCCCCC><00:03:22.470><c> on</c><00:03:22.620><c> the</c><00:03:22.710><c> UI</c><00:03:22.890><c> but</c><00:03:23.340><c> equally</c></c>
+
+00:03:23.750 --> 00:03:23.760 align:start position:0%
+received not shown<c.colorCCCCCC> on the UI but equally
+ </c>
+
+00:03:23.760 --> 00:03:25.910 align:start position:0%
+received not shown<c.colorCCCCCC> on the UI but equally
+important<00:03:24.180><c> to</c><00:03:24.300><c> us</c><00:03:24.450><c> is</c><00:03:24.630><c> the</c><00:03:25.110><c> etherium</c><00:03:25.590><c> address</c></c>
+
+00:03:25.910 --> 00:03:25.920 align:start position:0%
+important<c.colorCCCCCC> to us is the etherium address
+ </c>
+
+00:03:25.920 --> 00:03:28.220 align:start position:0%
+important<c.colorCCCCCC> to us is the etherium address
+of<00:03:26.100><c> the</c><00:03:26.190><c> seller</c><00:03:26.490><c> and</c><00:03:26.610><c> the</c><00:03:26.850><c> buyer</c><00:03:27.150><c> and</c><00:03:27.720><c> we</c></c>
+
+00:03:28.220 --> 00:03:28.230 align:start position:0%
+of the seller and<c.colorCCCCCC> the buyer and we
+ </c>
+
+00:03:28.230 --> 00:03:30.770 align:start position:0%
+of the seller and<c.colorCCCCCC> the buyer and we
+should<00:03:28.380><c> also</c><00:03:28.530><c> have</c><00:03:28.680><c> an</c><00:03:28.950><c> ID</c></c><c.colorE5E5E5><00:03:29.160><c> for</c><00:03:29.520><c> the</c><00:03:29.610><c> item</c><00:03:29.910><c> so</c></c>
+
+00:03:30.770 --> 00:03:30.780 align:start position:0%
+should also have<c.colorCCCCCC> an ID</c><c.colorE5E5E5> for the item so
+ </c>
+
+00:03:30.780 --> 00:03:32.510 align:start position:0%
+should also have<c.colorCCCCCC> an ID</c><c.colorE5E5E5> for the item so
+our<00:03:30.870><c> struct</c><00:03:31.200><c> is</c><00:03:31.350><c> gonna</c><00:03:31.530><c> have</c><00:03:31.710><c> the</c><00:03:31.860><c> following</c><00:03:32.220><c> a</c></c>
+
+00:03:32.510 --> 00:03:32.520 align:start position:0%
+our struct is<c.colorE5E5E5> gonna have the following a
+ </c>
+
+00:03:32.520 --> 00:03:35.870 align:start position:0%
+our struct is<c.colorE5E5E5> gonna have the following a
+type</c><c.colorCCCCCC><00:03:33.390><c> of</c><00:03:33.570><c> address</c></c><c.colorE5E5E5><00:03:33.810><c> named</c><00:03:34.320><c> seller</c><00:03:34.680><c> and</c><00:03:35.010><c> an</c></c>
+
+00:03:35.870 --> 00:03:35.880 align:start position:0%
+type<c.colorCCCCCC> of address</c><c.colorE5E5E5> named seller and an
+ </c>
+
+00:03:35.880 --> 00:03:37.760 align:start position:0%
+type<c.colorCCCCCC> of address</c><c.colorE5E5E5> named seller and an</c>
+<c.colorCCCCCC>address</c><c.colorE5E5E5><00:03:36.240><c> type</c><00:03:36.450><c> in</c><00:03:36.630><c> solidity</c></c><c.colorCCCCCC><00:03:37.080><c> is</c><00:03:37.320><c> a</c><00:03:37.350><c> data</c><00:03:37.680><c> type</c></c>
+
+00:03:37.760 --> 00:03:37.770 align:start position:0%
+<c.colorCCCCCC>address</c><c.colorE5E5E5> type in solidity</c><c.colorCCCCCC> is a data type
+ </c>
+
+00:03:37.770 --> 00:03:40.220 align:start position:0%
+<c.colorCCCCCC>address</c><c.colorE5E5E5> type in solidity</c><c.colorCCCCCC> is a data type</c>
+<c.colorCCCCCC>used<00:03:38.280><c> to</c></c><c.colorE5E5E5><00:03:38.400><c> store</c></c><c.colorCCCCCC><00:03:38.490><c> in</c></c><c.colorE5E5E5><00:03:38.850><c> aetherium</c><00:03:39.210><c> address</c><00:03:39.750><c> such</c></c>
+
+00:03:40.220 --> 00:03:40.230 align:start position:0%
+<c.colorCCCCCC>used to</c><c.colorE5E5E5> store</c><c.colorCCCCCC> in</c><c.colorE5E5E5> aetherium address such
+ </c>
+
+00:03:40.230 --> 00:03:42.110 align:start position:0%
+<c.colorCCCCCC>used to</c><c.colorE5E5E5> store</c><c.colorCCCCCC> in</c><c.colorE5E5E5> aetherium address such
+as<00:03:40.260><c> the</c><00:03:40.500><c> address</c><00:03:40.860><c> of</c><00:03:41.040><c> a</c><00:03:41.130><c> user</c><00:03:41.370><c> or</c><00:03:41.490><c> smart</c></c>
+
+00:03:42.110 --> 00:03:42.120 align:start position:0%
+as<c.colorE5E5E5> the address of a user or smart
+ </c>
+
+00:03:42.120 --> 00:03:44.360 align:start position:0%
+as<c.colorE5E5E5> the address of a user or smart</c>
+<c.colorCCCCCC>contract<00:03:42.600><c> on</c><00:03:42.780><c> the</c><00:03:42.959><c> etherium</c></c><c.colorE5E5E5><00:03:43.350><c> network</c><00:03:43.650><c> we'll</c></c>
+
+00:03:44.360 --> 00:03:44.370 align:start position:0%
+<c.colorCCCCCC>contract on the etherium</c><c.colorE5E5E5> network we'll
+ </c>
+
+00:03:44.370 --> 00:03:46.630 align:start position:0%
+<c.colorCCCCCC>contract on the etherium</c><c.colorE5E5E5> network we'll
+have<00:03:44.520><c> another</c><00:03:44.730><c> address</c><00:03:44.940><c> for</c><00:03:45.570><c> the</c><00:03:45.660><c> buyer</c><00:03:45.900><c> an</c></c>
+
+00:03:46.630 --> 00:03:46.640 align:start position:0%
+have another address for the buyer an
+ 
+
+00:03:46.640 --> 00:03:50.600 align:start position:0%
+have another address for the buyer an
+unsigned<00:03:47.640><c> integer</c><00:03:47.880><c> named</c><00:03:48.570><c> item</c><00:03:49.170><c> ID</c><c.colorE5E5E5><00:03:49.610><c> that</c></c>
+
+00:03:50.600 --> 00:03:50.610 align:start position:0%
+unsigned integer named item ID<c.colorE5E5E5> that
+ </c>
+
+00:03:50.610 --> 00:03:52.130 align:start position:0%
+unsigned integer named item ID<c.colorE5E5E5> that
+we'll<00:03:50.760><c> use</c><00:03:50.790><c> to</c><00:03:51.000><c> give</c><00:03:51.300><c> each</c><00:03:51.480><c> product</c><00:03:51.959><c> on</c><00:03:52.050><c> the</c></c>
+
+00:03:52.130 --> 00:03:52.140 align:start position:0%
+we'll use to<c.colorE5E5E5> give each product on the
+ </c>
+
+00:03:52.140 --> 00:03:54.830 align:start position:0%
+we'll use to<c.colorE5E5E5> give each product on the</c>
+<c.colorCCCCCC>market<00:03:52.470><c> place</c><00:03:52.590><c> a</c><00:03:52.800><c> unique</c><00:03:53.130><c> ID</c><00:03:53.370><c> a</c><00:03:53.790><c> string</c><00:03:54.660><c> to</c></c>
+
+00:03:54.830 --> 00:03:54.840 align:start position:0%
+<c.colorCCCCCC>market place a unique ID a string to
+ </c>
+
+00:03:54.840 --> 00:03:57.260 align:start position:0%
+<c.colorCCCCCC>market place a unique ID a string to
+store<00:03:55.080><c> the</c><00:03:55.200><c> item</c><00:03:55.500><c> name</c><00:03:55.770><c> another</c><00:03:56.670><c> string</c><00:03:57.060><c> for</c></c>
+
+00:03:57.260 --> 00:03:57.270 align:start position:0%
+store the item name another string for
+ 
+
+00:03:57.270 --> 00:03:58.809 align:start position:0%
+store the item name another string for
+the<c.colorCCCCCC><00:03:57.330><c> description</c></c>
+
+00:03:58.809 --> 00:03:58.819 align:start position:0%
+the<c.colorCCCCCC> description
+ </c>
+
+00:03:58.819 --> 00:04:01.059 align:start position:0%
+the<c.colorCCCCCC> description
+an<00:03:58.900><c> unsigned</c><00:03:59.900><c> integer</c><00:04:00.319><c> to</c><00:04:00.439><c> store</c><00:04:00.709><c> the</c><00:04:00.799><c> price</c></c>
+
+00:04:01.059 --> 00:04:01.069 align:start position:0%
+an unsigned<c.colorCCCCCC> integer to store the price
+ </c>
+
+00:04:01.069 --> 00:04:03.399 align:start position:0%
+an unsigned<c.colorCCCCCC> integer to store the price</c>
+<c.colorE5E5E5>and<00:04:01.459><c> I</c><00:04:01.760><c> know</c><00:04:01.879><c> what</c><00:04:01.999><c> you're</c><00:04:02.120><c> thinking</c><00:04:02.480><c> what</c><00:04:03.319><c> if</c></c>
+
+00:04:03.399 --> 00:04:03.409 align:start position:0%
+<c.colorE5E5E5>and I know what you're thinking what if
+ </c>
+
+00:04:03.409 --> 00:04:04.959 align:start position:0%
+<c.colorE5E5E5>and I know what you're thinking what if
+I<00:04:03.499><c> want</c><00:04:03.680><c> to</c><00:04:03.739><c> sell</c><00:04:03.950><c> an</c><00:04:04.099><c> item</c><00:04:04.280><c> for</c><00:04:04.609><c> a</c><00:04:04.670><c> price</c><00:04:04.939><c> that</c></c>
+
+00:04:04.959 --> 00:04:04.969 align:start position:0%
+I want to<c.colorE5E5E5> sell an item for a price that
+ </c>
+
+00:04:04.969 --> 00:04:08.349 align:start position:0%
+I want to<c.colorE5E5E5> sell an item for a price that</c>
+<c.colorE5E5E5>isn't<00:04:05.510><c> an</c><00:04:05.629><c> integer</c><00:04:05.870><c> like</c><00:04:06.319><c> 1.5</c></c><c.colorCCCCCC><00:04:07.010><c> either</c><00:04:07.430><c> but</c></c>
+
+00:04:08.349 --> 00:04:08.359 align:start position:0%
+<c.colorE5E5E5>isn't an integer like 1.5</c><c.colorCCCCCC> either but
+ </c>
+
+00:04:08.359 --> 00:04:10.869 align:start position:0%
+<c.colorE5E5E5>isn't an integer like 1.5</c><c.colorCCCCCC> either but
+we're<00:04:08.540><c> gonna</c><00:04:08.629><c> store</c><00:04:08.989><c> the</c><00:04:09.139><c> price</c><00:04:09.439><c> in</c><00:04:09.829><c> way</c><00:04:10.159><c> it's</c></c>
+
+00:04:10.869 --> 00:04:10.879 align:start position:0%
+we're gonna store the price in way it's
+ 
+
+00:04:10.879 --> 00:04:13.030 align:start position:0%
+we're gonna store the price in way it's
+the<00:04:11.090><c> smallest</c><00:04:11.450><c> denomination</c><00:04:12.200><c> of</c><00:04:12.469><c> ether</c><00:04:12.859><c> and</c>
+
+00:04:13.030 --> 00:04:13.040 align:start position:0%
+the smallest denomination of ether and
+ 
+
+00:04:13.040 --> 00:04:16.420 align:start position:0%
+the smallest denomination of ether and
+one<00:04:13.700><c> way</c><c.colorE5E5E5><00:04:13.909><c> is</c></c><c.colorCCCCCC><00:04:14.209><c> 1</c><00:04:14.510><c> times</c></c><c.colorE5E5E5><00:04:14.840><c> 10</c><00:04:15.170><c> to</c><00:04:15.319><c> the</c><00:04:15.379><c> 18th</c></c><c.colorCCCCCC><00:04:15.950><c> of</c><00:04:16.250><c> an</c></c>
+
+00:04:16.420 --> 00:04:16.430 align:start position:0%
+one way<c.colorE5E5E5> is</c><c.colorCCCCCC> 1 times</c><c.colorE5E5E5> 10 to the 18th</c><c.colorCCCCCC> of an
+ </c>
+
+00:04:16.430 --> 00:04:18.249 align:start position:0%
+one way<c.colorE5E5E5> is</c><c.colorCCCCCC> 1 times</c><c.colorE5E5E5> 10 to the 18th</c><c.colorCCCCCC> of an
+ether<00:04:16.820><c> and</c><00:04:17.299><c> since</c><00:04:17.539><c> there's</c><00:04:17.690><c> nothing</c><00:04:17.810><c> smaller</c></c>
+
+00:04:18.249 --> 00:04:18.259 align:start position:0%
+ether and since there's nothing smaller
+ 
+
+00:04:18.259 --> 00:04:20.620 align:start position:0%
+ether and since there's nothing smaller
+than<c.colorE5E5E5><00:04:18.470><c> one</c><00:04:18.680><c> way</c><00:04:18.889><c> an</c><00:04:19.190><c> integer</c><00:04:19.880><c> will</c><00:04:20.180><c> be</c><00:04:20.299><c> just</c></c>
+
+00:04:20.620 --> 00:04:20.630 align:start position:0%
+than<c.colorE5E5E5> one way an integer will be just
+ </c>
+
+00:04:20.630 --> 00:04:22.779 align:start position:0%
+than<c.colorE5E5E5> one way an integer will be just
+fine<00:04:20.840><c> as</c><00:04:21.079><c> our</c><00:04:21.199><c> data</c><00:04:21.380><c> type</c><00:04:21.620><c> finally</c><00:04:22.550><c> we'll</c><00:04:22.699><c> have</c></c>
+
+00:04:22.779 --> 00:04:22.789 align:start position:0%
+fine as our<c.colorE5E5E5> data type finally we'll have
+ </c>
+
+00:04:22.789 --> 00:04:25.270 align:start position:0%
+fine as our<c.colorE5E5E5> data type finally we'll have
+billions<00:04:23.270><c> for</c><00:04:23.509><c> sold</c><00:04:23.840><c> shipped</c><00:04:24.410><c> and</c><00:04:24.620><c> received</c></c>
+
+00:04:25.270 --> 00:04:25.280 align:start position:0%
+billions<c.colorE5E5E5> for sold shipped and received
+ </c>
+
+00:04:25.280 --> 00:04:27.939 align:start position:0%
+billions<c.colorE5E5E5> for sold shipped and received
+and<00:04:25.639><c> now</c><00:04:26.599><c> you</c><00:04:26.660><c> can</c><00:04:26.960><c> see</c><00:04:27.229><c> that</c><00:04:27.440><c> for</c></c><c.colorCCCCCC><00:04:27.680><c> a</c><00:04:27.740><c> given</c></c>
+
+00:04:27.939 --> 00:04:27.949 align:start position:0%
+and now you can see that<c.colorE5E5E5> for</c><c.colorCCCCCC> a given
+ </c>
+
+00:04:27.949 --> 00:04:30.430 align:start position:0%
+and now you can see that<c.colorE5E5E5> for</c><c.colorCCCCCC> a given
+variable</c><c.colorE5E5E5><00:04:28.520><c> of</c><00:04:28.759><c> type</c><00:04:28.970><c> item</c><00:04:29.449><c> it</c><00:04:29.660><c> actually</c></c>
+
+00:04:30.430 --> 00:04:30.440 align:start position:0%
+variable<c.colorE5E5E5> of type item it actually
+ </c>
+
+00:04:30.440 --> 00:04:32.230 align:start position:0%
+variable<c.colorE5E5E5> of type item it actually
+contains<00:04:30.770><c> a</c></c><c.colorCCCCCC><00:04:30.889><c> combination</c><00:04:31.639><c> of</c><00:04:31.699><c> data</c><00:04:31.910><c> types</c></c>
+
+00:04:32.230 --> 00:04:32.240 align:start position:0%
+contains a<c.colorCCCCCC> combination of data types
+ </c>
+
+00:04:32.240 --> 00:04:34.480 align:start position:0%
+contains a<c.colorCCCCCC> combination of data types</c>
+<c.colorE5E5E5>that<00:04:32.509><c> are</c><00:04:32.660><c> used</c></c><c.colorCCCCCC><00:04:32.690><c> to</c><00:04:33.139><c> uniquely</c><00:04:33.320><c> describe</c><00:04:34.099><c> that</c></c>
+
+00:04:34.480 --> 00:04:34.490 align:start position:0%
+<c.colorE5E5E5>that are used</c><c.colorCCCCCC> to uniquely describe that
+ </c>
+
+00:04:34.490 --> 00:04:37.120 align:start position:0%
+<c.colorE5E5E5>that are used</c><c.colorCCCCCC> to uniquely describe that
+item<00:04:35.110><c> the</c><00:04:36.110><c> next</c><00:04:36.349><c> variable</c><00:04:36.620><c> we</c><00:04:36.889><c> have</c><00:04:36.919><c> to</c></c>
+
+00:04:37.120 --> 00:04:37.130 align:start position:0%
+item the next variable we have<c.colorCCCCCC> to
+ </c>
+
+00:04:37.130 --> 00:04:39.610 align:start position:0%
+item the next variable we have<c.colorCCCCCC> to
+declare<00:04:37.520><c> is</c><00:04:37.789><c> an</c><00:04:37.940><c> array</c></c><c.colorE5E5E5><00:04:38.270><c> and</c><00:04:38.539><c> we'll</c></c><c.colorCCCCCC><00:04:39.229><c> use</c><00:04:39.440><c> this</c></c>
+
+00:04:39.610 --> 00:04:39.620 align:start position:0%
+<c.colorCCCCCC>declare is an array</c><c.colorE5E5E5> and we'll</c><c.colorCCCCCC> use this
+ </c>
+
+00:04:39.620 --> 00:04:41.290 align:start position:0%
+<c.colorCCCCCC>declare is an array</c><c.colorE5E5E5> and we'll</c><c.colorCCCCCC> use this
+array<00:04:39.949><c> to</c><00:04:40.009><c> store</c></c><c.colorE5E5E5><00:04:40.130><c> all</c><00:04:40.520><c> of</c><00:04:40.550><c> the</c><00:04:40.789><c> items</c><00:04:41.090><c> that</c><00:04:41.150><c> we</c></c>
+
+00:04:41.290 --> 00:04:41.300 align:start position:0%
+array to store<c.colorE5E5E5> all of the items that we
+ </c>
+
+00:04:41.300 --> 00:04:43.150 align:start position:0%
+array to store<c.colorE5E5E5> all of the items that we</c>
+<c.colorCCCCCC>have<00:04:41.479><c> for</c><00:04:41.780><c> sale</c><00:04:42.080><c> so</c><00:04:42.770><c> it's</c><00:04:42.860><c> going</c><00:04:42.949><c> to</c><00:04:43.009><c> be</c><00:04:43.130><c> a</c></c>
+
+00:04:43.150 --> 00:04:43.160 align:start position:0%
+<c.colorCCCCCC>have for sale so it's going to be a
+ </c>
+
+00:04:43.160 --> 00:04:45.400 align:start position:0%
+<c.colorCCCCCC>have for sale so it's going to be a
+dynamically<00:04:43.729><c> sized</c><00:04:44.120><c> list</c><00:04:44.660><c> of</c><00:04:44.870><c> items</c><00:04:45.139><c> for</c></c><c.colorE5E5E5><00:04:45.349><c> sale</c></c>
+
+00:04:45.400 --> 00:04:45.410 align:start position:0%
+dynamically sized list of items for<c.colorE5E5E5> sale
+ </c>
+
+00:04:45.410 --> 00:04:48.010 align:start position:0%
+dynamically sized list of items for<c.colorE5E5E5> sale
+we're<00:04:46.280><c> going</c><00:04:46.400><c> to</c><00:04:46.460><c> define</c><00:04:46.729><c> it</c></c><c.colorCCCCCC><00:04:46.849><c> like</c><00:04:46.970><c> this</c></c><c.colorE5E5E5><00:04:47.240><c> the</c></c>
+
+00:04:48.010 --> 00:04:48.020 align:start position:0%
+<c.colorE5E5E5>we're going to define it</c><c.colorCCCCCC> like this</c><c.colorE5E5E5> the
+ </c>
+
+00:04:48.020 --> 00:04:49.960 align:start position:0%
+<c.colorE5E5E5>we're going to define it</c><c.colorCCCCCC> like this</c><c.colorE5E5E5> the
+item<00:04:48.440><c> refers</c><00:04:48.830><c> to</c><00:04:48.860><c> the</c><00:04:49.280><c> struct</c><00:04:49.669><c> that</c><00:04:49.789><c> we</c></c>
+
+00:04:49.960 --> 00:04:49.970 align:start position:0%
+<c.colorE5E5E5>item refers to the struct that we
+ </c>
+
+00:04:49.970 --> 00:04:52.839 align:start position:0%
+<c.colorE5E5E5>item refers to the struct that we
+defined</c><c.colorCCCCCC><00:04:50.330><c> previously</c><00:04:51.050><c> the</c><00:04:52.039><c> square</c><00:04:52.310><c> brackets</c></c>
+
+00:04:52.839 --> 00:04:52.849 align:start position:0%
+defined<c.colorCCCCCC> previously the square brackets
+ </c>
+
+00:04:52.849 --> 00:04:54.969 align:start position:0%
+defined<c.colorCCCCCC> previously the square brackets</c>
+<c.colorCCCCCC>tell<00:04:53.090><c> solidity</c><00:04:53.539><c> that</c><00:04:53.840><c> this</c><00:04:53.990><c> is</c><00:04:54.139><c> a</c><00:04:54.169><c> list</c><00:04:54.560><c> or</c><00:04:54.830><c> an</c></c>
+
+00:04:54.969 --> 00:04:54.979 align:start position:0%
+<c.colorCCCCCC>tell solidity that this is a list or an
+ </c>
+
+00:04:54.979 --> 00:04:58.390 align:start position:0%
+<c.colorCCCCCC>tell solidity that this is a list or an
+array<00:04:55.310><c> of</c><00:04:55.610><c> the</c><00:04:55.820><c> data</c><00:04:56.030><c> type</c><00:04:56.330><c> items</c><00:04:57.099><c> next</c><00:04:58.099><c> I</c></c><c.colorE5E5E5><00:04:58.250><c> use</c></c>
+
+00:04:58.390 --> 00:04:58.400 align:start position:0%
+array of the<c.colorCCCCCC> data type items next I</c><c.colorE5E5E5> use
+ </c>
+
+00:04:58.400 --> 00:04:59.980 align:start position:0%
+array of the<c.colorCCCCCC> data type items next I</c><c.colorE5E5E5> use
+the<00:04:58.520><c> keyword</c></c><c.colorCCCCCC><00:04:58.849><c> public</c><00:04:59.330><c> and</c><00:04:59.509><c> this</c></c><c.colorE5E5E5><00:04:59.599><c> is</c><00:04:59.780><c> going</c><00:04:59.930><c> to</c></c>
+
+00:04:59.980 --> 00:04:59.990 align:start position:0%
+the keyword<c.colorCCCCCC> public and this</c><c.colorE5E5E5> is going to
+ </c>
+
+00:04:59.990 --> 00:05:01.900 align:start position:0%
+the keyword<c.colorCCCCCC> public and this</c><c.colorE5E5E5> is going to
+allow<00:05:00.199><c> us</c></c><c.colorCCCCCC><00:05:00.229><c> to</c><00:05:00.560><c> access</c></c><c.colorE5E5E5><00:05:00.740><c> this</c><00:05:01.190><c> variable</c><00:05:01.430><c> from</c></c>
+
+00:05:01.900 --> 00:05:01.910 align:start position:0%
+allow us<c.colorCCCCCC> to access</c><c.colorE5E5E5> this variable from
+ </c>
+
+00:05:01.910 --> 00:05:04.510 align:start position:0%
+allow us<c.colorCCCCCC> to access</c><c.colorE5E5E5> this variable from
+outside</c><c.colorCCCCCC><00:05:02.360><c> the</c><00:05:02.539><c> smart</c><00:05:02.810><c> contract</c><00:05:03.020><c> and</c><00:05:03.620><c> then</c></c>
+
+00:05:04.510 --> 00:05:04.520 align:start position:0%
+outside<c.colorCCCCCC> the smart contract and then
+ </c>
+
+00:05:04.520 --> 00:05:06.100 align:start position:0%
+outside<c.colorCCCCCC> the smart contract and then
+finally<00:05:04.880><c> I</c><00:05:04.940><c> give</c><00:05:05.150><c> the</c><00:05:05.300><c> variable</c><00:05:05.750><c> its</c><00:05:05.900><c> name</c></c>
+
+00:05:06.100 --> 00:05:06.110 align:start position:0%
+finally I give the variable its name
+ 
+
+00:05:06.110 --> 00:05:09.040 align:start position:0%
+finally I give the variable its name
+items<c.colorE5E5E5><00:05:06.650><c> using</c><00:05:07.430><c> the</c></c><c.colorCCCCCC><00:05:07.520><c> lower</c><00:05:07.729><c> case</c><00:05:08.120><c> plural</c><00:05:08.690><c> form</c></c>
+
+00:05:09.040 --> 00:05:09.050 align:start position:0%
+items<c.colorE5E5E5> using the</c><c.colorCCCCCC> lower case plural form
+ </c>
+
+00:05:09.050 --> 00:05:11.879 align:start position:0%
+items<c.colorE5E5E5> using the</c><c.colorCCCCCC> lower case plural form
+of<00:05:09.289><c> the</c></c><c.colorE5E5E5><00:05:09.380><c> variable</c><00:05:09.949><c> it</c><00:05:10.070><c> stores</c></c>
+
+00:05:11.879 --> 00:05:11.889 align:start position:0%
+of the<c.colorE5E5E5> variable it stores
+ </c>
+
+00:05:11.889 --> 00:05:13.110 align:start position:0%
+of the<c.colorE5E5E5> variable it stores
+so<00:05:12.099><c> let's</c></c><c.colorCCCCCC><00:05:12.219><c> switch</c><00:05:12.400><c> over</c></c><c.colorE5E5E5><00:05:12.490><c> to</c><00:05:12.639><c> our</c><00:05:12.759><c> code</c><00:05:13.060><c> editor</c></c>
+
+00:05:13.110 --> 00:05:13.120 align:start position:0%
+so let's<c.colorCCCCCC> switch over</c><c.colorE5E5E5> to our code editor
+ </c>
+
+00:05:13.120 --> 00:05:14.909 align:start position:0%
+so let's<c.colorCCCCCC> switch over</c><c.colorE5E5E5> to our code editor</c>
+<c.colorCCCCCC>and<00:05:13.689><c> I'll</c><00:05:13.960><c> show</c><00:05:14.139><c> you</c><00:05:14.169><c> how</c><00:05:14.379><c> these</c><00:05:14.530><c> variables</c></c>
+
+00:05:14.909 --> 00:05:14.919 align:start position:0%
+<c.colorCCCCCC>and I'll show you how these variables
+ </c>
+
+00:05:14.919 --> 00:05:18.059 align:start position:0%
+<c.colorCCCCCC>and I'll show you how these variables</c>
+<c.colorCCCCCC>look<00:05:15.310><c> inside</c></c><c.colorE5E5E5><00:05:15.759><c> of</c><00:05:15.939><c> our</c><00:05:16.030><c> smart</c><00:05:16.300><c> contract</c><00:05:17.069><c> so</c></c>
+
+00:05:18.059 --> 00:05:18.069 align:start position:0%
+<c.colorCCCCCC>look inside</c><c.colorE5E5E5> of our smart contract so
+ </c>
+
+00:05:18.069 --> 00:05:20.429 align:start position:0%
+<c.colorCCCCCC>look inside</c><c.colorE5E5E5> of our smart contract so
+I've<00:05:18.159><c> got</c><00:05:18.280><c> my</c><00:05:18.400><c> solidity</c><00:05:18.909><c> smart</c><00:05:19.509><c> contract</c><00:05:19.960><c> open</c></c>
+
+00:05:20.429 --> 00:05:20.439 align:start position:0%
+I've got<c.colorE5E5E5> my solidity smart contract open
+ </c>
+
+00:05:20.439 --> 00:05:23.100 align:start position:0%
+I've got<c.colorE5E5E5> my solidity smart contract open
+we've<00:05:21.069><c> declared</c><00:05:21.430><c> our</c><00:05:21.819><c> contract</c><00:05:22.569><c> inside</c><00:05:22.930><c> of</c></c>
+
+00:05:23.100 --> 00:05:23.110 align:start position:0%
+we've declared our contract inside<c.colorE5E5E5> of
+ </c>
+
+00:05:23.110 --> 00:05:24.749 align:start position:0%
+we've declared our contract inside<c.colorE5E5E5> of
+that<00:05:23.229><c> and</c><00:05:23.560><c> then</c><00:05:23.680><c> right</c><00:05:23.919><c> in</c><00:05:24.039><c> between</c><00:05:24.159><c> the</c><00:05:24.430><c> curly</c></c>
+
+00:05:24.749 --> 00:05:24.759 align:start position:0%
+that<c.colorE5E5E5> and then right in between the curly
+ </c>
+
+00:05:24.759 --> 00:05:27.029 align:start position:0%
+that<c.colorE5E5E5> and then right in between the curly
+braces<00:05:25.030><c> we</c></c><c.colorCCCCCC><00:05:25.509><c> can</c><00:05:26.169><c> add</c></c><c.colorE5E5E5><00:05:26.319><c> the</c><00:05:26.439><c> struct</c><00:05:26.740><c> for</c><00:05:26.800><c> our</c></c>
+
+00:05:27.029 --> 00:05:27.039 align:start position:0%
+braces we<c.colorCCCCCC> can add</c><c.colorE5E5E5> the struct for our
+ </c>
+
+00:05:27.039 --> 00:05:28.340 align:start position:0%
+braces we<c.colorCCCCCC> can add</c><c.colorE5E5E5> the struct for our
+item</c>
+
+00:05:28.340 --> 00:05:28.350 align:start position:0%
+item
+ 
+
+00:05:28.350 --> 00:05:30.650 align:start position:0%
+item
+followed<c.colorCCCCCC><00:05:29.070><c> by</c><00:05:29.220><c> the</c><00:05:29.280><c> declaration</c><00:05:30.030><c> of</c><00:05:30.150><c> our</c></c><c.colorE5E5E5><00:05:30.300><c> items</c></c>
+
+00:05:30.650 --> 00:05:30.660 align:start position:0%
+followed<c.colorCCCCCC> by the declaration of our</c><c.colorE5E5E5> items
+ </c>
+
+00:05:30.660 --> 00:05:34.100 align:start position:0%
+followed<c.colorCCCCCC> by the declaration of our</c><c.colorE5E5E5> items
+array<00:05:31.790><c> functions</c><00:05:32.790><c> are</c><00:05:32.910><c> the</c><00:05:33.030><c> executable</c><00:05:33.720><c> units</c></c>
+
+00:05:34.100 --> 00:05:34.110 align:start position:0%
+array functions are the executable units
+ 
+
+00:05:34.110 --> 00:05:36.560 align:start position:0%
+array functions are the executable units
+of<00:05:34.230><c> code</c><00:05:34.560><c> within</c><00:05:34.860><c> a</c><00:05:35.040><c> contract</c><c.colorE5E5E5><00:05:35.550><c> to</c><00:05:36.120><c> create</c><00:05:36.300><c> one</c></c>
+
+00:05:36.560 --> 00:05:36.570 align:start position:0%
+of code within a contract<c.colorE5E5E5> to create one
+ </c>
+
+00:05:36.570 --> 00:05:39.620 align:start position:0%
+of code within a contract<c.colorE5E5E5> to create one
+we<00:05:36.780><c> use</c><00:05:36.960><c> the</c></c><c.colorCCCCCC><00:05:36.990><c> keyword</c></c><c.colorE5E5E5><00:05:37.350><c> function</c><00:05:37.830><c> followed</c><00:05:38.630><c> by</c></c>
+
+00:05:39.620 --> 00:05:39.630 align:start position:0%
+we use the<c.colorCCCCCC> keyword</c><c.colorE5E5E5> function followed by
+ </c>
+
+00:05:39.630 --> 00:05:42.410 align:start position:0%
+we use the<c.colorCCCCCC> keyword</c><c.colorE5E5E5> function followed by
+a<00:05:39.660><c> name</c><00:05:39.960><c> for</c><00:05:40.290><c> it</c><00:05:40.440><c> a</c><00:05:40.620><c> set</c><00:05:41.430><c> of</c><00:05:41.460><c> parentheses</c><00:05:42.180><c> where</c></c>
+
+00:05:42.410 --> 00:05:42.420 align:start position:0%
+a name for it a set of<c.colorE5E5E5> parentheses where
+ </c>
+
+00:05:42.420 --> 00:05:44.240 align:start position:0%
+a name for it a set of<c.colorE5E5E5> parentheses where
+we<00:05:42.540><c> can</c><00:05:42.690><c> include</c><00:05:42.930><c> any</c><00:05:43.200><c> parameters</c><00:05:43.860><c> needed</c></c>
+
+00:05:44.240 --> 00:05:44.250 align:start position:0%
+we can include<c.colorE5E5E5> any parameters needed
+ </c>
+
+00:05:44.250 --> 00:05:46.610 align:start position:0%
+we can include<c.colorE5E5E5> any parameters needed
+within<00:05:44.430><c> the</c></c><c.colorCCCCCC><00:05:44.580><c> function</c></c><c.colorE5E5E5><00:05:45.120><c> and</c><00:05:45.300><c> then</c><00:05:46.230><c> our</c><00:05:46.320><c> level</c></c>
+
+00:05:46.610 --> 00:05:46.620 align:start position:0%
+within<c.colorE5E5E5> the</c><c.colorCCCCCC> function</c><c.colorE5E5E5> and then our level
+ </c>
+
+00:05:46.620 --> 00:05:49.040 align:start position:0%
+within<c.colorE5E5E5> the</c><c.colorCCCCCC> function</c><c.colorE5E5E5> and then our level</c>
+<c.colorE5E5E5>of<00:05:46.740><c> visibility</c></c><c.colorCCCCCC><00:05:47.720><c> let's</c><00:05:48.720><c> talk</c><00:05:48.930><c> about</c></c>
+
+00:05:49.040 --> 00:05:49.050 align:start position:0%
+<c.colorE5E5E5>of visibility</c><c.colorCCCCCC> let's talk about
+ </c>
+
+00:05:49.050 --> 00:05:51.050 align:start position:0%
+<c.colorE5E5E5>of visibility</c><c.colorCCCCCC> let's talk about
+visibility</c><c.colorE5E5E5><00:05:49.560><c> so</c><00:05:49.920><c> we</c><00:05:50.040><c> understand</c><00:05:50.550><c> it</c><00:05:50.700><c> and</c><00:05:50.850><c> then</c></c>
+
+00:05:51.050 --> 00:05:51.060 align:start position:0%
+visibility<c.colorE5E5E5> so we understand it and then
+ </c>
+
+00:05:51.060 --> 00:05:52.700 align:start position:0%
+visibility<c.colorE5E5E5> so we understand it and then
+I'll<00:05:51.150><c> cover</c><00:05:51.390><c> the</c><00:05:51.570><c> parameters</c><00:05:52.110><c> by</c><00:05:52.260><c> showing</c><00:05:52.530><c> you</c></c>
+
+00:05:52.700 --> 00:05:52.710 align:start position:0%
+I'll cover the parameters by showing you
+ 
+
+00:05:52.710 --> 00:05:55.430 align:start position:0%
+I'll cover the parameters by showing you
+an<c.colorCCCCCC><00:05:52.800><c> example</c><00:05:53.370><c> of</c><00:05:53.550><c> a</c><00:05:53.640><c> parameter</c></c><c.colorE5E5E5><00:05:53.940><c> in</c><00:05:54.270><c> use</c><00:05:54.480><c> there</c></c>
+
+00:05:55.430 --> 00:05:55.440 align:start position:0%
+an<c.colorCCCCCC> example of a parameter</c><c.colorE5E5E5> in use there
+ </c>
+
+00:05:55.440 --> 00:05:57.020 align:start position:0%
+an<c.colorCCCCCC> example of a parameter</c><c.colorE5E5E5> in use there</c>
+<c.colorE5E5E5>are<00:05:55.530><c> four</c></c><c.colorCCCCCC><00:05:55.770><c> different</c><00:05:56.040><c> types</c><00:05:56.250><c> of</c><00:05:56.430><c> visibility</c></c>
+
+00:05:57.020 --> 00:05:57.030 align:start position:0%
+<c.colorE5E5E5>are four</c><c.colorCCCCCC> different types of visibility
+ </c>
+
+00:05:57.030 --> 00:05:59.480 align:start position:0%
+<c.colorE5E5E5>are four</c><c.colorCCCCCC> different types of visibility
+for<00:05:57.270><c> functions</c><00:05:57.750><c> and</c><00:05:57.900><c> state</c><00:05:58.110><c> variables</c><00:05:58.590><c> we</c></c>
+
+00:05:59.480 --> 00:05:59.490 align:start position:0%
+for functions and state variables we
+ 
+
+00:05:59.490 --> 00:06:01.370 align:start position:0%
+for functions and state variables we
+have<c.colorE5E5E5><00:05:59.520><c> external</c><00:06:00.090><c> and</c><00:06:00.420><c> an</c><00:06:00.720><c> external</c><00:06:01.080><c> function</c></c>
+
+00:06:01.370 --> 00:06:01.380 align:start position:0%
+have<c.colorE5E5E5> external and an external function
+ </c>
+
+00:06:01.380 --> 00:06:04.040 align:start position:0%
+have<c.colorE5E5E5> external and an external function
+is<00:06:01.830><c> part</c><00:06:02.190><c> of</c><00:06:02.250><c> the</c><00:06:02.340><c> contract</c><00:06:02.790><c> interface</c><00:06:03.360><c> and</c><00:06:03.720><c> it</c></c>
+
+00:06:04.040 --> 00:06:04.050 align:start position:0%
+<c.colorE5E5E5>is part of the contract interface and it
+ </c>
+
+00:06:04.050 --> 00:06:05.840 align:start position:0%
+<c.colorE5E5E5>is part of the contract interface and it
+can<00:06:04.170><c> be</c><00:06:04.260><c> called</c></c><c.colorCCCCCC><00:06:04.500><c> from</c><00:06:04.740><c> other</c><00:06:04.980><c> contracts</c><00:06:05.580><c> via</c></c>
+
+00:06:05.840 --> 00:06:05.850 align:start position:0%
+can be called<c.colorCCCCCC> from other contracts via
+ </c>
+
+00:06:05.850 --> 00:06:08.510 align:start position:0%
+can be called<c.colorCCCCCC> from other contracts via
+transactions<00:06:06.770><c> public</c><00:06:07.770><c> functions</c><00:06:08.160><c> are</c><00:06:08.340><c> also</c></c>
+
+00:06:08.510 --> 00:06:08.520 align:start position:0%
+transactions public functions are also
+ 
+
+00:06:08.520 --> 00:06:10.520 align:start position:0%
+transactions public functions are also
+part<00:06:09.030><c> of</c><00:06:09.060><c> the</c><00:06:09.150><c> contract</c><00:06:09.540><c> interface</c><00:06:10.020><c> and</c><00:06:10.350><c> they</c>
+
+00:06:10.520 --> 00:06:10.530 align:start position:0%
+part of the contract interface and they
+ 
+
+00:06:10.530 --> 00:06:12.260 align:start position:0%
+part of the contract interface and they
+can<00:06:10.680><c> be</c><00:06:10.800><c> called</c><c.colorE5E5E5><00:06:11.040><c> just</c></c><c.colorCCCCCC><00:06:11.490><c> like</c></c><c.colorE5E5E5><00:06:11.700><c> external</c></c>
+
+00:06:12.260 --> 00:06:12.270 align:start position:0%
+can be called<c.colorE5E5E5> just</c><c.colorCCCCCC> like</c><c.colorE5E5E5> external
+ </c>
+
+00:06:12.270 --> 00:06:14.780 align:start position:0%
+can be called<c.colorE5E5E5> just</c><c.colorCCCCCC> like</c><c.colorE5E5E5> external
+functions<00:06:12.720><c> but</c><00:06:13.590><c> public</c><00:06:13.980><c> functions</c><00:06:14.400><c> can</c><00:06:14.580><c> also</c></c>
+
+00:06:14.780 --> 00:06:14.790 align:start position:0%
+functions but<c.colorE5E5E5> public functions can also
+ </c>
+
+00:06:14.790 --> 00:06:16.940 align:start position:0%
+functions but<c.colorE5E5E5> public functions can also</c>
+<c.colorE5E5E5>be<00:06:15.000><c> called</c><00:06:15.480><c> from</c><00:06:15.930><c> another</c><00:06:16.320><c> function</c><00:06:16.590><c> within</c></c>
+
+00:06:16.940 --> 00:06:16.950 align:start position:0%
+<c.colorE5E5E5>be called from another function within
+ </c>
+
+00:06:16.950 --> 00:06:19.430 align:start position:0%
+<c.colorE5E5E5>be called from another function within
+the<00:06:17.100><c> same</c><00:06:17.460><c> contract</c><00:06:18.060><c> whereas</c><00:06:18.720><c> an</c><00:06:18.930><c> external</c></c>
+
+00:06:19.430 --> 00:06:19.440 align:start position:0%
+<c.colorE5E5E5>the same contract whereas an external
+ </c>
+
+00:06:19.440 --> 00:06:21.950 align:start position:0%
+<c.colorE5E5E5>the same contract whereas an external</c>
+<c.colorCCCCCC>function<00:06:19.890><c> cannot</c><00:06:20.390><c> internal</c><00:06:21.390><c> functions</c><00:06:21.780><c> can</c></c>
+
+00:06:21.950 --> 00:06:21.960 align:start position:0%
+<c.colorCCCCCC>function cannot internal functions can
+ </c>
+
+00:06:21.960 --> 00:06:23.510 align:start position:0%
+<c.colorCCCCCC>function cannot internal functions can
+only<00:06:22.140><c> be</c><00:06:22.320><c> accessed</c></c><c.colorE5E5E5><00:06:22.500><c> from</c></c><c.colorCCCCCC><00:06:22.980><c> within</c><00:06:23.250><c> the</c></c>
+
+00:06:23.510 --> 00:06:23.520 align:start position:0%
+only be accessed<c.colorE5E5E5> from</c><c.colorCCCCCC> within the
+ </c>
+
+00:06:23.520 --> 00:06:26.090 align:start position:0%
+only be accessed<c.colorE5E5E5> from</c><c.colorCCCCCC> within the
+contract</c><c.colorE5E5E5><00:06:23.940><c> and</c><00:06:24.270><c> the</c><00:06:24.840><c> contracts</c><00:06:25.380><c> derived</c><00:06:25.830><c> from</c></c>
+
+00:06:26.090 --> 00:06:26.100 align:start position:0%
+contract<c.colorE5E5E5> and the contracts derived from
+ </c>
+
+00:06:26.100 --> 00:06:28.910 align:start position:0%
+contract<c.colorE5E5E5> and the contracts derived from
+it<00:06:26.310><c> and</c><00:06:26.810><c> finally</c><00:06:27.810><c> private</c><00:06:28.260><c> functions</c><00:06:28.740><c> can</c></c>
+
+00:06:28.910 --> 00:06:28.920 align:start position:0%
+it and<c.colorE5E5E5> finally private functions can
+ </c>
+
+00:06:28.920 --> 00:06:30.740 align:start position:0%
+it and<c.colorE5E5E5> finally private functions can
+only<00:06:29.160><c> be</c></c><c.colorCCCCCC><00:06:29.370><c> accessed</c><00:06:29.910><c> from</c><00:06:30.120><c> within</c></c><c.colorE5E5E5><00:06:30.210><c> the</c></c>
+
+00:06:30.740 --> 00:06:30.750 align:start position:0%
+only be<c.colorCCCCCC> accessed from within</c><c.colorE5E5E5> the
+ </c>
+
+00:06:30.750 --> 00:06:33.350 align:start position:0%
+only be<c.colorCCCCCC> accessed from within</c><c.colorE5E5E5> the
+contract</c><c.colorCCCCCC><00:06:31.200><c> and</c><00:06:31.560><c> they</c><00:06:32.010><c> cannot</c><00:06:32.490><c> be</c><00:06:32.760><c> accessed</c></c>
+
+00:06:33.350 --> 00:06:33.360 align:start position:0%
+contract<c.colorCCCCCC> and they cannot be accessed
+ </c>
+
+00:06:33.360 --> 00:06:35.150 align:start position:0%
+contract<c.colorCCCCCC> and they cannot be accessed
+from<00:06:33.720><c> the</c><00:06:33.900><c> contracts</c><00:06:34.410><c> that</c></c><c.colorE5E5E5><00:06:34.500><c> are</c><00:06:34.680><c> derived</c><00:06:34.950><c> from</c></c>
+
+00:06:35.150 --> 00:06:35.160 align:start position:0%
+from the contracts that<c.colorE5E5E5> are derived from
+ </c>
+
+00:06:35.160 --> 00:06:38.030 align:start position:0%
+from the contracts that<c.colorE5E5E5> are derived from
+it<00:06:35.840><c> so</c><00:06:36.840><c> one</c><00:06:37.050><c> really</c><00:06:37.500><c> important</c></c><c.colorCCCCCC><00:06:37.890><c> thing</c><00:06:38.010><c> to</c></c>
+
+00:06:38.030 --> 00:06:38.040 align:start position:0%
+<c.colorE5E5E5>it so one really important</c><c.colorCCCCCC> thing to
+ </c>
+
+00:06:38.040 --> 00:06:39.950 align:start position:0%
+<c.colorE5E5E5>it so one really important</c><c.colorCCCCCC> thing to</c>
+<c.colorCCCCCC>remember<00:06:38.400><c> here</c></c><c.colorE5E5E5><00:06:38.580><c> is</c><00:06:38.940><c> that</c><00:06:39.510><c> even</c><00:06:39.810><c> though</c></c>
+
+00:06:39.950 --> 00:06:39.960 align:start position:0%
+<c.colorCCCCCC>remember here</c><c.colorE5E5E5> is that even though
+ </c>
+
+00:06:39.960 --> 00:06:42.350 align:start position:0%
+<c.colorCCCCCC>remember here</c><c.colorE5E5E5> is that even though
+internal<00:06:40.860><c> and</c><00:06:41.010><c> private</c><00:06:41.400><c> functions</c><00:06:41.850><c> can't</c><00:06:42.210><c> be</c></c>
+
+00:06:42.350 --> 00:06:42.360 align:start position:0%
+internal and private functions can't be
+ 
+
+00:06:42.360 --> 00:06:44.630 align:start position:0%
+internal and private functions can't be
+called<00:06:42.630><c> externally</c><c.colorE5E5E5><00:06:43.320><c> as</c><00:06:43.500><c> you</c><00:06:44.250><c> saw</c><00:06:44.430><c> in</c><00:06:44.550><c> the</c></c>
+
+00:06:44.630 --> 00:06:44.640 align:start position:0%
+called externally<c.colorE5E5E5> as you saw in the
+ </c>
+
+00:06:44.640 --> 00:06:46.190 align:start position:0%
+called externally<c.colorE5E5E5> as you saw in the
+crypto</c><c.colorCCCCCC><00:06:44.970><c> kitties</c><00:06:45.270><c> example</c><00:06:45.780><c> in</c><00:06:45.870><c> the</c><00:06:45.960><c> previous</c></c>
+
+00:06:46.190 --> 00:06:46.200 align:start position:0%
+crypto<c.colorCCCCCC> kitties example in the previous
+ </c>
+
+00:06:46.200 --> 00:06:48.500 align:start position:0%
+crypto<c.colorCCCCCC> kitties example in the previous</c>
+<c.colorCCCCCC>video<00:06:46.770><c> it's</c><00:06:47.100><c> still</c><00:06:47.580><c> visible</c></c><c.colorE5E5E5><00:06:48.120><c> on</c></c><c.colorCCCCCC><00:06:48.330><c> the</c></c>
+
+00:06:48.500 --> 00:06:48.510 align:start position:0%
+<c.colorCCCCCC>video it's still visible</c><c.colorE5E5E5> on</c><c.colorCCCCCC> the
+ </c>
+
+00:06:48.510 --> 00:06:50.120 align:start position:0%
+<c.colorCCCCCC>video it's still visible</c><c.colorE5E5E5> on</c><c.colorCCCCCC> the
+blockchain</c>
+
+00:06:50.120 --> 00:06:50.130 align:start position:0%
+blockchain
+ 
+
+00:06:50.130 --> 00:06:52.160 align:start position:0%
+blockchain
+finally<00:06:50.850><c> I</c><00:06:50.880><c> want</c><c.colorE5E5E5><00:06:51.090><c> to</c><00:06:51.150><c> introduce</c><00:06:51.330><c> the</c><00:06:51.750><c> returned</c></c>
+
+00:06:52.160 --> 00:06:52.170 align:start position:0%
+finally I want<c.colorE5E5E5> to introduce the returned
+ </c>
+
+00:06:52.170 --> 00:06:55.100 align:start position:0%
+finally I want<c.colorE5E5E5> to introduce the returned
+to<00:06:52.530><c> you</c><00:06:52.730><c> this</c><00:06:53.730><c> specifies</c><00:06:54.330><c> that</c></c><c.colorCCCCCC><00:06:54.600><c> the</c><00:06:54.750><c> function</c></c>
+
+00:06:55.100 --> 00:06:55.110 align:start position:0%
+to you this specifies that<c.colorCCCCCC> the function
+ </c>
+
+00:06:55.110 --> 00:06:56.840 align:start position:0%
+to you this specifies that<c.colorCCCCCC> the function</c>
+<c.colorE5E5E5>is<00:06:55.170><c> going</c><00:06:55.260><c> to</c><00:06:55.350><c> return</c></c><c.colorCCCCCC><00:06:55.410><c> something</c><00:06:56.250><c> to</c><00:06:56.430><c> you</c><00:06:56.640><c> when</c></c>
+
+00:06:56.840 --> 00:06:56.850 align:start position:0%
+<c.colorE5E5E5>is going to return</c><c.colorCCCCCC> something to you when
+ </c>
+
+00:06:56.850 --> 00:06:58.880 align:start position:0%
+<c.colorE5E5E5>is going to return</c><c.colorCCCCCC> something to you when
+you<00:06:56.970><c> call</c><00:06:57.210><c> it</c><00:06:57.450><c> for</c></c><c.colorE5E5E5><00:06:58.170><c> example</c><00:06:58.560><c> the</c><00:06:58.680><c> function</c></c>
+
+00:06:58.880 --> 00:06:58.890 align:start position:0%
+you call it for<c.colorE5E5E5> example the function
+ </c>
+
+00:06:58.890 --> 00:07:01.520 align:start position:0%
+you call it for<c.colorE5E5E5> example the function
+specified<00:06:59.700><c> here</c><00:07:00.300><c> says</c><00:07:00.930><c> that</c><00:07:01.140><c> it</c><00:07:01.260><c> will</c><00:07:01.350><c> return</c></c>
+
+00:07:01.520 --> 00:07:01.530 align:start position:0%
+specified here<c.colorE5E5E5> says that it will return
+ </c>
+
+00:07:01.530 --> 00:07:04.070 align:start position:0%
+specified here<c.colorE5E5E5> says that it will return</c>
+<c.colorCCCCCC>a<00:07:01.800><c> string</c><00:07:02.340><c> and</c><00:07:02.610><c> sure</c><00:07:03.390><c> enough</c><00:07:03.420><c> here's</c><00:07:03.960><c> the</c></c>
+
+00:07:04.070 --> 00:07:04.080 align:start position:0%
+<c.colorCCCCCC>a string and sure enough here's the
+ </c>
+
+00:07:04.080 --> 00:07:05.630 align:start position:0%
+<c.colorCCCCCC>a string and sure enough here's the</c>
+<c.colorE5E5E5>return<00:07:04.470><c> statement</c></c><c.colorCCCCCC><00:07:04.830><c> at</c><00:07:05.220><c> the</c><00:07:05.310><c> end</c><00:07:05.460><c> of</c><00:07:05.580><c> the</c></c>
+
+00:07:05.630 --> 00:07:05.640 align:start position:0%
+<c.colorE5E5E5>return statement</c><c.colorCCCCCC> at the end of the
+ </c>
+
+00:07:05.640 --> 00:07:08.750 align:start position:0%
+<c.colorE5E5E5>return statement</c><c.colorCCCCCC> at the end of the</c>
+<c.colorCCCCCC>function<00:07:06.150><c> returning</c></c><c.colorE5E5E5><00:07:06.810><c> the</c><00:07:07.020><c> string</c><00:07:07.290><c> foo</c></c><c.colorCCCCCC><00:07:07.700><c> ok</c><00:07:08.700><c> so</c></c>
+
+00:07:08.750 --> 00:07:08.760 align:start position:0%
+<c.colorCCCCCC>function returning</c><c.colorE5E5E5> the string foo</c><c.colorCCCCCC> ok so
+ </c>
+
+00:07:08.760 --> 00:07:11.540 align:start position:0%
+<c.colorCCCCCC>function returning</c><c.colorE5E5E5> the string foo</c><c.colorCCCCCC> ok so
+that's</c><c.colorE5E5E5><00:07:09.060><c> the</c><00:07:09.210><c> basics</c><00:07:09.570><c> of</c><00:07:09.660><c> functions</c><00:07:10.370><c> now</c><00:07:11.370><c> let's</c></c>
+
+00:07:11.540 --> 00:07:11.550 align:start position:0%
+that's<c.colorE5E5E5> the basics of functions now let's
+ </c>
+
+00:07:11.550 --> 00:07:13.280 align:start position:0%
+that's<c.colorE5E5E5> the basics of functions now let's
+see<00:07:11.730><c> how</c><00:07:11.850><c> they</c><00:07:11.970><c> really</c><00:07:12.240><c> work</c><00:07:12.390><c> whenever</c></c><c.colorCCCCCC><00:07:13.050><c> we</c></c>
+
+00:07:13.280 --> 00:07:13.290 align:start position:0%
+see how they really work<c.colorE5E5E5> whenever</c><c.colorCCCCCC> we
+ </c>
+
+00:07:13.290 --> 00:07:14.960 align:start position:0%
+see how they really work<c.colorE5E5E5> whenever</c><c.colorCCCCCC> we
+implement<00:07:13.830><c> them</c><00:07:13.950><c> as</c><00:07:14.070><c> part</c><00:07:14.340><c> of</c><00:07:14.400><c> our</c><00:07:14.520><c> solidity</c></c>
+
+00:07:14.960 --> 00:07:14.970 align:start position:0%
+implement them as part of our solidity
+ 
+
+00:07:14.970 --> 00:07:18.290 align:start position:0%
+implement them as part of our solidity
+function<00:07:15.510><c> over</c><c.colorE5E5E5><00:07:15.810><c> in</c><00:07:15.930><c> our</c><00:07:15.990><c> smart</c><00:07:16.290><c> contract</c><00:07:17.300><c> so</c></c>
+
+00:07:18.290 --> 00:07:18.300 align:start position:0%
+function over<c.colorE5E5E5> in our smart contract so
+ </c>
+
+00:07:18.300 --> 00:07:20.540 align:start position:0%
+function over<c.colorE5E5E5> in our smart contract so
+the<00:07:18.390><c> first</c><00:07:18.600><c> function</c><00:07:18.810><c> we</c><00:07:19.080><c> want</c><00:07:19.200><c> to</c><00:07:19.290><c> add</c><00:07:19.500><c> is</c><00:07:19.830><c> one</c></c>
+
+00:07:20.540 --> 00:07:20.550 align:start position:0%
+the first function we want<c.colorE5E5E5> to add is one
+ </c>
+
+00:07:20.550 --> 00:07:22.250 align:start position:0%
+the first function we want<c.colorE5E5E5> to add is one
+to<00:07:20.730><c> add</c><00:07:20.880><c> item</c><00:07:21.480><c> that's</c><00:07:21.660><c> going</c><00:07:21.780><c> to</c><00:07:21.870><c> allow</c><00:07:22.080><c> us</c><00:07:22.110><c> to</c></c>
+
+00:07:22.250 --> 00:07:22.260 align:start position:0%
+to add item that's going<c.colorE5E5E5> to allow us to
+ </c>
+
+00:07:22.260 --> 00:07:24.590 align:start position:0%
+to add item that's going<c.colorE5E5E5> to allow us to
+add<00:07:22.500><c> a</c><00:07:22.530><c> new</c><00:07:22.890><c> product</c><00:07:23.190><c> for</c></c><c.colorCCCCCC><00:07:23.460><c> sale</c><00:07:23.640><c> in</c><00:07:23.970><c> the</c></c><c.colorE5E5E5><00:07:24.270><c> online</c></c>
+
+00:07:24.590 --> 00:07:24.600 align:start position:0%
+<c.colorE5E5E5>add a new product for</c><c.colorCCCCCC> sale in the</c><c.colorE5E5E5> online
+ </c>
+
+00:07:24.600 --> 00:07:27.050 align:start position:0%
+<c.colorE5E5E5>add a new product for</c><c.colorCCCCCC> sale in the</c><c.colorE5E5E5> online
+marketplace<00:07:25.340><c> so</c><00:07:26.340><c> we'll</c><00:07:26.460><c> name</c><00:07:26.550><c> our</c><00:07:26.610><c> function</c></c>
+
+00:07:27.050 --> 00:07:27.060 align:start position:0%
+marketplace<c.colorE5E5E5> so we'll name our function
+ </c>
+
+00:07:27.060 --> 00:07:29.120 align:start position:0%
+marketplace<c.colorE5E5E5> so we'll name our function
+add<00:07:27.270><c> item</c><00:07:27.660><c> and</c><00:07:27.870><c> then</c><00:07:28.650><c> remember</c><00:07:28.980><c> those</c></c>
+
+00:07:29.120 --> 00:07:29.130 align:start position:0%
+add item<c.colorE5E5E5> and then remember those
+ </c>
+
+00:07:29.130 --> 00:07:31.280 align:start position:0%
+add item<c.colorE5E5E5> and then remember those
+parameters<00:07:29.700><c> I</c><00:07:29.850><c> told</c><00:07:30.060><c> you</c><00:07:30.180><c> about</c><00:07:30.270><c> here</c><00:07:31.080><c> you</c><00:07:31.170><c> get</c></c>
+
+00:07:31.280 --> 00:07:31.290 align:start position:0%
+parameters I told you about here you<c.colorE5E5E5> get
+ </c>
+
+00:07:31.290 --> 00:07:33.140 align:start position:0%
+parameters I told you about here you<c.colorE5E5E5> get
+to</c><c.colorCCCCCC><00:07:31.410><c> see</c><00:07:31.590><c> them</c></c><c.colorE5E5E5><00:07:31.710><c> in</c><00:07:31.800><c> action</c><00:07:31.980><c> this</c><00:07:32.610><c> function</c></c>
+
+00:07:33.140 --> 00:07:33.150 align:start position:0%
+to<c.colorCCCCCC> see them</c><c.colorE5E5E5> in action this function
+ </c>
+
+00:07:33.150 --> 00:07:34.760 align:start position:0%
+to<c.colorCCCCCC> see them</c><c.colorE5E5E5> in action this function
+accepts<00:07:33.540><c> parameters</c><00:07:34.110><c> for</c><00:07:34.410><c> the</c><00:07:34.530><c> name</c></c>
+
+00:07:34.760 --> 00:07:34.770 align:start position:0%
+accepts parameters for the name
+ 
+
+00:07:34.770 --> 00:07:36.830 align:start position:0%
+accepts parameters for the name
+<c.colorE5E5E5>description<00:07:35.550><c> and</c><00:07:35.700><c> price</c><00:07:36.000><c> of</c></c><c.colorCCCCCC><00:07:36.060><c> the</c><00:07:36.360><c> item</c><00:07:36.660><c> being</c></c>
+
+00:07:36.830 --> 00:07:36.840 align:start position:0%
+<c.colorE5E5E5>description and price of</c><c.colorCCCCCC> the item being
+ </c>
+
+00:07:36.840 --> 00:07:40.370 align:start position:0%
+<c.colorE5E5E5>description and price of</c><c.colorCCCCCC> the item being
+sold<00:07:37.400><c> its</c><00:07:38.400><c> visibility</c><00:07:38.850><c> is</c><00:07:39.180><c> public</c><00:07:39.690><c> and</c><00:07:39.930><c> then</c></c>
+
+00:07:40.370 --> 00:07:40.380 align:start position:0%
+sold<c.colorCCCCCC> its visibility is public and then
+ </c>
+
+00:07:40.380 --> 00:07:42.730 align:start position:0%
+sold<c.colorCCCCCC> its visibility is public and then
+it's<00:07:40.530><c> going</c><00:07:40.620><c> to</c></c><c.colorE5E5E5><00:07:40.680><c> return</c></c><c.colorCCCCCC><00:07:40.830><c> an</c><00:07:41.340><c> unsigned</c><00:07:41.790><c> integer</c></c>
+
+00:07:42.730 --> 00:07:42.740 align:start position:0%
+it's going<c.colorCCCCCC> to</c><c.colorE5E5E5> return</c><c.colorCCCCCC> an unsigned integer
+ </c>
+
+00:07:42.740 --> 00:07:45.230 align:start position:0%
+it's going<c.colorCCCCCC> to</c><c.colorE5E5E5> return</c><c.colorCCCCCC> an unsigned integer</c>
+<c.colorE5E5E5>remember<00:07:43.740><c> that</c><00:07:43.890><c> items</c><00:07:44.310><c> is</c><00:07:44.490><c> our</c><00:07:44.670><c> array</c><00:07:45.030><c> of</c></c>
+
+00:07:45.230 --> 00:07:45.240 align:start position:0%
+<c.colorE5E5E5>remember that items is our array of
+ </c>
+
+00:07:45.240 --> 00:07:47.300 align:start position:0%
+<c.colorE5E5E5>remember that items is our array of
+items<00:07:45.630><c> that</c><00:07:45.690><c> are</c><00:07:45.840><c> available</c><00:07:46.020><c> for</c><00:07:46.380><c> sale</c></c><c.colorCCCCCC><00:07:46.590><c> so</c></c>
+
+00:07:47.300 --> 00:07:47.310 align:start position:0%
+<c.colorE5E5E5>items that are available for sale</c><c.colorCCCCCC> so
+ </c>
+
+00:07:47.310 --> 00:07:49.190 align:start position:0%
+<c.colorE5E5E5>items that are available for sale</c><c.colorCCCCCC> so
+we're<00:07:47.670><c> grabbing</c></c><c.colorE5E5E5><00:07:47.910><c> that</c><00:07:48.270><c> and</c><00:07:48.570><c> then</c><00:07:48.780><c> calling</c><00:07:49.110><c> the</c></c>
+
+00:07:49.190 --> 00:07:49.200 align:start position:0%
+we're grabbing<c.colorE5E5E5> that and then calling the
+ </c>
+
+00:07:49.200 --> 00:07:51.230 align:start position:0%
+we're grabbing<c.colorE5E5E5> that and then calling the
+push<00:07:49.470><c> method</c><00:07:49.740><c> on</c></c><c.colorCCCCCC><00:07:50.010><c> it</c><00:07:50.190><c> and</c><00:07:50.340><c> then</c><00:07:50.760><c> we're</c><00:07:50.970><c> pushing</c></c>
+
+00:07:51.230 --> 00:07:51.240 align:start position:0%
+push method<c.colorE5E5E5> on</c><c.colorCCCCCC> it and then we're pushing
+ </c>
+
+00:07:51.240 --> 00:07:54.230 align:start position:0%
+push method<c.colorE5E5E5> on</c><c.colorCCCCCC> it and then we're pushing</c>
+<c.colorE5E5E5>a<00:07:51.480><c> new</c><00:07:51.690><c> item</c><00:07:52.020><c> on</c><00:07:52.380><c> to</c><00:07:52.710><c> it</c><00:07:52.920><c> and</c><00:07:53.100><c> this</c><00:07:53.610><c> item</c></c><c.colorCCCCCC><00:07:54.060><c> right</c></c>
+
+00:07:54.230 --> 00:07:54.240 align:start position:0%
+<c.colorE5E5E5>a new item on to it and this item</c><c.colorCCCCCC> right
+ </c>
+
+00:07:54.240 --> 00:07:57.650 align:start position:0%
+<c.colorE5E5E5>a new item on to it and this item</c><c.colorCCCCCC> right
+here</c><c.colorE5E5E5><00:07:54.620><c> refers</c><00:07:55.620><c> to</c><00:07:55.650><c> our</c><00:07:56.370><c> struct</c><00:07:57.030><c> defined</c><00:07:57.510><c> up</c></c>
+
+00:07:57.650 --> 00:07:57.660 align:start position:0%
+here<c.colorE5E5E5> refers to our struct defined up
+ </c>
+
+00:07:57.660 --> 00:08:00.110 align:start position:0%
+here<c.colorE5E5E5> refers to our struct defined up
+above</c><c.colorCCCCCC><00:07:57.980><c> so</c><00:07:58.980><c> we</c><00:07:59.010><c> need</c><00:07:59.160><c> to</c><00:07:59.250><c> set</c></c><c.colorE5E5E5><00:07:59.430><c> those</c><00:07:59.580><c> properties</c></c>
+
+00:08:00.110 --> 00:08:00.120 align:start position:0%
+above<c.colorCCCCCC> so we need to set</c><c.colorE5E5E5> those properties
+ </c>
+
+00:08:00.120 --> 00:08:03.500 align:start position:0%
+above<c.colorCCCCCC> so we need to set</c><c.colorE5E5E5> those properties
+we<00:08:00.720><c> set</c><00:08:00.990><c> our</c><00:08:01.230><c> item</c><00:08:01.680><c> ID</c><00:08:01.940><c> which</c><00:08:02.940><c> we</c><00:08:03.120><c> get</c><00:08:03.360><c> by</c></c>
+
+00:08:03.500 --> 00:08:03.510 align:start position:0%
+we set our item ID which we get<c.colorE5E5E5> by
+ </c>
+
+00:08:03.510 --> 00:08:05.240 align:start position:0%
+we set our item ID which we get<c.colorE5E5E5> by
+grabbing</c><c.colorCCCCCC><00:08:04.020><c> the</c><00:08:04.260><c> length</c><00:08:04.500><c> of</c><00:08:04.650><c> the</c><00:08:04.740><c> items</c><00:08:05.070><c> and</c></c>
+
+00:08:05.240 --> 00:08:05.250 align:start position:0%
+grabbing<c.colorCCCCCC> the length of the items and
+ </c>
+
+00:08:05.250 --> 00:08:07.760 align:start position:0%
+grabbing<c.colorCCCCCC> the length of the items and
+adding<00:08:05.640><c> 1</c><00:08:05.820><c> to</c><00:08:06.000><c> it</c></c><c.colorE5E5E5><00:08:06.030><c> we're</c><00:08:07.020><c> setting</c><00:08:07.320><c> our</c><00:08:07.440><c> seller</c></c>
+
+00:08:07.760 --> 00:08:07.770 align:start position:0%
+adding<c.colorCCCCCC> 1 to it</c><c.colorE5E5E5> we're setting our seller
+ </c>
+
+00:08:07.770 --> 00:08:11.000 align:start position:0%
+adding<c.colorCCCCCC> 1 to it</c><c.colorE5E5E5> we're setting our seller</c>
+<c.colorE5E5E5>and<00:08:08.100><c> so</c><00:08:08.610><c> message</c><00:08:09.330><c> is</c><00:08:09.600><c> a</c><00:08:10.140><c> constant</c><00:08:10.830><c> that's</c></c>
+
+00:08:11.000 --> 00:08:11.010 align:start position:0%
+<c.colorE5E5E5>and so message is a constant that's
+ </c>
+
+00:08:11.010 --> 00:08:13.130 align:start position:0%
+<c.colorE5E5E5>and so message is a constant that's
+available<00:08:11.250><c> inside</c><00:08:11.940><c> your</c><00:08:12.120><c> solidity</c><00:08:12.450><c> contracts</c></c>
+
+00:08:13.130 --> 00:08:13.140 align:start position:0%
+available<c.colorE5E5E5> inside your solidity contracts
+ </c>
+
+00:08:13.140 --> 00:08:15.920 align:start position:0%
+available<c.colorE5E5E5> inside your solidity contracts
+and<00:08:13.380><c> the</c><00:08:13.920><c> dot</c><00:08:14.130><c> sender</c><00:08:14.670><c> property</c><00:08:15.180><c> of</c><00:08:15.360><c> that</c><00:08:15.720><c> is</c></c>
+
+00:08:15.920 --> 00:08:15.930 align:start position:0%
+and the dot<c.colorE5E5E5> sender property of that is
+ </c>
+
+00:08:15.930 --> 00:08:18.350 align:start position:0%
+and the dot<c.colorE5E5E5> sender property of that is
+the<00:08:16.530><c> etherium</c><00:08:17.040><c> address</c><00:08:17.430><c> of</c><00:08:17.730><c> the</c><00:08:17.850><c> person</c></c><c.colorCCCCCC><00:08:18.030><c> who</c></c>
+
+00:08:18.350 --> 00:08:18.360 align:start position:0%
+the etherium address of the person<c.colorCCCCCC> who
+ </c>
+
+00:08:18.360 --> 00:08:20.690 align:start position:0%
+the etherium address of the person<c.colorCCCCCC> who
+called<00:08:18.690><c> the</c><00:08:18.870><c> contract</c></c><c.colorE5E5E5><00:08:19.470><c> in</c><00:08:19.680><c> our</c><00:08:20.220><c> case</c><00:08:20.460><c> that's</c></c>
+
+00:08:20.690 --> 00:08:20.700 align:start position:0%
+called the contract<c.colorE5E5E5> in our case that's
+ </c>
+
+00:08:20.700 --> 00:08:22.820 align:start position:0%
+called the contract<c.colorE5E5E5> in our case that's
+our<00:08:20.880><c> seller</c></c>
+
+00:08:22.820 --> 00:08:22.830 align:start position:0%
+our seller
+ 
+
+00:08:22.830 --> 00:08:24.680 align:start position:0%
+our seller
+we<00:08:23.340><c> don't</c><00:08:23.520><c> have</c><00:08:23.669><c> a</c><00:08:23.699><c> buyer</c><00:08:24.000><c> yet</c><c.colorE5E5E5><00:08:24.300><c> because</c><00:08:24.509><c> it's</c><00:08:24.629><c> a</c></c>
+
+00:08:24.680 --> 00:08:24.690 align:start position:0%
+we don't have a buyer yet<c.colorE5E5E5> because it's a
+ </c>
+
+00:08:24.690 --> 00:08:26.270 align:start position:0%
+we don't have a buyer yet<c.colorE5E5E5> because it's a</c>
+<c.colorCCCCCC>brand<00:08:24.960><c> new</c><00:08:25.080><c> item</c><00:08:25.440><c> so</c><00:08:25.590><c> we're</c><00:08:25.740><c> just</c><00:08:25.770><c> setting</c><00:08:26.190><c> our</c></c>
+
+00:08:26.270 --> 00:08:26.280 align:start position:0%
+<c.colorCCCCCC>brand new item so we're just setting our
+ </c>
+
+00:08:26.280 --> 00:08:28.640 align:start position:0%
+<c.colorCCCCCC>brand new item so we're just setting our
+address<00:08:26.669><c> to</c><00:08:26.849><c> zero</c><00:08:27.120><c> then</c><00:08:27.870><c> we'll</c><00:08:28.080><c> set</c></c><c.colorE5E5E5><00:08:28.259><c> the</c><00:08:28.379><c> name</c></c>
+
+00:08:28.640 --> 00:08:28.650 align:start position:0%
+address to zero then we'll set<c.colorE5E5E5> the name
+ </c>
+
+00:08:28.650 --> 00:08:31.159 align:start position:0%
+address to zero then we'll set<c.colorE5E5E5> the name
+description</c><c.colorCCCCCC><00:08:29.580><c> and</c><00:08:29.970><c> price</c><00:08:30.270><c> that</c><00:08:30.599><c> we</c><00:08:30.690><c> received</c></c>
+
+00:08:31.159 --> 00:08:31.169 align:start position:0%
+description<c.colorCCCCCC> and price that we received
+ </c>
+
+00:08:31.169 --> 00:08:33.680 align:start position:0%
+description<c.colorCCCCCC> and price that we received
+as<00:08:31.530><c> parameters</c><00:08:32.250><c> in</c><00:08:32.550><c> our</c><00:08:32.849><c> function</c></c><c.colorE5E5E5><00:08:33.120><c> call</c><00:08:33.479><c> and</c></c>
+
+00:08:33.680 --> 00:08:33.690 align:start position:0%
+as parameters in our function<c.colorE5E5E5> call and
+ </c>
+
+00:08:33.690 --> 00:08:36.050 align:start position:0%
+as parameters in our function<c.colorE5E5E5> call and
+since<00:08:34.620><c> it's</c><00:08:34.769><c> a</c><00:08:34.800><c> brand</c><00:08:35.039><c> new</c></c><c.colorCCCCCC><00:08:35.130><c> item</c><00:08:35.550><c> we're</c></c>
+
+00:08:36.050 --> 00:08:36.060 align:start position:0%
+since it's a brand new<c.colorCCCCCC> item we're
+ </c>
+
+00:08:36.060 --> 00:08:38.360 align:start position:0%
+since it's a brand new<c.colorCCCCCC> item we're
+setting<00:08:36.360><c> sold</c></c><c.colorE5E5E5><00:08:36.659><c> shipped</c><00:08:37.229><c> and</c><00:08:37.469><c> received</c><00:08:38.159><c> equal</c></c>
+
+00:08:38.360 --> 00:08:38.370 align:start position:0%
+setting sold<c.colorE5E5E5> shipped and received equal
+ </c>
+
+00:08:38.370 --> 00:08:40.250 align:start position:0%
+setting sold<c.colorE5E5E5> shipped and received equal
+defaults<00:08:39.029><c> and</c><00:08:39.180><c> then</c><00:08:39.659><c> finally</c><00:08:40.110><c> we're</c></c>
+
+00:08:40.250 --> 00:08:40.260 align:start position:0%
+defaults<c.colorE5E5E5> and then finally we're
+ </c>
+
+00:08:40.260 --> 00:08:43.459 align:start position:0%
+defaults<c.colorE5E5E5> and then finally we're
+returning<00:08:40.620><c> that</c><00:08:41.519><c> ID</c><00:08:41.820><c> that</c><00:08:42.269><c> we</c><00:08:42.360><c> set</c><00:08:42.630><c> for</c><00:08:42.930><c> the</c></c>
+
+00:08:43.459 --> 00:08:43.469 align:start position:0%
+returning<c.colorE5E5E5> that ID that we set for the
+ </c>
+
+00:08:43.469 --> 00:08:45.400 align:start position:0%
+returning<c.colorE5E5E5> that ID that we set for the
+item<00:08:43.769><c> ID</c></c>
+
+00:08:45.400 --> 00:08:45.410 align:start position:0%
+item ID
+ 
+
+00:08:45.410 --> 00:08:48.070 align:start position:0%
+item ID
+the<00:08:45.800><c> next</c><00:08:46.070><c> function</c><c.colorE5E5E5><00:08:46.220><c> I</c><00:08:46.460><c> want</c><00:08:46.580><c> to</c><00:08:46.760><c> build</c><00:08:47.450><c> is</c><00:08:47.780><c> one</c></c>
+
+00:08:48.070 --> 00:08:48.080 align:start position:0%
+the next function<c.colorE5E5E5> I want to build is one
+ </c>
+
+00:08:48.080 --> 00:08:50.260 align:start position:0%
+the next function<c.colorE5E5E5> I want to build is one
+to<00:08:48.320><c> allow</c><00:08:48.560><c> us</c><00:08:48.710><c> to</c><00:08:48.890><c> retrieve</c><00:08:49.310><c> a</c></c><c.colorCCCCCC><00:08:49.490><c> specific</c><00:08:50.060><c> item</c></c>
+
+00:08:50.260 --> 00:08:50.270 align:start position:0%
+to allow us to retrieve a<c.colorCCCCCC> specific item
+ </c>
+
+00:08:50.270 --> 00:08:53.080 align:start position:0%
+to allow us to retrieve a<c.colorCCCCCC> specific item</c>
+<c.colorE5E5E5>from<00:08:50.750><c> the</c><00:08:50.870><c> inventory</c></c><c.colorCCCCCC><00:08:51.110><c> or</c><00:08:51.560><c> from</c><00:08:52.430><c> the</c><00:08:52.640><c> list</c><00:08:52.940><c> of</c></c>
+
+00:08:53.080 --> 00:08:53.090 align:start position:0%
+<c.colorE5E5E5>from the inventory</c><c.colorCCCCCC> or from the list of
+ </c>
+
+00:08:53.090 --> 00:08:55.900 align:start position:0%
+<c.colorE5E5E5>from the inventory</c><c.colorCCCCCC> or from the list of</c>
+<c.colorE5E5E5>items<00:08:53.650><c> so</c><00:08:54.650><c> this</c><00:08:54.800><c> function</c><00:08:55.250><c> receives</c><00:08:55.610><c> an</c></c>
+
+00:08:55.900 --> 00:08:55.910 align:start position:0%
+<c.colorE5E5E5>items so this function receives an
+ </c>
+
+00:08:55.910 --> 00:08:58.540 align:start position:0%
+<c.colorE5E5E5>items so this function receives an
+unsigned</c><c.colorCCCCCC><00:08:56.360><c> integer</c><00:08:56.930><c> that</c><00:08:57.470><c> we</c></c><c.colorE5E5E5><00:08:57.650><c> named</c><00:08:57.860><c> item</c><00:08:58.340><c> ID</c></c>
+
+00:08:58.540 --> 00:08:58.550 align:start position:0%
+unsigned<c.colorCCCCCC> integer that we</c><c.colorE5E5E5> named item ID
+ </c>
+
+00:08:58.550 --> 00:09:00.460 align:start position:0%
+unsigned<c.colorCCCCCC> integer that we</c><c.colorE5E5E5> named item ID</c>
+<c.colorE5E5E5>and<00:08:59.060><c> that's</c><00:08:59.240><c> how</c><00:08:59.390><c> we</c><00:08:59.450><c> know</c><00:08:59.660><c> which</c><00:08:59.930><c> item</c><00:09:00.320><c> to</c></c>
+
+00:09:00.460 --> 00:09:00.470 align:start position:0%
+<c.colorE5E5E5>and that's how we know which item to
+ </c>
+
+00:09:00.470 --> 00:09:02.640 align:start position:0%
+<c.colorE5E5E5>and that's how we know which item to
+retrieve<00:09:00.920><c> from</c><00:09:01.190><c> the</c><00:09:01.340><c> array</c><00:09:01.790><c> or</c></c><c.colorCCCCCC><00:09:01.820><c> from</c><00:09:02.210><c> the</c><00:09:02.330><c> list</c></c>
+
+00:09:02.640 --> 00:09:02.650 align:start position:0%
+retrieve<c.colorE5E5E5> from the array or</c><c.colorCCCCCC> from the list
+ </c>
+
+00:09:02.650 --> 00:09:05.290 align:start position:0%
+retrieve<c.colorE5E5E5> from the array or</c><c.colorCCCCCC> from the list</c>
+<c.colorE5E5E5>again</c><c.colorCCCCCC><00:09:03.650><c> it's</c><00:09:04.010><c> public</c></c><c.colorE5E5E5><00:09:04.460><c> and</c><00:09:04.700><c> now</c><00:09:05.030><c> we've</c><00:09:05.150><c> got</c><00:09:05.270><c> a</c></c>
+
+00:09:05.290 --> 00:09:05.300 align:start position:0%
+<c.colorE5E5E5>again</c><c.colorCCCCCC> it's public</c><c.colorE5E5E5> and now we've got a
+ </c>
+
+00:09:05.300 --> 00:09:08.170 align:start position:0%
+<c.colorE5E5E5>again</c><c.colorCCCCCC> it's public</c><c.colorE5E5E5> and now we've got a
+new<00:09:05.510><c> keyword</c><00:09:05.840><c> here</c><00:09:06.350><c> view</c><00:09:06.800><c> and</c><00:09:07.070><c> view</c><00:09:07.820><c> when</c><00:09:08.090><c> you</c></c>
+
+00:09:08.170 --> 00:09:08.180 align:start position:0%
+new keyword here view and view<c.colorE5E5E5> when you
+ </c>
+
+00:09:08.180 --> 00:09:10.120 align:start position:0%
+new keyword here view and view<c.colorE5E5E5> when you
+define<00:09:08.540><c> your</c><00:09:08.690><c> function</c><00:09:09.080><c> as</c><00:09:09.200><c> view</c><00:09:09.560><c> you're</c></c>
+
+00:09:10.120 --> 00:09:10.130 align:start position:0%
+define<c.colorE5E5E5> your function as view you're
+ </c>
+
+00:09:10.130 --> 00:09:12.070 align:start position:0%
+define<c.colorE5E5E5> your function as view you're
+making<00:09:10.490><c> a</c><00:09:10.520><c> promise</c><00:09:11.090><c> that</c><00:09:11.120><c> you're</c><00:09:11.450><c> only</c><00:09:11.690><c> going</c></c>
+
+00:09:12.070 --> 00:09:12.080 align:start position:0%
+making a promise that<c.colorE5E5E5> you're only going
+ </c>
+
+00:09:12.080 --> 00:09:13.660 align:start position:0%
+making a promise that<c.colorE5E5E5> you're only going
+to<00:09:12.140><c> read</c><00:09:12.350><c> data</c><00:09:12.650><c> you're</c><00:09:12.980><c> not</c><00:09:13.160><c> going</c><00:09:13.340><c> to</c><00:09:13.400><c> attempt</c></c>
+
+00:09:13.660 --> 00:09:13.670 align:start position:0%
+<c.colorE5E5E5>to read data you're not going to attempt
+ </c>
+
+00:09:13.670 --> 00:09:17.030 align:start position:0%
+<c.colorE5E5E5>to read data you're not going to attempt
+to<00:09:13.730><c> modify</c><00:09:14.090><c> anything</c></c>
+
+00:09:17.030 --> 00:09:17.040 align:start position:0%
+ 
+ 
+
+00:09:17.040 --> 00:09:18.379 align:start position:0%
+ 
+and<00:09:17.160><c> look</c><00:09:17.310><c> at</c><00:09:17.399><c> this</c><00:09:17.490><c> return</c><00:09:17.910><c> that</c><00:09:18.149><c> we're</c><00:09:18.269><c> doing</c>
+
+00:09:18.379 --> 00:09:18.389 align:start position:0%
+and look at this return that we're doing
+ 
+
+00:09:18.389 --> 00:09:20.749 align:start position:0%
+and look at this return that we're doing
+<c.colorE5E5E5>here<00:09:18.839><c> we're</c><00:09:19.350><c> returning</c><00:09:19.709><c> an</c><00:09:20.160><c> unsigned</c><00:09:20.610><c> integer</c></c>
+
+00:09:20.749 --> 00:09:20.759 align:start position:0%
+<c.colorE5E5E5>here we're returning an unsigned integer
+ </c>
+
+00:09:20.759 --> 00:09:23.689 align:start position:0%
+<c.colorE5E5E5>here we're returning an unsigned integer</c>
+<c.colorCCCCCC>a<00:09:21.420><c> string</c><00:09:22.050><c> a</c><00:09:22.290><c> string</c></c><c.colorE5E5E5><00:09:22.350><c> and</c><00:09:22.829><c> unsigned</c><00:09:23.220><c> integer</c></c>
+
+00:09:23.689 --> 00:09:23.699 align:start position:0%
+<c.colorCCCCCC>a string a string</c><c.colorE5E5E5> and unsigned integer
+ </c>
+
+00:09:23.699 --> 00:09:27.110 align:start position:0%
+<c.colorCCCCCC>a string a string</c><c.colorE5E5E5> and unsigned integer
+and<00:09:24.000><c> then</c><00:09:24.540><c> 3</c><00:09:24.930><c> billions</c><00:09:25.500><c> which</c><00:09:26.339><c> happens</c><00:09:26.970><c> to</c></c>
+
+00:09:27.110 --> 00:09:27.120 align:start position:0%
+and then<c.colorE5E5E5> 3 billions which happens to
+ </c>
+
+00:09:27.120 --> 00:09:30.499 align:start position:0%
+and then<c.colorE5E5E5> 3 billions which happens to
+match<00:09:27.300><c> to</c><00:09:28.019><c> the</c><00:09:28.500><c> data</c><00:09:28.769><c> format</c><00:09:29.310><c> of</c><00:09:29.519><c> our</c><00:09:30.089><c> struct</c></c>
+
+00:09:30.499 --> 00:09:30.509 align:start position:0%
+match to<c.colorE5E5E5> the data format of our struct
+ </c>
+
+00:09:30.509 --> 00:09:32.720 align:start position:0%
+match to<c.colorE5E5E5> the data format of our struct</c>
+<c.colorCCCCCC>so<00:09:30.839><c> we're</c><00:09:30.990><c> going</c><00:09:31.079><c> to</c></c><c.colorE5E5E5><00:09:31.139><c> return</c><00:09:31.470><c> our</c><00:09:31.500><c> struct</c><00:09:32.040><c> but</c></c>
+
+00:09:32.720 --> 00:09:32.730 align:start position:0%
+<c.colorCCCCCC>so we're going to</c><c.colorE5E5E5> return our struct but
+ </c>
+
+00:09:32.730 --> 00:09:34.639 align:start position:0%
+<c.colorCCCCCC>so we're going to</c><c.colorE5E5E5> return our struct but
+we're<00:09:32.880><c> going</c><00:09:33.000><c> to</c><00:09:33.089><c> return</c><00:09:33.420><c> it</c><00:09:33.600><c> as</c><00:09:33.750><c> a</c><00:09:33.779><c> tuple</c></c><c.colorCCCCCC><00:09:34.319><c> and</c></c>
+
+00:09:34.639 --> 00:09:34.649 align:start position:0%
+we're going<c.colorE5E5E5> to return it as a tuple</c><c.colorCCCCCC> and
+ </c>
+
+00:09:34.649 --> 00:09:36.800 align:start position:0%
+we're going<c.colorE5E5E5> to return it as a tuple</c><c.colorCCCCCC> and</c>
+<c.colorE5E5E5>so<00:09:35.519><c> that's</c><00:09:35.699><c> exactly</c><00:09:36.000><c> what</c></c><c.colorCCCCCC><00:09:36.120><c> we're</c><00:09:36.300><c> doing</c><00:09:36.509><c> here</c></c>
+
+00:09:36.800 --> 00:09:36.810 align:start position:0%
+<c.colorE5E5E5>so that's exactly what</c><c.colorCCCCCC> we're doing here
+ </c>
+
+00:09:36.810 --> 00:09:38.059 align:start position:0%
+<c.colorE5E5E5>so that's exactly what</c><c.colorCCCCCC> we're doing here</c>
+<c.colorE5E5E5>in<00:09:36.930><c> our</c><00:09:37.050><c> return</c><00:09:37.350><c> statement</c></c>
+
+00:09:38.059 --> 00:09:38.069 align:start position:0%
+<c.colorE5E5E5>in our return statement
+ </c>
+
+00:09:38.069 --> 00:09:39.860 align:start position:0%
+<c.colorE5E5E5>in our return statement
+you<00:09:38.250><c> can</c><00:09:38.399><c> see</c><00:09:38.550><c> we're</c><00:09:38.699><c> just</c></c><c.colorCCCCCC><00:09:38.730><c> grabbing</c><00:09:39.329><c> each</c><00:09:39.509><c> one</c></c>
+
+00:09:39.860 --> 00:09:39.870 align:start position:0%
+you can see we're just<c.colorCCCCCC> grabbing each one
+ </c>
+
+00:09:39.870 --> 00:09:42.710 align:start position:0%
+you can see we're just<c.colorCCCCCC> grabbing each one
+of<00:09:40.170><c> the</c><00:09:40.380><c> items</c><00:09:40.800><c> from</c><00:09:41.160><c> our</c><00:09:41.519><c> item</c><00:09:42.480><c> that</c><00:09:42.630><c> we</c></c>
+
+00:09:42.710 --> 00:09:42.720 align:start position:0%
+of the<c.colorCCCCCC> items from our item that we
+ </c>
+
+00:09:42.720 --> 00:09:45.319 align:start position:0%
+of the<c.colorCCCCCC> items from our item that we
+retrieved<00:09:43.170><c> out</c><00:09:43.350><c> of</c><00:09:43.470><c> the</c><00:09:43.560><c> list</c></c><c.colorE5E5E5><00:09:43.829><c> and</c><00:09:44.100><c> that's</c><00:09:45.089><c> the</c></c>
+
+00:09:45.319 --> 00:09:45.329 align:start position:0%
+retrieved out of the list<c.colorE5E5E5> and that's the
+ </c>
+
+00:09:45.329 --> 00:09:48.790 align:start position:0%
+retrieved out of the list<c.colorE5E5E5> and that's the
+data<00:09:45.540><c> that</c><00:09:45.959><c> will</c><00:09:46.110><c> return</c><00:09:46.529><c> for</c><00:09:46.920><c> our</c><00:09:46.949><c> get</c><00:09:47.370><c> item</c></c>
+
+00:09:48.790 --> 00:09:48.800 align:start position:0%
+<c.colorE5E5E5>data that will return for our get item
+ </c>
+
+00:09:48.800 --> 00:09:50.739 align:start position:0%
+<c.colorE5E5E5>data that will return for our get item</c>
+<c.colorE5E5E5>okay<00:09:49.189><c> so</c><00:09:49.249><c> the</c><00:09:49.459><c> next</c><00:09:49.670><c> function</c><00:09:49.850><c> is</c><00:09:50.239><c> going</c></c><c.colorCCCCCC><00:09:50.600><c> to</c></c><c.colorE5E5E5><00:09:50.660><c> be</c></c>
+
+00:09:50.739 --> 00:09:50.749 align:start position:0%
+<c.colorE5E5E5>okay so the next function is going</c><c.colorCCCCCC> to</c><c.colorE5E5E5> be
+ </c>
+
+00:09:50.749 --> 00:09:53.910 align:start position:0%
+<c.colorE5E5E5>okay so the next function is going</c><c.colorCCCCCC> to</c><c.colorE5E5E5> be
+one<00:09:50.959><c> to</c><00:09:51.230><c> allow</c><00:09:51.649><c> our</c><00:09:52.129><c> buyer</c><00:09:52.699><c> to</c></c><c.colorCCCCCC><00:09:53.059><c> buy</c><00:09:53.269><c> an</c><00:09:53.449><c> item</c></c>
+
+00:09:53.910 --> 00:09:53.920 align:start position:0%
+one to allow our buyer to<c.colorCCCCCC> buy an item
+ </c>
+
+00:09:53.920 --> 00:09:56.379 align:start position:0%
+one to allow our buyer to<c.colorCCCCCC> buy an item
+again</c><c.colorE5E5E5><00:09:54.920><c> it</c><00:09:55.220><c> receives</c><00:09:55.519><c> an</c><00:09:55.699><c> unsigned</c><00:09:56.179><c> integer</c></c>
+
+00:09:56.379 --> 00:09:56.389 align:start position:0%
+again<c.colorE5E5E5> it receives an unsigned integer
+ </c>
+
+00:09:56.389 --> 00:09:59.199 align:start position:0%
+again<c.colorE5E5E5> it receives an unsigned integer</c>
+<c.colorCCCCCC>that<00:09:57.379><c> we're</c></c><c.colorE5E5E5><00:09:57.529><c> calling</c><00:09:58.040><c> our</c><00:09:58.189><c> item</c><00:09:58.519><c> ID</c><00:09:58.730><c> to</c><00:09:59.059><c> tell</c></c>
+
+00:09:59.199 --> 00:09:59.209 align:start position:0%
+<c.colorCCCCCC>that we're</c><c.colorE5E5E5> calling our item ID to tell
+ </c>
+
+00:09:59.209 --> 00:10:01.629 align:start position:0%
+<c.colorCCCCCC>that we're</c><c.colorE5E5E5> calling our item ID to tell
+us<00:09:59.329><c> which</c><00:09:59.629><c> item</c><00:10:00.019><c> were</c><00:10:00.139><c> referring</c><00:10:00.499><c> to</c><00:10:00.639><c> we've</c></c>
+
+00:10:01.629 --> 00:10:01.639 align:start position:0%
+us which item were referring to we've
+ 
+
+00:10:01.639 --> 00:10:03.160 align:start position:0%
+us which item were referring to we've
+<c.colorE5E5E5>got<00:10:01.819><c> it</c><00:10:01.939><c> public</c><00:10:02.360><c> so</c></c><c.colorCCCCCC><00:10:02.389><c> it's</c><00:10:02.600><c> externally</c></c>
+
+00:10:03.160 --> 00:10:03.170 align:start position:0%
+<c.colorE5E5E5>got it public so</c><c.colorCCCCCC> it's externally
+ </c>
+
+00:10:03.170 --> 00:10:05.109 align:start position:0%
+<c.colorE5E5E5>got it public so</c><c.colorCCCCCC> it's externally
+callable<00:10:03.649><c> and</c><00:10:03.889><c> now</c><00:10:04.040><c> another</c><00:10:04.429><c> new</c><00:10:04.670><c> keyword</c></c>
+
+00:10:05.109 --> 00:10:05.119 align:start position:0%
+callable and now another new keyword
+ 
+
+00:10:05.119 --> 00:10:08.049 align:start position:0%
+callable and now another new keyword
+called<00:10:05.389><c> payable</c><c.colorE5E5E5><00:10:06.049><c> this</c><00:10:06.829><c> allows</c><00:10:07.249><c> this</c><00:10:07.549><c> function</c></c>
+
+00:10:08.049 --> 00:10:08.059 align:start position:0%
+called payable<c.colorE5E5E5> this allows this function
+ </c>
+
+00:10:08.059 --> 00:10:10.299 align:start position:0%
+called payable<c.colorE5E5E5> this allows this function
+to<00:10:08.209><c> receive</c><00:10:08.660><c> funds</c><00:10:09.079><c> whenever</c><00:10:09.799><c> it's</c><00:10:10.009><c> called</c></c>
+
+00:10:10.299 --> 00:10:10.309 align:start position:0%
+to receive funds whenever it's called
+ 
+
+00:10:10.309 --> 00:10:12.249 align:start position:0%
+to receive funds whenever it's called
+<c.colorE5E5E5>this<00:10:10.819><c> is</c></c><c.colorCCCCCC><00:10:10.879><c> how</c><00:10:11.119><c> the</c><00:10:11.179><c> buyer</c><00:10:11.509><c> is</c><00:10:11.749><c> gonna</c><00:10:11.929><c> pay</c></c><c.colorE5E5E5><00:10:12.199><c> for</c></c>
+
+00:10:12.249 --> 00:10:12.259 align:start position:0%
+<c.colorE5E5E5>this is</c><c.colorCCCCCC> how the buyer is gonna pay</c><c.colorE5E5E5> for
+ </c>
+
+00:10:12.259 --> 00:10:14.139 align:start position:0%
+<c.colorE5E5E5>this is</c><c.colorCCCCCC> how the buyer is gonna pay</c><c.colorE5E5E5> for
+their<00:10:12.559><c> purchase</c><00:10:13.100><c> we've</c><00:10:13.699><c> got</c><00:10:13.879><c> the</c><00:10:13.970><c> function</c></c>
+
+00:10:14.139 --> 00:10:14.149 align:start position:0%
+their purchase<c.colorE5E5E5> we've got the function
+ </c>
+
+00:10:14.149 --> 00:10:16.119 align:start position:0%
+their purchase<c.colorE5E5E5> we've got the function
+marked<00:10:14.569><c> as</c><00:10:14.689><c> payable</c><00:10:15.199><c> so</c><00:10:15.230><c> it's</c></c><c.colorCCCCCC><00:10:15.559><c> capable</c></c><c.colorE5E5E5><00:10:16.009><c> of</c></c>
+
+00:10:16.119 --> 00:10:16.129 align:start position:0%
+marked as payable so<c.colorE5E5E5> it's</c><c.colorCCCCCC> capable</c><c.colorE5E5E5> of
+ </c>
+
+00:10:16.129 --> 00:10:18.039 align:start position:0%
+marked as payable so<c.colorE5E5E5> it's</c><c.colorCCCCCC> capable</c><c.colorE5E5E5> of
+receiving<00:10:16.489><c> funds</c><00:10:16.999><c> and</c><00:10:17.329><c> then</c><00:10:17.809><c> we're</c><00:10:17.959><c> gonna</c></c>
+
+00:10:18.039 --> 00:10:18.049 align:start position:0%
+receiving funds and then we're gonna
+ 
+
+00:10:18.049 --> 00:10:21.129 align:start position:0%
+receiving funds and then we're gonna
+<c.colorCCCCCC>attach<00:10:18.470><c> those</c><00:10:18.739><c> funds</c><00:10:19.129><c> from</c></c><c.colorE5E5E5><00:10:20.059><c> the</c></c><c.colorCCCCCC><00:10:20.239><c> users</c><00:10:20.629><c> wallet</c></c>
+
+00:10:21.129 --> 00:10:21.139 align:start position:0%
+<c.colorCCCCCC>attach those funds from</c><c.colorE5E5E5> the</c><c.colorCCCCCC> users wallet
+ </c>
+
+00:10:21.139 --> 00:10:23.139 align:start position:0%
+<c.colorCCCCCC>attach those funds from</c><c.colorE5E5E5> the</c><c.colorCCCCCC> users wallet
+whenever<00:10:21.769><c> they</c><00:10:21.980><c> try</c><00:10:22.339><c> to</c><00:10:22.399><c> call</c><00:10:22.699><c> this</c><00:10:22.850><c> function</c></c>
+
+00:10:23.139 --> 00:10:23.149 align:start position:0%
+whenever they try to call this function
+ 
+
+00:10:23.149 --> 00:10:26.229 align:start position:0%
+whenever they try to call this function
+<c.colorE5E5E5>so</c><c.colorCCCCCC><00:10:23.739><c> now</c><00:10:24.739><c> we</c><00:10:24.799><c> need</c><00:10:24.949><c> to</c></c><c.colorE5E5E5><00:10:25.009><c> set</c><00:10:25.309><c> the</c></c><c.colorCCCCCC><00:10:25.429><c> address</c><00:10:25.939><c> for</c></c>
+
+00:10:26.229 --> 00:10:26.239 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> now we need to</c><c.colorE5E5E5> set the</c><c.colorCCCCCC> address for
+ </c>
+
+00:10:26.239 --> 00:10:28.900 align:start position:0%
+<c.colorE5E5E5>so</c><c.colorCCCCCC> now we need to</c><c.colorE5E5E5> set the</c><c.colorCCCCCC> address for
+the<00:10:26.449><c> person</c><00:10:26.809><c> who</c><00:10:26.929><c> bought</c><00:10:27.230><c> this</c><00:10:27.439><c> item</c><00:10:27.910><c> using</c></c>
+
+00:10:28.900 --> 00:10:28.910 align:start position:0%
+the<c.colorCCCCCC> person who bought this item using
+ </c>
+
+00:10:28.910 --> 00:10:31.299 align:start position:0%
+the<c.colorCCCCCC> person who bought this item using
+our<00:10:29.119><c> message</c><00:10:29.540><c> constant</c><00:10:30.139><c> again</c><00:10:30.410><c> and</c><00:10:30.709><c> again</c></c>
+
+00:10:31.299 --> 00:10:31.309 align:start position:0%
+our message constant again and again
+ 
+
+00:10:31.309 --> 00:10:33.549 align:start position:0%
+our message constant again and again
+grabbing<c.colorE5E5E5><00:10:31.699><c> the</c><00:10:31.939><c> dot</c></c><c.colorCCCCCC><00:10:32.119><c> sender</c><00:10:32.629><c> property</c><00:10:33.139><c> of</c><00:10:33.319><c> that</c></c>
+
+00:10:33.549 --> 00:10:33.559 align:start position:0%
+grabbing<c.colorE5E5E5> the dot</c><c.colorCCCCCC> sender property of that
+ </c>
+
+00:10:33.559 --> 00:10:35.949 align:start position:0%
+grabbing<c.colorE5E5E5> the dot</c><c.colorCCCCCC> sender property of that</c>
+<c.colorE5E5E5>but<00:10:34.489><c> this</c><00:10:34.670><c> time</c><00:10:34.879><c> we're</c><00:10:35.059><c> setting</c><00:10:35.449><c> it</c><00:10:35.540><c> as</c><00:10:35.689><c> the</c></c>
+
+00:10:35.949 --> 00:10:35.959 align:start position:0%
+<c.colorE5E5E5>but this time we're setting it as the
+ </c>
+
+00:10:35.959 --> 00:10:39.280 align:start position:0%
+<c.colorE5E5E5>but this time we're setting it as the
+buyer<00:10:36.399><c> whenever</c><00:10:37.399><c> we</c><00:10:37.699><c> created</c><00:10:38.689><c> the</c><00:10:38.779><c> new</c><00:10:38.899><c> item</c></c>
+
+00:10:39.280 --> 00:10:39.290 align:start position:0%
+buyer whenever we created<c.colorE5E5E5> the new item
+ </c>
+
+00:10:39.290 --> 00:10:41.319 align:start position:0%
+buyer whenever we created<c.colorE5E5E5> the new item
+we<00:10:39.439><c> set</c><00:10:39.649><c> that</c><00:10:39.829><c> as</c></c><c.colorCCCCCC><00:10:39.949><c> the</c><00:10:40.100><c> seller</c></c><c.colorE5E5E5><00:10:40.429><c> and</c><00:10:40.730><c> now</c></c>
+
+00:10:41.319 --> 00:10:41.329 align:start position:0%
+we set<c.colorE5E5E5> that as</c><c.colorCCCCCC> the seller</c><c.colorE5E5E5> and now
+ </c>
+
+00:10:41.329 --> 00:10:43.359 align:start position:0%
+we set<c.colorE5E5E5> that as</c><c.colorCCCCCC> the seller</c><c.colorE5E5E5> and now</c>
+<c.colorE5E5E5>presumably<00:10:42.049><c> this</c></c><c.colorCCCCCC><00:10:42.379><c> is</c><00:10:42.559><c> a</c><00:10:42.589><c> different</c></c><c.colorE5E5E5><00:10:42.980><c> person</c></c>
+
+00:10:43.359 --> 00:10:43.369 align:start position:0%
+<c.colorE5E5E5>presumably this</c><c.colorCCCCCC> is a different</c><c.colorE5E5E5> person
+ </c>
+
+00:10:43.369 --> 00:10:44.590 align:start position:0%
+<c.colorE5E5E5>presumably this</c><c.colorCCCCCC> is a different</c><c.colorE5E5E5> person
+who's<00:10:43.549><c> going</c></c><c.colorCCCCCC><00:10:43.670><c> to</c><00:10:43.730><c> be</c><00:10:43.819><c> calling</c></c><c.colorE5E5E5><00:10:44.029><c> this</c></c><c.colorCCCCCC><00:10:44.209><c> function</c></c>
+
+00:10:44.590 --> 00:10:44.600 align:start position:0%
+who's<c.colorE5E5E5> going</c><c.colorCCCCCC> to be calling</c><c.colorE5E5E5> this</c><c.colorCCCCCC> function
+ </c>
+
+00:10:44.600 --> 00:10:47.019 align:start position:0%
+who's<c.colorE5E5E5> going</c><c.colorCCCCCC> to be calling</c><c.colorE5E5E5> this</c><c.colorCCCCCC> function
+because<00:10:44.809><c> they</c><00:10:44.929><c> want</c></c><c.colorE5E5E5><00:10:45.110><c> to</c><00:10:45.199><c> buy</c><00:10:45.410><c> the</c><00:10:45.470><c> item</c><00:10:46.029><c> so</c></c>
+
+00:10:47.019 --> 00:10:47.029 align:start position:0%
+because they want<c.colorE5E5E5> to buy the item so
+ </c>
+
+00:10:47.029 --> 00:10:48.729 align:start position:0%
+because they want<c.colorE5E5E5> to buy the item so
+we'll<00:10:47.179><c> record</c><00:10:47.540><c> that</c><00:10:47.720><c> address</c><00:10:48.079><c> here</c><00:10:48.379><c> and</c><00:10:48.559><c> then</c></c>
+
+00:10:48.729 --> 00:10:48.739 align:start position:0%
+we'll<c.colorE5E5E5> record that address here and then
+ </c>
+
+00:10:48.739 --> 00:10:50.710 align:start position:0%
+we'll<c.colorE5E5E5> record that address here and then
+we'll<00:10:48.920><c> set</c><00:10:49.129><c> the</c><00:10:49.160><c> sold</c><00:10:49.549><c> property</c><00:10:50.149><c> equal</c><00:10:50.569><c> to</c></c>
+
+00:10:50.710 --> 00:10:50.720 align:start position:0%
+we'll set the sold property equal to
+ 
+
+00:10:50.720 --> 00:10:53.259 align:start position:0%
+we'll set the sold property equal to
+true<00:10:51.459><c> the</c><c.colorE5E5E5><00:10:52.459><c> next</c><00:10:52.730><c> two</c><00:10:52.790><c> I'm</c><00:10:52.910><c> going</c><00:10:52.999><c> to</c><00:10:53.089><c> show</c><00:10:53.240><c> you</c></c>
+
+00:10:53.259 --> 00:10:53.269 align:start position:0%
+true the<c.colorE5E5E5> next two I'm going to show you
+ </c>
+
+00:10:53.269 --> 00:10:54.730 align:start position:0%
+true the<c.colorE5E5E5> next two I'm going to show you</c>
+<c.colorCCCCCC>at<00:10:53.420><c> the</c><00:10:53.540><c> same</c></c><c.colorE5E5E5><00:10:53.779><c> time</c><00:10:54.139><c> because</c><00:10:54.470><c> they're</c></c>
+
+00:10:54.730 --> 00:10:54.740 align:start position:0%
+<c.colorCCCCCC>at the same</c><c.colorE5E5E5> time because they're
+ </c>
+
+00:10:54.740 --> 00:10:55.299 align:start position:0%
+<c.colorCCCCCC>at the same</c><c.colorE5E5E5> time because they're
+identical</c>
+
+00:10:55.299 --> 00:10:55.309 align:start position:0%
+identical
+ 
+
+00:10:55.309 --> 00:10:58.059 align:start position:0%
+identical
+we've<00:10:56.269><c> got</c><00:10:56.449><c> ship</c><00:10:56.749><c> item</c><00:10:57.110><c> and</c><00:10:57.290><c> receive</c><00:10:57.679><c> item</c>
+
+00:10:58.059 --> 00:10:58.069 align:start position:0%
+we've got ship item and receive item
+ 
+
+00:10:58.069 --> 00:11:00.489 align:start position:0%
+we've got ship item and receive item
+<c.colorE5E5E5>both<00:10:58.549><c> of</c><00:10:58.759><c> them</c><00:10:58.850><c> receive</c><00:10:59.179><c> the</c><00:10:59.360><c> ID</c></c><c.colorCCCCCC><00:10:59.569><c> of</c><00:11:00.049><c> the</c><00:11:00.170><c> item</c></c>
+
+00:11:00.489 --> 00:11:00.499 align:start position:0%
+<c.colorE5E5E5>both of them receive the ID</c><c.colorCCCCCC> of the item
+ </c>
+
+00:11:00.499 --> 00:11:02.410 align:start position:0%
+<c.colorE5E5E5>both of them receive the ID</c><c.colorCCCCCC> of the item</c>
+<c.colorE5E5E5>that's<00:11:00.709><c> being</c></c><c.colorCCCCCC><00:11:01.009><c> referenced</c><00:11:01.730><c> both</c><00:11:01.970><c> of</c><00:11:02.149><c> them</c><00:11:02.299><c> are</c></c>
+
+00:11:02.410 --> 00:11:02.420 align:start position:0%
+<c.colorE5E5E5>that's being</c><c.colorCCCCCC> referenced both of them are
+ </c>
+
+00:11:02.420 --> 00:11:05.049 align:start position:0%
+<c.colorE5E5E5>that's being</c><c.colorCCCCCC> referenced both of them are</c>
+<c.colorCCCCCC>public<00:11:02.959><c> and</c><00:11:03.110><c> then</c><00:11:04.009><c> they</c><00:11:04.369><c> each</c><00:11:04.519><c> set</c><00:11:04.790><c> different</c></c>
+
+00:11:05.049 --> 00:11:05.059 align:start position:0%
+<c.colorCCCCCC>public and then they each set different
+ </c>
+
+00:11:05.059 --> 00:11:07.179 align:start position:0%
+<c.colorCCCCCC>public and then they each set different
+properties<00:11:05.480><c> one</c><00:11:05.720><c> set</c><00:11:06.019><c> shipped</c><00:11:06.350><c> equal</c><00:11:06.709><c> to</c><00:11:06.889><c> true</c></c>
+
+00:11:07.179 --> 00:11:07.189 align:start position:0%
+properties one set shipped equal to true
+ 
+
+00:11:07.189 --> 00:11:10.690 align:start position:0%
+properties one set shipped equal to true
+the<00:11:07.519><c> other</c><00:11:07.670><c> set</c><00:11:07.999><c> received</c><c.colorE5E5E5><00:11:08.480><c> equal</c><00:11:08.929><c> to</c><00:11:09.079><c> true</c></c>
+
+00:11:10.690 --> 00:11:10.700 align:start position:0%
+the other set received<c.colorE5E5E5> equal to true
+ </c>
+
+00:11:10.700 --> 00:11:12.250 align:start position:0%
+the other set received<c.colorE5E5E5> equal to true
+and<00:11:10.790><c> in</c><00:11:11.210><c> the</c><00:11:11.300><c> last</c><00:11:11.540><c> function</c><00:11:11.780><c> I'm</c><00:11:12.020><c> going</c></c><c.colorCCCCCC><00:11:12.080><c> to</c></c>
+
+00:11:12.250 --> 00:11:12.260 align:start position:0%
+and in the last function<c.colorE5E5E5> I'm going</c><c.colorCCCCCC> to
+ </c>
+
+00:11:12.260 --> 00:11:14.290 align:start position:0%
+and in the last function<c.colorE5E5E5> I'm going</c><c.colorCCCCCC> to
+show</c><c.colorE5E5E5><00:11:12.500><c> you</c><00:11:12.560><c> is</c><00:11:12.890><c> the</c><00:11:13.460><c> one</c><00:11:13.580><c> that</c></c><c.colorCCCCCC><00:11:13.640><c> allows</c><00:11:13.910><c> our</c></c>
+
+00:11:14.290 --> 00:11:14.300 align:start position:0%
+show<c.colorE5E5E5> you is the one that</c><c.colorCCCCCC> allows our
+ </c>
+
+00:11:14.300 --> 00:11:16.990 align:start position:0%
+show<c.colorE5E5E5> you is the one that</c><c.colorCCCCCC> allows our
+seller<00:11:14.630><c> to</c><00:11:14.990><c> retrieve</c><00:11:15.890><c> their</c><00:11:16.190><c> funds</c><00:11:16.520><c> or</c></c><c.colorE5E5E5><00:11:16.850><c> their</c></c>
+
+00:11:16.990 --> 00:11:17.000 align:start position:0%
+seller to retrieve their funds or<c.colorE5E5E5> their
+ </c>
+
+00:11:17.000 --> 00:11:19.690 align:start position:0%
+seller to retrieve their funds or<c.colorE5E5E5> their
+ether<00:11:17.420><c> after</c><00:11:17.780><c> the</c><00:11:17.900><c> products</c><00:11:18.260><c> been</c><00:11:18.380><c> sold</c><00:11:18.710><c> so</c></c>
+
+00:11:19.690 --> 00:11:19.700 align:start position:0%
+<c.colorE5E5E5>ether after the products been sold so
+ </c>
+
+00:11:19.700 --> 00:11:21.160 align:start position:0%
+<c.colorE5E5E5>ether after the products been sold so
+we've<00:11:19.820><c> got</c><00:11:19.970><c> a</c></c><c.colorCCCCCC><00:11:20.000><c> function</c></c><c.colorE5E5E5><00:11:20.360><c> called</c><00:11:20.540><c> claim</c><00:11:20.810><c> funds</c></c>
+
+00:11:21.160 --> 00:11:21.170 align:start position:0%
+we've got a<c.colorCCCCCC> function</c><c.colorE5E5E5> called claim funds
+ </c>
+
+00:11:21.170 --> 00:11:24.370 align:start position:0%
+we've got a<c.colorCCCCCC> function</c><c.colorE5E5E5> called claim funds
+again<00:11:21.890><c> passing</c></c><c.colorCCCCCC><00:11:22.370><c> in</c><00:11:22.640><c> the</c><00:11:22.760><c> item</c><00:11:23.090><c> ID</c><00:11:23.270><c> it's</c><00:11:24.260><c> a</c></c>
+
+00:11:24.370 --> 00:11:24.380 align:start position:0%
+<c.colorE5E5E5>again passing</c><c.colorCCCCCC> in the item ID it's a
+ </c>
+
+00:11:24.380 --> 00:11:27.220 align:start position:0%
+<c.colorE5E5E5>again passing</c><c.colorCCCCCC> in the item ID it's a
+public<00:11:24.740><c> function</c><00:11:25.250><c> and</c><00:11:25.490><c> then</c><00:11:26.330><c> we've</c><00:11:27.050><c> got</c></c><c.colorE5E5E5><00:11:27.170><c> our</c></c>
+
+00:11:27.220 --> 00:11:27.230 align:start position:0%
+public<c.colorCCCCCC> function and then we've got</c><c.colorE5E5E5> our
+ </c>
+
+00:11:27.230 --> 00:11:29.470 align:start position:0%
+public<c.colorCCCCCC> function and then we've got</c><c.colorE5E5E5> our
+message<00:11:27.590><c> sender</c><00:11:28.310><c> so</c><00:11:29.030><c> that's</c><00:11:29.150><c> the</c><00:11:29.270><c> person</c></c>
+
+00:11:29.470 --> 00:11:29.480 align:start position:0%
+<c.colorE5E5E5>message sender so that's the person
+ </c>
+
+00:11:29.480 --> 00:11:30.970 align:start position:0%
+<c.colorE5E5E5>message sender so that's the person</c>
+<c.colorCCCCCC>calling</c><c.colorE5E5E5><00:11:29.840><c> the</c><00:11:30.020><c> contract</c><00:11:30.560><c> and</c><00:11:30.740><c> then</c><00:11:30.860><c> we're</c></c>
+
+00:11:30.970 --> 00:11:30.980 align:start position:0%
+<c.colorCCCCCC>calling</c><c.colorE5E5E5> the contract and then we're
+ </c>
+
+00:11:30.980 --> 00:11:33.040 align:start position:0%
+<c.colorCCCCCC>calling</c><c.colorE5E5E5> the contract and then we're
+calling<00:11:31.280><c> the</c><00:11:31.430><c> dot</c><00:11:31.610><c> transfer</c><00:11:32.330><c> method</c><00:11:32.840><c> and</c></c>
+
+00:11:33.040 --> 00:11:33.050 align:start position:0%
+calling the dot transfer method and
+ 
+
+00:11:33.050 --> 00:11:36.130 align:start position:0%
+calling the dot transfer method and
+we're<00:11:33.620><c> gonna</c><00:11:33.730><c> transfer</c><00:11:34.730><c> however</c><00:11:35.690><c> much</c><00:11:35.930><c> this</c>
+
+00:11:36.130 --> 00:11:36.140 align:start position:0%
+we're gonna transfer however much this
+ 
+
+00:11:36.140 --> 00:11:38.470 align:start position:0%
+we're gonna transfer however much this
+<c.colorE5E5E5>items<00:11:36.470><c> sold</c><00:11:36.770><c> for</c><00:11:37.160><c> back</c><00:11:37.760><c> to</c><00:11:37.940><c> the</c><00:11:38.030><c> person</c><00:11:38.390><c> who</c></c>
+
+00:11:38.470 --> 00:11:38.480 align:start position:0%
+<c.colorE5E5E5>items sold for back to the person who
+ </c>
+
+00:11:38.480 --> 00:11:40.750 align:start position:0%
+<c.colorE5E5E5>items sold for back to the person who
+called<00:11:38.780><c> this</c><00:11:38.990><c> message</c><00:11:39.410><c> and</c><00:11:39.640><c> there</c><00:11:40.640><c> you</c><00:11:40.730><c> have</c></c>
+
+00:11:40.750 --> 00:11:40.760 align:start position:0%
+called<c.colorE5E5E5> this message and there you have
+ </c>
+
+00:11:40.760 --> 00:11:42.400 align:start position:0%
+called<c.colorE5E5E5> this message and there you have</c>
+<c.colorCCCCCC>it<00:11:40.910><c> we've</c><00:11:41.300><c> implemented</c><00:11:41.720><c> some</c></c><c.colorE5E5E5><00:11:41.870><c> basic</c></c>
+
+00:11:42.400 --> 00:11:42.410 align:start position:0%
+<c.colorCCCCCC>it we've implemented some</c><c.colorE5E5E5> basic
+ </c>
+
+00:11:42.410 --> 00:11:44.230 align:start position:0%
+<c.colorCCCCCC>it we've implemented some</c><c.colorE5E5E5> basic
+variables<00:11:42.890><c> and</c><00:11:43.070><c> functions</c><00:11:43.250><c> within</c><00:11:43.730><c> our</c><00:11:43.940><c> smart</c></c>
+
+00:11:44.230 --> 00:11:44.240 align:start position:0%
+variables<c.colorE5E5E5> and functions within our smart
+ </c>
+
+00:11:44.240 --> 00:11:46.900 align:start position:0%
+variables<c.colorE5E5E5> and functions within our smart
+contract<00:11:44.750><c> in</c><00:11:45.130><c> doing</c><00:11:46.130><c> so</c><00:11:46.370><c> we</c><00:11:46.550><c> learned</c><00:11:46.730><c> how</c><00:11:46.880><c> to</c></c>
+
+00:11:46.900 --> 00:11:46.910 align:start position:0%
+contract<c.colorE5E5E5> in doing so we learned how to
+ </c>
+
+00:11:46.910 --> 00:11:48.880 align:start position:0%
+contract<c.colorE5E5E5> in doing so we learned how to</c>
+<c.colorCCCCCC>create<00:11:47.390><c> and</c><00:11:47.690><c> use</c><00:11:47.930><c> some</c><00:11:48.200><c> of</c><00:11:48.230><c> the</c><00:11:48.350><c> common</c></c><c.colorE5E5E5><00:11:48.740><c> data</c></c>
+
+00:11:48.880 --> 00:11:48.890 align:start position:0%
+<c.colorCCCCCC>create and use some of the common</c><c.colorE5E5E5> data
+ </c>
+
+00:11:48.890 --> 00:11:50.860 align:start position:0%
+<c.colorCCCCCC>create and use some of the common</c><c.colorE5E5E5> data</c>
+<c.colorCCCCCC>types</c><c.colorE5E5E5><00:11:49.190><c> and</c><00:11:49.400><c> solidity</c><00:11:49.790><c> and</c><00:11:50.000><c> we</c><00:11:50.540><c> saw</c><00:11:50.690><c> how</c><00:11:50.810><c> to</c></c>
+
+00:11:50.860 --> 00:11:50.870 align:start position:0%
+<c.colorCCCCCC>types</c><c.colorE5E5E5> and solidity and we saw how to
+ </c>
+
+00:11:50.870 --> 00:11:52.450 align:start position:0%
+<c.colorCCCCCC>types</c><c.colorE5E5E5> and solidity and we saw how to
+create<00:11:50.960><c> functions</c><00:11:51.770><c> to</c><00:11:51.950><c> implement</c><00:11:52.340><c> the</c></c>
+
+00:11:52.450 --> 00:11:52.460 align:start position:0%
+create functions to implement the
+ 
+
+00:11:52.460 --> 00:11:56.130 align:start position:0%
+create functions to implement the
+<c.colorCCCCCC>business</c><c.colorE5E5E5><00:11:52.910><c> logic</c><00:11:53.090><c> of</c><00:11:53.480><c> our</c><00:11:53.570><c> online</c><00:11:53.750><c> marketplace</c></c>
+
+00:11:56.130 --> 00:11:56.140 align:start position:0%
+<c.colorCCCCCC>business</c><c.colorE5E5E5> logic of our online marketplace
+ </c>
+
+00:11:56.140 --> 00:11:58.769 align:start position:0%
+<c.colorCCCCCC>business</c><c.colorE5E5E5> logic of our online marketplace
+our<00:11:56.709><c> contract</c><00:11:57.190><c> isn't</c><00:11:57.339><c> complete</c><00:11:57.490><c> though</c><00:11:58.000><c> for</c></c>
+
+00:11:58.769 --> 00:11:58.779 align:start position:0%
+our contract isn't complete though for
+ 
+
+00:11:58.779 --> 00:12:00.810 align:start position:0%
+our contract isn't complete though for
+<c.colorE5E5E5>example<00:11:59.290><c> what</c><00:11:59.680><c> happens</c><00:12:00.070><c> if</c><00:12:00.220><c> someone</c><00:12:00.519><c> tries</c><00:12:00.790><c> to</c></c>
+
+00:12:00.810 --> 00:12:00.820 align:start position:0%
+<c.colorE5E5E5>example what happens if someone tries to
+ </c>
+
+00:12:00.820 --> 00:12:03.960 align:start position:0%
+<c.colorE5E5E5>example what happens if someone tries to</c>
+<c.colorE5E5E5>buy<00:12:01.300><c> an</c><00:12:01.450><c> item</c><00:12:01.630><c> and</c><00:12:01.990><c> pay</c><00:12:02.470><c> less</c></c><c.colorCCCCCC><00:12:02.920><c> than</c></c><c.colorE5E5E5><00:12:02.980><c> the</c></c><c.colorCCCCCC><00:12:03.370><c> item</c></c>
+
+00:12:03.960 --> 00:12:03.970 align:start position:0%
+<c.colorE5E5E5>buy an item and pay less</c><c.colorCCCCCC> than</c><c.colorE5E5E5> the</c><c.colorCCCCCC> item
+ </c>
+
+00:12:03.970 --> 00:12:06.180 align:start position:0%
+<c.colorE5E5E5>buy an item and pay less</c><c.colorCCCCCC> than</c><c.colorE5E5E5> the</c><c.colorCCCCCC> item
+price<00:12:04.240><c> for</c><00:12:04.570><c> it</c></c><c.colorE5E5E5><00:12:04.690><c> or</c><00:12:04.959><c> what</c><00:12:05.560><c> if</c><00:12:05.680><c> someone</c><00:12:05.920><c> tries</c><00:12:06.160><c> to</c></c>
+
+00:12:06.180 --> 00:12:06.190 align:start position:0%
+price for it<c.colorE5E5E5> or what if someone tries to
+ </c>
+
+00:12:06.190 --> 00:12:08.550 align:start position:0%
+price for it<c.colorE5E5E5> or what if someone tries to
+withdraw<00:12:06.760><c> the</c><00:12:06.820><c> ether</c><00:12:07.450><c> receive</c><00:12:07.899><c> for</c><00:12:08.170><c> selling</c></c>
+
+00:12:08.550 --> 00:12:08.560 align:start position:0%
+withdraw the ether receive for selling
+ 
+
+00:12:08.560 --> 00:12:10.259 align:start position:0%
+withdraw the ether receive for selling
+an<00:12:08.649><c> item</c><c.colorCCCCCC><00:12:08.800><c> but</c><00:12:09.250><c> they</c><00:12:09.370><c> haven't</c><00:12:09.610><c> shipped</c><00:12:09.850><c> it</c><00:12:10.029><c> yet</c></c>
+
+00:12:10.259 --> 00:12:10.269 align:start position:0%
+an item<c.colorCCCCCC> but they haven't shipped it yet
+ </c>
+
+00:12:10.269 --> 00:12:12.569 align:start position:0%
+an item<c.colorCCCCCC> but they haven't shipped it yet
+we<00:12:11.200><c> can</c><00:12:11.350><c> enforce</c></c><c.colorE5E5E5><00:12:11.709><c> those</c><00:12:11.890><c> concepts</c><00:12:12.430><c> with</c></c>
+
+00:12:12.569 --> 00:12:12.579 align:start position:0%
+we can enforce<c.colorE5E5E5> those concepts with
+ </c>
+
+00:12:12.579 --> 00:12:14.579 align:start position:0%
+we can enforce<c.colorE5E5E5> those concepts with
+function<00:12:13.060><c> modifiers</c><00:12:13.630><c> and</c><00:12:14.050><c> if</c><00:12:14.320><c> you</c><00:12:14.410><c> stick</c></c>
+
+00:12:14.579 --> 00:12:14.589 align:start position:0%
+function modifiers and<c.colorE5E5E5> if you stick
+ </c>
+
+00:12:14.589 --> 00:12:16.079 align:start position:0%
+function modifiers and<c.colorE5E5E5> if you stick
+around<00:12:14.620><c> for</c><00:12:15.010><c> the</c><00:12:15.070><c> next</c><00:12:15.220><c> video</c><00:12:15.610><c> you'll</c><00:12:16.029><c> see</c></c>
+
+00:12:16.079 --> 00:12:16.089 align:start position:0%
+around<c.colorE5E5E5> for the next video you'll see
+ </c>
+
+00:12:16.089 --> 00:12:18.240 align:start position:0%
+around<c.colorE5E5E5> for the next video you'll see</c>
+<c.colorCCCCCC>exactly<00:12:16.839><c> how</c></c><c.colorE5E5E5><00:12:16.930><c> to</c><00:12:16.990><c> do</c><00:12:17.170><c> that</c></c><c.colorCCCCCC><00:12:17.200><c> so</c><00:12:17.950><c> I'll</c><00:12:18.010><c> see</c><00:12:18.220><c> you</c></c>
+
+00:12:18.240 --> 00:12:18.250 align:start position:0%
+<c.colorCCCCCC>exactly how</c><c.colorE5E5E5> to do that</c><c.colorCCCCCC> so I'll see you
+ </c>
+
+00:12:18.250 --> 00:12:20.519 align:start position:0%
+<c.colorCCCCCC>exactly how</c><c.colorE5E5E5> to do that</c><c.colorCCCCCC> so I'll see you</c>
+<c.colorE5E5E5>there</c>
+
