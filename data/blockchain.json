@@ -40,28 +40,25 @@
        "caption":"captions/blockchain/blockchain-create-5.vtt"
     },
     {
-       "src":"http://opghp3ucb.bkt.clouddn.com/CI_CD%20What%20Is%20CI_CD%20%281%29.mp4",
-       "caption":"captions/jenkins-captions-10.vtt"
+       "src":"http://og1ocqebj.bkt.clouddn.com/Testing%20Your%20Smart%20Contract_1.mp4",
+       "caption":"captions/blockchain/blockchain-test-1.vtt"
     },
     {
-       "src":"http://opghp3ucb.bkt.clouddn.com/CI_CD%20CI%20Workflow.mp4",
-       "caption":"captions/jenkins-captions-11.vtt"
+       "src":"http://og1ocqebj.bkt.clouddn.com/Testing%20Your%20Smart%20Contract_2.mp4"
     },
     {
-       "src":"http://opghp3ucb.bkt.clouddn.com/CI_CD%20Testing%20Workflow.mp4",
-       "caption":"captions/jenkins-captions-12.vtt"
+      "src":"http://og1ocqebj.bkt.clouddn.com/Testing%20Your%20Smart%20Contract_3.mp4",
+       "caption":"captions/blockchain/blockchain-test-3.vtt"
     },
     {
        "src":"http://opghp3ucb.bkt.clouddn.com/CI_CD%20Notification%20Workflow.mp4",
        "caption":"captions/jenkins-captions-13.vtt"
     },
     {
-       "src":"http://opghp3ucb.bkt.clouddn.com/Pipeline%20as%20Code%20What%20is%20Pipeline%20as%20Code.mp4",
-       "caption":"captions/jenkins-captions-14.vtt"
+       "src":"http://og1ocqebj.bkt.clouddn.com/Testing%20Your%20Smart%20Contract_4.mp4"
     },
  	{
-       "src":"http://opghp3ucb.bkt.clouddn.com/Pipeline%20as%20Code%20Jenkinsfile.mp4",
-       "caption":"captions/jenkins-captions-15.vtt"
+      "src":"http://og1ocqebj.bkt.clouddn.com/Testing%20Your%20Smart%20Contract_5.mp4"
     },
     {
        "src":"http://opghp3ucb.bkt.clouddn.com/Pipeline%20as%20Code%20CD%20Pipeline%20Overview%20and%20Intro%20to%20Docker.mp4",
