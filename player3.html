@@ -219,7 +219,6 @@
 
       player.ready(function() {
         position = parseInt(position);
-        console.log("position:"+position)
         // the call to src is asynchronous under the covers
         // player.src({ src: objs[position].src });
         player.src(objs[position].src)
@@ -232,7 +231,7 @@
         //    3. I'm done, and now (or 1ms from now), the source gets actually set
         //    4. as part of setting the source, my remote track gets cleaned up - deleted - gone - blown away
         // Nobody sees subtitles and everyone is sad.
-         player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
+         metadataTrack = player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
 
         /*
         // This would work, though:
@@ -249,18 +248,6 @@
         }, 1);
         */
 
-        // Get all text tracks for the current player.
-        var tracks = player.textTracks();
-        alert(tracks.length)
-
-        var metadataTrack;
-
-        for (var i = 0; i < tracks.length; i++) {
-          var track = tracks[i];
-
-           // Store it for usage outside of the loop.
-            metadataTrack = track;
-        }
         // Add a listener for the "cuechange" event and start ad playback.
         metadataTrack.addEventListener('cuechange', function() {
           console.log("aaa")
