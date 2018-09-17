@@ -966,12 +966,18 @@ body.vjs-full-window {
   flex: none; }
 
 .vjs-text-track-display {
+  display: block; 
   position: absolute;
   bottom: 3em;
   left: 0;
   right: 0;
   top: 0;
-  pointer-events: none; }
+  pointer-events: none; 
+  -moz-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  -webkit-transition:-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  -ms-transition:-ms-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  transition:transform .433s cubic-bezier(0.0,0.0,0.2,1);
+}
 
 .video-js.vjs-user-inactive.vjs-playing .vjs-text-track-display {
   bottom: 1em; }
@@ -991,13 +997,13 @@ body.vjs-full-window {
   display: block; }
 
 video::-webkit-media-text-track-display {
-  -webkit-transform: translateY(-3em);-webkit-transition:-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1);
-  transform: translateY(-3em); transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  -webkit-transform: translateY(-3em);
+  transform: translateY(-3em); 
 }
 
 .video-js.vjs-user-inactive.vjs-playing video::-webkit-media-text-track-display {
-  -webkit-transform: translateY(-1.5em);-webkit-transition:-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1);
-  transform: translateY(-1.5em); transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  -webkit-transform: translateY(-1.5em);
+  transform: translateY(-1.5em);
 }
 
 .video-js .vjs-fullscreen-control {
