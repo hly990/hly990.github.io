@@ -231,7 +231,7 @@
         //    3. I'm done, and now (or 1ms from now), the source gets actually set
         //    4. as part of setting the source, my remote track gets cleaned up - deleted - gone - blown away
         // Nobody sees subtitles and everyone is sad.
-        
+
          // metadataTrack = player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
 
         /*
@@ -246,7 +246,7 @@
         // And this works, because our setTimeout function will get invoked after the previously-scheduled one:
         setTimeout(function() {
            player.addRemoteTextTrack({src: objs[position].caption,srclang: 'en',label: 'English',kind: 'captions',mode: 'showing',default: 'default',}, false);  
-        }, 100);
+        }, 3000);
         
 
         // Add a listener for the "cuechange" event and start ad playback.
