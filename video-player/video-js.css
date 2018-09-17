@@ -989,7 +989,12 @@ body.vjs-full-window {
   color: #fc6; }
 
 .vjs-tt-cue {
-  display: block; }
+  display: block; 
+  -moz-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  -webkit-transition:-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  -ms-transition:-ms-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  transition:transform .433s cubic-bezier(0.0,0.0,0.2,1);
+}
 
 video::-webkit-media-text-track-display {
   -webkit-transform: translateY(-3em);
