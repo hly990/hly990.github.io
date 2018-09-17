@@ -979,30 +979,27 @@ body.vjs-full-window {
   bottom: 1em; }
 
 .video-js .vjs-text-track {
-  display: block; 
   font-size: 1.4em;
   text-align: center;
   margin-bottom: 0.1em; }
 
 .vjs-subtitles {
-  display: block; 
   color: #fff; }
 
 .vjs-captions {
-  display: block; 
   color: #fc6; }
 
 .vjs-tt-cue {
   display: block; }
 
 video::-webkit-media-text-track-display {
-  -webkit-transform: translateY(-3em);
-  transform: translateY(-3em); 
+  -webkit-transform: translateY(-3em);-webkit-transition:-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  transform: translateY(-3em); transform .433s cubic-bezier(0.0,0.0,0.2,1);
 }
 
 .video-js.vjs-user-inactive.vjs-playing video::-webkit-media-text-track-display {
-  -webkit-transform: translateY(-1.5em);
-  transform: translateY(-1.5em); 
+  -webkit-transform: translateY(-1.5em);-webkit-transition:-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  transform: translateY(-1.5em); transform .433s cubic-bezier(0.0,0.0,0.2,1);
 }
 
 .video-js .vjs-fullscreen-control {
