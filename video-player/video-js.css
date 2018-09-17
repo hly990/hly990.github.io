@@ -974,17 +974,21 @@ body.vjs-full-window {
   pointer-events: none; }
 
 .video-js.vjs-user-inactive.vjs-playing .vjs-text-track-display {
+  display: block; 
   bottom: 1em; }
 
 .video-js .vjs-text-track {
+  display: block; 
   font-size: 1.4em;
   text-align: center;
   margin-bottom: 0.1em; }
 
 .vjs-subtitles {
+  display: block; 
   color: #fff; }
 
 .vjs-captions {
+  display: block; 
   color: #fc6; }
 
 .vjs-tt-cue {
