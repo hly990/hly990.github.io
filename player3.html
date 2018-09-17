@@ -248,6 +248,22 @@
            player.addRemoteTextTrack({ src: 'https://download-a.akamaihd.net/files/media_video/9a/wsb_E_r720P.vtt' }, false);
         }, 1);
         */
+
+        // Get all text tracks for the current player.
+        var tracks = player.textTracks();
+        var metadataTrack;
+
+        for (var i = 0; i < tracks.length; i++) {
+          var track = tracks[i];
+
+           // Store it for usage outside of the loop.
+            metadataTrack = track;
+        }
+        // Add a listener for the "cuechange" event and start ad playback.
+        metadataTrack.addEventListener('cuechange', function() {
+          console.log("aaa")
+        });
+
         index = parseInt(position) 
       });
 
