@@ -251,6 +251,8 @@
 
         // Get all text tracks for the current player.
         var tracks = player.textTracks();
+        alert(tracks)
+
         var metadataTrack;
 
         for (var i = 0; i < tracks.length; i++) {
@@ -258,7 +260,6 @@
 
            // Store it for usage outside of the loop.
             metadataTrack = track;
-            alert(metadataTrack)
         }
         // Add a listener for the "cuechange" event and start ad playback.
         metadataTrack.addEventListener('cuechange', function() {
