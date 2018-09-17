@@ -8496,8 +8496,7 @@
       textAlign: cue.align === "middle" ? "center" : cue.align,
       font: styleOptions.font,
       whiteSpace: "pre-line",
-      position: "absolute",
-      transition:'transform .433s cubic-bezier(0.0,0.0,0.2,1)'
+      position: "absolute"
     };
 
     this.applyStyles(styles);
@@ -8664,7 +8663,8 @@
       left: this.left - reference.left,
       right: reference.right - this.right,
       height: this.height,
-      width: this.width
+      width: this.width,
+      transition:'transform .433s cubic-bezier(0.0,0.0,0.2,1)'
     };
   };
 
