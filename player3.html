@@ -261,7 +261,8 @@
         }
         // Add a listener for the "cuechange" event and start ad playback.
         metadataTrack.addEventListener('cuechange', function() {
-          console.log("aaa")
+          
+          setTimeout(console.log("aaa"), 100);
         });
 
         index = parseInt(position) 
