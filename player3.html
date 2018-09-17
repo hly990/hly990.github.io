@@ -43,7 +43,7 @@
          
         }
 
-        .video-js .vjs-text-track-display {
+       /* .video-js .vjs-text-track-display {
 
           position:absolute; 
           bottom:3em;
@@ -52,7 +52,7 @@
           left:25%;
           width: 100%;
 
-        }
+        }*/
 
        /* @keyframes changebox {
            10% {  background:red;  }
@@ -113,7 +113,7 @@
         <main>
             <div id="container">
                  <div class="videocontent">
-                      <video id="my-video" class="video-js vjs-fluid  vjs-text-track-display vjs-big-play-centered"  controls preload="auto" width="640" height="264"
+                      <video id="my-video" class="video-js vjs-fluid vjs-big-play-centered"  controls preload="auto" width="640" height="264"
                       poster="MY_VIDEO_POSTER.jpg" data-setup='{"controls": true, "autoplay": false, "preload": "auto" }' webkit-playsinline="true" playsinline="true">
                         <!-- <source src="http://appplusplus.cn/2018-09-09%2013-12-05.mp4" type='video/mp4'> -->
                       <!-- <track kind="captions" src="captions/jenkins-captions-1.vtt" srclang="en" label="English"> -->
@@ -181,7 +181,7 @@
           fluid: true,
           controls: true,
           html5:{
-            "nativeTextTracks": true
+            "nativeTextTracks": false
           }
        });
 
