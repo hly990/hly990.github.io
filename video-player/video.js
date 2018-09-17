@@ -8544,7 +8544,7 @@
         right: this.formatStyle(box.right, "px"),
         height: this.formatStyle(box.height, "px"),
         width: this.formatStyle(box.width, "px"),
-        display:block
+        transition:'transform .433s cubic-bezier(0.0,0.0,0.2,1)'
       });
     };
   }
