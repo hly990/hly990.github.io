@@ -8543,7 +8543,8 @@
         left: this.formatStyle(box.left, "px"),
         right: this.formatStyle(box.right, "px"),
         height: this.formatStyle(box.height, "px"),
-        width: this.formatStyle(box.width, "px")
+        width: this.formatStyle(box.width, "px"),
+        display:block
       });
     };
   }
