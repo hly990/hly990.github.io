@@ -8478,7 +8478,7 @@
       right: 0,
       top: 0,
       bottom: 0,
-      display: "block",
+      display: "inline",
       writingMode: cue.vertical === "" ? "horizontal-tb" : cue.vertical === "lr" ? "vertical-lr" : "vertical-rl",
       unicodeBidi: "plaintext"
     };
