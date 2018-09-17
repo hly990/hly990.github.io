@@ -972,8 +972,6 @@ body.vjs-full-window {
   right: 0;
   top: 0;
   pointer-events: none; 
-  transition:2s;
-  transition-property:all;
 }
 
 .video-js.vjs-user-inactive.vjs-playing .vjs-text-track-display {
@@ -994,8 +992,8 @@ body.vjs-full-window {
   display: block; }
 
 video::-webkit-media-text-track-display {
-  -webkit-transform: translateY(-3em);
-  transform: translateY(-3em); 
+  -webkit-transform: translateY(-5em);
+  transform: translateY(-5em); 
 }
 
 .video-js.vjs-user-inactive.vjs-playing video::-webkit-media-text-track-display {
