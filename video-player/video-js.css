@@ -996,7 +996,10 @@ video::-webkit-media-text-track-display {
 
 .video-js.vjs-user-inactive.vjs-playing video::-webkit-media-text-track-display {
   -webkit-transform: translateY(-1.5em);
-  transform: translateY(-1.5em); }
+  transform: translateY(-1.5em); 
+  transition:2s;
+  transition-property:all;
+}
 
 .video-js .vjs-fullscreen-control {
   cursor: pointer;
