@@ -966,17 +966,14 @@ body.vjs-full-window {
   flex: none; }
 
 .vjs-text-track-display {
-  display: block; 
   position: absolute;
   bottom: 3em;
   left: 0;
   right: 0;
   top: 0;
   pointer-events: none; 
-  -moz-transform .433s cubic-bezier(0.0,0.0,0.2,1);
-  -webkit-transition:-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1);
-  -ms-transition:-ms-transform .433s cubic-bezier(0.0,0.0,0.2,1);
-  transition:transform .433s cubic-bezier(0.0,0.0,0.2,1);
+  transition:2s;
+  transition-property:all;
 }
 
 .video-js.vjs-user-inactive.vjs-playing .vjs-text-track-display {
