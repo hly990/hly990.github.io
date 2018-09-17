@@ -8807,9 +8807,9 @@
 
       // Get the box position again after we've applied the specified positioning
       // to it.
-       styleBox.applyStyles({
-            transition: 'transform .433s cubic-bezier(0.0,0.0,0.2,1)'
-          });
+       // styleBox.applyStyles({
+       //      transition: 'transform .433s cubic-bezier(0.0,0.0,0.2,1)'
+       //    });
       boxPosition = new BoxPosition(styleBox);
     }
 
