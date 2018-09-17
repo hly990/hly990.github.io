@@ -8543,7 +8543,9 @@
         left: this.formatStyle(box.left, "px"),
         right: this.formatStyle(box.right, "px"),
         height: this.formatStyle(box.height, "px"),
-        width: this.formatStyle(box.width, "px")
+        width: this.formatStyle(box.width, "px"),
+        -webkit-transition: '-webkit-transform .433s cubic-bezier(0.0,0.0,0.2,1)',
+        transition: 'transform .433s cubic-bezier(0.0,0.0,0.2,1)'
       });
     };
   }
