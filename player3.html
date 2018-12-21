@@ -31,35 +31,11 @@
     <link href="video-player/video-js.css" rel="stylesheet">
     <link href="video-player/plugins/captions/videojs.caption.css" rel="stylesheet">
     <style type="text/css">
-
-       
-        /*.video-js .vjs-text-track-display >div>div>div { 
-        font-size: 25px !important; 
-          line-height:33px !important;
-          padding:5px !important;
-          background:transparent 2s !important;
-          text-shadow: 1px 1px 2px #000000;
-          display: inline-block !important;
-         
+        .tabbable .nav-tabs {
+          overflow-x: auto;
+          overflow-y:hidden;
+          flex-wrap: nowrap;
         }
-*/
-       /* .video-js .vjs-text-track-display {
-
-          position:absolute; 
-          bottom:3em;
-          top:0;
-          right:0;
-          left:25%;
-          width: 100%;
-
-        }*/
-
-       /* @keyframes changebox {
-           10% {  background:red;  }
-           50% {  width:80px;  }
-           70% {  border:15px solid yellow;  }
-           100% {  width:180px;  height:180px;  }
-        }*/
 
         .button {
             background-color: #F1F1F1;
@@ -98,8 +74,8 @@
     <div class="grid">
         <header>
             <h2>学习vue.js2.0</h2>
-            <nav class="col-md-2 d-none d-md-block bg-light sidebar">
-              <div class="sidebar-sticky">
+            <nav class="col-md-2 d-none d-md-block bg-light sidebar tabbable">
+              <div class="sidebar-sticky nav-tabs">
                 <h3 class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-muted">
                     <span>设置开发环境</span>
                     <a class="d-flex align-items-center text-muted" href="#">
