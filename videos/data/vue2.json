@@ -1,41 +1,52 @@
 [
 
 	{
-       "src":"http://sinacloud.net/mashupcloud/video/The%20Course%20Overview%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
+       "src":"http://sinacloud.net/mashupcloud/video/The%20Course%20Overview%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+       "caption":"data/captions/startVue2/captions1-1.vtt"
     },
     {
-       "src":"http://sinacloud.net/mashupcloud/video/What%20Is%20Vue.js%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
+       "src":"http://sinacloud.net/mashupcloud/video/What%20Is%20Vue.js%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+       "caption":"data/captions/startVue2/captions1-2.vtt"
     },
     
     {
        "src":"http://sinacloud.net/mashupcloud/video/Getting%20Started%20with%20Vue.js%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D%20%281%29.mp4"
     },
     {
-        "src":"http://sinacloud.net/mashupcloud/video/Using%20Vue.js%20to%20Create%20a%20%E2%80%9CHello,%20World%21%E2%80%9D%20Application%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D%20%281%29.mp4"
+        "src":"http://sinacloud.net/mashupcloud/video/Using%20Vue.js%20to%20Create%20a%20%E2%80%9CHello,%20World%21%E2%80%9D%20Application%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D%20%281%29.mp4",
+        "caption":"data/captions/startVue2/captions1-4.vtt"
+     
+    },
+     {
+        "src":"http://sinacloud.net/mashupcloud/video/Creating%20a%20Vue.js%20Project%20with%20npm%20and%20the%20Vue.js%20CLI%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D%20%281%29.mp4",
+        "caption":"data/captions/startVue2/captions1-5.vtt"
+      },
+     {
+        "src":"http://sinacloud.net/mashupcloud/video/In-Depth%20Explanation%20of%20the%20Vue%20Instance%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+        "caption":"data/captions/startVue2/captions2-1.vtt"
      },
      {
-        "src":"http://sinacloud.net/mashupcloud/video/Creating%20a%20Vue.js%20Project%20with%20npm%20and%20the%20Vue.js%20CLI%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D%20%281%29.mp4"
-     },
-     {
-        "src":"http://sinacloud.net/mashupcloud/video/In-Depth%20Explanation%20of%20the%20Vue%20Instance%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
-     },
-     {
-        "src":"http://sinacloud.net/mashupcloud/video/The%20Vue%20Instance%20Lifecycle%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
+        "src":"http://sinacloud.net/mashupcloud/video/The%20Vue%20Instance%20Lifecycle%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+        "caption":"data/captions/startVue2/captions2-2.vtt"
      },
      {
         "src":"http://sinacloud.net/mashupcloud/video/What%20Is%20a%20Component%20and%20How%20Are%20They%20Used%20in%20Vue.js%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
      },
      {
-        "src":"http://sinacloud.net/mashupcloud/video/Component%20Deep-Dive%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
+        "src":"http://sinacloud.net/mashupcloud/video/Component%20Deep-Dive%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+        "caption":"data/captions/startVue2/captions2-4.vtt"
      },
      {
-        "src":"http://sinacloud.net/mashupcloud/video/Basic%20Template%20Interpolation%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
+        "src":"http://sinacloud.net/mashupcloud/video/Basic%20Template%20Interpolation%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+        "caption":"data/captions/startVue2/captions2-5.vtt"
      },
      {
-        "src":"http://sinacloud.net/mashupcloud/video/Directives%20in%20Vue.js%20Templates%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
+        "src":"http://sinacloud.net/mashupcloud/video/Directives%20in%20Vue.js%20Templates%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+        "caption":"data/captions/startVue2/captions2-6.vtt"
      },
      {
-        "src":"http://sinacloud.net/mashupcloud/video/Working%20with%20Forms%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
+        "src":"http://sinacloud.net/mashupcloud/video/Working%20with%20Forms%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4",
+        "caption":"data/captions/startVue2/captions2-7.vtt"
      },
      {
         "src":"http://sinacloud.net/mashupcloud/video/Explaining%20the%20.vue%20File%20Template%20-%20Learning%20Vue.js%202.0%20%5BVideo%5D.mp4"
